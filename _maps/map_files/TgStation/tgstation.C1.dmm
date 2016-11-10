@@ -2092,7 +2092,7 @@
 "aOl" = (/obj/structure/table/reinforced,/obj/machinery/door/window/eastright{dir = 4; name = "Research and Development Desk"; req_access_txt = "7"},/obj/item/weapon/folder/white,/obj/item/weapon/folder/white,/obj/machinery/door/firedoor,/obj/item/weapon/pen,/obj/machinery/door/poddoor/shutters/preopen{id = "research shutters"; name = "research shutters"},/turf/simulated/floor/plating,/area/medical/research)
 "aOm" = (/obj/machinery/firealarm{dir = 1; pixel_y = -24},/obj/effect/landmark/start{name = "Laboratory Assistant"},/turf/simulated/floor/plasteel/darkpurple/side{tag = "icon-darkpurple (SOUTHWEST)"; icon_state = "darkpurple"; dir = 10},/area/medical/research)
 "aOn" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/simulated/floor/plasteel/darkpurple/side,/area/medical/research)
-"aOo" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,/turf/simulated/floor/plasteel/darkpurple/side,/area/medical/research)
+"aOo" = (/obj/machinery/requests_console{department = "Science"; departmentType = 4; name = "RnD RC"; pixel_x = -2; pixel_y = -30},/turf/simulated/floor/plasteel/darkpurple/side,/area/medical/research)
 "aOp" = (/turf/simulated/floor/plasteel/darkpurple/side,/area/medical/research)
 "aOq" = (/obj/machinery/recharge_station,/turf/simulated/floor/plasteel/darkpurple/side,/area/medical/research)
 "aOr" = (/obj/structure/closet/crate/bin,/obj/item/device/radio/intercom{pixel_y = -28},/turf/simulated/floor/plasteel/darkpurple/side{tag = "icon-darkpurple (SOUTHEAST)"; icon_state = "darkpurple"; dir = 6},/area/medical/research)
