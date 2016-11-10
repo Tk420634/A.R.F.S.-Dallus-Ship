@@ -1,0 +1,179 @@
+
+
+Starting up. 16:16.40
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[16:16:43]ADMIN: Loading Banlistjob
+[16:16:43]ADMIN: Loading jobban_rank
+[16:16:43]ADMIN: jobban_keylist was empty
+[16:16:43]ADMIN: Loading appearance_rank
+[16:16:43]ADMIN: appearance_keylist was empty
+[16:16:43]ADMIN: Updating jobbanfile!
+[16:16:43]ADMIN: Loading Banlist
+[16:16:50]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[16:17:56]ADMIN: Tk420634 has started the game.
+[16:18:00]ACCESS: Logout: *no key*/(Tk420634)
+[16:18:00]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[16:18:04]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[16:18:04]ACCESS: Logout: *no key*/(Sophie Smith)
+[16:18:04]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[16:18:26]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 22
+[16:18:46]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 16:28.02
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[16:28:05]ADMIN: Loading Banlistjob
+[16:28:05]ADMIN: Loading jobban_rank
+[16:28:05]ADMIN: jobban_keylist was empty
+[16:28:05]ADMIN: Loading Banlistjob
+[16:28:05]ADMIN: Loading jobban_rank
+[16:28:05]ADMIN: jobban_keylist was empty
+[16:28:05]ADMIN: Loading appearance_rank
+[16:28:05]ADMIN: appearance_keylist was empty
+[16:28:05]ADMIN: Updating jobbanfile!
+[16:28:05]ADMIN: Loading Banlist
+[16:28:09]ADMIN: Loading Banlistjob
+[16:28:09]ADMIN: Loading jobban_rank
+[16:28:09]ADMIN: jobban_keylist was empty
+[16:28:09]ADMIN: Loading appearance_rank
+[16:28:09]ADMIN: appearance_keylist was empty
+[16:28:09]ADMIN: Updating jobbanfile!
+[16:28:09]ADMIN: Loading Banlist
+[16:28:09]ADMIN: Banlist is empty.
+[16:28:09]ADMIN: Banlist missing base dir.
+[16:28:18]ADMIN: Loading appearance_rank
+[16:28:18]ADMIN: appearance_keylist was empty
+[16:28:18]ADMIN: Loading Banlist
+[16:28:18]ADMIN: Banlist is empty.
+[16:28:18]ADMIN: Banlist missing base dir.
+[16:28:31]ADMIN: Loading Banlistjob
+[16:28:31]ADMIN: Loading jobban_rank
+[16:28:31]ADMIN: jobban_keylist was empty
+[16:28:31]ADMIN: Loading appearance_rank
+[16:28:31]ADMIN: appearance_keylist was empty
+[16:28:31]ADMIN: Updating jobbanfile!
+[16:28:31]ADMIN: Loading Banlist
+[16:28:31]ADMIN: Banlist is empty.
+[16:28:31]ADMIN: Banlist missing base dir.
+[16:28:47]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[16:28:48]ADMIN: Loading Banlistjob
+[16:28:48]ADMIN: Loading jobban_rank
+[16:28:48]ADMIN: jobban_keylist was empty
+[16:28:48]ADMIN: Loading appearance_rank
+[16:28:48]ADMIN: appearance_keylist was empty
+[16:28:48]ADMIN: Updating jobbanfile!
+[16:28:48]ADMIN: Loading Banlist
+[16:28:48]ADMIN: Banlist is empty.
+[16:28:48]ADMIN: Banlist missing base dir.
+[16:29:02]ADMIN: Loading Banlistjob
+[16:29:02]ADMIN: Loading jobban_rank
+[16:29:02]ADMIN: jobban_keylist was empty
+[16:29:02]ADMIN: Loading appearance_rank
+[16:29:02]ADMIN: appearance_keylist was empty
+[16:29:02]ADMIN: Updating jobbanfile!
+[16:29:02]ADMIN: Loading Banlist
+[16:29:02]ADMIN: Banlist is empty.
+[16:29:02]ADMIN: Banlist missing base dir.
+[16:29:17]ADMIN: Loading Banlistjob
+[16:29:17]ADMIN: Loading jobban_rank
+[16:29:17]ADMIN: jobban_keylist was empty
+[16:29:17]ADMIN: Loading appearance_rank
+[16:29:17]ADMIN: appearance_keylist was empty
+[16:29:17]ADMIN: Updating jobbanfile!
+[16:29:17]ADMIN: Loading Banlist
+[16:29:17]ADMIN: Banlist is empty.
+[16:29:17]ADMIN: Banlist missing base dir.
+
+
+Starting up. 16:31.15
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[16:31:17]ADMIN: Loading Banlistjob
+[16:31:18]ADMIN: Loading jobban_rank
+[16:31:18]ADMIN: jobban_keylist was empty
+[16:31:18]ADMIN: Loading appearance_rank
+[16:31:18]ADMIN: appearance_keylist was empty
+[16:31:18]ADMIN: Updating jobbanfile!
+[16:31:18]ADMIN: Loading Banlist
+[16:31:25]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[16:32:48]ACCESS: Logout: Tk420634[DC]/(Tk420634)

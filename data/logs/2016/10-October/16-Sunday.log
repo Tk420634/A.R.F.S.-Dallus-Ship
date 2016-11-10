@@ -1,0 +1,2810 @@
+
+
+Starting up. 00:41.14
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[00:41:18]ADMIN: Loading Banlistjob
+[00:41:18]ADMIN: Loading jobban_rank
+[00:41:18]ADMIN: jobban_keylist was empty
+[00:41:18]ADMIN: Loading appearance_rank
+[00:41:18]ADMIN: appearance_keylist was empty
+[00:41:18]ADMIN: Updating jobbanfile!
+[00:41:18]ADMIN: Loading Banlist
+[00:41:25]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[00:43:04]ADMIN: Tk420634 has started the game.
+[00:43:09]GAME: Tk420634 (ckey) has been selected as a traitor
+[00:43:09]ACCESS: Logout: *no key*/(Tk420634)
+[00:43:09]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[00:43:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:43:54]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[00:44:12]ADMIN: Tk420634/(Sophie Smith) modified [0x21006b35] (/datum/configuration)'s run_speed to 2
+[00:44:33]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:44:41]EMOTE: monkey (564)/ : <B>The monkey (564)</B> jumps!
+[00:45:20]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 00:50.57
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[00:54:28]ADMIN: Loading Banlistjob
+[00:54:28]ADMIN: Loading jobban_rank
+[00:54:28]ADMIN: jobban_keylist was empty
+[00:54:28]ADMIN: Loading appearance_rank
+[00:54:28]ADMIN: appearance_keylist was empty
+[00:54:28]ADMIN: Updating jobbanfile!
+[00:54:28]ADMIN: Loading Banlist
+[00:54:34]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[00:55:34]ADMIN: Tk420634 has started the game.
+[00:55:39]GAME: Tk420634 (ckey) has been selected as a traitor
+[00:55:39]ACCESS: Logout: *no key*/(Tk420634)
+[00:55:39]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[00:55:43]GAME: *null* has triggered a gibtonite deposit reaction at Mine (67, 15, 5).
+[00:55:57]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[00:56:02]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[00:56:08]ADMIN: Tk420634/(Sophie Smith) changed the security level to green
+[00:56:39]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/weapon/storage/belt/utility/full at (118,124,1)
+[00:57:17]EMOTE: monkey (48)/ : <B>The monkey (48)</B> jumps!
+[00:58:27]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/clothing/suit/hooded/wintercoat/science at (117,126,1)
+[00:58:51]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 01:01.03
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[01:01:05]ADMIN: Loading Banlistjob
+[01:01:05]ADMIN: Loading jobban_rank
+[01:01:05]ADMIN: jobban_keylist was empty
+[01:01:05]ADMIN: Loading appearance_rank
+[01:01:05]ADMIN: appearance_keylist was empty
+[01:01:05]ADMIN: Updating jobbanfile!
+[01:01:05]ADMIN: Loading Banlist
+[01:01:11]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:01:14]ADMIN: Loading appearance_rank
+[01:01:14]ADMIN: appearance_keylist was empty
+[01:01:14]ADMIN: Loading Banlist
+[01:01:14]ADMIN: Banlist is empty.
+[01:01:14]ADMIN: Banlist missing base dir.
+[01:01:20]ADMIN: Loading appearance_rank
+[01:01:21]ADMIN: appearance_keylist was empty
+[01:01:21]ADMIN: Loading Banlist
+[01:01:21]ADMIN: Banlist is empty.
+[01:01:21]ADMIN: Banlist missing base dir.
+[01:01:29]ADMIN: Loading appearance_rank
+[01:01:29]ADMIN: appearance_keylist was empty
+[01:01:29]ADMIN: Loading Banlist
+[01:01:29]ADMIN: Banlist is empty.
+[01:01:29]ADMIN: Banlist missing base dir.
+
+
+Starting up. 01:05.28
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[01:05:31]ADMIN: Loading Banlistjob
+[01:05:31]ADMIN: Loading jobban_rank
+[01:05:31]ADMIN: jobban_keylist was empty
+[01:05:31]ADMIN: Loading appearance_rank
+[01:05:31]ADMIN: appearance_keylist was empty
+[01:05:31]ADMIN: Updating jobbanfile!
+[01:05:31]ADMIN: Loading Banlist
+[01:05:36]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:06:42]ADMIN: Tk420634 has started the game.
+[01:06:46]GAME: Tk420634 (ckey) has been selected as a traitor
+[01:06:46]ACCESS: Logout: *no key*/(Tk420634)
+[01:06:46]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[01:07:03]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[01:08:00]EMOTE: monkey (160)/ : <B>The monkey (160)</B> jumps!
+[01:08:11]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[01:08:23]ADMIN: Tk420634/(Sophie Smith) modified [0x21006c0d] (/datum/configuration)'s run_speed to 2
+[01:09:01]EMOTE: monkey (160)/ : <B>The monkey (160)</B> jumps!
+[01:09:48]SAY: Xena/ : Purr!
+[01:09:52]EMOTE: Harambe (969)/ : <B>Harambe (969)</B> jumps!
+[01:10:26]EMOTE: monkey (894)/ : <B>The monkey (894)</B> jumps!
+[01:11:13]ADMIN: Tk420634/(Sophie Smith) changed the security level to green
+[01:11:16]ADMIN: Tk420634/(Sophie Smith) changed the security level to red
+[01:11:29]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 01:18.15
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[01:18:18]ADMIN: Loading Banlistjob
+[01:18:18]ADMIN: Loading jobban_rank
+[01:18:18]ADMIN: jobban_keylist was empty
+[01:18:18]ADMIN: Loading appearance_rank
+[01:18:18]ADMIN: appearance_keylist was empty
+[01:18:18]ADMIN: Updating jobbanfile!
+[01:18:18]ADMIN: Loading Banlist
+[01:18:42]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:18:49]ADMIN: Loading appearance_rank
+[01:18:49]ADMIN: appearance_keylist was empty
+[01:18:49]ADMIN: Loading Banlist
+[01:18:49]ADMIN: Banlist is empty.
+[01:18:49]ADMIN: Banlist missing base dir.
+[01:18:55]ADMIN: Loading appearance_rank
+[01:18:55]ADMIN: appearance_keylist was empty
+[01:18:55]ADMIN: Loading Banlist
+[01:18:55]ADMIN: Banlist is empty.
+[01:18:55]ADMIN: Banlist missing base dir.
+[01:19:01]ADMIN: Loading appearance_rank
+[01:19:01]ADMIN: appearance_keylist was empty
+[01:19:01]ADMIN: Loading Banlist
+[01:19:01]ADMIN: Banlist is empty.
+[01:19:01]ADMIN: Banlist missing base dir.
+[01:19:08]ADMIN: Loading appearance_rank
+[01:19:08]ADMIN: appearance_keylist was empty
+[01:19:08]ADMIN: Loading Banlist
+[01:19:08]ADMIN: Banlist is empty.
+[01:19:08]ADMIN: Banlist missing base dir.
+[01:19:14]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[01:19:14]ADMIN: Loading appearance_rank
+[01:19:14]ADMIN: appearance_keylist was empty
+[01:19:14]ADMIN: Loading Banlist
+[01:19:14]ADMIN: Banlist is empty.
+[01:19:14]ADMIN: Banlist missing base dir.
+
+
+Starting up. 01:21.47
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[01:21:50]ADMIN: Loading Banlistjob
+[01:21:50]ADMIN: Loading jobban_rank
+[01:21:50]ADMIN: jobban_keylist was empty
+[01:21:50]ADMIN: Loading appearance_rank
+[01:21:50]ADMIN: appearance_keylist was empty
+[01:21:50]ADMIN: Updating jobbanfile!
+[01:21:50]ADMIN: Loading Banlist
+[01:21:56]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:22:00]ADMIN: Loading Banlist
+[01:22:00]ADMIN: Banlist is empty.
+[01:22:00]ADMIN: Banlist missing base dir.
+[01:22:00]ADMIN: Ban Expired: 
+[01:22:00]ADMIN: Invalid Ban.
+[01:22:05]ADMIN: Loading Banlist
+[01:22:05]ADMIN: Banlist is empty.
+[01:22:05]ADMIN: Banlist missing base dir.
+[01:22:05]ADMIN: Ban Expired: 
+[01:22:05]ADMIN: Invalid Ban.
+[01:22:10]ADMIN: Loading Banlist
+[01:22:10]ADMIN: Banlist is empty.
+[01:22:10]ADMIN: Banlist missing base dir.
+[01:22:10]ADMIN: Ban Expired: 
+[01:22:10]ADMIN: Invalid Ban.
+[01:22:16]ADMIN: Loading Banlist
+[01:22:16]ADMIN: Banlist is empty.
+[01:22:16]ADMIN: Banlist missing base dir.
+[01:22:16]ADMIN: Ban Expired: 
+[01:22:16]ADMIN: Invalid Ban.
+[01:22:24]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[01:22:24]ADMIN: Loading Banlist
+[01:22:24]ADMIN: Banlist is empty.
+[01:22:24]ADMIN: Banlist missing base dir.
+[01:22:24]ADMIN: Ban Expired: 
+[01:22:24]ADMIN: Invalid Ban.
+[01:22:32]ADMIN: Loading Banlist
+[01:22:32]ADMIN: Banlist is empty.
+[01:22:32]ADMIN: Banlist missing base dir.
+[01:22:32]ADMIN: Ban Expired: 
+[01:22:32]ADMIN: Invalid Ban.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[01:28:30]ADMIN: Loading Banlistjob
+[01:28:30]ADMIN: Loading jobban_rank
+[01:28:30]ADMIN: jobban_keylist was empty
+[01:28:30]ADMIN: Loading appearance_rank
+[01:28:30]ADMIN: appearance_keylist was empty
+[01:28:30]ADMIN: Updating jobbanfile!
+[01:28:30]ADMIN: Loading Banlist
+[01:28:35]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:29:28]ADMIN: Tk420634 has started the game.
+[01:29:32]GAME: Tk420634 (ckey) has been selected as a traitor
+[01:29:32]ACCESS: Logout: *no key*/(Tk420634)
+[01:29:32]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[01:29:46]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[01:29:52]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[01:29:58]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[01:30:09]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:30:16]ADMIN: Tk420634/(Sophie Smith) changed the security level to blue
+[01:30:19]ADMIN: Tk420634/(Sophie Smith) changed the security level to green
+[01:31:16]EMOTE: Harambe (976)/ : <B>Harambe (976)</B> jumps!
+[01:33:27]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:33:33]EMOTE: monkey (18)/ : <B>The monkey (18)</B> jumps!
+[01:34:48]SAY: Poly/ : Poly wanna cracker!
+[01:35:50]EMOTE: monkey (653)/ : <B>The monkey (653)</B> jumps!
+[01:36:04]EMOTE: Harambe (976)/ : <B>Harambe (976)</B> jumps!
+[01:36:42]EMOTE: monkey (653)/ : <B>The monkey (653)</B> jumps!
+[01:36:54]EMOTE: Xena/ : <B>Xena</B> shivers
+[01:37:20]EMOTE: monkey (792)/ : <B>The monkey (792)</B> jumps!
+[01:38:20]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 01:40.25
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[01:40:32]ADMIN: Loading Banlistjob
+[01:40:32]ADMIN: Loading jobban_rank
+[01:40:32]ADMIN: jobban_keylist was empty
+[01:40:32]ADMIN: Loading appearance_rank
+[01:40:32]ADMIN: appearance_keylist was empty
+[01:40:32]ADMIN: Updating jobbanfile!
+[01:40:33]ADMIN: Loading Banlist
+[01:40:41]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:41:44]ADMIN: Tk420634 has started the game.
+[01:41:48]GAME: Tk420634 (ckey) has been selected as a traitor
+[01:41:48]ACCESS: Logout: *no key*/(Tk420634)
+[01:41:48]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[01:42:00]ADMIN: Tk420634/(Sophie Smith) changed the security level to blue
+[01:42:30]EMOTE: monkey (457)/ : <B>The monkey (457)</B> jumps!
+[01:42:38]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[01:43:46]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+¶ºlAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[01:49:03]ADMIN: Loading Banlistjob
+[01:49:03]ADMIN: Loading jobban_rank
+[01:49:03]ADMIN: jobban_keylist was empty
+[01:49:03]ADMIN: Loading appearance_rank
+[01:49:03]ADMIN: appearance_keylist was empty
+[01:49:03]ADMIN: Updating jobbanfile!
+[01:49:03]ADMIN: Loading Banlist
+[01:49:08]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:50:10]ADMIN: Tk420634 has started the game.
+[01:50:14]GAME: Tk420634 (ckey) has been selected as a traitor
+[01:50:14]ACCESS: Logout: *no key*/(Tk420634)
+[01:50:14]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[01:50:23]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[01:50:24]ADMIN: Tk420634/(Sophie Smith) changed the security level to blue
+[01:52:10]SAY: Poly/ : Poly wanna cracker!
+[01:52:26]SAY: Poly/ : Wire the solars, you lazy bums!
+[01:52:48]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:52:52]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 09:16.41
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[09:16:44]ADMIN: Loading Banlistjob
+[09:16:44]ADMIN: Loading jobban_rank
+[09:16:44]ADMIN: jobban_keylist was empty
+[09:16:44]ADMIN: Loading appearance_rank
+[09:16:44]ADMIN: appearance_keylist was empty
+[09:16:44]ADMIN: Updating jobbanfile!
+[09:16:48]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[09:16:51]ADMIN: Loading Banlistjob
+[09:16:51]ADMIN: Loading jobban_rank
+[09:16:51]ADMIN: jobban_keylist was empty
+[09:16:51]ADMIN: Loading appearance_rank
+[09:16:51]ADMIN: appearance_keylist was empty
+[09:16:51]ADMIN: Updating jobbanfile!
+[09:16:51]ADMIN: Loading Banlist
+[09:16:56]ADMIN: Loading Banlistjob
+[09:16:56]ADMIN: Loading jobban_rank
+[09:16:56]ADMIN: jobban_keylist was empty
+[09:16:56]ADMIN: Loading appearance_rank
+[09:16:56]ADMIN: appearance_keylist was empty
+[09:16:56]ADMIN: Updating jobbanfile!
+[09:16:56]ADMIN: Loading Banlist
+[09:16:56]ADMIN: Banlist is empty.
+[09:16:56]ADMIN: Banlist missing base dir.
+[09:17:00]ADMIN: Loading Banlistjob
+[09:17:00]ADMIN: Loading jobban_rank
+[09:17:00]ADMIN: jobban_keylist was empty
+[09:17:00]ADMIN: Loading appearance_rank
+[09:17:00]ADMIN: appearance_keylist was empty
+[09:17:00]ADMIN: Updating jobbanfile!
+[09:17:00]ADMIN: Loading Banlist
+[09:17:00]ADMIN: Banlist is empty.
+[09:17:00]ADMIN: Banlist missing base dir.
+[09:17:07]ADMIN: Loading Banlistjob
+[09:17:07]ADMIN: Loading jobban_rank
+[09:17:07]ADMIN: jobban_keylist was empty
+[09:17:07]ADMIN: Loading appearance_rank
+[09:17:07]ADMIN: appearance_keylist was empty
+[09:17:07]ADMIN: Updating jobbanfile!
+[09:17:07]ADMIN: Loading Banlist
+[09:17:07]ADMIN: Banlist is empty.
+[09:17:07]ADMIN: Banlist missing base dir.
+[09:17:15]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[09:17:15]ADMIN: Loading Banlistjob
+[09:17:15]ADMIN: Loading jobban_rank
+[09:17:15]ADMIN: jobban_keylist was empty
+[09:17:15]ADMIN: Loading appearance_rank
+[09:17:15]ADMIN: appearance_keylist was empty
+[09:17:15]ADMIN: Updating jobbanfile!
+[09:17:15]ADMIN: Loading Banlist
+[09:17:15]ADMIN: Banlist is empty.
+[09:17:15]ADMIN: Banlist missing base dir.
+[09:17:24]ADMIN: Loading Banlistjob
+[09:17:24]ADMIN: Loading jobban_rank
+[09:17:24]ADMIN: jobban_keylist was empty
+[09:17:24]ADMIN: Loading appearance_rank
+[09:17:24]ADMIN: appearance_keylist was empty
+[09:17:24]ADMIN: Updating jobbanfile!
+[09:17:24]ADMIN: Loading Banlist
+[09:17:24]ADMIN: Banlist is empty.
+[09:17:24]ADMIN: Banlist missing base dir.
+
+
+Starting up. 10:31.13
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[10:31:16]ADMIN: Loading Banlistjob
+[10:31:16]ADMIN: Loading jobban_rank
+[10:31:16]ADMIN: jobban_keylist was empty
+[10:31:16]ADMIN: Loading appearance_rank
+[10:31:16]ADMIN: appearance_keylist was empty
+[10:31:16]ADMIN: Updating jobbanfile!
+[10:31:16]ADMIN: Loading Banlist
+[10:31:21]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[10:32:43]ADMIN: Tk420634 has started the game.
+[10:32:47]GAME: Tk420634 (ckey) has been selected as a traitor
+[10:32:47]ACCESS: Logout: *no key*/(Tk420634)
+[10:32:47]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[10:32:56]ADMIN: Tk420634/(Sophie Smith) jumped to 99,113,1 in Medbay
+[10:32:59]ADMIN: Tk420634/(Sophie Smith) jumped to 105,113,1 in Locker Room Maintenance
+[10:33:02]ADMIN: Tk420634/(Sophie Smith) jumped to 111,113,1 in Medbay
+[10:33:07]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[10:33:13]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[10:33:51]EMOTE: monkey (401)/ : <B>The monkey (401)</B> jumps!
+[10:34:00]EMOTE: monkey (515)/ : <B>The monkey (515)</B> jumps!
+[10:34:05]EMOTE: monkey (520)/ : <B>The monkey (520)</B> jumps!
+[10:34:15]EMOTE: monkey (783)/ : <B>The monkey (783)</B> jumps!
+[10:34:58]EMOTE: monkey (515)/ : <B>The monkey (515)</B> jumps!
+[10:35:07]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[10:35:17]SAY: Frank/ : Bark!
+[10:35:46]ADMIN: Tk420634/(Sophie Smith) changed the security level to blue
+[10:35:56]ADMIN: Tk420634/(Sophie Smith) changed the security level to green
+[10:36:01]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[10:36:03]ADMIN: Tk420634/(Sophie Smith) AIized Tk420634/(Sophie Smith)
+[10:36:04]ACCESS: Logout: *no key*/(Sophie Smith)
+[10:36:04]ACCESS: Login: Tk420634/(Erasmus) from localhost-4019019304 || BYOND v509
+[10:37:03]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[10:37:17]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[10:37:31]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[10:37:49]ACCESS: Logout: Tk420634[DC]/(ASTAR)
+
+
+Starting up. 10:48.27
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[10:48:32]ADMIN: Loading Banlistjob
+[10:48:32]ADMIN: Loading jobban_rank
+[10:48:32]ADMIN: jobban_keylist was empty
+[10:48:33]ADMIN: Loading appearance_rank
+[10:48:33]ADMIN: appearance_keylist was empty
+[10:48:33]ADMIN: Updating jobbanfile!
+[10:48:33]ADMIN: Loading Banlist
+[10:48:42]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[10:50:58]ADMIN: Tk420634 has started the game.
+[10:51:01]GAME: Tk420634 (ckey) has been selected as a traitor
+[10:51:01]ACCESS: Logout: *no key*/(Tk420634)
+[10:51:01]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[10:51:07]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/device/flashlight/seclite at (121,230,1)
+[10:51:17]EMOTE: monkey (454)/ : <B>The monkey (454)</B> jumps!
+[10:51:20]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[10:52:14]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 11:01.41
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[11:01:44]ADMIN: Loading Banlistjob
+[11:01:44]ADMIN: Loading jobban_rank
+[11:01:44]ADMIN: jobban_keylist was empty
+[11:01:44]ADMIN: Loading appearance_rank
+[11:01:44]ADMIN: appearance_keylist was empty
+[11:01:44]ADMIN: Updating jobbanfile!
+[11:01:44]ADMIN: Loading Banlist
+[11:01:52]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[11:03:07]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+
+
+Starting up. 11:06.16
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[11:06:18]ADMIN: Loading Banlistjob
+[11:06:18]ADMIN: Loading jobban_rank
+[11:06:18]ADMIN: jobban_keylist was empty
+[11:06:18]ADMIN: Loading appearance_rank
+[11:06:18]ADMIN: appearance_keylist was empty
+[11:06:18]ADMIN: Updating jobbanfile!
+[11:06:19]ADMIN: Loading Banlist
+[11:06:27]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[11:07:31]ADMIN: Tk420634 has started the game.
+[11:07:36]GAME: Tk420634 (ckey) has been selected as a traitor
+[11:07:36]ACCESS: Logout: *no key*/(Tk420634)
+[11:07:36]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[11:08:09]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[11:08:13]EMOTE: Frank/ : <B>Frank</B> shivers.
+[11:08:15]EMOTE: monkey (670)/ : <B>The monkey (670)</B> jumps!
+[11:08:17]SAY: Frank/ : AUUUUUU
+[11:08:25]EMOTE: monkey (966)/ : <B>The monkey (966)</B> jumps!
+[11:08:39]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 13:58.45
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[13:58:48]ADMIN: Loading Banlistjob
+[13:58:48]ADMIN: Loading jobban_rank
+[13:58:48]ADMIN: jobban_keylist was empty
+[13:58:48]ADMIN: Loading appearance_rank
+[13:58:48]ADMIN: appearance_keylist was empty
+[13:58:48]ADMIN: Updating jobbanfile!
+[13:58:48]ADMIN: Loading Banlist
+[13:58:55]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:59:15]ADMIN: Loading Banlist
+[13:59:15]ADMIN: Banlist is empty.
+[13:59:15]ADMIN: Banlist missing base dir.
+[13:59:15]ADMIN: Ban Expired: 
+[13:59:15]ADMIN: Invalid Ban.
+[13:59:22]ADMIN: Loading Banlist
+[13:59:22]ADMIN: Banlist is empty.
+[13:59:22]ADMIN: Banlist missing base dir.
+[13:59:22]ADMIN: Ban Expired: 
+[13:59:22]ADMIN: Invalid Ban.
+[13:59:29]ADMIN: Loading Banlist
+[13:59:29]ADMIN: Banlist is empty.
+[13:59:29]ADMIN: Banlist missing base dir.
+[13:59:29]ADMIN: Ban Expired: 
+[13:59:29]ADMIN: Invalid Ban.
+[13:59:38]ADMIN: Loading Banlist
+[13:59:38]ADMIN: Banlist is empty.
+[13:59:38]ADMIN: Banlist missing base dir.
+[13:59:38]ADMIN: Ban Expired: 
+[13:59:38]ADMIN: Invalid Ban.
+[13:59:47]ADMIN: Loading Banlist
+[13:59:47]ADMIN: Banlist is empty.
+[13:59:47]ADMIN: Banlist missing base dir.
+[13:59:47]ADMIN: Ban Expired: 
+[13:59:47]ADMIN: Invalid Ban.
+
+
+Starting up. 14:06.08
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[14:06:14]ADMIN: Loading Banlistjob
+[14:06:14]ADMIN: Loading jobban_rank
+[14:06:14]ADMIN: jobban_keylist was empty
+[14:06:14]ADMIN: Loading appearance_rank
+[14:06:14]ADMIN: appearance_keylist was empty
+[14:06:14]ADMIN: Updating jobbanfile!
+[14:06:14]ADMIN: Loading Banlist
+[14:06:22]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:07:26]ADMIN: Tk420634 has started the game.
+[14:07:31]GAME: Tk420634 (ckey) has been selected as a traitor
+[14:07:31]ACCESS: Logout: *no key*/(Tk420634)
+[14:07:31]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[14:07:37]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/device/flashlight/seclite at (125,230,1)
+[14:07:39]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[14:07:49]EMOTE: monkey (61)/ : <B>The monkey (61)</B> jumps!
+[14:07:50]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/device/flashlight/seclite at (125,231,1)
+[14:07:56]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/device/flashlight/seclite at (124,232,1)
+[14:07:59]EMOTE: Chester (843)/ : <B>Chester (843)</B> jumps!
+[14:08:15]ADMIN: Tk420634/(Sophie Smith) spawned /obj/structure/mirror/magic/badmin at (124,229,1)
+[14:08:22]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[14:08:35]ADMIN: Tk420634/(Sophie Smith) modified [0x21006bc2] (/datum/configuration)'s run_speed to 2
+[14:09:12]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:13]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:14]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:14]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:15]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:27]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:31]EMOTE: monkey (698)/ : <B>The monkey (698)</B> jumps!
+[14:09:32]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:09:42]ADMIN: Tk420634/(Sophie Smith) healed / revived Tk420634/(Sophie Smith)
+[14:09:48]ADMIN: Tk420634/(Sophie Smith) has toggled Tk420634/(Sophie Smith)'s nodamage to On
+[14:10:54]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:10:55]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:10:56]ADMIN: Tk420634/(Sophie Smith) spawned /obj/structure/mirror/magic/lesser at (123,229,1)
+[14:11:02]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:03]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:10]ADMIN: Tk420634/(Sophie Smith) deleted the magic mirror at (123,229,1)
+[14:11:13]EMOTE: monkey (454)/ : <B>The monkey (454)</B> jumps!
+[14:11:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:26]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:33]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:43]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:46]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:47]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:11:48]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:03]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:03]EMOTE: Chester (843)/ : <B>Chester (843)</B> jumps!
+[14:12:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:17]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:18]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:18]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:19]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:24]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:24]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:26]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:26]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:27]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:28]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:29]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:31]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:31]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:32]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:33]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:33]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:41]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:51]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:12:59]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:00]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:01]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:01]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:02]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:03]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:09]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:10]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:13]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:14]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:15]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:28]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:37]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:13:39]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:14:21]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:14:37]EMOTE: monkey (454)/ : <B>The monkey (454)</B> jumps!
+[14:14:43]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:14:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:14:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:14:48]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[14:15:17]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:16:32]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:16:33]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:16:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:16:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:16:34]EMOTE: monkey (441)/ : <B>The monkey (441)</B> jumps!
+[14:16:51]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:16:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:17]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:18]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:20]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:20]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:24]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:26]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:27]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:28]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:17:28]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:29]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:29]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:40]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:53]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:54]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:54]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:17:55]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:03]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:09]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:10]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:10]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:12]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:12]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:13]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:26]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:30]EMOTE: Poly/ : <B>Poly</B> bawks!
+[14:18:38]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:41]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:46]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:47]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:18:51]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:18]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:19]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:20]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:21]EMOTE: monkey (441)/ : <B>The monkey (441)</B> jumps!
+[14:19:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:32]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:33]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:53]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:55]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:56]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:57]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:58]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:19:59]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:01]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:02]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:03]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:19]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:24]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:26]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:27]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:27]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:38]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:39]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:40]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:40]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:41]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:20:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:21:23]SAY: Poly/ : Wire the solars, you lazy bums!
+[14:23:54]EMOTE: monkey (698)/ : <B>The monkey (698)</B> jumps!
+[14:24:13]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[14:24:52]SAY: grey baby slime (51)/ : Blop...
+[14:24:54]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:25:57]EMOTE: monkey (441)/ : <B>The monkey (441)</B> jumps!
+[14:26:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:09]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:32]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:33]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:47]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:26:59]EMOTE: monkey (858)/ : <B>The monkey (858)</B> jumps!
+[14:27:00]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:01]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:01]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:12]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:13]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:14]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:15]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:15]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:27:26]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:27]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:28]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:28]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:38]EMOTE: monkey (61)/ : <B>The monkey (61)</B> jumps!
+[14:27:40]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:41]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:42]EMOTE: monkey (442)/ : <B>The monkey (442)</B> jumps!
+[14:27:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:42]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:43]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:46]EMOTE: Chester (843)/ : <B>Chester (843)</B> jumps!
+[14:27:54]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:56]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:27:57]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:24]SAY: Poly/ : Poly wanna cracker!
+[14:28:30]EMOTE: Xena/ : <B>Xena</B> meows
+[14:28:32]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:46]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:46]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:47]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:48]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:50]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:51]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:53]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:53]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:54]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:28:55]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:29:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:29:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:29:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:29:21]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:29:45]EMOTE: Chester (843)/ : <B>Chester (843)</B> jumps!
+[14:29:51]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:30:15]EMOTE: Frank/ : <B>Frank</B> woofs!
+[14:30:27]EMOTE: monkey (858)/ : <B>The monkey (858)</B> jumps!
+[14:30:39]SAY: Xena/ : Purr!
+[14:30:43]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:45]EMOTE: monkey (858)/ : <B>The monkey (858)</B> jumps!
+[14:30:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:45]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:46]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:53]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:54]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:55]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:30:55]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:10]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:12]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:19]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:31]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:32]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:33]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:38]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:46]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:47]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:48]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:48]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:31:57]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:58]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:59]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:31:59]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:06]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:07]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:08]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:09]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:10]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:12]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:13]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:13]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:14]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:15]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:16]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:16]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:36]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:37]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:37]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:47]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:48]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:50]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:32:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:09]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:33:10]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:12]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:24]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:25]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:31]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:34]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:36]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:37]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:39]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:40]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:41]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:43]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:51]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:53]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:33:54]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:01]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:02]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:03]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:11]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:14]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:34:26]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[14:34:27]SAY: Sophie Smith/Tk420634 : Aaaa
+[14:34:29]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:30]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:31]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:31]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:35]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:36]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:36]SAY: Xena/ : HSSSSS
+[14:34:37]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:39]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:41]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:44]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:46]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:48]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:49]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:50]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:51]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:51]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:52]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:57]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:57]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:58]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:58]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:59]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:34:59]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[14:35:15]EMOTE: Chester (843)/ : <B>Chester (843)</B> jumps!
+[14:35:33]EMOTE: monkey (454)/ : <B>The monkey (454)</B> jumps!
+[14:36:05]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 14:42.33
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[14:42:35]ADMIN: Loading Banlistjob
+[14:42:35]ADMIN: Loading jobban_rank
+[14:42:35]ADMIN: jobban_keylist was empty
+[14:42:35]ADMIN: Loading appearance_rank
+[14:42:35]ADMIN: appearance_keylist was empty
+[14:42:35]ADMIN: Updating jobbanfile!
+[14:42:35]ADMIN: Loading Banlist
+[14:42:58]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:43:01]ADMIN: Loading Banlistjob
+[14:43:01]ADMIN: Loading jobban_rank
+[14:43:01]ADMIN: jobban_keylist was empty
+[14:43:01]ADMIN: Loading appearance_rank
+[14:43:01]ADMIN: appearance_keylist was empty
+[14:43:01]ADMIN: Updating jobbanfile!
+[14:43:01]ADMIN: Loading Banlist
+[14:43:01]ADMIN: Banlist is empty.
+[14:43:01]ADMIN: Banlist missing base dir.
+[14:43:07]ADMIN: Loading Banlistjob
+[14:43:07]ADMIN: Loading jobban_rank
+[14:43:07]ADMIN: jobban_keylist was empty
+[14:43:07]ADMIN: Loading appearance_rank
+[14:43:07]ADMIN: appearance_keylist was empty
+[14:43:07]ADMIN: Updating jobbanfile!
+[14:43:07]ADMIN: Loading Banlist
+[14:43:07]ADMIN: Banlist is empty.
+[14:43:07]ADMIN: Banlist missing base dir.
+[14:43:16]ADMIN: Loading Banlistjob
+[14:43:16]ADMIN: Loading jobban_rank
+[14:43:16]ADMIN: jobban_keylist was empty
+[14:43:16]ADMIN: Loading appearance_rank
+[14:43:16]ADMIN: appearance_keylist was empty
+[14:43:16]ADMIN: Updating jobbanfile!
+[14:43:16]ADMIN: Loading Banlist
+[14:43:16]ADMIN: Banlist is empty.
+[14:43:16]ADMIN: Banlist missing base dir.
+[14:43:24]ADMIN: Loading Banlistjob
+[14:43:24]ADMIN: Loading jobban_rank
+[14:43:24]ADMIN: jobban_keylist was empty
+[14:43:24]ADMIN: Loading appearance_rank
+[14:43:24]ADMIN: appearance_keylist was empty
+[14:43:24]ADMIN: Updating jobbanfile!
+[14:43:24]ADMIN: Loading Banlist
+[14:43:24]ADMIN: Banlist is empty.
+[14:43:24]ADMIN: Banlist missing base dir.
+[14:43:33]ADMIN: Loading Banlistjob
+[14:43:33]ADMIN: Loading jobban_rank
+[14:43:33]ADMIN: jobban_keylist was empty
+[14:43:33]ADMIN: Loading appearance_rank
+[14:43:33]ADMIN: appearance_keylist was empty
+[14:43:33]ADMIN: Updating jobbanfile!
+[14:43:33]ADMIN: Loading Banlist
+[14:43:33]ADMIN: Banlist is empty.
+[14:43:33]ADMIN: Banlist missing base dir.
+[14:43:42]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[14:43:42]ADMIN: Loading Banlistjob
+[14:43:42]ADMIN: Loading jobban_rank
+[14:43:42]ADMIN: jobban_keylist was empty
+[14:43:42]ADMIN: Loading appearance_rank
+[14:43:42]ADMIN: appearance_keylist was empty
+[14:43:42]ADMIN: Updating jobbanfile!
+[14:43:42]ADMIN: Loading Banlist
+[14:43:42]ADMIN: Banlist is empty.
+[14:43:42]ADMIN: Banlist missing base dir.
+
+
+Starting up. 14:48.32
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[14:48:41]ADMIN: Loading Banlistjob
+[14:48:42]ADMIN: Loading jobban_rank
+[14:48:42]ADMIN: jobban_keylist was empty
+[14:48:42]ADMIN: Loading appearance_rank
+[14:48:42]ADMIN: appearance_keylist was empty
+[14:48:42]ADMIN: Updating jobbanfile!
+[14:48:42]ADMIN: Loading Banlist
+[14:48:47]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:49:35]ADMIN: Tk420634 has started the game.
+[14:49:40]GAME: Tk420634 (ckey) has been selected as a traitor
+[14:49:40]ACCESS: Logout: *no key*/(Tk420634)
+[14:49:40]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[14:49:47]EMOTE: Frank/ : <B>Frank</B> barks!
+[14:49:53]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/device/flashlight/seclite at (122,225,1)
+[14:49:59]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[14:50:03]ADMIN: Tk420634/(Sophie Smith) has entered build mode.
+[14:50:04]ADMIN: Build Mode: Tk420634/(Sophie Smith) deleted the reinforced wall at (124,224,1)
+[14:50:06]ADMIN: Tk420634/(Sophie Smith) has left build mode.
+[14:50:09]ADMIN: Tk420634/(Sophie Smith) has entered build mode.
+[14:50:10]ADMIN: Build Mode: Tk420634/(Sophie Smith) deleted the wall at (124,217,1)
+[14:50:13]ADMIN: Tk420634/(Sophie Smith) has left build mode.
+[14:50:16]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:50:40]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[14:50:49]ADMIN: Tk420634/(Sophie Smith) modified [0x21006d4b] (/datum/configuration)'s run_speed to 2
+[14:50:50]EMOTE: monkey (78)/ : <B>The monkey (78)</B> jumps!
+[14:51:07]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Captain.
+[14:51:45]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:51:51]EMOTE: monkey (214)/ : <B>The monkey (214)</B> jumps!
+[14:52:54]EMOTE: Frank/ : <B>Frank</B> yaps.
+[14:53:02]ADMIN: Tk420634/(Sophie Smith) modified Taco Vender's req_access: 1=
+[14:53:24]ADMIN: Tk420634/(Sophie Smith) modified Taco Vender's req_access_txt to 0
+[14:53:31]ADMIN: Tk420634/(Sophie Smith) spawned /obj/machinery/vending/taco at (111,147,1)
+[14:53:34]EMOTE: monkey (707)/ : <B>The monkey (707)</B> jumps!
+[14:53:46]ADMIN: Tk420634/(Sophie Smith) modified Taco Vender's req_access_txt to 0
+[14:54:09]EMOTE: monkey (480)/ : <B>The monkey (480)</B> jumps!
+[14:54:41]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:54:43]EMOTE: monkey (442)/ : <B>The monkey (442)</B> jumps!
+[14:55:36]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[14:55:47]EMOTE: monkey (688)/ : <B>The monkey (688)</B> jumps!
+[14:55:50]SAY: Xena/ : Meow!
+[14:55:54]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:56:12]EMOTE: monkey (442)/ : <B>The monkey (442)</B> jumps!
+[14:56:39]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Brand Intelligence)
+[14:56:56]ADMIN: Tk420634/(Sophie Smith) has toggled Tk420634/(Sophie Smith)'s nodamage to On
+[14:58:59]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:59:35]EMOTE: Frank/ : <B>Frank</B> shakes its head.
+[14:59:49]SAY: Poly/ : Wire the solars, you lazy bums!
+[14:59:56]SAY: Poly/ : Check the singlo, you chucklefucks!
+[15:00:32]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[15:00:41]ADMIN: Tk420634/(Sophie Smith) spawned /obj/machinery/vending/liberationstation at (111,144,1)
+[15:00:44]EMOTE: Xena/ : <B>Xena</B> shakes its head
+[15:01:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:01:22]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:01:23]EMOTE: monkey (417)/ : <B>The monkey (417)</B> jumps!
+[15:01:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:01:23]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:01:29]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[15:01:50]SAY: Emergency NanoMed/ : Engage direct marketing!
+[15:01:50]EMOTE: Taco Vender/ : <B>Taco Vender</B> growls at Sophie Smith.
+[15:01:50]SAY: NanoMed/ : Try our aggressive new marketing strategies!
+[15:01:50]EMOTE: Robust Softdrinks/ : <B>The Robust Softdrinks</B> growls at Muffin.
+[15:01:50]SAY: Robust Softdrinks/ : Your money can buy happiness!
+[15:01:50]EMOTE: Vendomat/ : <B>The Vendomat</B> growls at Bud.
+[15:01:50]SAY: ShadyCigs Deluxe/ : Try our aggressive new marketing strategies!
+[15:01:50]EMOTE: NanoMed Plus/ : <B>The NanoMed Plus</B> growls at Lilo.
+[15:01:50]EMOTE: Booze-O-Mat/ : <B>The Booze-O-Mat</B> growls at Muffin.
+[15:01:50]SAY: Solar's Best Hot Drinks/ : You should buy products to feed your lifestyle obession!
+[15:01:50]EMOTE: ShadyCigs Deluxe/ : <B>The ShadyCigs Deluxe</B> growls at Sophie Smith.
+[15:01:50]EMOTE: Solar's Best Hot Drinks/ : <B>The Solar's Best Hot Drinks</B> growls at Muffin.
+[15:01:52]SAY: Getmore Chocolate Corp/ : Try our aggressive new marketing strategies!
+[15:01:52]SAY: NanoMed Plus/ : You should buy products to feed your lifestyle obession!
+[15:01:52]SAY: YouTool/ : Try our aggressive new marketing strategies!
+[15:01:54]SAY: NanoMed/ : Engage direct marketing!
+[15:01:54]SAY: Getmore Chocolate Corp/ : You should buy products to feed your lifestyle obession!
+[15:01:56]SAY: A Donut Vender!/ : Try our aggressive new marketing strategies!
+[15:01:56]EMOTE: ShadyCigs Deluxe/ : <B>The ShadyCigs Deluxe</B> growls at Muffin.
+[15:01:56]SAY: Taco Vender/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:01:58]SAY: A Donut Vender!/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:02:00]SAY: NutriMax/ : Your money can buy happiness!
+[15:02:00]SAY: AutoDrobe/ : Consume!
+[15:02:00]EMOTE: Booze-O-Mat/ : <B>The Booze-O-Mat</B> growls at Sophie Smith.
+[15:02:00]EMOTE: NanoMed Plus/ : <B>The NanoMed Plus</B> growls at Xena.
+[15:02:02]EMOTE: Robust Softdrinks/ : <B>The Robust Softdrinks</B> growls at Xena.
+[15:02:04]ADMIN: Tk420634/(Sophie Smith) spawned /obj/machinery/vending/taco at (108,151,1)
+[15:02:06]SAY: Robust Softdrinks/ : Try our aggressive new marketing strategies!
+[15:02:06]EMOTE: Robust Softdrinks/ : <B>The Robust Softdrinks</B> growls at Sophie Smith.
+[15:02:08]SAY: Robust Softdrinks/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:02:12]SAY: Getmore Chocolate Corp/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:02:12]SAY: Engi-Vend/ : Consume!
+[15:02:12]SAY: YouTool/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:02:15]SAY: A Donut Vender!/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:02:15]EMOTE: YouTool/ : <B>The YouTool</B> growls at Bud.
+[15:02:17]SAY: NutriMax/ : Consume!
+[15:02:17]SAY: A Donut Vender!/ : Consume!
+[15:02:17]SAY: NanoMed/ : Try our aggressive new marketing strategies!
+[15:02:19]SAY: A Donut Vender!/ : Try our aggressive new marketing strategies!
+[15:02:19]SAY: Engi-Vend/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:02:21]SAY: Getmore Chocolate Corp/ : Your money can buy happiness!
+[15:02:21]SAY: Getmore Chocolate Corp/ : Try our aggressive new marketing strategies!
+[15:02:23]SAY: ShadyCigs Deluxe/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:02:25]EMOTE: monkey (417)/ : <B>The monkey (417)</B> jumps!
+[15:02:25]EMOTE: monkey (688)/ : <B>The monkey (688)</B> jumps!
+[15:02:25]SAY: NanoMed Plus/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:02:25]SAY: NanoMed Plus/ : Your money can buy happiness!
+[15:02:25]SAY: YouTool/ : Engage direct marketing!
+[15:02:28]EMOTE: A Donut Vender!/ : <B>A Donut Vender!</B> growls at Sophie Smith.
+[15:02:29]EMOTE: Solar's Best Hot Drinks/ : <B>The Solar's Best Hot Drinks</B> growls at Sophie Smith.
+[15:02:31]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:02:31]EMOTE: Engi-Vend/ : <B>The Engi-Vend</B> growls at Bud.
+[15:02:31]SAY: NanoMed Plus/ : Consume!
+[15:02:31]EMOTE: ShadyCigs Deluxe/ : <B>The ShadyCigs Deluxe</B> growls at Sophie Smith.
+[15:02:33]SAY: A Donut Vender!/ : Consume!
+[15:02:33]SAY: Solar's Best Hot Drinks/ : Your money can buy happiness!
+[15:02:35]SAY: Robust Softdrinks/ : Engage direct marketing!
+[15:02:35]SAY: NanoMed Plus/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:02:35]SAY: YouTool/ : Engage direct marketing!
+[15:02:35]GAME: Random Event triggering: Electrical Storm (/datum/round_event/electrical_storm)
+[15:02:37]SAY: YouTool/ : Try our aggressive new marketing strategies!
+[15:02:41]SAY: YouTool/ : Your money can buy happiness!
+[15:02:45]SAY: Solar's Best Hot Drinks/ : Consume!
+[15:02:47]SAY: ShadyCigs Deluxe/ : Try our aggressive new marketing strategies!
+[15:02:47]SAY: YouTool/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:02:49]SAY: Emergency NanoMed/ : Your money can buy happiness!
+[15:02:49]SAY: Getmore Chocolate Corp/ : Your money can buy happiness!
+[15:02:49]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:02:52]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/weapon/storage/belt/wands/full at (114,140,1)
+[15:02:54]SAY: NanoMed/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:02:54]SAY: Booze-O-Mat/ : Your money can buy happiness!
+[15:02:56]SAY: Emergency NanoMed/ : Consume!
+[15:02:56]SAY: Vendomat/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:02:58]SAY: Getmore Chocolate Corp/ : Try our aggressive new marketing strategies!
+[15:02:58]SAY: Engi-Vend/ : Engage direct marketing!
+[15:03:00]SAY: ShadyCigs Deluxe/ : Engage direct marketing!
+[15:03:02]SAY: Getmore Chocolate Corp/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:03:02]SAY: Solar's Best Hot Drinks/ : Your money can buy happiness!
+[15:03:04]SAY: Vendomat/ : Engage direct marketing!
+[15:03:04]SAY: YouTool/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:03:06]SAY: ShadyCigs Deluxe/ : Try our aggressive new marketing strategies!
+[15:03:06]SAY: Solar's Best Hot Drinks/ : Your money can buy happiness!
+[15:03:08]SAY: A Donut Vender!/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:03:08]SAY: AutoDrobe/ : Your money can buy happiness!
+[15:03:10]SAY: NanoMed Plus/ : Consume!
+[15:03:11]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/weapon/gun/magic/staff/animate at (113,140,1)
+[15:03:12]EMOTE: monkey (214)/ : <B>The monkey (214)</B> jumps!
+[15:03:12]SAY: Emergency NanoMed/ : Consume!
+[15:03:12]SAY: Robust Softdrinks/ : Try our aggressive new marketing strategies!
+[15:03:17]SAY: NanoMed/ : Your money can buy happiness!
+[15:03:20]SAY: A Donut Vender!/ : Engage direct marketing!
+[15:03:20]SAY: A Donut Vender!/ : Engage direct marketing!
+[15:03:22]SAY: Robust Softdrinks/ : Try our aggressive new marketing strategies!
+[15:03:22]SAY: Solar's Best Hot Drinks/ : Engage direct marketing!
+[15:03:22]SAY: ShadyCigs Deluxe/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:03:24]SAY: YouTool/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:03:26]SAY: ShadyCigs Deluxe/ : Consume!
+[15:03:26]SAY: Getmore Chocolate Corp/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:03:28]SAY: Vendomat/ : Your money can buy happiness!
+[15:03:30]SAY: Emergency NanoMed/ : Try our aggressive new marketing strategies!
+[15:03:30]SAY: Getmore Chocolate Corp/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:03:30]SAY: NanoMed Plus/ : Consume!
+[15:03:30]SAY: Solar's Best Hot Drinks/ : Consume!
+[15:03:30]SAY: Getmore Chocolate Corp/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:03:30]SAY: YouTool/ : You should buy products to feed your lifestyle obession!
+[15:03:32]EMOTE: Frank/ : <B>Frank</B> barks!
+[15:03:32]SAY: NanoMed Plus/ : Consume!
+[15:03:32]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:03:36]SAY: ShadyCigs Deluxe/ : Your money can buy happiness!
+[15:03:36]SAY: Solar's Best Hot Drinks/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:03:36]SAY: YouTool/ : Consume!
+[15:03:38]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[15:03:40]SAY: A Donut Vender!/ : Engage direct marketing!
+[15:03:40]SAY: Robust Softdrinks/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:03:40]SAY: Booze-O-Mat/ : Consume!
+[15:03:42]SAY: Engi-Vend/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:03:42]SAY: NanoMed Plus/ : You should buy products to feed your lifestyle obession!
+[15:03:44]SAY: ShadyCigs Deluxe/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:03:44]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:03:44]SAY: Booze-O-Mat/ : You should buy products to feed your lifestyle obession!
+[15:03:44]SAY: YouTool/ : Try our aggressive new marketing strategies!
+[15:03:49]SAY: NanoMed/ : Engage direct marketing!
+[15:03:49]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:03:51]SAY: ShadyCigs Deluxe/ : Try our aggressive new marketing strategies!
+[15:03:57]SAY: YouTool/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:04:02]SAY: Engi-Vend/ : You should buy products to feed your lifestyle obession!
+[15:04:02]SAY: YouTool/ : Engage direct marketing!
+[15:04:03]SAY: Robust Softdrinks/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:04:03]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:04:05]SAY: A Donut Vender!/ : Consume!
+[15:04:05]SAY: AutoDrobe/ : Your money can buy happiness!
+[15:04:08]SAY: NanoMed/ : You should buy products to feed your lifestyle obession!
+[15:04:10]SAY: ShadyCigs Deluxe/ : Consume!
+[15:04:10]SAY: YouTool/ : Try our aggressive new marketing strategies!
+[15:04:12]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:04:12]SAY: A Donut Vender!/ : Your money can buy happiness!
+[15:04:12]SAY: Solar's Best Hot Drinks/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:04:14]SAY: Vendomat/ : You should buy products to feed your lifestyle obession!
+[15:04:16]SAY: Solar's Best Hot Drinks/ : Engage direct marketing!
+[15:04:16]SAY: Engi-Vend/ : Try our aggressive new marketing strategies!
+[15:04:16]EMOTE: wooden plank/ : <B>The wooden plank</B> growls at the Booze-O-Mat.
+[15:04:18]SAY: Robust Softdrinks/ : Your money can buy happiness!
+[15:04:18]SAY: Engi-Vend/ : You should buy products to feed your lifestyle obession!
+[15:04:20]SAY: Robust Softdrinks/ : Consume!
+[15:04:22]SAY: Robust Softdrinks/ : Consume!
+[15:04:22]SAY: Booze-O-Mat/ : Consume!
+[15:04:22]SAY: YouTool/ : Engage direct marketing!
+[15:04:22]EMOTE: potted plant/ : <B>The potted plant</B> growls at the Booze-O-Mat.
+[15:04:24]SAY: YouTool/ : You should buy products to feed your lifestyle obession!
+[15:04:26]SAY: Solar's Best Hot Drinks/ : You should buy products to feed your lifestyle obession!
+[15:04:29]SAY: Robust Softdrinks/ : Engage direct marketing!
+[15:04:29]SAY: ShadyCigs Deluxe/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:04:33]SAY: Robust Softdrinks/ : Your money can buy happiness!
+[15:04:35]SAY: Robust Softdrinks/ : Consume!
+[15:04:35]SAY: YouTool/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:04:35]EMOTE: Booze-O-Mat/ : <B>The Booze-O-Mat</B> growls at the Space Cigarettes packet.
+[15:04:37]SAY: Robust Softdrinks/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:04:39]SAY: YouTool/ : Engage direct marketing!
+[15:04:44]SAY: Engi-Vend/ : Your money can buy happiness!
+[15:04:48]SAY: Solar's Best Hot Drinks/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:04:50]SAY: NanoMed/ : Engage direct marketing!
+[15:04:52]SAY: Vendomat/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:04:54]SAY: Emergency NanoMed/ : Your money can buy happiness!
+[15:04:54]SAY: Vendomat/ : Consume!
+[15:04:54]SAY: Getmore Chocolate Corp/ : Your money can buy happiness!
+[15:04:54]SAY: NanoMed Plus/ : Consume!
+[15:04:54]SAY: YouTool/ : Consume!
+[15:04:56]SAY: Robust Softdrinks/ : Engage direct marketing!
+[15:04:56]SAY: YouTool/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:01]SAY: Vendomat/ : You should buy products to feed your lifestyle obession!
+[15:05:01]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:05:03]SAY: A Donut Vender!/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:03]SAY: AutoDrobe/ : Engage direct marketing!
+[15:05:03]SAY: Solar's Best Hot Drinks/ : Consume!
+[15:05:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:05:04]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:05:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:05:05]SAY: NanoMed Plus/ : Try our aggressive new marketing strategies!
+[15:05:05]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[15:05:07]SAY: Getmore Chocolate Corp/ : You should buy products to feed your lifestyle obession!
+[15:05:07]SAY: YouTool/ : Your money can buy happiness!
+[15:05:09]SAY: A Donut Vender!/ : Try our aggressive new marketing strategies!
+[15:05:09]SAY: Solar's Best Hot Drinks/ : Engage direct marketing!
+[15:05:09]SAY: YouTool/ : You should buy products to feed your lifestyle obession!
+[15:05:11]SAY: Solar's Best Hot Drinks/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:11]SAY: Getmore Chocolate Corp/ : Consume!
+[15:05:16]SAY: Getmore Chocolate Corp/ : You should buy products to feed your lifestyle obession!
+[15:05:16]SAY: A Donut Vender!/ : Your money can buy happiness!
+[15:05:22]EMOTE: monkey (417)/ : <B>The monkey (417)</B> jumps!
+[15:05:22]SAY: Getmore Chocolate Corp/ : Consume!
+[15:05:24]SAY: Getmore Chocolate Corp/ : Try our aggressive new marketing strategies!
+[15:05:24]SAY: NanoMed Plus/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:24]SAY: YouTool/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:05:26]SAY: Solar's Best Hot Drinks/ : Consume!
+[15:05:28]SAY: NanoMed Plus/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:05:30]SAY: Getmore Chocolate Corp/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:33]SAY: Robust Softdrinks/ : Try our aggressive new marketing strategies!
+[15:05:33]SAY: ShadyCigs Deluxe/ : Your money can buy happiness!
+[15:05:33]SAY: NanoMed Plus/ : Try our aggressive new marketing strategies!
+[15:05:35]SAY: NanoMed Plus/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:37]SAY: YouTool/ : Consume!
+[15:05:39]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:05:39]SAY: NanoMed Plus/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:43]SAY: Getmore Chocolate Corp/ : Try our aggressive new marketing strategies!
+[15:05:45]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:05:48]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:05:48]SAY: Solar's Best Hot Drinks/ : Consume!
+[15:05:48]SAY: Getmore Chocolate Corp/ : You should buy products to feed your lifestyle obession!
+[15:05:48]SAY: Engi-Vend/ : You should buy products to feed your lifestyle obession!
+[15:05:48]SAY: ShadyCigs Deluxe/ : Try our aggressive new marketing strategies!
+[15:05:50]SAY: A Donut Vender!/ : Engage direct marketing!
+[15:05:50]SAY: Getmore Chocolate Corp/ : You should buy products to feed your lifestyle obession!
+[15:05:52]SAY: AutoDrobe/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:05:54]EMOTE: Robust Softdrinks/ : <B>The Robust Softdrinks</B> growls at the wooden plank.
+[15:05:54]SAY: Robust Softdrinks/ : Try our aggressive new marketing strategies!
+[15:05:54]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:05:54]SAY: YouTool/ : Engage direct marketing!
+[15:05:58]SAY: Solar's Best Hot Drinks/ : Consume!
+[15:05:58]SAY: Solar's Best Hot Drinks/ : Engage direct marketing!
+[15:06:01]SAY: A Donut Vender!/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:06:03]SAY: NanoMed/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:06:03]SAY: Robust Softdrinks/ : You should buy products to feed your lifestyle obession!
+[15:06:03]SAY: Robust Softdrinks/ : Your money can buy happiness!
+[15:06:08]SAY: A Donut Vender!/ : Consume!
+[15:06:08]EMOTE: Robust Softdrinks/ : <B>The Robust Softdrinks</B> growls at Sophie Smith.
+[15:06:10]SAY: Getmore Chocolate Corp/ : Try our aggressive new marketing strategies!
+[15:06:10]SAY: Solar's Best Hot Drinks/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:06:10]EMOTE: wooden plank/ : <B>The wooden plank</B> growls at the Robust Softdrinks.
+[15:06:12]EMOTE: Solar's Best Hot Drinks/ : <B>The Solar's Best Hot Drinks</B> growls at the wooden plank.
+[15:06:12]SAY: YouTool/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:06:14]SAY: Getmore Chocolate Corp/ : Your money can buy happiness!
+[15:06:14]SAY: NanoMed/ : Engage direct marketing!
+[15:06:14]SAY: Robust Softdrinks/ : Try our aggressive new marketing strategies!
+[15:06:14]EMOTE: Solar's Best Hot Drinks/ : <B>The Solar's Best Hot Drinks</B> growls at Sophie Smith.
+[15:06:16]SAY: A Donut Vender!/ : Consume!
+[15:06:16]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:06:16]SAY: Solar's Best Hot Drinks/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:06:21]SAY: ShadyCigs Deluxe/ : Engage direct marketing!
+[15:06:21]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:06:23]SAY: AutoDrobe/ : Engage direct marketing!
+[15:06:23]SAY: YouTool/ : Your money can buy happiness!
+[15:06:25]SAY: NanoMed Plus/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:06:27]SAY: Emergency NanoMed/ : You should buy products to feed your lifestyle obession!
+[15:06:27]SAY: Robust Softdrinks/ : You should buy products to feed your lifestyle obession!
+[15:06:34]SAY: Getmore Chocolate Corp/ : You should buy products to feed your lifestyle obession!
+[15:06:36]GAME: Explosion with size (3, 5, 7, 0) in area Central Primary Hallway (133,140,1)
+[15:06:36]ACCESS: Logout: *no key*/(Sophie Smith)
+[15:06:36]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[15:06:36]EMOTE: wooden plank/ : <B>The wooden plank</B> growls at the Getmore Chocolate Corp.
+[15:06:39]SAY: A Donut Vender!/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:06:39]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:06:41]SAY: YouTool/ : Consume!
+[15:06:43]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[15:06:43]SAY: Getmore Chocolate Corp/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:06:48]SAY: Robust Softdrinks/ : Engage direct marketing!
+[15:06:50]SAY: Robust Softdrinks/ : Your money can buy happiness!
+[15:06:50]SAY: NanoMed Plus/ : You should buy products to feed your lifestyle obession!
+[15:06:50]SAY: Engi-Vend/ : Try our aggressive new marketing strategies!
+[15:06:52]SAY: ShadyCigs Deluxe/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:06:54]EMOTE: Chester (255)/ : <B>Chester (255)</B> jumps!
+[15:06:54]SAY: ShadyCigs Deluxe/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:06:57]SAY: Robust Softdrinks/ : Try our aggressive new marketing strategies!
+[15:07:08]SAY: Getmore Chocolate Corp/ : Engage direct marketing!
+[15:07:08]SAY: A Donut Vender!/ : You should buy products to feed your lifestyle obession!
+[15:07:08]SAY: YouTool/ : Engage direct marketing!
+[15:07:11]ADMIN: Tk420634/(Sophie Smith) stuffed tk420634 into Taco.
+[15:07:11]ACCESS: Logout: *no key*/(Sophie Smith)
+[15:07:11]ACCESS: Login: tk420634/(crate) from localhost-4019019304 || BYOND v509
+[15:07:12]SAY: YouTool/ : You should buy products to feed your lifestyle obession!
+[15:07:17]EMOTE: monkey (387)/ : <B>The monkey (387)</B> jumps!
+[15:07:17]SAY: Engi-Vend/ : Try our aggressive new marketing strategies!
+[15:07:17]SAY: YouTool/ : Your money can buy happiness!
+[15:07:28]SAY: A Donut Vender!/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:07:28]SAY: NanoMed/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:07:30]SAY: Engi-Vend/ : You should buy products to feed your lifestyle obession!
+[15:07:30]SAY: YouTool/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:07:33]SAY: Robust Softdrinks/ : Consume!
+[15:07:35]EMOTE: Getmore Chocolate Corp/ : <B>The Getmore Chocolate Corp</B> growls at Taco.
+[15:07:38]EMOTE: Vendomat/ : <B>The Vendomat</B> growls at Taco.
+[15:07:40]EMOTE: Emergency NanoMed/ : <B>Emergency NanoMed</B> growls at Taco.
+[15:07:40]SAY: Robust Softdrinks/ : Your money can buy happiness!
+[15:07:42]EMOTE: Getmore Chocolate Corp/ : <B>The Getmore Chocolate Corp</B> growls at Taco.
+[15:07:42]SAY: YouTool/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:07:45]ACCESS: Logout: *no key*/(crate)
+[15:07:45]ACCESS: Login: tk420634/(crate) from localhost-4019019304 || BYOND v509
+[15:07:50]EMOTE: monkey (214)/ : <B>The monkey (214)</B> jumps!
+[15:07:50]SAY: NanoMed/ : Your money can buy happiness!
+[15:07:50]SAY: Solar's Best Hot Drinks/ : You don&#39;t want to buy anything? Yeah, well I didn&#39;t want to buy your mom either.
+[15:07:52]SAY: Engi-Vend/ : Engage direct marketing!
+[15:07:54]SAY: NanoMed Plus/ : Consume!
+[15:07:54]SAY: YouTool/ : Consume!
+[15:07:56]EMOTE: monkey (688)/ : <B>The monkey (688)</B> jumps!
+[15:08:01]SAY: NanoMed/ : Your money can buy happiness!
+[15:08:01]SAY: ShadyCigs Deluxe/ : Try our aggressive new marketing strategies!
+[15:08:01]SAY: YouTool/ : Consume!
+[15:08:03]SAY: AutoDrobe/ : Try our aggressive new marketing strategies!
+[15:08:05]SAY: NanoMed Plus/ : You should buy products to feed your lifestyle obession!
+[15:08:10]SAY: AutoDrobe/ : Try our aggressive new marketing strategies!
+[15:08:10]SAY: Getmore Chocolate Corp/ : Consume!
+[15:08:14]SAY: ShadyCigs Deluxe/ : Your money can buy happiness!
+[15:08:14]SAY: Getmore Chocolate Corp/ : Try our aggressive new marketing strategies!
+[15:08:14]SAY: YouTool/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:08:19]SAY: NanoMed Plus/ : Engage direct marketing!
+[15:08:21]SAY: A Donut Vender!/ : Consume!
+[15:08:23]SAY: Emergency NanoMed/ : Advertising is legalized lying! But don&#39;t let that put you off our great deals!
+[15:08:23]SAY: Robust Softdrinks/ : Consume!
+[15:08:29]ACCESS: Logout: tk420634[DC]/(crate)
+¶ºlAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[17:30:12]ADMIN: Loading Banlistjob
+[17:30:12]ADMIN: Loading jobban_rank
+[17:30:12]ADMIN: jobban_keylist was empty
+[17:30:13]ADMIN: Loading appearance_rank
+[17:30:13]ADMIN: appearance_keylist was empty
+[17:30:13]ADMIN: Updating jobbanfile!
+[17:30:13]ADMIN: Loading Banlist
+[17:30:52]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[17:33:14]ADMIN: Tk420634 has started the game.
+[17:33:19]GAME: Tk420634 (ckey) has been selected as a traitor
+[17:33:19]ACCESS: Logout: *no key*/(Tk420634)
+[17:33:19]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[17:50:25]EMOTE: Frank/ : <B>Frank</B> pants.
+[17:50:31]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[17:50:36]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[17:50:41]ADMIN: Tk420634/(Sophie Smith) made all SMESs powered
+[17:50:41]ADMIN: Tk420634/(Sophie Smith) used secret quickpower
+[17:50:45]ADMIN: Tk420634/(Sophie Smith) toggled debugging on.
+[17:50:55]ADMIN: Tk420634/(Sophie Smith) modified [0x21006faf] (/datum/configuration)'s run_speed to 2
+[17:51:37]EMOTE: monkey (448)/ : <B>The monkey (448)</B> jumps!
+[17:52:36]EMOTE: monkey (157)/ : <B>The monkey (157)</B> jumps!
+[17:52:42]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Head of Security.
+[17:53:03]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[17:53:33]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[17:54:25]SAY: grey baby slime (838)/ : Blorble...
+[17:54:58]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Assistant.
+[17:55:40]EMOTE: monkey (742)/ : <B>The monkey (742)</B> jumps!
+[17:55:59]EMOTE: monkey (157)/ : <B>The monkey (157)</B> jumps!
+[17:56:00]ADMIN: Tk420634/(Sophie Smith) spawned /obj/screen/ai/crew_monitor at (122,201,1)
+[17:56:03]EMOTE: Poly/ : <B>Poly</B> squawks.
+[17:56:04]ADMIN: Tk420634/(Sophie Smith) deleted Crew Monitoring Console at (122,201,1)
+[17:56:06]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/device/assembly/flash/handheld at (122,201,1)
+[17:56:27]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[17:56:38]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[17:56:40]ADMIN: Tk420634/(Sophie Smith) spawned /obj/structure/flora/ausbushes/lavendergrass at (124,201,1)
+[17:56:49]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[17:56:56]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[17:56:56]ACCESS: Logout: *no key*/(Sophie Smith)
+[17:56:56]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[17:57:02]ACCESS: Logout: *no key*/(Sophie Smith)
+[17:57:02]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[17:57:10]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[17:57:13]ADMIN: Tk420634/(Sophie Smith) teleported Tk420634/(Sophie Smith) to Medbay
+[17:57:18]ADMIN: Tk420634/(Sophie Smith) has granted Tk420634 full access.
+[17:58:26]ADMIN: Tk420634/(Sophie Smith) has granted Tk420634 full access.
+[17:58:31]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Assistant.
+[17:58:36]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[17:58:41]ADMIN: Tk420634/(Sophie Smith) teleported Tk420634/(Sophie Smith) to Brig
+[17:58:46]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[17:58:46]ACCESS: Logout: *no key*/(Sophie Smith)
+[17:58:46]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[17:58:53]ADMIN: Tk420634/(Sophie Smith) teleported @Tk420634[DC]/(Sophie Smith)
+[17:58:55]ACCESS: Logout: *no key*/(Sophie Smith)
+[17:58:55]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[17:58:59]EMOTE: monkey (451)/ : <B>The monkey (451)</B> jumps!
+[17:59:00]ADMIN: Tk420634/(Sophie Smith) jumped to 119,200,1 in Brig
+[17:59:04]ADMIN: Tk420634/(Sophie Smith) jumped to 116,200,1 in Brig
+[17:59:08]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[17:59:30]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[17:59:50]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[17:59:54]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:00:21]EMOTE: monkey (34)/ : <B>The monkey (34)</B> jumps!
+[18:00:33]ADMIN: Tk420634/(Sophie Smith) called Labor Shuttle's open() with no arguments.
+[18:00:41]ADMIN: Tk420634/(Sophie Smith) jumped to 110,197,1 in Labor Shuttle Dock
+[18:00:48]ADMIN: Tk420634/(Sophie Smith) called Labor Shuttle's open() with no arguments.
+[18:01:06]ADMIN: Tk420634/(Sophie Smith) jumped to 122,201,1 in Fore Primary Hallway
+[18:01:11]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:01:17]ADMIN: Tk420634/(Sophie Smith) called Lieutenant's open() with no arguments.
+[18:01:22]EMOTE: monkey (157)/ : <B>The monkey (157)</B> jumps!
+[18:02:08]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:02:09]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[18:02:18]EMOTE: monkey (187)/ : <B>The monkey (187)</B> jumps!
+[18:02:18]ADMIN: Tk420634/(Sophie Smith) called Lieutenant's open() with no arguments.
+[18:02:34]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Captain.
+[18:02:59]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:03:13]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:03:19]EMOTE: Frank/ : <B>Frank</B> shivers.
+[18:03:43]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[18:04:32]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:04:42]EMOTE: monkey (448)/ : <B>The monkey (448)</B> jumps!
+[18:05:28]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:05:30]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:05:30]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[18:06:47]EMOTE: monkey (157)/ : <B>The monkey (157)</B> jumps!
+[18:07:28]EMOTE: monkey (448)/ : <B>The monkey (448)</B> jumps!
+[18:08:48]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[18:08:48]ACCESS: Logout: *no key*/(Sophie Smith)
+[18:08:48]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[18:09:19]SAY: grey baby slime (838)/ : Rawr...
+[18:09:32]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:10:12]EMOTE: monkey (34)/ : <B>The monkey (34)</B> jumps!
+[18:10:24]EMOTE: Frank/ : <B>Frank</B> pants.
+[18:10:39]SAY: grey baby slime (838)/ : Blorble...
+[18:10:45]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[18:10:45]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:11:03]EMOTE: monkey (187)/ : <B>The monkey (187)</B> jumps!
+[18:11:09]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[18:11:31]EMOTE: Frank/ : <B>Frank</B> barks!
+[18:12:26]SAY: grey baby slime (838)/ : Blop...
+[18:13:41]EMOTE: monkey (157)/ : <B>The monkey (157)</B> jumps!
+[18:13:45]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 18:14.16
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[18:14:18]ADMIN: Loading Banlistjob
+[18:14:18]ADMIN: Loading jobban_rank
+[18:14:18]ADMIN: jobban_keylist was empty
+[18:14:18]ADMIN: Loading appearance_rank
+[18:14:18]ADMIN: appearance_keylist was empty
+[18:14:18]ADMIN: Updating jobbanfile!
+[18:14:18]ADMIN: Loading Banlist
+[18:14:28]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:14:32]ADMIN: Loading Banlist
+[18:14:32]ADMIN: Banlist is empty.
+[18:14:32]ADMIN: Banlist missing base dir.
+[18:14:32]ADMIN: Ban Expired: 
+[18:14:32]ADMIN: Invalid Ban.
+[18:14:42]ADMIN: Loading Banlist
+[18:14:42]ADMIN: Banlist is empty.
+[18:14:42]ADMIN: Banlist missing base dir.
+[18:14:42]ADMIN: Ban Expired: 
+[18:14:42]ADMIN: Invalid Ban.
+[18:14:52]ADMIN: Loading Banlist
+[18:14:52]ADMIN: Banlist is empty.
+[18:14:52]ADMIN: Banlist missing base dir.
+[18:14:52]ADMIN: Ban Expired: 
+[18:14:52]ADMIN: Invalid Ban.
+[18:15:03]ADMIN: Loading Banlist
+[18:15:03]ADMIN: Banlist is empty.
+[18:15:03]ADMIN: Banlist missing base dir.
+[18:15:03]ADMIN: Ban Expired: 
+[18:15:03]ADMIN: Invalid Ban.
+[18:15:15]ADMIN: Loading Banlist
+[18:15:15]ADMIN: Banlist is empty.
+[18:15:15]ADMIN: Banlist missing base dir.
+[18:15:15]ADMIN: Ban Expired: 
+[18:15:15]ADMIN: Invalid Ban.
+[18:15:27]ADMIN: Loading Banlist
+[18:15:27]ADMIN: Banlist is empty.
+[18:15:27]ADMIN: Banlist missing base dir.
+[18:15:27]ADMIN: Ban Expired: 
+[18:15:27]ADMIN: Invalid Ban.
+
+
+Starting up. 19:49.48
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[19:49:51]ADMIN: Loading Banlistjob
+[19:49:51]ADMIN: Loading jobban_rank
+[19:49:51]ADMIN: jobban_keylist was empty
+[19:49:51]ADMIN: Loading appearance_rank
+[19:49:51]ADMIN: appearance_keylist was empty
+[19:49:51]ADMIN: Updating jobbanfile!
+[19:50:07]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[19:50:10]ADMIN: Loading Banlistjob
+[19:50:10]ADMIN: Loading jobban_rank
+[19:50:10]ADMIN: jobban_keylist was empty
+[19:50:10]ADMIN: Loading appearance_rank
+[19:50:10]ADMIN: appearance_keylist was empty
+[19:50:10]ADMIN: Updating jobbanfile!
+[19:50:10]ADMIN: Loading Banlist
+[19:50:20]ADMIN: Loading Banlistjob
+[19:50:20]ADMIN: Loading jobban_rank
+[19:50:20]ADMIN: jobban_keylist was empty
+[19:50:20]ADMIN: Loading appearance_rank
+[19:50:20]ADMIN: appearance_keylist was empty
+[19:50:20]ADMIN: Updating jobbanfile!
+[19:50:20]ADMIN: Loading Banlist
+[19:50:20]ADMIN: Banlist is empty.
+[19:50:20]ADMIN: Banlist missing base dir.
+[19:50:35]ADMIN: Loading Banlistjob
+[19:50:35]ADMIN: Loading jobban_rank
+[19:50:35]ADMIN: jobban_keylist was empty
+[19:50:35]ADMIN: Loading appearance_rank
+[19:50:35]ADMIN: appearance_keylist was empty
+[19:50:35]ADMIN: Updating jobbanfile!
+[19:50:35]ADMIN: Loading Banlist
+[19:50:35]ADMIN: Banlist is empty.
+[19:50:35]ADMIN: Banlist missing base dir.
+[19:50:54]ADMIN: Loading Banlistjob
+[19:50:54]ADMIN: Loading jobban_rank
+[19:50:54]ADMIN: jobban_keylist was empty
+[19:50:54]ADMIN: Loading appearance_rank
+[19:50:54]ADMIN: appearance_keylist was empty
+[19:50:54]ADMIN: Updating jobbanfile!
+[19:50:54]ADMIN: Loading Banlist
+[19:50:54]ADMIN: Banlist is empty.
+[19:50:54]ADMIN: Banlist missing base dir.
+[19:51:16]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[19:51:16]ADMIN: Loading Banlistjob
+[19:51:16]ADMIN: Loading jobban_rank
+[19:51:16]ADMIN: jobban_keylist was empty
+[19:51:16]ADMIN: Loading appearance_rank
+[19:51:16]ADMIN: appearance_keylist was empty
+[19:51:16]ADMIN: Updating jobbanfile!
+[19:51:16]ADMIN: Loading Banlist
+[19:51:16]ADMIN: Banlist is empty.
+[19:51:16]ADMIN: Banlist missing base dir.
+
+
+Starting up. 19:52.11
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[19:52:14]ADMIN: Loading Banlistjob
+[19:52:14]ADMIN: Loading jobban_rank
+[19:52:14]ADMIN: jobban_keylist was empty
+[19:52:14]ADMIN: Loading appearance_rank
+[19:52:14]ADMIN: appearance_keylist was empty
+[19:52:14]ADMIN: Updating jobbanfile!
+[19:52:14]ADMIN: Loading Banlist
+[19:52:25]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[19:53:54]ADMIN: Tk420634 has started the game.
+[19:53:57]GAME: Tk420634 (ckey) has been selected as a traitor
+[19:53:58]ACCESS: Logout: *no key*/(Tk420634)
+[19:53:58]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[19:54:02]GAME: *null* has triggered a gibtonite deposit reaction at Mine (67, 15, 5).
+[19:54:04]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[19:54:16]ADMIN: Tk420634/(Sophie Smith) has entered build mode.
+[19:54:17]ADMIN: Build Mode: Tk420634/(Sophie Smith) deleted the plating at (122,223,1)
+[19:54:17]ADMIN: Build Mode: Tk420634/(Sophie Smith) deleted the reinforced wall at (123,224,1)
+[19:54:20]ADMIN: Build Mode: Tk420634/(Sophie Smith) built the floor at (122,223,1)
+[19:54:20]EMOTE: monkey (150)/ : <B>The monkey (150)</B> jumps!
+[19:54:22]ADMIN: Build Mode: Tk420634/(Sophie Smith) deleted the wall at (123,217,1)
+[19:54:23]ADMIN: Tk420634/(Sophie Smith) has left build mode.
+[19:54:31]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[19:55:03]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Captain.
+[19:55:13]EMOTE: Xena/ : <B>Xena</B> shivers
+[19:55:17]ADMIN: Tk420634/(Sophie Smith) made all SMESs powered
+[19:55:17]ADMIN: Tk420634/(Sophie Smith) used secret quickpower
+[19:55:41]EMOTE: Frank/ : <B>Frank</B> yaps happily!
+[19:56:05]EMOTE: Xena/ : <B>Xena</B> shakes its head
+[19:56:05]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[19:56:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[19:56:54]ADMIN: Tk420634/(Sophie Smith) modified CoP Shutters Control's id to copshutters
+[19:57:26]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/weapon/ore/diamond at (120,157,1)
+[19:58:16]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[19:58:46]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[19:59:14]SAY: grey baby slime (608)/ : Rawr...
+[19:59:22]EMOTE: monkey (681)/ : <B>The monkey (681)</B> jumps!
+[20:00:00]EMOTE: monkey (861)/ : <B>The monkey (861)</B> jumps!
+[20:00:49]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[20:01:27]EMOTE: monkey (150)/ : <B>The monkey (150)</B> jumps!
+[20:01:31]EMOTE: monkey (681)/ : <B>The monkey (681)</B> jumps!
+[20:01:51]EMOTE: monkey (882)/ : <B>The monkey (882)</B> jumps!
+[20:02:01]SAY: grey baby slime (608)/ : Blop...
+[20:02:23]EMOTE: monkey (575)/ : <B>The monkey (575)</B> jumps!
+[20:02:27]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[20:03:21]EMOTE: monkey (681)/ : <B>The monkey (681)</B> jumps!
+[20:03:37]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:04:25]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:04:53]SAY: grey baby slime (608)/ : Blorble...
+[20:05:00]EMOTE: monkey (958)/ : <B>The monkey (958)</B> jumps!
+[20:05:03]EMOTE: monkey (958)/ : <B>The monkey (958)</B> jumps!
+[20:05:07]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:05:11]EMOTE: Poly/ : <B>Poly</B> looks in Sophie Smith's direction and takes flight.
+[20:05:18]EMOTE: monkey (882)/ : <B>The monkey (882)</B> jumps!
+[20:05:18]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:05:26]ADMIN: Tk420634/(Sophie Smith) has used rudimentary transformation on Tk420634/(Sophie Smith). Transforming to drone; deletemob=0
+[20:05:26]ACCESS: Logout: *no key*/(Sophie Smith)
+[20:05:26]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:07:18]EMOTE: Frank/ : <B>Frank</B> shakes its head.
+[20:07:34]GAME: Random Event triggering: Shuttle loan (/datum/round_event/shuttle_loan)
+[20:08:12]EMOTE: monkey (681)/ : <B>The monkey (681)</B> jumps!
+[20:09:40]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:10:38]EMOTE: Poly/ : <B>Poly</B> squawks.
+[20:10:38]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[20:10:42]ADMIN: Tk420634/(Sophie Smith) jumped to 122,116,1 in Aft Primary Hallway
+[20:10:44]SAY: Poly/ : Check the singlo, you chucklefucks!
+[20:11:22]ADMIN: Tk420634/(Sophie Smith) jumped to 124,113,1 in Aft Primary Hallway
+[20:11:25]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:11:37]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:12:24]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:12:26]ADMIN: Tk420634/(Sophie Smith) has used rudimentary transformation on Tk420634/(Sophie Smith). Transforming to human; deletemob=1
+[20:12:26]ACCESS: Logout: *no key*/(Sophie Smith)
+[20:12:26]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:12:34]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Atmospheric Technician.
+[20:12:34]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:12:40]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:13:24]ADMIN: Tk420634/(Sophie Smith) has modified world.fps to 16
+[20:13:32]ADMIN: Tk420634/(Sophie Smith) modified [0x21006e6e] (/datum/configuration)'s run_speed to 2
+[20:14:08]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:14:12]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:15:04]SAY: grey baby slime (843)/ : Rawr...
+[20:15:20]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:15:47]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/clothing/head/helmet/space/eva at (127,88,1)
+[20:15:49]EMOTE: Harambe (268)/ : <B>Harambe (268)</B> jumps!
+[20:16:12]ADMIN: Tk420634/(Sophie Smith) has toggled Tk420634/(Sophie Smith)'s nodamage to On
+[20:16:29]ADMIN: Tk420634/(Sophie Smith) manipulated a pump at 133, 82, 1
+[20:16:33]EMOTE: monkey (186)/ : <B>The monkey (186)</B> jumps!
+[20:16:57]EMOTE: Harambe (268)/ : <B>Harambe (268)</B> jumps!
+[20:17:40]EMOTE: monkey (575)/ : <B>The monkey (575)</B> jumps!
+[20:18:10]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[20:18:10]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[20:18:43]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[20:18:43]ACCESS: Logout: *no key*/(Sophie Smith)
+[20:18:43]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:18:55]ADMIN: Tk420634/(Sophie Smith) changed their view range to 128.
+[20:19:03]ADMIN: Tk420634/(Sophie Smith) changed their view range to 7.
+[20:19:06]ADMIN: Tk420634/(Sophie Smith) changed their view range to 14.
+[20:19:31]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:19:42]SAY: grey baby slime (608)/ : Rawr...
+[20:20:39]ADMIN: Tk420634/(Sophie Smith) spawned /obj/effect/particle_effect/sparks/electricity at (122,124,1)
+[20:20:47]SAY: Frank/ : Bark!
+[20:21:08]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:21:20]EMOTE: monkey (958)/ : <B>The monkey (958)</B> jumps!
+[20:21:48]EMOTE: monkey (150)/ : <B>The monkey (150)</B> jumps!
+[20:21:57]ACCESS: Logout: *no key*/(Sophie Smith)
+[20:21:57]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:23:15]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/clothing/shoes/magboots/advance at (119,68,1)
+[20:23:22]ADMIN: Tk420634/(Sophie Smith) changed their view range to 7.
+[20:24:06]EMOTE: monkey (882)/ : <B>The monkey (882)</B> jumps!
+[20:25:13]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> screams!
+[20:25:15]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[20:25:22]EMOTE: monkey (681)/ : <B>The monkey (681)</B> jumps!
+[20:25:25]ADMIN: Tk420634/(Sophie Smith) opened a canister that contains plasma at 128, 160, 1
+[20:25:39]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/weapon/lighter at (127,159,1)
+[20:26:02]EMOTE: monkey (861)/ : <B>The monkey (861)</B> jumps!
+[20:26:21]EMOTE: monkey (681)/ : <B>The monkey (681)</B> jumps!
+[20:27:22]ADMIN: Tk420634/(Sophie Smith) spawned /obj/machinery/portable_atmospherics/canister/toxins at (118,146,1)
+[20:27:26]ADMIN: Tk420634/(Sophie Smith) opened a canister that contains plasma at 118, 146, 1
+[20:27:55]EMOTE: monkey (186)/ : <B>The monkey (186)</B> jumps!
+[20:28:47]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Brand Intelligence)
+[20:28:48]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Anomaly: Energetic Flux)
+[20:28:51]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Anomaly: Vortex)
+[20:28:52]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Anomaly: Pyroclastic)
+[20:28:54]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Anomaly: Gravitational)
+[20:28:55]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Anomaly: Hyper-Energetic Flux)
+[20:28:57]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Anomaly: Bluespace)
+[20:29:00]ADMIN: Tk420634/(Sophie Smith) has triggered an event. (Meteor Wave)
+[20:29:18]SAY: Bella Baskett/ : Traitorous until proven nice!
+[20:29:18]SAY: Kingston Mcmullen/ : I want to hold that cheesemonger when I find them.
+[20:29:18]SAY: Pablo Cowper/ : Hey guy, why dont you go ass wank arse ass jerk , you greyshirt!
+[20:29:20]SAY: Jayson Sullivan/ : Honk until proven stupid!
+[20:29:25]SAY: Adam Randolph/ : Oh shit, that milkdrinker was one hell of an monkey-like ass.
+[20:29:25]SAY: George Compton/ : Well ass, this is a ugly situation.
+[20:29:25]SAY: Leta Trovato/ : Innocent until proven pretty!
+[20:29:25]SAY: Gael Beach/ : I want to wrench that tator when I find them.
+[20:29:26]EMOTE: Wayne Khan/ : <B>Wayne Khan</B> gasps!
+[20:29:26]SAY: Juan Lombardi/ : I want to hold that noob when I find them.
+[20:29:26]SAY: Juliana Stephenson/ : Hey you there, why dont you go shit bitch jerk damn jerk , you bitch!
+[20:29:31]SAY: Breanne Roby/ : Well arse, this is a bad situation.
+[20:29:31]SAY: Bella Baskett/ : Oh shit, that milkdrinker was one hell of an dimwit arms.
+[20:29:31]SAY: Jayson Ramos/ : Well bitch, this is a stupid situation.
+[20:29:31]SAY: Juan Lombardi/ : Oh jerk, that tator was one hell of an dumb stomach.
+[20:29:31]GAME: Random Event triggering: Clogged Vents (/datum/round_event/vent_clog)
+[20:29:33]EMOTE: Bryce Mortland/ : <B>Bryce Mortland</B> coughs!
+[20:29:33]SAY: Adam Randolph/ : Hey you, why dont you go shit arse arse shit damn , you lingbin!
+[20:29:33]SAY: Wayne Khan/ : Hey dude, why dont you go shit ass ass bitch arse , you cheesemonger!
+[20:29:33]SAY: Kingston Mcmullen/ : Well damn, this is a okay situation.
+[20:29:34]GAME: Radiation pulse with size (2, 5) and severity 50 in area Atmospherics 
+[20:29:36]SAY: Jayson Ramos/ : Hey officer, why dont you go jerk damn ass damn arse , you milkdrinker!
+[20:29:36]SAY: Khalil Poehl/ : Guilty until proven ugly!
+[20:29:36]SAY: Juliana Stephenson/ : Hey person, why dont you go arse damn shit jerk shit , you whorelord!
+[20:29:37]ADMIN: Tk420634/(Sophie Smith) spawned /obj/machinery/vending/liberationstation at (123,119,1)
+[20:29:40]SAY: Bella Baskett/ : Traitorous until proven bad!
+[20:29:42]GAME: Radiation pulse with size (2, 5) and severity 50 in area Garden 
+[20:29:42]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[20:29:45]EMOTE: Marcos Williams/ : <B>Marcos Williams</B> coughs!
+[20:29:45]EMOTE: Wayne Khan/ : <B>Wayne Khan</B> gasps!
+[20:29:45]SAY: Adam Randolph/ : I want to destroy that milkdrinker when I find them.
+[20:29:46]SAY: Adam Randolph/ : Hey person, why dont you go wank ass jerk arse damn , you cluwne!
+[20:29:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:29:50]EMOTE: Wayne Khan/ : <B>Wayne Khan</B> gasps!
+[20:29:50]SAY: Nova Prechtl/ : Hey person, why dont you go damn damn bitch jerk shit , you whorelord!
+[20:29:50]SAY: Jayson Sullivan/ : Hey jerk, why dont you go jerk bitch bitch jerk arse , you milkdrinker!
+[20:29:52]SAY: Bella Baskett/ : I want to modify that lingbin when I find them.
+[20:29:52]SAY: Nova Prechtl/ : Oh ass, that tator was one hell of an captain-like face.
+[20:29:52]SAY: George Smail/ : Oh shit, that gaylord was one hell of an whoreish ass.
+[20:29:53]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Captain.
+[20:29:53]EMOTE: Bryce Mortland/ : <B>Bryce Mortland</B> coughs!
+[20:29:53]SAY: Coreen Zadovsky/ : I want to destroy that monkey when I find them.
+[20:29:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[20:29:55]EMOTE: Juliana Stephenson/ : <B>Juliana Stephenson</B> coughs!
+[20:29:55]SAY: Nova Prechtl/ : Oh damn, that gaylord was one hell of an vomit-inducer head.
+[20:29:59]SAY: George Compton/ : I want to smash that cluwne when I find them.
+[20:30:01]GAME: SMES deleted at (Engineering SMES)
+[20:30:01]SAY: Adam Randolph/ : Hey you, why dont you go jerk shit arse bitch arse , you shitcurity!
+[20:30:01]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:30:03]EMOTE: Wayne Khan/ : <B>Wayne Khan</B> gasps!
+[20:30:03]SAY: Jayson Sullivan/ : Oh arse, that tator was one hell of an childish head.
+[20:30:07]GAME: Radiation pulse with size (2, 5) and severity 50 in area Escape Shuttle Hallway 
+[20:30:08]SAY: Jayson Ramos/ : I want to tackle that noob when I find them.
+[20:30:10]SAY: Juliana Stephenson/ : Oh shit, that milkdrinker was one hell of an jerk-face head.
+[20:30:14]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Shuttle Dock 
+[20:30:14]EMOTE: Pablo Cowper/ : <B>Pablo Cowper</B> coughs!
+[20:30:14]SAY: Jayson Ramos/ : Hey jerk, why dont you go jerk wank ass damn damn , you cheesemonger!
+[20:30:14]SAY: Valentina Roberts/ : Oh wank, that shitcurity was one hell of an jerk-face groin.
+[20:30:15]SAY: Khalil Poehl/ : This thing is a little colorful.
+[20:30:17]SAY: George Smail/ : Hey officer, why dont you go jerk damn bitch wank shit , you cheesemonger!
+[20:30:17]SAY: Frank/ : AUUUUUU
+[20:30:17]SAY: Valentina Roberts/ : Honk until proven ugly!
+[20:30:19]GAME: Explosion with size (0, 1, 5, 5) in area Primary Tool Storage (120,96,1)
+[20:30:19]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (120,96,1)
+[20:30:19]GAME: Radiation pulse with size (2, 5) and severity 50 in area Hydroponics 
+[20:30:20]SAY: Bella Baskett/ : Hey person, why dont you go wank wank bitch wank shit , you bitch!
+[20:30:20]SAY: George Compton/ : Traitorous until proven okay!
+[20:30:22]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[20:30:22]EMOTE: Marcos Williams/ : <B>Marcos Williams</B> coughs!
+[20:30:22]SAY: Gael Beach/ : Oh bitch, that monkey was one hell of an repulsive eyes.
+[20:30:25]EMOTE: Juan Lombardi/ : <B>Juan Lombardi</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:30:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Escape Shuttle Hallway 
+[20:30:27]SAY: Bella Baskett/ : Well jerk, this is a nice situation.
+[20:30:27]SAY: Nova Prechtl/ : Well arse, this is a nice situation.
+[20:30:27]SAY: George Compton/ : Honk until proven bad!
+[20:30:29]SAY: Jayson Sullivan/ : Hey jerk, why dont you go arse arse shit bitch wank , you lingbin!
+[20:30:32]EMOTE: Juliana Stephenson/ : <B>Juliana Stephenson</B> coughs!
+[20:30:32]SAY: Coreen Zadovsky/ : Oh ass, that greyshirt was one hell of an dumb groin.
+[20:30:33]GAME: Radiation pulse with size (2, 5) and severity 50 in area Fitness Room 
+[20:30:33]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:30:35]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[20:30:35]SAY: Gael Beach/ : Innocent until proven bad!
+[20:30:38]EMOTE: Harambe (268)/ : <B>Harambe (268)</B> jumps!
+[20:30:38]EMOTE: Kingston Mcmullen/ : <B>Kingston Mcmullen</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:30:38]SAY: Rylie Schrader/ : I&#39;m going to tickle you, you asian cheesemonger!
+[20:30:38]SAY: George Compton/ : Hey jerk, why dont you go ass shit ass shit bitch , you bitch!
+[20:30:38]SAY: Valentina Roberts/ : Hey person, why dont you go shit jerk ass jerk bitch , you whorelord!
+[20:30:43]SAY: Adam Randolph/ : Guilty until proven stupid!
+[20:30:45]SAY: Rylie Schrader/ : You monkey, I&#39;m going to destroy you right in the fingers. JUST YOU WAIT!
+[20:30:45]SAY: Leta Trovato/ : Oh bitch, that bitch was one hell of an jerk-face eyes.
+[20:30:48]SAY: Leta Trovato/ : Hey you, why dont you go shit ass shit bitch wank , you comdom!
+[20:30:51]SAY: Rylie Schrader/ : I&#39;m going to punch you, you dumb milkdrinker!
+[20:30:51]SAY: Madelynn Kepplinger/ : I want to smash that noob when I find them.
+[20:30:51]SAY: Adam Randolph/ : I&#39;m going to poke you, you mongoloid whorelord!
+[20:30:51]SAY: Speckles/ : Hey you there, why dont you go wank shit ass damn damn , you shitcurity!
+[20:30:53]EMOTE: Breanne Roby/ : <B>Breanne Roby</B> gasps!
+[20:30:54]SAY: Rylie Schrader/ : Rend and choke, Rend and touch!
+[20:30:54]SAY: Coreen Zadovsky/ : You tator, I&#39;m going to tickle you right in the nails. JUST YOU WAIT!
+[20:30:56]EMOTE: Bryce Mortland/ : <B>Bryce Mortland</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:30:56]EMOTE: Harambe (268)/ : <B>Harambe (268)</B> gasps!
+[20:30:56]EMOTE: Breanne Roby/ : <B>Breanne Roby</B> gasps!
+[20:30:56]SAY: Breanne Roby/ : You milkdrinker, I&#39;m going to poke you right in the groin. JUST YOU WAIT!
+[20:30:56]SAY: Jayson Ramos/ : Traitorous until proven nice!
+[20:30:59]SAY: Breanne Roby/ : I&#39;m going to hold you, you captain-like tator!
+[20:30:59]SAY: Rylie Schrader/ : You bitch, I&#39;m going to hold you right in the groin. JUST YOU WAIT!
+[20:30:59]SAY: Coreen Zadovsky/ : I&#39;m going to assault you, you repulsive gaylord!
+[20:30:59]SAY: Adam Randolph/ : You bitch, I&#39;m going to whack you right in the intestines. JUST YOU WAIT!
+[20:30:59]SAY: Gael Beach/ : Well damn, this is a nice situation.
+[20:31:02]SAY: Adam Randolph/ : I&#39;m going to wrench you, you dimwit cheesemonger!
+[20:31:02]SAY: Jayson Ramos/ : Well arse, this is a ugly situation.
+[20:31:02]SAY: Jayson Sullivan/ : Oh damn, that gaylord was one hell of an childish ass.
+[20:31:04]EMOTE: monkey (575)/ : <B>The monkey (575)</B> gasps!
+[20:31:04]SAY: Madelynn Kepplinger/ : I&#39;m going to beat you, you captain-like shitcurity!
+[20:31:04]SAY: Leta Trovato/ : I&#39;m going to assault you, you vomit-inducer comdom!
+[20:31:07]GAME: Radiation pulse with size (2, 5) and severity 50 in area Hydroponics 
+[20:31:07]EMOTE: monkey (575)/ : <B>The monkey (575)</B> gasps!
+[20:31:07]SAY: Rylie Schrader/ : Well jerk, this is a bad situation.
+[20:31:07]SAY: Coreen Zadovsky/ : Well ass, this is a ugly situation.
+[20:31:07]SAY: George Compton/ : I&#39;m going to modify you, you jerk-face cheesemonger!
+[20:31:07]SAY: Jayson Sullivan/ : I want to tickle that cluwne when I find them.
+[20:31:07]SAY: Speckles/ : Well wank, this is a nice situation.
+[20:31:12]EMOTE: Juliana Stephenson/ : <B>Juliana Stephenson</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:31:12]EMOTE: monkey (150)/ : <B>The monkey (150)</B> gasps!
+[20:31:12]SAY: Coreen Zadovsky/ : Rend and inject, Rend and modify!
+[20:31:12]SAY: Adam Randolph/ : Rend and sneeze on, Rend and beat!
+[20:31:12]SAY: George Compton/ : Rend and pat, Rend and whack!
+[20:31:12]SAY: George Smail/ : I&#39;m going to hold you, you repulsive noob!
+[20:31:12]SAY: Speckles/ : Well jerk, this is a okay situation.
+[20:31:16]SAY: Breanne Roby/ : You milkdrinker, I&#39;m going to whack you right in the toes. JUST YOU WAIT!
+[20:31:16]SAY: Bella Baskett/ : Rend and pat, Rend and assault!
+[20:31:16]SAY: Coreen Zadovsky/ : I&#39;m going to poke you, you repulsive lingbin!
+[20:31:16]SAY: Nova Prechtl/ : I&#39;m going to modify you, you ugly monkey!
+[20:31:18]EMOTE: monkey (150)/ : <B>The monkey (150)</B> gasps!
+[20:31:18]EMOTE: Madelynn Kepplinger/ : <B>Madelynn Kepplinger</B> gasps!
+[20:31:18]SAY: Bella Baskett/ : Rend and pat, Rend and tickle!
+[20:31:18]SAY: Coreen Zadovsky/ : I&#39;m going to touch you, you dumb cluwne!
+[20:31:18]SAY: Jayson Ramos/ : Rend and slap, Rend and tickle!
+[20:31:18]SAY: Leta Trovato/ : I&#39;m going to smash you, you mongoloid whorelord!
+[20:31:18]SAY: Jayson Sullivan/ : Well arse, this is a nice situation.
+[20:31:20]ADMIN: Tk420634/(Sophie Smith) called the supermatter crystal's explode() with no arguments.
+[20:31:20]GAME: Radiation pulse with size (256, 512) and severity 1000 in area Supermatter Room 
+[20:31:20]GAME: Explosion with size (3, 7, 14, 0) in area Supermatter Room (123,71,1)
+[20:31:21]EMOTE: Sophie Smith/ : <B>Sophie Smith</B> collapses!
+[20:31:21]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> collapses!
+[20:31:21]EMOTE: Rylie Schrader/ : <B>Rylie Schrader</B> collapses!
+[20:31:21]EMOTE: Marcos Williams/ : <B>Marcos Williams</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:31:21]EMOTE: Wayne Khan/ : <B>Wayne Khan</B> collapses!
+[20:31:21]EMOTE: Leta Trovato/ : <B>Leta Trovato</B> collapses!
+[20:31:22]EMOTE: monkey (575)/ : <B>The monkey (575)</B> gasps!
+[20:31:22]SAY: Madelynn Kepplinger/ : You whorelord, I&#39;m going to tackle you right in the eyes. JUST YOU WAIT!
+[20:31:22]SAY: Adam Randolph/ : You cheesemonger, I&#39;m going to poke you right in the chest. JUST YOU WAIT!
+[20:31:22]GAME: Explosion with size (0, 1, 5, 5) in area Engineering (120,87,1)
+[20:31:22]GAME: Explosion with size (0, 1, 5, 5) in area Engineering (120,87,1)
+[20:31:22]GAME: Explosion with size (0, 1, 5, 5) in area Engineering (120,87,1)
+[20:31:22]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering (120,87,1)
+[20:31:23]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:31:24]EMOTE: Savannah Kuznetsov/ : <B>Savannah Kuznetsov</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:31:24]EMOTE: monkey (150)/ : <B>The monkey (150)</B> gasps!
+[20:31:24]SAY: Breanne Roby/ : You cluwne, I&#39;m going to tickle you right in the fingers. JUST YOU WAIT!
+[20:31:24]SAY: Madelynn Kepplinger/ : Rend and pat, Rend and wrench!
+[20:31:24]SAY: George Smail/ : You monkey, I&#39;m going to destroy you right in the head. JUST YOU WAIT!
+[20:31:24]SAY: Gael Beach/ : Rend and mess with, Rend and destroy!
+[20:31:27]SAY: Madelynn Kepplinger/ : Rend and rip, Rend and smash!
+[20:31:27]SAY: Nova Prechtl/ : Well damn, this is a ugly situation.
+[20:31:27]SAY: George Compton/ : Guilty until proven ugly!
+[20:31:29]ADMIN: Tk420634/(Sophie Smith) healed / revived Tk420634/(Sophie Smith)
+[20:31:30]SAY: Nova Prechtl/ : Well damn, this is a okay situation.
+[20:31:32]EMOTE: Harambe (268)/ : <B>Harambe (268)</B> gasps!
+[20:31:32]EMOTE: Sophie Smith/ : <B>Sophie Smith</B> gasps!
+[20:31:33]SAY: Bella Baskett/ : You shitcurity, I&#39;m going to tackle you right in the face. JUST YOU WAIT!
+[20:31:35]EMOTE: Sophie Smith/ : <B>Sophie Smith</B> gasps!
+[20:31:35]SAY: Bella Baskett/ : I&#39;m going to tickle you, you vomit-inducer tator!
+[20:31:35]SAY: Adam Randolph/ : Rend and rip, Rend and tickle!
+[20:31:38]EMOTE: Pablo Cowper/ : <B>Pablo Cowper</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:31:38]EMOTE: Harambe (268)/ : <B>Harambe (268)</B> gasps!
+[20:31:38]SAY: Adam Randolph/ : You comdom, I&#39;m going to assault you right in the nails. JUST YOU WAIT!
+[20:31:41]EMOTE: Harambe (268)/ : <B>Harambe (268)</B> gasps!
+[20:31:41]SAY: Coreen Zadovsky/ : You bitch, I&#39;m going to poke you right in the ass. JUST YOU WAIT!
+[20:31:41]SAY: George Compton/ : I&#39;m going to beat you, you vomit-inducer milkdrinker!
+[20:31:41]SAY: Valentina Roberts/ : Rend and slap, Rend and destroy!
+[20:31:46]SAY: Coreen Zadovsky/ : You whorelord, I&#39;m going to whack you right in the stomach. JUST YOU WAIT!
+[20:31:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Science Shuttle 
+[20:31:48]EMOTE: Sophie Smith/ : <B>Sophie Smith</B> gasps!
+[20:31:48]EMOTE: Jayson Ramos/ : <B>Jayson Ramos</B> coughs!
+[20:31:48]EMOTE: Valentina Roberts/ : <B>Valentina Roberts</B> gasps!
+[20:31:48]SAY: Coreen Zadovsky/ : I want to wrench that greyshirt when I find them.
+[20:31:48]SAY: Nova Prechtl/ : Well bitch, this is a bad situation.
+[20:31:48]SAY: George Smail/ : Honk until proven okay!
+[20:31:51]SAY: George Compton/ : Rend and choke, Rend and smash!
+[20:31:53]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/weapon/storage/belt/utility/full at (123,77,1)
+[20:31:53]SAY: George Compton/ : I&#39;m going to beat you, you jerk-face noob!
+[20:31:54]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:31:55]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:31:56]EMOTE: Khalil Poehl/ : <B>Khalil Poehl</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:31:56]EMOTE: Leta Trovato/ : <B>Leta Trovato</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:31:56]SAY: Adam Randolph/ : I&#39;m going to tickle you, you vomit-inducer comdom!
+[20:31:56]SAY: Adam Randolph/ : Hey person, why dont you go jerk bitch jerk damn ass , you comdom!
+[20:31:56]SAY: Jayson Sullivan/ : Well damn, this is a okay situation.
+[20:31:56]SAY: Valentina Roberts/ : Well ass, this is a okay situation.
+[20:31:59]ADMIN: Tk420634/(Sophie Smith) spawned /obj/item/clothing/shoes/magboots/syndie at (123,76,1)
+[20:31:59]SAY: Bella Baskett/ : You cheesemonger, I&#39;m going to whack you right in the ass. JUST YOU WAIT!
+[20:31:59]SAY: Nova Prechtl/ : Well jerk, this is a okay situation.
+[20:31:59]SAY: Jayson Ramos/ : I&#39;m going to tickle you, you vomit-inducer shitcurity!
+[20:31:59]SAY: George Smail/ : I&#39;m going to beat you, you whoreish greyshirt!
+[20:31:59]SAY: Valentina Roberts/ : Rend and absorb, Rend and poke!
+[20:32:01]EMOTE: Valentina Roberts/ : <B>Valentina Roberts</B> gasps!
+[20:32:01]SAY: Rylie Schrader/ : Rend and mess with, Rend and whack!
+[20:32:04]SAY: Jayson Ramos/ : Rend and pat, Rend and wrench!
+[20:32:04]SAY: George Smail/ : Rend and slap, Rend and whack!
+[20:32:06]EMOTE: Bella Baskett/ : <B>Bella Baskett</B> gasps!
+[20:32:06]SAY: Bella Baskett/ : Rend and grab, Rend and whack!
+[20:32:09]EMOTE: Wayne Khan/ : <B>Wayne Khan</B> collapses!
+[20:32:09]SAY: Rylie Schrader/ : You noob, I&#39;m going to touch you right in the groin. JUST YOU WAIT!
+[20:32:09]SAY: Rylie Schrader/ : Honk until proven bad!
+[20:32:09]SAY: George Smail/ : You whorelord, I&#39;m going to tickle you right in the head. JUST YOU WAIT!
+[20:32:09]SAY: Speckles/ : Well wank, this is a bad situation.
+[20:32:12]SAY: George Smail/ : I&#39;m going to smash you, you whoreish monkey!
+[20:32:14]SAY: Coreen Zadovsky/ : You noob, I&#39;m going to modify you right in the chest. JUST YOU WAIT!
+[20:32:14]SAY: Coreen Zadovsky/ : I want to modify that noob when I find them.
+[20:32:14]SAY: Valentina Roberts/ : Rend and choke, Rend and tackle!
+[20:32:18]EMOTE: Gael Beach/ : <B>Gael Beach</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:32:18]SAY: Rylie Schrader/ : Rend and absorb, Rend and punch!
+[20:32:18]SAY: George Smail/ : You greyshirt, I&#39;m going to punch you right in the nails. JUST YOU WAIT!
+[20:32:18]SAY: Speckles/ : Well bitch, this is a bad situation.
+[20:32:21]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:32:21]EMOTE: Breanne Roby/ : <B>Breanne Roby</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:32:23]EMOTE: Nova Prechtl/ : <B>Nova Prechtl</B> gasps!
+[20:32:23]EMOTE: George Compton/ : <B>George Compton</B> gasps!
+[20:32:23]SAY: Coreen Zadovsky/ : I&#39;m going to smash you, you childish cluwne!
+[20:32:25]SAY: George Smail/ : Oh jerk, that lingbin was one hell of an asian face.
+[20:32:26]GAME: Explosion with size (1, 4, 14, 0) in area Space (105,82,1)
+[20:32:28]SAY: Adam Randolph/ : You bitch, I&#39;m going to tickle you right in the groin. JUST YOU WAIT!
+[20:32:28]SAY: George Smail/ : You greyshirt, I&#39;m going to destroy you right in the nails. JUST YOU WAIT!
+[20:32:31]SAY: Coreen Zadovsky/ : I&#39;m going to beat you, you jerk-face lingbin!
+[20:32:33]SAY: Coreen Zadovsky/ : I want to poke that greyshirt when I find them.
+[20:32:33]SAY: George Smail/ : Oh ass, that whorelord was one hell of an childish groin.
+[20:32:36]EMOTE: Wayne Khan/ : <B>Wayne Khan</B> seizes up and falls limp, his eyes dead and lifeless...
+[20:32:36]SAY: George Compton/ : I&#39;m going to destroy you, you jerk-face cluwne!
+[20:32:41]EMOTE: Madelynn Kepplinger/ : <B>Madelynn Kepplinger</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:32:41]EMOTE: George Compton/ : <B>George Compton</B> coughs!
+[20:32:41]SAY: Nova Prechtl/ : Rend and sneeze on, Rend and tickle!
+[20:32:44]SAY: Adam Randolph/ : I want to assault that comdom when I find them.
+[20:32:46]SAY: Nova Prechtl/ : I&#39;m going to whack you, you childish tator!
+[20:32:49]SAY: George Compton/ : I want to destroy that lingbin when I find them.
+[20:32:49]SAY: Jayson Sullivan/ : Hey you, why dont you go ass jerk damn shit jerk , you greyshirt!
+[20:32:52]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:32:57]EMOTE: Bella Baskett/ : <B>Bella Baskett</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:33:05]SAY: Rylie Schrader/ : You cluwne, I&#39;m going to assault you right in the fingers. JUST YOU WAIT!
+[20:33:07]EMOTE: Rylie Schrader/ : <B>Rylie Schrader</B> twitches violently.
+[20:33:10]EMOTE: Rylie Schrader/ : <B>Rylie Schrader</B> giggles.
+[20:33:10]SAY: Rylie Schrader/ : You monkey, I&#39;m going to assault you right in the intestines. JUST YOU WAIT!
+[20:33:10]SAY: Coreen Zadovsky/ : Rend and sneeze on, Rend and modify!
+[20:33:10]SAY: Adam Randolph/ : Hey officer, why dont you go shit arse damn arse arse , you comdom!
+[20:33:10]SAY: Jayson Ramos/ : Rend and absorb, Rend and beat!
+[20:33:12]EMOTE: Rylie Schrader/ : <B>Rylie Schrader</B> twitches violently.
+[20:33:12]SAY: Adam Randolph/ : Rend and rip, Rend and poke!
+[20:33:12]SAY: Jayson Sullivan/ : I&#39;m going to tickle you, you dumb bitch!
+[20:33:15]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:33:15]SAY: Rylie Schrader/ : Well wank, this is a okay situation.
+[20:33:20]EMOTE: Rylie Schrader/ : <B>Rylie Schrader</B> twitches violently.
+[20:33:20]SAY: Rylie Schrader/ : Guilty until proven okay!
+[20:33:23]SAY: Rylie Schrader/ : I&#39;m going to touch you, you dimwit cluwne!
+[20:33:23]SAY: Coreen Zadovsky/ : I&#39;m going to whack you, you repulsive comdom!
+[20:33:25]EMOTE: Jayson Sullivan/ : <B>Jayson Sullivan</B> gasps!
+[20:33:25]SAY: George Compton/ : Well shit, this is a nice situation.
+[20:33:25]SAY: Jayson Sullivan/ : Rend and absorb, Rend and punch!
+[20:33:26]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
+
+
+Starting up. 20:37.45
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[20:37:48]ADMIN: Loading Banlistjob
+[20:37:48]ADMIN: Loading jobban_rank
+[20:37:48]ADMIN: jobban_keylist was empty
+[20:37:48]ADMIN: Loading appearance_rank
+[20:37:48]ADMIN: appearance_keylist was empty
+[20:37:48]ADMIN: Updating jobbanfile!
+[20:37:48]ADMIN: Loading Banlist
+[20:37:56]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:37:59]ADMIN: Loading Banlistjob
+[20:37:59]ADMIN: Loading jobban_rank
+[20:37:59]ADMIN: jobban_keylist was empty
+[20:37:59]ADMIN: Loading appearance_rank
+[20:37:59]ADMIN: appearance_keylist was empty
+[20:37:59]ADMIN: Updating jobbanfile!
+[20:37:59]ADMIN: Loading Banlist
+[20:37:59]ADMIN: Banlist is empty.
+[20:37:59]ADMIN: Banlist missing base dir.
+[20:38:09]ADMIN: Loading Banlistjob
+[20:38:09]ADMIN: Loading jobban_rank
+[20:38:09]ADMIN: jobban_keylist was empty
+[20:38:09]ADMIN: Loading appearance_rank
+[20:38:09]ADMIN: appearance_keylist was empty
+[20:38:09]ADMIN: Updating jobbanfile!
+[20:38:09]ADMIN: Loading Banlist
+[20:38:09]ADMIN: Banlist is empty.
+[20:38:09]ADMIN: Banlist missing base dir.
+
+
+Starting up. 20:39.28
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[20:39:31]ADMIN: Loading Banlistjob
+[20:39:31]ADMIN: Loading jobban_rank
+[20:39:31]ADMIN: jobban_keylist was empty
+[20:39:31]ADMIN: Loading appearance_rank
+[20:39:31]ADMIN: appearance_keylist was empty
+[20:39:31]ADMIN: Updating jobbanfile!
+[20:39:31]ADMIN: Loading Banlist
+[20:39:38]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:39:43]ADMIN: Loading Banlist
+[20:39:43]ADMIN: Banlist is empty.
+[20:39:43]ADMIN: Banlist missing base dir.
+[20:39:43]ADMIN: Ban Expired: 
+[20:39:43]ADMIN: Invalid Ban.
+[20:39:53]ADMIN: Loading Banlist
+[20:39:53]ADMIN: Banlist is empty.
+[20:39:53]ADMIN: Banlist missing base dir.
+[20:39:53]ADMIN: Ban Expired: 
+[20:39:53]ADMIN: Invalid Ban.
+[20:40:03]ADMIN: Loading Banlist
+[20:40:03]ADMIN: Banlist is empty.
+[20:40:03]ADMIN: Banlist missing base dir.
+[20:40:03]ADMIN: Ban Expired: 
+[20:40:03]ADMIN: Invalid Ban.
+[20:40:12]ADMIN: Loading Banlist
+[20:40:12]ADMIN: Banlist is empty.
+[20:40:12]ADMIN: Banlist missing base dir.
+[20:40:12]ADMIN: Ban Expired: 
+[20:40:12]ADMIN: Invalid Ban.
+[20:40:22]ADMIN: Loading Banlist
+[20:40:22]ADMIN: Banlist is empty.
+[20:40:22]ADMIN: Banlist missing base dir.
+[20:40:22]ADMIN: Ban Expired: 
+[20:40:22]ADMIN: Invalid Ban.
+[20:40:32]ADMIN: Loading Banlist
+[20:40:32]ADMIN: Banlist is empty.
+[20:40:32]ADMIN: Banlist missing base dir.
+[20:40:32]ADMIN: Ban Expired: 
+[20:40:32]ADMIN: Invalid Ban.
+[20:40:42]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+
+
+Starting up. 20:47.07
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[20:47:11]ADMIN: Loading Banlistjob
+[20:47:11]ADMIN: Loading appearance_rank
+[20:47:11]ADMIN: appearance_keylist was empty
+[20:47:11]ADMIN: Updating jobbanfile!
+[20:47:11]ADMIN: Loading Banlist
+[20:47:17]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+
+
+Starting up. 20:50.36
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+[20:51:03]ADMIN: Loading Banlistjob
+[20:51:03]ADMIN: Loading jobban_rank
+[20:51:03]ADMIN: jobban_keylist was empty
+[20:51:03]ADMIN: Loading appearance_rank
+[20:51:03]ADMIN: appearance_keylist was empty
+[20:51:03]ADMIN: Updating jobbanfile!
+[20:51:03]ADMIN: Loading Banlist
+[20:51:26]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:52:13]ADMIN: Tk420634/(Tk420634) has modified world.fps to 16
+[20:52:22]ADMIN: Tk420634/(Tk420634) modified [0x21006ebd] (/datum/configuration)'s run_speed to 2
+[20:52:25]ADMIN: Tk420634/(Tk420634) modified [0x21006ebd] (/datum/configuration)'s walk_speed to 4
+[20:52:36]ADMIN: Tk420634/(Tk420634) set the mode as meteor.
+[20:53:19]ADMIN: Tk420634 has started the game.
+[20:53:23]ACCESS: Logout: *no key*/(Tk420634)
+[20:53:23]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:53:26]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[20:53:26]ACCESS: Logout: *no key*/(Sophie Smith)
+[20:53:26]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:53:33]ADMIN: Tk420634/(Sophie Smith) changed their view range to 14.
+[20:53:39]ADMIN: Tk420634/(Sophie Smith) changed their view range to 7.
+[20:53:42]ADMIN: Tk420634/(Sophie Smith) changed their view range to 128.
+[20:53:57]ADMIN: Tk420634/(Sophie Smith) made all SMESs powered
+[20:53:57]ADMIN: Tk420634/(Sophie Smith) used secret quickpower
+[20:53:58]ADMIN: Tk420634/(Sophie Smith) made all areas powered
+[20:53:58]ADMIN: Tk420634/(Sophie Smith) used secret power
+[20:54:01]ADMIN: Tk420634/(Sophie Smith) used secret whiteout
+[20:54:20]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:54:34]ADMIN: Tk420634/(Sophie Smith) changed their view range to 7.
+[20:54:35]ACCESS: Logout: *no key*/(Sophie Smith)
+[20:54:35]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:54:38]EMOTE: monkey (997)/ : <B>The monkey (997)</B> jumps!
+[20:54:40]SAY: grey baby slime (255)/ : Blop...
+[20:54:40]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:54:51]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Captain.
+[20:55:11]EMOTE: Harambe (607)/ : <B>Harambe (607)</B> jumps!
+[20:56:30]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:56:33]EMOTE: monkey (737)/ : <B>The monkey (737)</B> jumps!
+[20:56:54]SAY: grey baby slime (189)/ : Blorble...
+[20:57:04]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[20:57:25]EMOTE: Frank/ : <B>Frank</B> pants.
+[20:57:40]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[20:57:42]SAY: grey baby slime (189)/ : Lonely...
+[20:57:45]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:57:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:57:47]EMOTE: Harambe (607)/ : <B>Harambe (607)</B> gasps!
+[20:57:47]GAME: Radiation pulse with size (2, 5) and severity 50 in area Escape Shuttle Hallway 
+[20:57:48]GAME: Radiation pulse with size (2, 5) and severity 50 in area Recreational Holodeck 
+[20:57:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:57:49]EMOTE: monkey (756)/ : <B>The monkey (756)</B> gasps!
+[20:57:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Maintenance 
+[20:57:52]EMOTE: monkey (997)/ : <B>The monkey (997)</B> gasps!
+[20:57:53]GAME: SMES deleted at (Engineering SMES)
+[20:57:53]GAME: SMES deleted at (Engineering SMES)
+[20:57:54]EMOTE: monkey (211)/ : <B>The monkey (211)</B> gasps!
+[20:57:54]EMOTE: Harambe (607)/ : <B>Harambe (607)</B> gasps!
+[20:57:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Central Primary Hallway 
+[20:57:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[20:57:57]EMOTE: monkey (756)/ : <B>The monkey (756)</B> gasps!
+[20:57:58]GAME: Radiation pulse with size (2, 5) and severity 50 in area Central Primary Hallway 
+[20:58:00]EMOTE: monkey (756)/ : <B>The monkey (756)</B> gasps!
+[20:58:00]EMOTE: monkey (836)/ : <B>The monkey (836)</B> gasps!
+[20:58:03]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[20:58:03]ACCESS: Logout: *no key*/(Sophie Smith)
+[20:58:03]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[20:58:03]EMOTE: monkey (211)/ : <B>The monkey (211)</B> gasps!
+[20:58:03]GAME: Radiation pulse with size (2, 5) and severity 50 in area Hydroponics 
+[20:58:06]EMOTE: monkey (997)/ : <B>The monkey (997)</B> gasps!
+[20:58:09]ADMIN: Tk420634/(Sophie Smith) changed their view range to 128.
+[20:58:10]EMOTE: monkey (211)/ : <B>The monkey (211)</B> gasps!
+[20:58:10]EMOTE: monkey (997)/ : <B>The monkey (997)</B> gasps!
+[20:58:12]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[20:58:14]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:58:14]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Foyer 
+[20:58:16]EMOTE: monkey (997)/ : <B>The monkey (997)</B> gasps!
+[20:58:18]GAME: Radiation pulse with size (2, 5) and severity 50 in area Slime Biology Lab 
+[20:58:21]EMOTE: monkey (211)/ : <B>The monkey (211)</B> gasps!
+[20:58:27]EMOTE: monkey (211)/ : <B>The monkey (211)</B> gasps!
+[20:58:33]GAME: Radiation pulse with size (2, 5) and severity 50 in area Captain's Office 
+[20:58:36]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:58:44]GAME: Radiation pulse with size (2, 5) and severity 50 in area Aft Primary Hallway 
+[20:59:04]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:59:09]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:59:20]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Shuttle Dock 
+[20:59:31]SAY: Xena/ : Purr!
+[20:59:32]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[20:59:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Primary Hallway 
+[20:59:50]GAME: Radiation pulse with size (2, 5) and severity 50 in area Slime Biology Lab 
+[21:00:03]GAME: Radiation pulse with size (2, 5) and severity 50 in area Escape Pod One 
+[21:00:04]EMOTE: Xena/ : <B>Xena</B> mews
+[21:00:07]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:00:08]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:00:12]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:00:12]GAME: Radiation pulse with size (2, 5) and severity 50 in area Heads of Staff Meeting Room 
+[21:00:20]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[21:00:23]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:00:24]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:00:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Virology 
+[21:00:29]GAME: Radiation pulse with size (2, 5) and severity 50 in area Slime Biology Lab 
+[21:00:49]GAME: Explosion with size (-1, 0, 2, 2) in area Mining Dock (117,158,1)
+[21:00:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Library 
+[21:00:50]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:00:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:00:58]GAME: Radiation pulse with size (2, 5) and severity 50 in area Kitchen 
+[21:01:00]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:01:02]ACCESS: Logout: *no key*/(Sophie Smith)
+[21:01:02]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[21:01:04]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:01:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Locker Room Maintenance 
+[21:01:06]ADMIN: Tk420634/(Sophie Smith) changed their view range to 7.
+[21:01:09]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:01:17]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:01:19]SAY: grey baby slime (189)/ : Rawr...
+[21:01:33]GAME: Radiation pulse with size (2, 5) and severity 50 in area Cargo Bay 
+[21:01:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[21:01:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Captain's Office 
+[21:01:41]GAME: Radiation pulse with size (2, 5) and severity 50 in area Virology 
+[21:01:42]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medbay 
+[21:01:44]GAME: Radiation pulse with size (2, 5) and severity 50 in area Hydroponics 
+[21:01:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Engineering 
+[21:01:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:01:57]GAME: Radiation pulse with size (2, 5) and severity 50 in area Escape Pod Three 
+[21:01:59]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:02:12]EMOTE: Xena/ : <B>Xena</B> shakes its head
+[21:02:15]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> gasps!
+[21:02:24]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[21:02:24]ACCESS: Logout: *no key*/(Sophie Smith)
+[21:02:24]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[21:02:30]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:02:31]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[21:02:31]GAME: There is no means of calling the shuttle anymore. Shuttle automatically called.
+[21:02:33]ADMIN: Tk420634/(Sophie Smith) changed their view range to 128.
+[21:02:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Primary Hallway 
+[21:02:36]EMOTE: Sophie Smith/@Tk420634 : <B>Sophie Smith</B> gasps!
+[21:02:42]EMOTE: Sophie Smith/@Tk420634 : <B>Sophie Smith</B> gasps!
+[21:02:42]GAME: Radiation pulse with size (2, 5) and severity 50 in area Lieutenant's Office 
+[21:02:45]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:02:47]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:02:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:03:02]ACCESS: Logout: *no key*/(Sophie Smith)
+[21:03:02]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[21:03:07]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[21:03:07]ADMIN: Tk420634/(Sophie Smith) changed their view range to 7.
+[21:03:10]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[21:03:10]ACCESS: Logout: *no key*/(Sophie Smith)
+[21:03:10]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[21:03:12]ACCESS: Logout: *no key*/(Sophie Smith)
+[21:03:12]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[21:03:19]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[21:03:19]EMOTE: Sophie Smith/Tk420634 : <B>Sophie Smith</B> gasps!
+[21:03:21]ADMIN: Tk420634/(Sophie Smith) healed / revived Tk420634/(Sophie Smith)
+[21:03:37]ADMIN: Tk420634/(Sophie Smith) admin ghosted
+[21:03:37]ACCESS: Logout: *no key*/(Sophie Smith)
+[21:03:37]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[21:03:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:03:50]ADMIN: Tk420634/(Sophie Smith) changed their view range to 128.
+[21:03:55]EMOTE: Sophie Smith/@Tk420634 : <B>Sophie Smith</B> seizes up and falls limp, her eyes dead and lifeless...
+[21:03:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[21:04:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Recreational Holodeck 
+[21:04:19]GAME: Radiation pulse with size (2, 5) and severity 50 in area Central Primary Hallway 
+[21:04:20]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:04:36]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[21:04:39]GAME: Radiation pulse with size (2, 5) and severity 50 in area Engineering 
+[21:04:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Lieutenant's Office 
+[21:04:57]GAME: Radiation pulse with size (2, 5) and severity 50 in area Heads of Staff Meeting Room 
+[21:05:06]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:05:10]GAME: Radiation pulse with size (2, 5) and severity 50 in area Slime Biology Lab 
+[21:05:28]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:05:30]ADMIN: Tk420634/(Sophie Smith) modified [0x21000004] (Air)'s can_fire to 0
+[21:05:31]GAME: Radiation pulse with size (2, 5) and severity 50 in area Cargo Bay 
+[21:05:33]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[21:05:36]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:05:39]GAME: SMES deleted at (MiniSat Maintenance)
+[21:05:42]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:05:42]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:05:54]GAME: Radiation pulse with size (2, 5) and severity 50 in area Atmospherics 
+[21:06:00]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:06:01]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:06:22]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Primary Hallway 
+[21:06:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Fore Primary Hallway 
+[21:06:30]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:06:32]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:06:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Primary Hallway 
+[21:06:39]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:06:42]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:06:43]EMOTE: monkey (355)/ : <B>The monkey (355)</B> jumps!
+[21:06:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Shuttle Dock 
+[21:07:02]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Primary Hallway 
+[21:07:06]GAME: Radiation pulse with size (2, 5) and severity 50 in area AI Chamber 
+[21:07:12]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medbay 
+[21:07:16]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:07:19]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:07:20]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:07:31]ADMIN: Tk420634/(Sophie Smith) spawned /obj/singularity/narsie/wizard at (122,167,1)
+[21:07:37]GAME: Radiation pulse with size (2, 5) and severity 50 in area Fore Primary Hallway 
+[21:07:54]ADMIN: Tk420634/(Sophie Smith) spawned /obj/singularity/wizard at (122,170,1)
+[21:07:55]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:08:01]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:08:02]GAME: Radiation pulse with size (2, 5) and severity 50 in area Chemistry 
+[21:08:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:08:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:08:29]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Maintenance 
+[21:08:39]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Camp Shuttle 
+[21:08:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medical Research 
+[21:08:48]GAME: Radiation pulse with size (2, 5) and severity 50 in area Slime Biology Lab 
+[21:08:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:08:54]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:08:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:09:05]GAME: Radiation pulse with size (2, 5) and severity 50 in area Mining Dock 
+[21:09:14]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medical Research 
+[21:09:29]GAME: Radiation pulse with size (2, 5) and severity 50 in area AI Chamber 
+[21:09:36]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:09:41]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:09:50]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:09:52]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:09:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:09:59]GAME: Radiation pulse with size (2, 5) and severity 50 in area Aft Primary Hallway 
+[21:10:00]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Maintenance 
+[21:10:09]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:10:39]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medical Research 
+[21:10:41]GAME: Radiation pulse with size (2, 5) and severity 50 in area Locker Room Maintenance 
+[21:10:48]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:10:50]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:11:03]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:11:18]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medbay 
+[21:11:20]ADMIN: Tk420634/(Sophie Smith) modified [0x21000004] (Air)'s can_fire to 1
+[21:11:39]GAME: Radiation pulse with size (2, 5) and severity 50 in area Custodial Closet 
+[21:11:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Slime Biology Lab 
+[21:12:04]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:12:04]EMOTE: monkey (355)/ : <B>The monkey (355)</B> jumps!
+[21:12:09]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[21:12:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:12:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Telecoms Server Room 
+[21:12:28]GAME: Radiation pulse with size (2, 5) and severity 50 in area Locker Room Maintenance 
+[21:12:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:12:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Server Room 
+[21:12:41]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:12:45]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:12:48]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Shuttle Dock 
+[21:13:06]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:13:16]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:13:19]GAME: Radiation pulse with size (2, 5) and severity 50 in area Lieutenant's Office 
+[21:13:22]GAME: Radiation pulse with size (2, 5) and severity 50 in area Engineering SMES 
+[21:13:25]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:13:35]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:13:36]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:13:37]GAME: Radiation pulse with size (2, 5) and severity 50 in area Medbay 
+[21:13:43]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:13:48]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:13:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Escape Pod Two 
+[21:13:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Brig 
+[21:13:59]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:14:17]GAME: Radiation pulse with size (2, 5) and severity 50 in area Central Primary Hallway 
+[21:14:26]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[21:14:37]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:14:38]GAME: Radiation pulse with size (2, 5) and severity 50 in area MiniSat Exterior 
+[21:14:41]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:14:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Locker Room Maintenance 
+[21:14:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:15:09]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[21:15:28]GAME: Radiation pulse with size (2, 5) and severity 50 in area Fore Primary Hallway 
+[21:15:31]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[21:15:40]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)

@@ -1,0 +1,2398 @@
+
+
+Starting up. 12:47.04
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[12:47:07]ADMIN: Loading Banlistjob
+[12:47:07]ADMIN: Loading jobban_rank
+[12:47:07]ADMIN: jobban_keylist was empty
+[12:47:07]ADMIN: Loading appearance_rank
+[12:47:07]ADMIN: appearance_keylist was empty
+[12:47:07]ADMIN: Updating jobbanfile!
+[12:47:07]ADMIN: Loading Banlist
+[12:47:14]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[12:47:23]ADMIN: Loading Banlist
+[12:47:23]ADMIN: Banlist is empty.
+[12:47:23]ADMIN: Banlist missing base dir.
+[12:47:23]ADMIN: Ban Expired: 
+[12:47:23]ADMIN: Invalid Ban.
+[12:47:35]ADMIN: Loading Banlist
+[12:47:35]ADMIN: Banlist is empty.
+[12:47:35]ADMIN: Banlist missing base dir.
+[12:47:35]ADMIN: Ban Expired: 
+[12:47:35]ADMIN: Invalid Ban.
+
+
+Starting up. 13:19.55
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[13:19:58]ADMIN: Loading Banlistjob
+[13:19:58]ADMIN: Loading jobban_rank
+[13:19:58]ADMIN: jobban_keylist was empty
+[13:19:58]ADMIN: Loading appearance_rank
+[13:19:58]ADMIN: appearance_keylist was empty
+[13:19:58]ADMIN: Updating jobbanfile!
+[13:19:58]ADMIN: Loading Banlist
+[13:20:03]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:23:00]ACCESS: Logout: *no key*/(Tk420634)
+[13:23:00]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[13:23:10]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[13:23:28]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/mining at (113,141,1)
+[13:23:30]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[13:23:35]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (114,141,1)
+[13:23:41]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (114,141,1)
+[13:23:46]EMOTE: monkey (877)/ : <B>The monkey (877)</B> jumps!
+[13:23:52]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (114,141,1)
+[13:24:42]EMOTE: monkey (877)/ : <B>The monkey (877)</B> jumps!
+[13:24:54]EMOTE: monkey (816)/ : <B>The monkey (816)</B> jumps!
+[13:24:58]EMOTE: monkey (897)/ : <B>The monkey (897)</B> jumps!
+[13:25:02]EMOTE: monkey (684)/ : <B>The monkey (684)</B> jumps!
+[13:25:08]EMOTE: Frank/ : <B>Frank</B> yaps.
+[13:25:24]ADMIN: Tk420634/(Brick Macmillern) modified sacsuit's icon_state to sacafesuit
+[13:25:37]EMOTE: monkey (801)/ : <B>The monkey (801)</B> jumps!
+[13:25:42]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/mecha/working/ripley at (115,141,1)
+[13:25:51]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (113,142,1)
+[13:25:57]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (114,142,1)
+[13:26:06]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (115,142,1)
+[13:26:13]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (113,140,1)
+[13:26:15]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (114,140,1)
+[13:26:16]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (115,140,1)
+[13:26:44]ADMIN: Tk420634/(Brick Macmillern) modified sacsuit's alternate_worn_icon to sacafesuit
+[13:26:48]EMOTE: monkey (684)/ : <B>The monkey (684)</B> jumps!
+[13:28:11]EMOTE: Frank/ : <B>Frank</B> shivers.
+[13:28:31]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 13:30.39
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[13:30:42]ADMIN: Loading Banlistjob
+[13:30:42]ADMIN: Loading jobban_rank
+[13:30:42]ADMIN: jobban_keylist was empty
+[13:30:42]ADMIN: Loading appearance_rank
+[13:30:42]ADMIN: appearance_keylist was empty
+[13:30:42]ADMIN: Updating jobbanfile!
+[13:30:42]ADMIN: Loading Banlist
+[13:30:49]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:30:52]ADMIN: Loading Banlistjob
+[13:30:52]ADMIN: Loading jobban_rank
+[13:30:52]ADMIN: jobban_keylist was empty
+[13:30:52]ADMIN: Loading appearance_rank
+[13:30:52]ADMIN: appearance_keylist was empty
+[13:30:52]ADMIN: Updating jobbanfile!
+[13:30:52]ADMIN: Loading Banlist
+[13:30:52]ADMIN: Banlist is empty.
+[13:30:52]ADMIN: Banlist missing base dir.
+[13:31:00]ADMIN: Loading Banlistjob
+[13:31:00]ADMIN: Loading jobban_rank
+[13:31:00]ADMIN: jobban_keylist was empty
+[13:31:00]ADMIN: Loading appearance_rank
+[13:31:00]ADMIN: appearance_keylist was empty
+[13:31:00]ADMIN: Updating jobbanfile!
+[13:31:00]ADMIN: Loading Banlist
+[13:31:00]ADMIN: Banlist is empty.
+[13:31:00]ADMIN: Banlist missing base dir.
+Ë	ﬁÈAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[13:33:32]ADMIN: Loading Banlistjob
+[13:33:32]ADMIN: Loading jobban_rank
+[13:33:32]ADMIN: jobban_keylist was empty
+[13:33:32]ADMIN: Loading appearance_rank
+[13:33:32]ADMIN: appearance_keylist was empty
+[13:33:32]ADMIN: Updating jobbanfile!
+[13:33:32]ADMIN: Loading Banlist
+[13:34:10]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:34:53]ADMIN: Tk420634 has started the game.
+[13:35:13]ACCESS: Logout: *no key*/(Tk420634)
+[13:35:13]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[13:35:21]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[13:35:25]EMOTE: Xena/ : <B>Xena</B> mews
+[13:35:37]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/mining at (113,142,1)
+[13:35:40]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (114,142,1)
+[13:35:42]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[13:36:01]EMOTE: monkey (740)/ : <B>The monkey (740)</B> jumps!
+[13:36:59]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[13:37:09]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/mecha/working/ripley at (115,142,1)
+[13:37:16]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (114,141,1)
+[13:37:18]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (113,141,1)
+[13:37:19]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (115,141,1)
+[13:37:19]SAY: grey baby slime (198)/ : Lonely...
+[13:37:53]EMOTE: monkey (740)/ : <B>The monkey (740)</B> jumps!
+[13:38:26]SAY: Xena/ : Meow!
+[13:38:46]EMOTE: monkey (147)/ : <B>The monkey (147)</B> jumps!
+[13:39:08]SAY: grey baby slime (198)/ : Rawr...
+[13:39:26]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[13:40:25]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[13:40:27]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[13:40:29]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 13:43.47
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[13:43:49]ADMIN: Loading Banlistjob
+[13:43:49]ADMIN: Loading jobban_rank
+[13:43:49]ADMIN: jobban_keylist was empty
+[13:43:49]ADMIN: Loading appearance_rank
+[13:43:49]ADMIN: appearance_keylist was empty
+[13:43:49]ADMIN: Updating jobbanfile!
+[13:43:49]ADMIN: Loading Banlist
+[13:43:55]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:43:58]ADMIN: Loading Banlistjob
+[13:43:58]ADMIN: Loading jobban_rank
+[13:43:58]ADMIN: jobban_keylist was empty
+[13:43:58]ADMIN: Loading appearance_rank
+[13:43:58]ADMIN: appearance_keylist was empty
+[13:43:58]ADMIN: Updating jobbanfile!
+[13:43:58]ADMIN: Loading Banlist
+[13:43:58]ADMIN: Banlist is empty.
+[13:43:58]ADMIN: Banlist missing base dir.
+[13:44:04]ADMIN: Loading Banlistjob
+[13:44:04]ADMIN: Loading jobban_rank
+[13:44:04]ADMIN: jobban_keylist was empty
+[13:44:04]ADMIN: Loading appearance_rank
+[13:44:04]ADMIN: appearance_keylist was empty
+[13:44:04]ADMIN: Updating jobbanfile!
+[13:44:04]ADMIN: Loading Banlist
+[13:44:04]ADMIN: Banlist is empty.
+[13:44:04]ADMIN: Banlist missing base dir.
+
+
+Starting up. 13:46.22
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[13:46:23]ADMIN: Loading Banlistjob
+[13:46:23]ADMIN: Loading jobban_rank
+[13:46:23]ADMIN: jobban_keylist was empty
+[13:46:24]ADMIN: Loading appearance_rank
+[13:46:24]ADMIN: appearance_keylist was empty
+[13:46:24]ADMIN: Updating jobbanfile!
+[13:46:24]ADMIN: Loading Banlist
+[13:46:31]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:46:34]ADMIN: Loading appearance_rank
+[13:46:34]ADMIN: appearance_keylist was empty
+[13:46:34]ADMIN: Loading Banlist
+[13:46:34]ADMIN: Banlist is empty.
+[13:46:34]ADMIN: Banlist missing base dir.
+[13:46:47]ADMIN: Loading appearance_rank
+[13:46:47]ADMIN: appearance_keylist was empty
+[13:46:47]ADMIN: Loading Banlist
+[13:46:47]ADMIN: Banlist is empty.
+[13:46:47]ADMIN: Banlist missing base dir.
+
+
+Starting up. 13:49.42
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[13:49:44]ADMIN: Loading Banlistjob
+[13:49:44]ADMIN: Loading jobban_rank
+[13:49:44]ADMIN: jobban_keylist was empty
+[13:49:44]ADMIN: Loading appearance_rank
+[13:49:44]ADMIN: appearance_keylist was empty
+[13:49:44]ADMIN: Updating jobbanfile!
+[13:49:44]ADMIN: Loading Banlist
+[13:49:51]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:51:41]ADMIN: Tk420634 has started the game.
+[13:51:47]ACCESS: Logout: *no key*/(Tk420634)
+[13:51:47]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[13:51:58]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[13:52:25]EMOTE: monkey (46)/ : <B>The monkey (46)</B> jumps!
+[13:52:43]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (113,142,1)
+[13:53:04]EMOTE: monkey (890)/ : <B>The monkey (890)</B> jumps!
+[13:53:08]EMOTE: monkey (46)/ : <B>The monkey (46)</B> jumps!
+[13:53:16]EMOTE: monkey (425)/ : <B>The monkey (425)</B> jumps!
+[13:53:20]EMOTE: monkey (971)/ : <B>The monkey (971)</B> jumps!
+[13:53:27]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (112,142,1)
+[13:53:29]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (113,143,1)
+[13:53:30]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (113,142,1)
+[13:53:30]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (114,142,1)
+[13:53:31]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (114,141,1)
+[13:53:32]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/asteroid/goliath_hide at (113,141,1)
+[13:54:10]EMOTE: monkey (971)/ : <B>The monkey (971)</B> jumps!
+[13:54:47]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[13:54:57]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[13:55:29]SAY: grey baby slime (649)/ : Rawr...
+[13:55:31]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[13:55:49]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[13:56:01]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[13:56:05]EMOTE: Poly/ : <B>Poly</B> squawks.
+[13:57:11]ADMIN: Tk420634/(Brick Macmillern) modified Brick Macmillern's dir to 180
+[13:57:31]ADMIN: Tk420634/(Brick Macmillern) modified Brick Macmillern's dir to 2
+[13:59:50]EMOTE: Chester (765)/ : <B>Chester (765)</B> jumps!
+[13:59:52]EMOTE: monkey (161)/ : <B>The monkey (161)</B> jumps!
+[14:00:02]SAY: Frank/ : Woof!
+[14:00:06]EMOTE: Frank/ : <B>Frank</B> barks!
+[14:00:39]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[14:01:05]EMOTE: monkey (161)/ : <B>The monkey (161)</B> jumps!
+[14:01:17]EMOTE: monkey (161)/ : <B>The monkey (161)</B> jumps!
+[14:01:25]EMOTE: monkey (890)/ : <B>The monkey (890)</B> jumps!
+[14:01:46]EMOTE: monkey (890)/ : <B>The monkey (890)</B> jumps!
+[14:01:50]SAY: grey baby slime (245)/ : Rawr...
+[14:02:06]SAY: grey baby slime (649)/ : Lonely...
+[14:02:12]EMOTE: Xena/ : <B>Xena</B> meows
+[14:02:18]SAY: Poly/ : Poly wanna cracker!
+[14:02:20]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[14:02:22]EMOTE: Poly/ : <B>Poly</B> squawks.
+[14:02:44]EMOTE: monkey (971)/ : <B>The monkey (971)</B> jumps!
+[14:02:53]SAY: grey baby slime (649)/ : Rawr...
+[14:03:39]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:04:18]EMOTE: Frank/ : <B>Frank</B> shivers.
+[14:04:38]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 14:07.51
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[14:07:53]ADMIN: Loading Banlistjob
+[14:07:53]ADMIN: Loading jobban_rank
+[14:07:53]ADMIN: jobban_keylist was empty
+[14:07:53]ADMIN: Loading appearance_rank
+[14:07:53]ADMIN: appearance_keylist was empty
+[14:07:53]ADMIN: Updating jobbanfile!
+[14:07:53]ADMIN: Loading Banlist
+[14:08:01]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:08:05]ADMIN: Loading Banlist
+[14:08:05]ADMIN: Banlist is empty.
+[14:08:05]ADMIN: Banlist missing base dir.
+[14:08:05]ADMIN: Ban Expired: 
+[14:08:05]ADMIN: Invalid Ban.
+[14:08:11]ADMIN: Loading Banlist
+[14:08:11]ADMIN: Banlist is empty.
+[14:08:11]ADMIN: Banlist missing base dir.
+[14:08:11]ADMIN: Ban Expired: 
+[14:08:11]ADMIN: Invalid Ban.
+[14:08:17]ADMIN: Loading Banlist
+[14:08:17]ADMIN: Banlist is empty.
+[14:08:17]ADMIN: Banlist missing base dir.
+[14:08:17]ADMIN: Ban Expired: 
+[14:08:17]ADMIN: Invalid Ban.
+[14:08:24]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[14:08:24]ADMIN: Loading Banlist
+[14:08:24]ADMIN: Banlist is empty.
+[14:08:24]ADMIN: Banlist missing base dir.
+[14:08:24]ADMIN: Ban Expired: 
+[14:08:24]ADMIN: Invalid Ban.
+
+
+Starting up. 14:14.20
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[14:14:22]ADMIN: Loading Banlistjob
+[14:14:22]ADMIN: Loading jobban_rank
+[14:14:22]ADMIN: jobban_keylist was empty
+[14:14:22]ADMIN: Loading appearance_rank
+[14:14:22]ADMIN: appearance_keylist was empty
+[14:14:22]ADMIN: Updating jobbanfile!
+[14:14:22]ADMIN: Loading Banlist
+[14:14:30]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:15:28]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+
+
+Starting up. 14:21.04
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[14:21:06]ADMIN: Loading Banlistjob
+[14:21:06]ADMIN: Loading jobban_rank
+[14:21:06]ADMIN: jobban_keylist was empty
+[14:21:06]ADMIN: Loading appearance_rank
+[14:21:06]ADMIN: appearance_keylist was empty
+[14:21:06]ADMIN: Updating jobbanfile!
+[14:21:06]ADMIN: Loading Banlist
+[14:21:11]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:21:20]ADMIN: Loading appearance_rank
+[14:21:20]ADMIN: appearance_keylist was empty
+[14:21:20]ADMIN: Loading Banlist
+[14:21:20]ADMIN: Banlist is empty.
+[14:21:20]ADMIN: Banlist missing base dir.
+[14:21:31]ADMIN: Loading appearance_rank
+[14:21:31]ADMIN: appearance_keylist was empty
+[14:21:31]ADMIN: Loading Banlist
+[14:21:31]ADMIN: Banlist is empty.
+[14:21:31]ADMIN: Banlist missing base dir.
+[14:21:39]ADMIN: Loading appearance_rank
+[14:21:39]ADMIN: appearance_keylist was empty
+[14:21:39]ADMIN: Loading Banlist
+[14:21:39]ADMIN: Banlist is empty.
+[14:21:39]ADMIN: Banlist missing base dir.
+[14:21:48]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[14:21:48]ADMIN: Loading appearance_rank
+[14:21:48]ADMIN: appearance_keylist was empty
+[14:21:48]ADMIN: Loading Banlist
+[14:21:48]ADMIN: Banlist is empty.
+[14:21:48]ADMIN: Banlist missing base dir.
+`ÛrAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[14:23:53]ADMIN: Loading Banlistjob
+[14:23:53]ADMIN: Loading jobban_rank
+[14:23:53]ADMIN: jobban_keylist was empty
+[14:23:53]ADMIN: Loading appearance_rank
+[14:23:53]ADMIN: appearance_keylist was empty
+[14:23:53]ADMIN: Updating jobbanfile!
+[14:23:53]ADMIN: Loading Banlist
+[14:24:04]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:25:03]ADMIN: Tk420634 has started the game.
+[14:25:09]ACCESS: Logout: *no key*/(Tk420634)
+[14:25:09]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[14:25:23]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[14:25:28]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[14:25:33]EMOTE: monkey (594)/ : <B>The monkey (594)</B> jumps!
+[14:25:35]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (112,142,1)
+[14:26:05]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 14:34.48
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[14:34:53]ADMIN: Loading Banlistjob
+[14:34:53]ADMIN: Loading jobban_rank
+[14:34:53]ADMIN: jobban_keylist was empty
+[14:34:53]ADMIN: Loading appearance_rank
+[14:34:53]ADMIN: appearance_keylist was empty
+[14:34:53]ADMIN: Updating jobbanfile!
+[14:34:53]ADMIN: Loading Banlist
+[14:35:01]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:37:12]ADMIN: Tk420634 has started the game.
+[14:37:18]ACCESS: Logout: *no key*/(Tk420634)
+[14:37:18]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[14:37:23]GAME: *null* has triggered a gibtonite deposit reaction at Mine (67, 15, 5).
+[14:37:44]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[14:37:46]EMOTE: monkey (785)/ : <B>The monkey (785)</B> jumps!
+[14:37:55]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[14:38:09]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/head/helmet/space/hardsuit/miningsacafe at (113,142,1)
+[14:38:15]ADMIN: Tk420634/(Brick Macmillern) deleted McMullens Helment at (113,142,1)
+[14:38:19]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (113,142,1)
+[14:38:30]EMOTE: monkey (104)/ : <B>The monkey (104)</B> jumps!
+[14:39:00]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 14:50.25
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[14:50:27]ADMIN: Loading Banlistjob
+[14:50:27]ADMIN: Loading jobban_rank
+[14:50:27]ADMIN: jobban_keylist was empty
+[14:50:27]ADMIN: Loading appearance_rank
+[14:50:27]ADMIN: appearance_keylist was empty
+[14:50:27]ADMIN: Updating jobbanfile!
+[14:50:27]ADMIN: Loading Banlist
+[14:50:32]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[14:51:34]ADMIN: Tk420634 has started the game.
+[14:51:38]ACCESS: Logout: *no key*/(Tk420634)
+[14:51:38]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[14:51:50]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[14:52:09]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (112,142,1)
+[14:52:38]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 17:14.52
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[17:14:56]ADMIN: Loading Banlistjob
+[17:14:56]ADMIN: Loading jobban_rank
+[17:14:56]ADMIN: jobban_keylist was empty
+[17:14:56]ADMIN: Loading appearance_rank
+[17:14:56]ADMIN: appearance_keylist was empty
+[17:14:56]ADMIN: Updating jobbanfile!
+[17:14:56]ADMIN: Loading Banlist
+[17:15:08]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[17:15:59]ADMIN: Tk420634 has started the game.
+[17:16:03]ACCESS: Logout: *no key*/(Tk420634)
+[17:16:03]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[17:16:11]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[17:16:19]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (122,157,1)
+[17:16:39]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[17:16:39]EMOTE: monkey (895)/ : <B>The monkey (895)</B> jumps!
+[17:16:41]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+éï$ÈAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[17:21:54]ADMIN: Loading Banlistjob
+[17:21:54]ADMIN: Loading jobban_rank
+[17:21:54]ADMIN: jobban_keylist was empty
+[17:21:54]ADMIN: Loading appearance_rank
+[17:21:54]ADMIN: appearance_keylist was empty
+[17:21:54]ADMIN: Updating jobbanfile!
+[17:21:54]ADMIN: Loading Banlist
+[17:22:10]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[17:22:54]ADMIN: Tk420634 has started the game.
+[17:23:00]ACCESS: Logout: *no key*/(Tk420634)
+[17:23:00]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[17:23:09]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (120,161,1)
+[17:23:09]SAY: grey baby slime (782)/ : Lonely...
+[17:23:15]SAY: grey baby slime (782)/ : Blorble...
+[17:23:21]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+©∑ÀËAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[17:30:37]ADMIN: Loading Banlistjob
+[17:30:37]ADMIN: Loading jobban_rank
+[17:30:37]ADMIN: jobban_keylist was empty
+[17:30:37]ADMIN: Loading appearance_rank
+[17:30:37]ADMIN: appearance_keylist was empty
+[17:30:37]ADMIN: Updating jobbanfile!
+[17:30:38]ADMIN: Loading Banlist
+[17:30:44]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[17:31:27]ADMIN: Tk420634 has started the game.
+[17:31:31]ACCESS: Logout: *no key*/(Tk420634)
+[17:31:31]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[17:31:41]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[17:31:43]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[17:31:45]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[17:31:54]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (122,157,1)
+[17:32:03]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 17:41.55
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[17:41:57]ADMIN: Loading Banlistjob
+[17:41:57]ADMIN: Loading jobban_rank
+[17:41:57]ADMIN: jobban_keylist was empty
+[17:41:57]ADMIN: Loading appearance_rank
+[17:41:57]ADMIN: appearance_keylist was empty
+[17:41:57]ADMIN: Updating jobbanfile!
+[17:41:57]ADMIN: Loading Banlist
+[17:42:02]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[17:42:06]ADMIN: Loading appearance_rank
+[17:42:06]ADMIN: appearance_keylist was empty
+[17:42:06]ADMIN: Loading Banlist
+[17:42:06]ADMIN: Banlist is empty.
+[17:42:06]ADMIN: Banlist missing base dir.
+[17:42:08]ADMIN: Loading appearance_rank
+[17:42:08]ADMIN: appearance_keylist was empty
+[17:42:08]ADMIN: Loading Banlist
+[17:42:08]ADMIN: Banlist is empty.
+[17:42:08]ADMIN: Banlist missing base dir.
+[17:42:14]ADMIN: Loading appearance_rank
+[17:42:14]ADMIN: appearance_keylist was empty
+[17:42:14]ADMIN: Loading Banlist
+[17:42:14]ADMIN: Banlist is empty.
+[17:42:14]ADMIN: Banlist missing base dir.
+[17:42:21]ADMIN: Loading appearance_rank
+[17:42:21]ADMIN: appearance_keylist was empty
+[17:42:21]ADMIN: Loading Banlist
+[17:42:21]ADMIN: Banlist is empty.
+[17:42:21]ADMIN: Banlist missing base dir.
+[17:42:28]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+7Â”ËAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[17:45:24]ADMIN: Loading Banlistjob
+[17:45:24]ADMIN: Loading jobban_rank
+[17:45:24]ADMIN: jobban_keylist was empty
+[17:45:24]ADMIN: Loading appearance_rank
+[17:45:24]ADMIN: appearance_keylist was empty
+[17:45:24]ADMIN: Updating jobbanfile!
+[17:45:24]ADMIN: Loading Banlist
+[17:45:29]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[17:46:08]ADMIN: Tk420634 has started the game.
+[17:46:12]ACCESS: Logout: *no key*/(Tk420634)
+[17:46:12]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[17:46:20]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/head/helmet/space/hardsuit/miningsacafe at (120,160,1)
+[17:46:27]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[17:46:31]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (120,160,1)
+[17:46:44]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 17:58.32
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+[17:58:33]ADMIN: Loading Banlistjob
+[17:58:34]ADMIN: Loading jobban_rank
+[17:58:34]ADMIN: jobban_keylist was empty
+[17:58:34]ADMIN: Loading appearance_rank
+[17:58:34]ADMIN: appearance_keylist was empty
+[17:58:34]ADMIN: Updating jobbanfile!
+[17:58:34]ADMIN: Loading Banlist
+[17:58:42]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[17:58:46]ADMIN: Loading appearance_rank
+[17:58:46]ADMIN: appearance_keylist was empty
+[17:58:46]ADMIN: Loading Banlist
+[17:58:46]ADMIN: Banlist is empty.
+[17:58:46]ADMIN: Banlist missing base dir.
+[17:58:52]ADMIN: Loading appearance_rank
+[17:58:52]ADMIN: appearance_keylist was empty
+[17:58:52]ADMIN: Loading Banlist
+[17:58:52]ADMIN: Banlist is empty.
+[17:58:52]ADMIN: Banlist missing base dir.
+[17:58:59]ADMIN: Loading appearance_rank
+[17:58:59]ADMIN: appearance_keylist was empty
+[17:58:59]ADMIN: Loading Banlist
+[17:58:59]ADMIN: Banlist is empty.
+[17:58:59]ADMIN: Banlist missing base dir.
+[17:59:06]ADMIN: Loading appearance_rank
+[17:59:06]ADMIN: appearance_keylist was empty
+[17:59:06]ADMIN: Loading Banlist
+[17:59:06]ADMIN: Banlist is empty.
+[17:59:06]ADMIN: Banlist missing base dir.
+[17:59:14]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[17:59:14]ADMIN: Loading appearance_rank
+[17:59:14]ADMIN: appearance_keylist was empty
+[17:59:14]ADMIN: Loading Banlist
+[17:59:14]ADMIN: Banlist is empty.
+[17:59:14]ADMIN: Banlist missing base dir.
+
+
+Starting up. 18:02.25
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:02:28]ADMIN: Loading Banlistjob
+[18:02:28]ADMIN: Loading jobban_rank
+[18:02:28]ADMIN: jobban_keylist was empty
+[18:02:28]ADMIN: Loading appearance_rank
+[18:02:28]ADMIN: appearance_keylist was empty
+[18:02:28]ADMIN: Updating jobbanfile!
+[18:02:28]ADMIN: Loading Banlist
+[18:02:35]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:02:38]ADMIN: Loading appearance_rank
+[18:02:38]ADMIN: appearance_keylist was empty
+[18:02:38]ADMIN: Loading Banlist
+[18:02:38]ADMIN: Banlist is empty.
+[18:02:38]ADMIN: Banlist missing base dir.
+[18:02:45]ADMIN: Loading appearance_rank
+[18:02:45]ADMIN: appearance_keylist was empty
+[18:02:45]ADMIN: Loading Banlist
+[18:02:45]ADMIN: Banlist is empty.
+[18:02:45]ADMIN: Banlist missing base dir.
+
+
+Starting up. 18:06.43
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Saved mode is 'extended'
+[18:06:49]ADMIN: Loading Banlistjob
+[18:06:49]ADMIN: Loading jobban_rank
+[18:06:49]ADMIN: jobban_keylist was empty
+[18:06:49]ADMIN: Loading appearance_rank
+[18:06:49]ADMIN: appearance_keylist was empty
+[18:06:49]ADMIN: Updating jobbanfile!
+[18:06:49]ADMIN: Loading Banlist
+[18:06:56]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:07:49]ADMIN: Tk420634 has started the game.
+[18:07:54]ACCESS: Logout: *no key*/(Tk420634)
+[18:07:54]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:08:00]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[18:08:09]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:08:11]EMOTE: Xena/ : <B>Xena</B> meows
+[18:08:13]ADMIN: Tk420634/(Brick Macmillern) admin ghosted
+[18:08:13]ACCESS: Logout: *no key*/(Brick Macmillern)
+[18:08:13]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:08:16]GAME: Brick Macmillern/Tk420634 used respawn.(Was Playing)
+[18:08:16]GAME: Brick Macmillern/Tk420634 used abandon mob.
+[18:08:16]ACCESS: Logout: *no key*/(Brick Macmillern)
+[18:08:16]ACCESS: Login: Tk420634/(new player) from localhost-4019019304 || BYOND v509
+[18:08:39]ACCESS: Logout: Tk420634[DC]/(new player)
+\Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:11:24]ADMIN: Loading Banlistjob
+[18:11:24]ADMIN: Loading jobban_rank
+[18:11:24]ADMIN: jobban_keylist was empty
+[18:11:24]ADMIN: Loading appearance_rank
+[18:11:24]ADMIN: appearance_keylist was empty
+[18:11:24]ADMIN: Updating jobbanfile!
+[18:11:24]ADMIN: Loading Banlist
+[18:11:29]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:11:32]ADMIN: Loading Banlistjob
+[18:11:32]ADMIN: Loading jobban_rank
+[18:11:32]ADMIN: jobban_keylist was empty
+[18:11:32]ADMIN: Loading appearance_rank
+[18:11:32]ADMIN: appearance_keylist was empty
+[18:11:32]ADMIN: Updating jobbanfile!
+[18:11:32]ADMIN: Loading Banlist
+[18:11:32]ADMIN: Banlist is empty.
+[18:11:32]ADMIN: Banlist missing base dir.
+[18:11:38]ADMIN: Loading Banlistjob
+[18:11:38]ADMIN: Loading jobban_rank
+[18:11:38]ADMIN: jobban_keylist was empty
+[18:11:38]ADMIN: Loading appearance_rank
+[18:11:38]ADMIN: appearance_keylist was empty
+[18:11:38]ADMIN: Updating jobbanfile!
+[18:11:38]ADMIN: Loading Banlist
+[18:11:38]ADMIN: Banlist is empty.
+[18:11:38]ADMIN: Banlist missing base dir.
+[18:12:03]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+
+
+Starting up. 18:14.03
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:14:06]ADMIN: Loading Banlistjob
+[18:14:06]ADMIN: Banlistjob is empty.
+[18:14:06]ADMIN: Banlistjob missing base dir.
+[18:14:06]ADMIN: Loading jobban_rank
+[18:14:06]ADMIN: jobban_keylist was empty
+[18:14:07]ADMIN: Loading appearance_rank
+[18:14:07]ADMIN: appearance_keylist was empty
+[18:14:07]ADMIN: Updating jobbanfile!
+[18:14:07]ADMIN: Loading Banlist
+[18:14:11]ADMIN: Loading Banlistjob
+[18:14:11]ADMIN: Banlistjob is empty.
+[18:14:11]ADMIN: Banlistjob missing base dir.
+[18:14:11]ADMIN: Loading jobban_rank
+[18:14:11]ADMIN: jobban_keylist was empty
+[18:14:11]ADMIN: Loading appearance_rank
+[18:14:11]ADMIN: appearance_keylist was empty
+[18:14:11]ADMIN: Updating jobbanfile!
+[18:14:11]ADMIN: Loading Banlist
+[18:14:11]ADMIN: Banlist is empty.
+[18:14:11]ADMIN: Banlist missing base dir.
+[18:14:17]ADMIN: Loading jobban_rank
+[18:14:17]ADMIN: jobban_keylist was empty
+[18:14:17]ADMIN: Loading appearance_rank
+[18:14:17]ADMIN: appearance_keylist was empty
+[18:14:17]ADMIN: Updating jobbanfile!
+[18:14:17]ADMIN: Loading Banlist
+[18:14:17]ADMIN: Banlist is empty.
+[18:14:17]ADMIN: Banlist missing base dir.
+n#	íÈAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:15:14]ADMIN: Loading Banlistjob
+[18:15:14]ADMIN: Loading jobban_rank
+[18:15:14]ADMIN: jobban_keylist was empty
+[18:15:14]ADMIN: Loading appearance_rank
+[18:15:14]ADMIN: appearance_keylist was empty
+[18:15:14]ADMIN: Updating jobbanfile!
+[18:15:14]ADMIN: Loading Banlist
+[18:15:48]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:16:38]ADMIN: Tk420634 has started the game.
+[18:16:42]ACCESS: Logout: *no key*/(Tk420634)
+[18:16:42]ACCESS: Login: Tk420634/(Ruddar Studic) from localhost-4019019304 || BYOND v509
+[18:16:53]EMOTE: Poly/ : <B>Poly</B> squawks.
+[18:16:54]ADMIN: Tk420634/(Ruddar Studic) admin ghosted
+[18:16:54]ACCESS: Logout: *no key*/(Ruddar Studic)
+[18:16:54]ACCESS: Login: Tk420634/(Ruddar Studic) from localhost-4019019304 || BYOND v509
+[18:16:57]GAME: Ruddar Studic/Tk420634 used respawn.(Was Playing)
+[18:16:57]GAME: Ruddar Studic/Tk420634 used abandon mob.
+[18:16:57]ACCESS: Logout: *no key*/(Ruddar Studic)
+[18:16:57]ACCESS: Login: Tk420634/(new player) from localhost-4019019304 || BYOND v509
+[18:17:08]ACCESS: Logout: *no key*/(new player)
+[18:17:08]ACCESS: Login: Tk420634/(Ruddar Studic) from localhost-4019019304 || BYOND v509
+[18:17:13]GAME: Ruddar Studic/Tk420634 used respawn.(Was Not Playing)
+[18:17:13]GAME: Ruddar Studic/Tk420634 used abandon mob.
+[18:17:13]ACCESS: Logout: *no key*/(Ruddar Studic)
+[18:17:13]ACCESS: Login: Tk420634/(new player) from localhost-4019019304 || BYOND v509
+[18:17:22]ACCESS: Logout: *no key*/(new player)
+[18:17:22]ACCESS: Login: Tk420634/(Ruddar Studic) from localhost-4019019304 || BYOND v509
+[18:17:47]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:17:54]ADMIN: Tk420634/(Ruddar Studic) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (112,147,1)
+[18:18:08]ACCESS: Logout: Tk420634[DC]/(Ruddar Studic)
+
+
+Starting up. 18:23.37
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:23:39]ADMIN: Loading Banlistjob
+[18:23:39]ADMIN: Loading jobban_rank
+[18:23:39]ADMIN: jobban_keylist was empty
+[18:23:39]ADMIN: Loading appearance_rank
+[18:23:39]ADMIN: appearance_keylist was empty
+[18:23:39]ADMIN: Updating jobbanfile!
+[18:23:39]ADMIN: Loading Banlist
+[18:23:45]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:23:48]ADMIN: Loading Banlistjob
+[18:23:48]ADMIN: Loading jobban_rank
+[18:23:48]ADMIN: jobban_keylist was empty
+[18:23:48]ADMIN: Loading appearance_rank
+[18:23:48]ADMIN: appearance_keylist was empty
+[18:23:48]ADMIN: Updating jobbanfile!
+[18:23:48]ADMIN: Loading Banlist
+[18:23:48]ADMIN: Banlist is empty.
+[18:23:48]ADMIN: Banlist missing base dir.
+[18:23:54]ADMIN: Loading Banlistjob
+[18:23:54]ADMIN: Loading jobban_rank
+[18:23:54]ADMIN: jobban_keylist was empty
+[18:23:54]ADMIN: Loading appearance_rank
+[18:23:54]ADMIN: appearance_keylist was empty
+[18:23:54]ADMIN: Updating jobbanfile!
+[18:23:54]ADMIN: Loading Banlist
+[18:23:54]ADMIN: Banlist is empty.
+[18:23:54]ADMIN: Banlist missing base dir.
+[18:24:02]ADMIN: Loading Banlistjob
+[18:24:02]ADMIN: Loading jobban_rank
+[18:24:02]ADMIN: jobban_keylist was empty
+[18:24:02]ADMIN: Loading appearance_rank
+[18:24:02]ADMIN: appearance_keylist was empty
+[18:24:02]ADMIN: Updating jobbanfile!
+[18:24:02]ADMIN: Loading Banlist
+[18:24:02]ADMIN: Banlist is empty.
+[18:24:02]ADMIN: Banlist missing base dir.
+[18:24:10]ADMIN: Loading Banlistjob
+[18:24:10]ADMIN: Loading jobban_rank
+[18:24:10]ADMIN: jobban_keylist was empty
+[18:24:10]ADMIN: Loading appearance_rank
+[18:24:10]ADMIN: appearance_keylist was empty
+[18:24:10]ADMIN: Updating jobbanfile!
+[18:24:10]ADMIN: Loading Banlist
+[18:24:10]ADMIN: Banlist is empty.
+[18:24:10]ADMIN: Banlist missing base dir.
+[18:24:19]ADMIN: Loading Banlistjob
+[18:24:19]ADMIN: Loading jobban_rank
+[18:24:19]ADMIN: jobban_keylist was empty
+[18:24:19]ADMIN: Loading appearance_rank
+[18:24:19]ADMIN: appearance_keylist was empty
+[18:24:19]ADMIN: Updating jobbanfile!
+[18:24:19]ADMIN: Loading Banlist
+[18:24:19]ADMIN: Banlist is empty.
+[18:24:19]ADMIN: Banlist missing base dir.
+[18:24:28]ADMIN: Loading Banlistjob
+[18:24:28]ADMIN: Loading jobban_rank
+[18:24:28]ADMIN: jobban_keylist was empty
+[18:24:28]ADMIN: Loading appearance_rank
+[18:24:28]ADMIN: appearance_keylist was empty
+[18:24:28]ADMIN: Updating jobbanfile!
+[18:24:28]ADMIN: Loading Banlist
+[18:24:28]ADMIN: Banlist is empty.
+[18:24:28]ADMIN: Banlist missing base dir.
+[18:24:38]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:26:55]ADMIN: Loading Banlistjob
+[18:26:55]ADMIN: Loading jobban_rank
+[18:26:55]ADMIN: jobban_keylist was empty
+[18:26:55]ADMIN: Loading appearance_rank
+[18:26:55]ADMIN: appearance_keylist was empty
+[18:26:55]ADMIN: Updating jobbanfile!
+[18:26:55]ADMIN: Loading Banlist
+[18:27:02]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:27:44]ADMIN: Tk420634 has started the game.
+[18:27:49]ACCESS: Logout: *no key*/(Tk420634)
+[18:27:49]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:27:58]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[18:28:03]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (120,162,1)
+[18:28:05]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[18:28:36]EMOTE: monkey (908)/ : <B>The monkey (908)</B> jumps!
+[18:28:42]EMOTE: monkey (577)/ : <B>The monkey (577)</B> jumps!
+[18:28:49]SAY: Xena/ : Esp!
+[18:28:53]EMOTE: monkey (687)/ : <B>The monkey (687)</B> jumps!
+[18:29:05]SAY: Frank/ : Bark!
+[18:30:18]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 18:40.18
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:40:20]ADMIN: Loading Banlistjob
+[18:40:20]ADMIN: Loading jobban_rank
+[18:40:20]ADMIN: jobban_keylist was empty
+[18:40:20]ADMIN: Loading appearance_rank
+[18:40:20]ADMIN: appearance_keylist was empty
+[18:40:20]ADMIN: Updating jobbanfile!
+[18:40:20]ADMIN: Loading Banlist
+[18:40:31]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:41:17]ADMIN: Tk420634 has started the game.
+[18:41:21]ACCESS: Logout: *no key*/(Tk420634)
+[18:41:21]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:41:29]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (120,161,1)
+[18:41:38]SAY: Xena/ : HSSSSS
+[18:42:10]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 18:44.07
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Saved mode is 'extended'
+[18:44:11]ADMIN: Loading Banlistjob
+[18:44:11]ADMIN: Loading jobban_rank
+[18:44:11]ADMIN: jobban_keylist was empty
+[18:44:11]ADMIN: Loading appearance_rank
+[18:44:11]ADMIN: appearance_keylist was empty
+[18:44:11]ADMIN: Updating jobbanfile!
+[18:44:11]ADMIN: Loading Banlist
+[18:44:16]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:45:41]ADMIN: Tk420634 has started the game.
+[18:45:45]ACCESS: Logout: *no key*/(Tk420634)
+[18:45:45]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:45:52]EMOTE: monkey (145)/ : <B>The monkey (145)</B> jumps!
+[18:45:53]ADMIN: Tk420634/(Brick Macmillern) admin ghosted
+[18:45:53]ACCESS: Logout: *no key*/(Brick Macmillern)
+[18:45:53]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:45:56]GAME: Brick Macmillern/Tk420634 used respawn.(Was Playing)
+[18:45:56]GAME: Brick Macmillern/Tk420634 used abandon mob.
+[18:45:56]ACCESS: Logout: *no key*/(Brick Macmillern)
+[18:45:56]ACCESS: Login: Tk420634/(new player) from localhost-4019019304 || BYOND v509
+[18:45:58]EMOTE: monkey (369)/ : <B>The monkey (369)</B> jumps!
+[18:46:01]ACCESS: Logout: Tk420634[DC]/(new player)
+
+
+Starting up. 18:48.17
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:48:25]ADMIN: Loading Banlistjob
+[18:48:25]ADMIN: Loading jobban_rank
+[18:48:25]ADMIN: jobban_keylist was empty
+[18:48:25]ADMIN: Loading appearance_rank
+[18:48:25]ADMIN: appearance_keylist was empty
+[18:48:25]ADMIN: Updating jobbanfile!
+[18:48:25]ADMIN: Loading Banlist
+[18:48:33]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:49:15]ADMIN: Tk420634 has started the game.
+[18:49:19]ACCESS: Logout: *no key*/(Tk420634)
+[18:49:19]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:49:26]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/clothing/suit/space/hardsuit/miningsacafe at (120,160,1)
+[18:49:55]EMOTE: monkey (444)/ : <B>The monkey (444)</B> jumps!
+[18:50:52]EMOTE: monkey (165)/ : <B>The monkey (165)</B> jumps!
+[18:51:05]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[18:51:08]EMOTE: monkey (741)/ : <B>The monkey (741)</B> jumps!
+[18:51:11]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/item/weapon/card/id/captains_spare at (121,157,1)
+[18:51:33]ADMIN: Tk420634/(Brick Macmillern) made all SMESs powered
+[18:51:33]ADMIN: Tk420634/(Brick Macmillern) used secret quickpower
+[18:51:54]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[18:52:19]ADMIN: Tk420634/(Brick Macmillern) healed / revived Tk420634/(Brick Macmillern)
+[18:52:36]SAY: Frank/ : YAP
+[18:52:44]EMOTE: Frank/ : <B>Frank</B> pants.
+[18:53:09]SAY: Aaron Bowchiew/ : Well jerk, this is a stupid situation.
+[18:53:11]SAY: Brycen Mildred/ : Honk until proven bad!
+[18:53:11]SAY: Lyla Allen/ : Well punch my groin, this milkdrinker is pretty monkey-like.
+[18:53:15]SAY: Johnathan Straub/ : Innocent until proven ugly!
+[18:53:15]SAY: Lyla Allen/ : Honk until proven ugly!
+[18:53:19]SAY: Dinky Doodle/ : Oh shit, that comdom was one hell of an mongoloid head.
+[18:53:20]SAY: Jonathon Baer/ : Oh jerk, that gaylord was one hell of an dumb head.
+[18:53:21]SAY: grey baby slime (502)/ : Blorble...
+[18:53:21]SAY: Willy Larson/ : Oh damn, that shitcurity was one hell of an repulsive toes.
+[18:53:21]SAY: Dinky Doodle/ : Well shit, this is a pretty situation.
+[18:53:23]SAY: Dinky Doodle/ : I want to touch that whorelord when I find them.
+[18:53:25]SAY: Lyla Allen/ : Honk until proven stupid!
+[18:53:25]SAY: Payton Ray/ : Well bitch, this is a nice situation.
+[18:53:31]SAY: Payton Ray/ : Hey you there, why dont you go arse jerk jerk damn ass , you noob!
+[18:53:37]EMOTE: monkey (741)/ : <B>The monkey (741)</B> jumps!
+[18:53:42]SAY: Jonathon Baer/ : Well shit, this is a pretty situation.
+[18:53:43]ADMIN: Tk420634/(Brick Macmillern) healed / revived Tk420634/(Brick Macmillern)
+[18:53:50]SAY: Aaron Bowchiew/ : I want to assault that cluwne when I find them.
+[18:53:52]SAY: Willy Larson/ : Hey dude, why dont you go damn arse ass jerk ass , you cluwne!
+[18:53:52]SAY: Dinky Doodle/ : Well ass, this is a ugly situation.
+[18:53:58]EMOTE: monkey (697)/ : <B>The monkey (697)</B> jumps!
+[18:54:00]EMOTE: Poly/ : <B>Poly</B> looks in Brick Macmillern's direction and takes flight.
+[18:54:02]SAY: Willy Larson/ : Innocent until proven nice!
+[18:54:06]SAY: Brycen Mildred/ : I want to touch that monkey when I find them.
+[18:54:10]SAY: Lyla Allen/ : Well jerk, this is a ugly situation.
+[18:54:10]SAY: Payton Ray/ : Oh arse, that gaylord was one hell of an repulsive groin.
+[18:54:14]SAY: Johnathan Straub/ : Hey you, why dont you go ass damn arse bitch bitch , you monkey!
+[18:54:14]SAY: Willy Larson/ : I want to whack that monkey when I find them.
+[18:54:16]SAY: Aaron Bowchiew/ : Oh jerk, that tator was one hell of an whoreish toes.
+[18:54:16]SAY: Brycen Mildred/ : This toy is a little colorful.
+[18:54:17]ADMIN: Tk420634/(Brick Macmillern) healed / revived Tk420634/(Brick Macmillern)
+[18:54:18]SAY: Lyla Allen/ : I want to beat that bitch when I find them.
+[18:54:20]SAY: Xena/ : Purr!
+[18:54:33]SAY: Aaron Bowchiew/ : Well arse, this is a nice situation.
+[18:54:33]SAY: Brycen Mildred/ : Well shit, this is a okay situation.
+[18:54:35]SAY: Brycen Mildred/ : Hey person, why dont you go ass bitch ass jerk ass , you gaylord!
+[18:54:37]EMOTE: monkey (998)/ : <B>The monkey (998)</B> jumps!
+[18:54:37]SAY: Brycen Mildred/ : Guilty until proven stupid!
+[18:54:41]SAY: Aaron Bowchiew/ : Honk until proven bad!
+[18:54:43]SAY: Dinky Doodle/ : I want to hold that whorelord when I find them.
+[18:54:49]SAY: Jonathon Baer/ : Honk until proven okay!
+[18:54:51]SAY: Jonathon Baer/ : Well damn, this is a okay situation.
+[18:54:55]SAY: Johnathan Straub/ : I want to whack that bitch when I find them.
+[18:54:59]SAY: Dinky Doodle/ : Honk until proven ugly!
+[18:55:01]ADMIN: Tk420634/(Brick Macmillern) admin ghosted
+[18:55:01]ACCESS: Logout: *no key*/(Brick Macmillern)
+[18:55:01]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:55:01]SAY: Aaron Bowchiew/ : Oh arse, that milkdrinker was one hell of an asian head.
+[18:55:01]SAY: Brycen Mildred/ : Hey you, why dont you go ass shit damn jerk damn , you bitch!
+[18:55:05]SAY: Dinky Doodle/ : Oh shit, that monkey was one hell of an dumb stomach.
+[18:55:06]GAME: Brick Macmillern/Tk420634 used respawn.(Was Playing)
+[18:55:06]GAME: Brick Macmillern/Tk420634 used abandon mob.
+[18:55:06]ACCESS: Logout: *no key*/(Brick Macmillern)
+[18:55:06]ACCESS: Login: Tk420634/(new player) from localhost-4019019304 || BYOND v509
+[18:55:10]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[18:55:10]ACCESS: Logout: *no key*/(new player)
+[18:55:10]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:55:14]SAY: Jonathon Baer/ : I want to tackle that comdom when I find them.
+[18:55:16]SAY: Brycen Mildred/ : Guilty until proven nice!
+[18:55:22]SAY: Aaron Bowchiew/ : Oh arse, that bitch was one hell of an dumb stomach.
+[18:55:31]SAY: Aaron Bowchiew/ : Oh ass, that cheesemonger was one hell of an captain-like head.
+[18:55:31]SAY: Payton Ray/ : Guilty until proven stupid!
+[18:55:35]SAY: Lyla Allen/ : Hey officer, why dont you go ass ass damn shit damn , you noob!
+[18:55:37]SAY: Lyla Allen/ : I want to destroy that bitch when I find them.
+[18:55:39]SAY: Lyla Allen/ : Well wank, this is a pretty situation.
+[18:55:45]SAY: Brycen Mildred/ : Hey jerk, why dont you go shit jerk shit wank damn , you bitch!
+[18:55:45]SAY: Jonathon Baer/ : Well ass, this is a okay situation.
+[18:55:47]SAY: Brycen Mildred/ : Traitorous until proven ugly!
+[18:55:47]SAY: Lyla Allen/ : I want to tackle that comdom when I find them.
+[18:55:49]EMOTE: monkey (444)/ : <B>The monkey (444)</B> jumps!
+[18:55:51]SAY: Payton Ray/ : Hey you, why dont you go bitch wank jerk wank shit , you bitch!
+[18:55:55]SAY: Willy Larson/ : Oh bitch, that comdom was one hell of an asian ass.
+[18:55:55]SAY: Aaron Bowchiew/ : Oh jerk, that lingbin was one hell of an childish chest.
+[18:55:57]SAY: Johnathan Straub/ : Hey person, why dont you go shit arse ass wank shit , you whorelord!
+[18:55:59]SAY: Willy Larson/ : Oh wank, that bitch was one hell of an dimwit arms.
+[18:56:01]SAY: Willy Larson/ : Innocent until proven bad!
+[18:56:03]SAY: Payton Ray/ : Oh arse, that noob was one hell of an dumb chest.
+[18:56:03]SAY: Jonathon Baer/ : Traitorous until proven pretty!
+[18:56:05]SAY: Brycen Mildred/ : Honk until proven okay!
+[18:56:13]SAY: Willy Larson/ : Oh ass, that comdom was one hell of an vomit-inducer toes.
+[18:56:15]SAY: Payton Ray/ : Hey you there, why dont you go ass arse bitch jerk ass , you greyshirt!
+[18:56:17]SAY: Lyla Allen/ : Hey dude, why dont you go arse ass wank jerk damn , you milkdrinker!
+[18:56:24]SAY: Aaron Bowchiew/ : I want to whack that cheesemonger when I find them.
+[18:56:25]SAY: Payton Ray/ : Well wank, this is a stupid situation.
+[18:56:27]GAME: <span class='boldannounce'>Rebooting World. Initiated by Tk420634.</span>
+[18:56:27]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 18:57.50
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[18:57:53]ADMIN: Loading Banlistjob
+[18:57:53]ADMIN: Loading jobban_rank
+[18:57:53]ADMIN: jobban_keylist was empty
+[18:57:53]ADMIN: Loading appearance_rank
+[18:57:53]ADMIN: appearance_keylist was empty
+[18:57:53]ADMIN: Updating jobbanfile!
+[18:57:53]ADMIN: Loading Banlist
+[18:58:01]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:58:41]ADMIN: Tk420634 has started the game.
+[18:58:45]ACCESS: Logout: *no key*/(Tk420634)
+[18:58:45]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[18:58:58]ADMIN: Tk420634/(Brick Macmillern) has modified world.fps to 22
+[18:59:07]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+
+
+Starting up. 19:00.21
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[19:00:24]ADMIN: Loading Banlistjob
+[19:00:24]ADMIN: Loading appearance_rank
+[19:00:24]ADMIN: appearance_keylist was empty
+[19:00:24]ADMIN: Updating jobbanfile!
+[19:00:24]ADMIN: Loading Banlist
+
+
+Starting up. 19:00.30
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[19:00:32]ADMIN: Loading Banlistjob
+[19:00:32]ADMIN: Loading jobban_rank
+[19:00:32]ADMIN: jobban_keylist was empty
+[19:00:32]ADMIN: Loading appearance_rank
+[19:00:32]ADMIN: appearance_keylist was empty
+[19:00:32]ADMIN: Updating jobbanfile!
+[19:00:32]ADMIN: Loading Banlist
+[19:00:37]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[19:01:28]ADMIN: Tk420634 has started the game.
+[19:01:34]ACCESS: Logout: *no key*/(Tk420634)
+[19:01:34]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[19:01:38]ADMIN: Tk420634/(Brick Macmillern) admin ghosted
+[19:01:38]ACCESS: Logout: *no key*/(Brick Macmillern)
+[19:01:38]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[19:01:39]GAME: Brick Macmillern/Tk420634 used respawn.(Was Playing)
+[19:01:39]GAME: Brick Macmillern/Tk420634 used abandon mob.
+[19:01:39]ACCESS: Logout: *no key*/(Brick Macmillern)
+[19:01:39]ACCESS: Login: Tk420634/(new player) from localhost-4019019304 || BYOND v509
+[19:01:42]ACCESS: Logout: *no key*/(new player)
+[19:01:42]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[19:01:44]EMOTE: Poly/ : <B>Poly</B> squawks.
+[19:02:08]EMOTE: Poly/ : <B>Poly</B> squawks.
+[19:02:18]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[19:02:19]ACCESS: Logout: Tk420634[DC]/(Brick Macmillern)
+[19:17:55]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[19:18:37]ADMIN: Tk420634 has started the game.
+[19:18:42]GAME: *null* has triggered a gibtonite deposit reaction at Mine (67, 15, 5).
+[19:18:49]GAME: An explosion has triggered a gibtonite deposit reaction at Mine(100,90,5)
+[19:19:09]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[19:19:09]ACCESS: Logout: *no key*/(Tk420634)
+[19:19:09]ACCESS: Login: Tk420634/(Ruddar Studic) from localhost-4019019304 || BYOND v509
+[19:19:22]ACCESS: Logout: Tk420634[DC]/(Ruddar Studic)
+
+
+Starting up. 20:17.37
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[20:17:39]ADMIN: Loading Banlistjob
+[20:17:39]ADMIN: Loading jobban_rank
+[20:17:39]ADMIN: jobban_keylist was empty
+[20:17:39]ADMIN: Loading appearance_rank
+[20:17:39]ADMIN: appearance_keylist was empty
+[20:17:39]ADMIN: Updating jobbanfile!
+[20:17:39]ADMIN: Loading Banlist
+[20:17:43]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:17:46]ADMIN: Loading jobban_rank
+[20:17:46]ADMIN: jobban_keylist was empty
+[20:17:46]ADMIN: Loading appearance_rank
+[20:17:46]ADMIN: appearance_keylist was empty
+[20:17:46]ADMIN: Updating jobbanfile!
+[20:17:46]ADMIN: Loading Banlist
+[20:17:46]ADMIN: Banlist is empty.
+[20:17:46]ADMIN: Banlist missing base dir.
+[20:17:51]ADMIN: Loading jobban_rank
+[20:17:51]ADMIN: jobban_keylist was empty
+[20:17:51]ADMIN: Loading appearance_rank
+[20:17:51]ADMIN: appearance_keylist was empty
+[20:17:51]ADMIN: Updating jobbanfile!
+[20:17:51]ADMIN: Loading Banlist
+[20:17:51]ADMIN: Banlist is empty.
+[20:17:51]ADMIN: Banlist missing base dir.
+[20:17:56]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[20:17:56]ADMIN: Loading jobban_rank
+[20:17:56]ADMIN: jobban_keylist was empty
+[20:17:56]ADMIN: Loading appearance_rank
+[20:17:56]ADMIN: appearance_keylist was empty
+[20:17:56]ADMIN: Updating jobbanfile!
+[20:17:56]ADMIN: Loading Banlist
+[20:17:56]ADMIN: Banlist is empty.
+[20:17:56]ADMIN: Banlist missing base dir.
+
+
+Starting up. 20:50.19
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[20:50:21]ADMIN: Loading Banlistjob
+[20:50:21]ADMIN: Loading jobban_rank
+[20:50:21]ADMIN: jobban_keylist was empty
+[20:50:21]ADMIN: Loading appearance_rank
+[20:50:21]ADMIN: appearance_keylist was empty
+[20:50:21]ADMIN: Updating jobbanfile!
+[20:50:22]ADMIN: Loading Banlist
+[20:50:27]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:50:30]ADMIN: Loading Banlistjob
+[20:50:30]ADMIN: Loading jobban_rank
+[20:50:30]ADMIN: jobban_keylist was empty
+[20:50:30]ADMIN: Loading appearance_rank
+[20:50:30]ADMIN: appearance_keylist was empty
+[20:50:30]ADMIN: Updating jobbanfile!
+[20:50:30]ADMIN: Loading Banlist
+[20:50:30]ADMIN: Banlist is empty.
+[20:50:30]ADMIN: Banlist missing base dir.
+[20:50:37]ADMIN: Loading Banlistjob
+[20:50:37]ADMIN: Loading jobban_rank
+[20:50:37]ADMIN: jobban_keylist was empty
+[20:50:37]ADMIN: Loading appearance_rank
+[20:50:37]ADMIN: appearance_keylist was empty
+[20:50:37]ADMIN: Updating jobbanfile!
+[20:50:37]ADMIN: Loading Banlist
+[20:50:37]ADMIN: Banlist is empty.
+[20:50:37]ADMIN: Banlist missing base dir.
+[20:50:43]ADMIN: Loading Banlistjob
+[20:50:43]ADMIN: Loading jobban_rank
+[20:50:43]ADMIN: jobban_keylist was empty
+[20:50:43]ADMIN: Loading appearance_rank
+[20:50:43]ADMIN: appearance_keylist was empty
+[20:50:43]ADMIN: Updating jobbanfile!
+[20:50:43]ADMIN: Loading Banlist
+[20:50:43]ADMIN: Banlist is empty.
+[20:50:43]ADMIN: Banlist missing base dir.
+[20:50:49]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[20:50:49]ADMIN: Loading Banlistjob
+[20:50:49]ADMIN: Loading jobban_rank
+[20:50:49]ADMIN: jobban_keylist was empty
+[20:50:49]ADMIN: Loading appearance_rank
+[20:50:49]ADMIN: appearance_keylist was empty
+[20:50:49]ADMIN: Updating jobbanfile!
+[20:50:49]ADMIN: Loading Banlist
+[20:50:49]ADMIN: Banlist is empty.
+[20:50:49]ADMIN: Banlist missing base dir.
+[20:50:58]ADMIN: Loading Banlistjob
+[20:50:58]ADMIN: Loading jobban_rank
+[20:50:58]ADMIN: jobban_keylist was empty
+[20:50:58]ADMIN: Loading appearance_rank
+[20:50:58]ADMIN: appearance_keylist was empty
+[20:50:58]ADMIN: Updating jobbanfile!
+[20:50:58]ADMIN: Loading Banlist
+[20:50:58]ADMIN: Banlist is empty.
+[20:50:58]ADMIN: Banlist missing base dir.
+
+
+Starting up. 20:51.35
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[20:51:38]ADMIN: Loading Banlistjob
+[20:51:38]ADMIN: Loading jobban_rank
+[20:51:38]ADMIN: jobban_keylist was empty
+[20:51:38]ADMIN: Loading appearance_rank
+[20:51:38]ADMIN: appearance_keylist was empty
+[20:51:38]ADMIN: Updating jobbanfile!
+[20:51:38]ADMIN: Loading Banlist
+[20:51:44]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:52:47]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+
+
+Starting up. 20:53.21
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[20:53:23]ADMIN: Loading Banlistjob
+[20:53:23]ADMIN: Loading jobban_rank
+[20:53:23]ADMIN: jobban_keylist was empty
+[20:53:23]ADMIN: Loading appearance_rank
+[20:53:23]ADMIN: appearance_keylist was empty
+[20:53:23]ADMIN: Updating jobbanfile!
+[20:53:23]ADMIN: Loading Banlist
+[20:53:28]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:53:31]ADMIN: Loading jobban_rank
+[20:53:31]ADMIN: jobban_keylist was empty
+[20:53:31]ADMIN: Loading appearance_rank
+[20:53:31]ADMIN: appearance_keylist was empty
+[20:53:31]ADMIN: Updating jobbanfile!
+[20:53:31]ADMIN: Loading Banlist
+[20:53:31]ADMIN: Banlist is empty.
+[20:53:31]ADMIN: Banlist missing base dir.
+[20:53:36]ADMIN: Loading jobban_rank
+[20:53:36]ADMIN: jobban_keylist was empty
+[20:53:36]ADMIN: Loading appearance_rank
+[20:53:36]ADMIN: appearance_keylist was empty
+[20:53:36]ADMIN: Updating jobbanfile!
+[20:53:36]ADMIN: Loading Banlist
+[20:53:36]ADMIN: Banlist is empty.
+[20:53:36]ADMIN: Banlist missing base dir.
+[20:53:40]ADMIN: Loading jobban_rank
+[20:53:40]ADMIN: jobban_keylist was empty
+[20:53:40]ADMIN: Loading appearance_rank
+[20:53:40]ADMIN: appearance_keylist was empty
+[20:53:40]ADMIN: Updating jobbanfile!
+[20:53:40]ADMIN: Loading Banlist
+[20:53:40]ADMIN: Banlist is empty.
+[20:53:40]ADMIN: Banlist missing base dir.
+[20:53:44]ADMIN: Loading jobban_rank
+[20:53:44]ADMIN: jobban_keylist was empty
+[20:53:44]ADMIN: Loading appearance_rank
+[20:53:44]ADMIN: appearance_keylist was empty
+[20:53:44]ADMIN: Updating jobbanfile!
+[20:53:44]ADMIN: Loading Banlist
+[20:53:44]ADMIN: Banlist is empty.
+[20:53:44]ADMIN: Banlist missing base dir.
+[20:53:49]ADMIN: Loading jobban_rank
+[20:53:49]ADMIN: jobban_keylist was empty
+[20:53:49]ADMIN: Loading appearance_rank
+[20:53:49]ADMIN: appearance_keylist was empty
+[20:53:49]ADMIN: Updating jobbanfile!
+[20:53:49]ADMIN: Loading Banlist
+[20:53:49]ADMIN: Banlist is empty.
+[20:53:49]ADMIN: Banlist missing base dir.
+[20:53:54]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[20:53:54]ADMIN: Loading jobban_rank
+[20:53:54]ADMIN: jobban_keylist was empty
+[20:53:54]ADMIN: Loading appearance_rank
+[20:53:54]ADMIN: appearance_keylist was empty
+[20:53:54]ADMIN: Updating jobbanfile!
+[20:53:54]ADMIN: Loading Banlist
+[20:53:54]ADMIN: Banlist is empty.
+[20:53:54]ADMIN: Banlist missing base dir.
+t%ÈAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[20:54:39]ADMIN: Loading Banlistjob
+[20:54:39]ADMIN: Loading jobban_rank
+[20:54:39]ADMIN: jobban_keylist was empty
+[20:54:39]ADMIN: Loading appearance_rank
+[20:54:39]ADMIN: appearance_keylist was empty
+[20:54:39]ADMIN: Updating jobbanfile!
+[20:54:39]ADMIN: Loading Banlist
+[20:54:44]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:55:31]ADMIN: Tk420634 has started the game.
+[20:55:41]ACCESS: Logout: *no key*/(Tk420634)
+[20:55:41]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:56:17]SAY: Brick Macmillern/Tk420634 : Test
+[20:56:21]EMOTE: Brick Macmillern/Tk420634 : <B>Brick Macmillern</B> screams!
+[20:56:33]ADMIN: Tk420634/(Brick Macmillern) jumped to Thunderdome (Admin.)
+[20:56:36]SAY: Xena/ : Esp!
+[20:56:36]ADMIN: Tk420634/(Brick Macmillern) jumped to 131,73,2 in Thunderdome Arena
+[20:56:43]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:56:47]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[20:56:48]ADMIN: Tk420634/(Brick Macmillern) has used rudimentary transformation on Tk420634/(Brick Macmillern). Transforming to human; deletemob=0
+[20:56:48]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:56:48]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:57:00]ADMIN: Tk420634/(Brick Macmillern) spawned /obj/structure/dresser at (128,80,2)
+[20:57:08]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:57:10]EMOTE: monkey (268)/ : <B>The monkey (268)</B> jumps!
+[20:57:11]ADMIN: Tk420634/(Brick Macmillern) has used rudimentary transformation on Tk420634/(Brick Macmillern). Transforming to human; deletemob=0
+[20:57:11]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:57:11]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:57:21]ADMIN: Tk420634/(Brick Macmillern) has used rudimentary transformation on *no key*/(Brick Macmillern). Transforming to human; deletemob=0
+[20:57:28]ADMIN: Tk420634/(Brick Macmillern) admin ghosted
+[20:57:28]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:57:28]ACCESS: Login: Tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:57:30]ADMIN: Tk420634/(Brick Macmillern) stuffed tk420634 into Brick Macmillern.
+[20:57:30]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:57:30]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:57:39]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[20:57:39]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:57:39]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:57:42]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:57:44]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[20:57:44]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:57:44]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:57:55]ADMIN: tk420634/(Brick Macmillern) spawned /obj/structure/mirror/magic/badmin at (129,80,2)
+[20:58:53]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:58:55]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=0
+[20:58:55]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:58:55]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:59:19]SAY: Xena/ : Esp!
+[20:59:25]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[20:59:25]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:59:25]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:59:28]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:59:29]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[20:59:30]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:59:30]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:59:32]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[20:59:32]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:59:32]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:59:38]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[20:59:40]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[20:59:40]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:59:40]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[20:59:44]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[20:59:44]ACCESS: Logout: *no key*/(Brick Macmillern)
+[20:59:44]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:00:09]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:00:11]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[21:00:11]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:00:11]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:00:13]EMOTE: monkey (122)/ : <B>The monkey (122)</B> jumps!
+[21:00:13]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:00:13]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:00:13]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:00:17]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:00:19]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[21:00:19]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:00:19]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:00:22]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:00:22]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:00:22]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:00:30]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:00:32]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[21:00:32]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:00:32]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:00:45]EMOTE: monkey (122)/ : <B>The monkey (122)</B> jumps!
+[21:00:58]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:00:58]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:00:58]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:01:00]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:01:02]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[21:01:03]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:01:03]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:01:08]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[21:01:41]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[21:01:51]SAY: Frank/ : Bark!
+[21:01:53]EMOTE: monkey (671)/ : <B>The monkey (671)</B> jumps!
+[21:02:13]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:02:13]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:02:13]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:02:16]ADMIN: tk420634/(Brick Macmillern) stuffed tk420634 into Brick Macmillern.
+[21:02:16]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:02:16]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:02:24]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:02:24]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:02:24]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:02:53]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:02:55]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[21:02:55]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:02:55]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:03:02]EMOTE: monkey (268)/ : <B>The monkey (268)</B> jumps!
+[21:04:34]EMOTE: monkey (122)/ : <B>The monkey (122)</B> jumps!
+[21:05:24]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:05:29]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:05:29]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:05:29]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:05:32]ADMIN: tk420634/(Brick Macmillern) stuffed tk420634 into Brick Macmillern.
+[21:05:32]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:05:32]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:05:35]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:06:36]EMOTE: Xena/ : <B>Xena</B> meows
+[21:07:36]SAY: Poly/ : Poly wanna cracker!
+[21:09:16]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:09:48]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[21:09:49]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:10:05]EMOTE: Xena/ : <B>Xena</B> meows
+[21:10:11]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:10:20]EMOTE: monkey (671)/ : <B>The monkey (671)</B> jumps!
+[21:10:24]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[21:10:29]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:10:40]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:10:57]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:11:13]SAY: Xena/ : Purr!
+[21:11:17]SAY: Xena/ : Meow!
+[21:11:47]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:11:52]EMOTE: monkey (268)/ : <B>The monkey (268)</B> jumps!
+[21:12:06]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:12:21]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[21:12:22]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:12:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:12:58]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:13:18]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:13:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:02]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:03]SAY: Frank/ : YAP
+[21:14:05]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:11]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:14:12]ADMIN: tk420634/(Brick Macmillern) healed / Revived tk420634/(Brick Macmillern)
+[21:14:23]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:39]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:43]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:14:49]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:14:50]ADMIN: tk420634/(Brick Macmillern) healed / Revived tk420634/(Brick Macmillern)
+[21:15:25]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:15:26]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[21:15:39]EMOTE: Frank/ : <B>Frank</B> chases its tail.
+[21:16:03]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:09]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:10]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:11]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:15]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:16:16]ADMIN: tk420634/(Brick Macmillern) healed / Revived tk420634/(Brick Macmillern)
+[21:16:37]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:38]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:40]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:40]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:16:45]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:16:46]ADMIN: tk420634/(Brick Macmillern) healed / Revived tk420634/(Brick Macmillern)
+[21:16:50]ADMIN: tk420634/(Brick Macmillern) has toggled tk420634/(Brick Macmillern)'s nodamage to On
+[21:16:55]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:01]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:02]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:02]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:03]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:03]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:03]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:03]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:04]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:04]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:04]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:06]EMOTE: Poly/ : <B>Poly</B> squawks.
+[21:17:12]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:17:20]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:23]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:23]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:23]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:24]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:24]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:24]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:24]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:24]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:24]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:25]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:25]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:25]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:25]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:25]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:25]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:26]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:26]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:26]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:26]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:26]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:26]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:27]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:27]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:27]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:17:27]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:02]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:15]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:31]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:43]EMOTE: Frank/ : <B>Frank</B> shivers.
+[21:18:52]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:58]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:58]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:58]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:58]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:58]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:59]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:59]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:59]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:59]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:59]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:18:59]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:00]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:00]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:00]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:00]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:00]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:01]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:01]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:01]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:01]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:01]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:19]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:35]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:38]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:39]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:41]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:42]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:43]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:43]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:43]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:43]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:44]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:45]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:46]EMOTE: Brick Macmillern/tk420634 : <B>Brick Macmillern</B> screams!
+[21:19:53]EMOTE: monkey (656)/ : <B>The monkey (656)</B> jumps!
+[21:19:57]EMOTE: monkey (688)/ : <B>The monkey (688)</B> jumps!
+[21:19:57]EMOTE: monkey (122)/ : <B>The monkey (122)</B> jumps!
+[21:21:17]SAY: grey baby slime (704)/ : Blop...
+[21:21:32]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:21:32]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:21:32]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:21:59]EMOTE: Chester (241)/ : <B>Chester (241)</B> jumps!
+[21:22:00]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[21:22:01]ADMIN: tk420634/(Brick Macmillern) has used rudimentary transformation on tk420634/(Brick Macmillern). Transforming to human; deletemob=1
+[21:22:01]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:22:01]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:22:12]ADMIN: tk420634/(Brick Macmillern) admin ghosted
+[21:22:12]ACCESS: Logout: *no key*/(Brick Macmillern)
+[21:22:12]ACCESS: Login: tk420634/(Brick Macmillern) from localhost-4019019304 || BYOND v509
+[21:22:13]ACCESS: Logout: tk420634[DC]/(Brick Macmillern)
