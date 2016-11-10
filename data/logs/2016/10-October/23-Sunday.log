@@ -1,0 +1,304 @@
+
+
+Starting up. 01:18.25
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+[01:18:27]ADMIN: Loading Banlistjob
+[01:18:27]ADMIN: Loading jobban_rank
+[01:18:27]ADMIN: jobban_keylist was empty
+[01:18:27]ADMIN: Loading appearance_rank
+[01:18:27]ADMIN: appearance_keylist was empty
+[01:18:27]ADMIN: Updating jobbanfile!
+[01:18:27]ADMIN: Loading Banlist
+[01:18:28]ADMIN: Loading Banlist
+[01:18:28]ADMIN: Banlist is empty.
+[01:18:28]ADMIN: Banlist missing base dir.
+[01:18:28]ADMIN: Ban Expired: 
+[01:18:28]ADMIN: Invalid Ban.
+[01:18:34]ADMIN: Loading Banlist
+[01:18:34]ADMIN: Banlist is empty.
+[01:18:34]ADMIN: Banlist missing base dir.
+[01:18:34]ADMIN: Ban Expired: 
+[01:18:34]ADMIN: Invalid Ban.
+[01:18:47]ADMIN: Loading Banlist
+[01:18:47]ADMIN: Banlist is empty.
+[01:18:47]ADMIN: Banlist missing base dir.
+[01:18:47]ADMIN: Ban Expired: 
+[01:18:47]ADMIN: Invalid Ban.
+[01:19:00]ADMIN: Loading Banlist
+[01:19:00]ADMIN: Banlist is empty.
+[01:19:00]ADMIN: Banlist missing base dir.
+[01:19:00]ADMIN: Ban Expired: 
+[01:19:00]ADMIN: Invalid Ban.
+
+
+Starting up. 01:19.54
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[01:19:56]ADMIN: Loading Banlistjob
+[01:19:56]ADMIN: Loading jobban_rank
+[01:19:56]ADMIN: jobban_keylist was empty
+[01:19:56]ADMIN: Loading appearance_rank
+[01:19:56]ADMIN: appearance_keylist was empty
+[01:19:56]ADMIN: Updating jobbanfile!
+[01:19:56]ADMIN: Loading Banlist
+[01:20:03]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[01:20:06]ADMIN: Loading appearance_rank
+[01:20:06]ADMIN: appearance_keylist was empty
+[01:20:06]ADMIN: Loading Banlist
+[01:20:06]ADMIN: Banlist is empty.
+[01:20:06]ADMIN: Banlist missing base dir.
+[01:20:12]ADMIN: Loading appearance_rank
+[01:20:12]ADMIN: appearance_keylist was empty
+[01:20:12]ADMIN: Loading Banlist
+[01:20:12]ADMIN: Banlist is empty.
+[01:20:12]ADMIN: Banlist missing base dir.
+[01:20:19]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[01:20:19]ADMIN: Loading appearance_rank
+[01:20:19]ADMIN: appearance_keylist was empty
+[01:20:19]ADMIN: Loading Banlist
+[01:20:19]ADMIN: Banlist is empty.
+[01:20:19]ADMIN: Banlist missing base dir.
+"ÈAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[01:32:44]ADMIN: Loading Banlistjob
+[01:32:44]ADMIN: Loading jobban_rank
+[01:32:44]ADMIN: jobban_keylist was empty
+[01:32:44]ADMIN: Loading appearance_rank
+[01:32:44]ADMIN: appearance_keylist was empty
+[01:32:44]ADMIN: Updating jobbanfile!
+[01:32:44]ADMIN: Loading Banlist
+[01:32:50]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[02:21:24]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+
+
+Starting up. 03:06.53
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[03:06:55]ADMIN: Loading Banlistjob
+[03:06:55]ADMIN: Loading jobban_rank
+[03:06:55]ADMIN: jobban_keylist was empty
+[03:06:55]ADMIN: Loading appearance_rank
+[03:06:55]ADMIN: appearance_keylist was empty
+[03:06:55]ADMIN: Updating jobbanfile!
+[03:06:55]ADMIN: Loading Banlist
+[03:07:03]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[03:07:56]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+
+
+Starting up. 04:31.04
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[04:31:06]ADMIN: Loading Banlistjob
+[04:31:06]ADMIN: Loading jobban_rank
+[04:31:06]ADMIN: jobban_keylist was empty
+[04:31:06]ADMIN: Loading appearance_rank
+[04:31:06]ADMIN: appearance_keylist was empty
+[04:31:06]ADMIN: Updating jobbanfile!
+[04:31:06]ADMIN: Loading Banlist
+[04:31:14]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[04:31:17]ADMIN: Loading jobban_rank
+[04:31:17]ADMIN: jobban_keylist was empty
+[04:31:17]ADMIN: Loading appearance_rank
+[04:31:17]ADMIN: appearance_keylist was empty
+[04:31:17]ADMIN: Updating jobbanfile!
+[04:31:17]ADMIN: Loading Banlist
+[04:31:17]ADMIN: Banlist is empty.
+[04:31:17]ADMIN: Banlist missing base dir.
+[04:31:20]ADMIN: Loading jobban_rank
+[04:31:20]ADMIN: jobban_keylist was empty
+[04:31:20]ADMIN: Loading appearance_rank
+[04:31:20]ADMIN: appearance_keylist was empty
+[04:31:20]ADMIN: Updating jobbanfile!
+[04:31:20]ADMIN: Loading Banlist
+[04:31:20]ADMIN: Banlist is empty.
+[04:31:20]ADMIN: Banlist missing base dir.
+[04:31:25]ADMIN: Loading jobban_rank
+[04:31:25]ADMIN: jobban_keylist was empty
+[04:31:25]ADMIN: Loading appearance_rank
+[04:31:25]ADMIN: appearance_keylist was empty
+[04:31:25]ADMIN: Updating jobbanfile!
+[04:31:25]ADMIN: Loading Banlist
+[04:31:25]ADMIN: Banlist is empty.
+[04:31:25]ADMIN: Banlist missing base dir.
+[04:31:30]ADMIN: Loading jobban_rank
+[04:31:30]ADMIN: jobban_keylist was empty
+[04:31:30]ADMIN: Loading appearance_rank
+[04:31:30]ADMIN: appearance_keylist was empty
+[04:31:30]ADMIN: Updating jobbanfile!
+[04:31:30]ADMIN: Loading Banlist
+[04:31:30]ADMIN: Banlist is empty.
+[04:31:30]ADMIN: Banlist missing base dir.
+[04:31:36]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[04:31:36]ADMIN: Loading jobban_rank
+[04:31:36]ADMIN: jobban_keylist was empty
+[04:31:36]ADMIN: Loading appearance_rank
+[04:31:36]ADMIN: appearance_keylist was empty
+[04:31:36]ADMIN: Updating jobbanfile!
+[04:31:36]ADMIN: Loading Banlist
+[04:31:36]ADMIN: Banlist is empty.
+[04:31:36]ADMIN: Banlist missing base dir.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: '/*'
+Unknown setting in configuration: '*/'
+Unknown setting in configuration: 'var/fps'
+Unknown setting in configuration: '//###'
+Unknown setting in configuration: '//##'
+Unknown setting in configuration: '//#ghost_interaction'
+Saved mode is 'extended'
+[04:39:38]ADMIN: Loading Banlistjob
+[04:39:38]ADMIN: Loading jobban_rank
+[04:39:38]ADMIN: jobban_keylist was empty
+[04:39:38]ADMIN: Loading appearance_rank
+[04:39:38]ADMIN: appearance_keylist was empty
+[04:39:38]ADMIN: Updating jobbanfile!
+[04:39:38]ADMIN: Loading Banlist
+[04:39:43]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[04:40:19]ACCESS: Logout: Tk420634[DC]/(Tk420634)

@@ -1,0 +1,1029 @@
+
+
+Starting up. 10:44.37
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[10:44:40]ADMIN: Loading Banlistjob
+[10:44:40]ADMIN: Loading jobban_rank
+[10:44:40]ADMIN: jobban_keylist was empty
+[10:44:40]ADMIN: Loading appearance_rank
+[10:44:40]ADMIN: appearance_keylist was empty
+[10:44:40]ADMIN: Updating jobbanfile!
+[10:44:40]ADMIN: Loading Banlist
+[10:44:49]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[10:46:24]ADMIN: Tk420634 has started the game.
+[10:46:28]GAME: Tk420634 (ckey) has been selected as a traitor
+[10:46:28]ACCESS: Logout: *no key*/(Tk420634)
+[10:46:28]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[10:46:32]GAME: *null* has triggered a gibtonite deposit reaction at Mine (67, 15, 5).
+[10:46:33]EMOTE: monkey (822)/ : <B>The monkey (822)</B> jumps!
+[10:46:39]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[10:46:42]ADMIN: Tk420634/(Greyson Ehret) made all SMESs powered
+[10:46:42]ADMIN: Tk420634/(Greyson Ehret) used secret quickpower
+[10:47:15]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Medical Doctor.
+[10:47:15]EMOTE: monkey (822)/ : <B>The monkey (822)</B> jumps!
+[10:47:36]ADMIN: Tk420634/(Greyson Ehret) called Chief Medical Officer's open() with no arguments.
+[10:48:46]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:49:56]EMOTE: monkey (543)/ : <B>The monkey (543)</B> jumps!
+[10:50:06]EMOTE: monkey (973)/ : <B>The monkey (973)</B> jumps!
+[10:50:16]EMOTE: Runtime/ : <B>Runtime</B> meows
+[10:50:42]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:50:48]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[10:50:50]EMOTE: Runtime/ : <B>Runtime</B> meows
+[10:51:20]SAY: Poly/ : Wire the solars, you lazy bums!
+[10:52:00]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:52:26]EMOTE: monkey (973)/ : <B>The monkey (973)</B> jumps!
+[10:53:32]EMOTE: monkey (144)/ : <B>The monkey (144)</B> jumps!
+[10:53:38]EMOTE: monkey (543)/ : <B>The monkey (543)</B> jumps!
+[10:53:54]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[10:53:54]EMOTE: monkey (332)/ : <B>The monkey (332)</B> jumps!
+[10:56:22]EMOTE: monkey (332)/ : <B>The monkey (332)</B> jumps!
+[10:57:20]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:57:52]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:57:54]EMOTE: monkey (56)/ : <B>The monkey (56)</B> jumps!
+[10:58:08]EMOTE: monkey (543)/ : <B>The monkey (543)</B> jumps!
+[10:58:12]EMOTE: monkey (973)/ : <B>The monkey (973)</B> jumps!
+[10:59:26]EMOTE: monkey (588)/ : <B>The monkey (588)</B> jumps!
+[11:00:09]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Chief Engineer.
+[11:00:30]ADMIN: Tk420634/(Greyson Ehret) made all SMESs powered
+[11:00:30]ADMIN: Tk420634/(Greyson Ehret) used secret quickpower
+[11:01:28]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/t_scanner at (120,47,1)
+[11:01:50]SAY: Poly/ : Wire the solars, you lazy bums!
+[11:02:00]EMOTE: monkey (144)/ : <B>The monkey (144)</B> jumps!
+[11:02:25]ADMIN: Tk420634/(Greyson Ehret) modified power cell's charge to 2500
+[11:03:06]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[11:03:27]EMOTE: monkey (600)/ : <B>The monkey (600)</B> jumps!
+[11:03:49]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[11:04:07]ACCESS: Logout: Tk420634[DC]/(Greyson Ehret)
+
+
+Starting up. 13:11.39
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[13:11:41]ADMIN: Loading Banlistjob
+[13:11:41]ADMIN: Loading jobban_rank
+[13:11:41]ADMIN: jobban_keylist was empty
+[13:11:41]ADMIN: Loading appearance_rank
+[13:11:41]ADMIN: appearance_keylist was empty
+[13:11:41]ADMIN: Updating jobbanfile!
+[13:11:41]ADMIN: Loading Banlist
+[13:12:03]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:12:06]ADMIN: Loading Banlistjob
+[13:12:06]ADMIN: Loading jobban_rank
+[13:12:06]ADMIN: jobban_keylist was empty
+[13:12:06]ADMIN: Loading appearance_rank
+[13:12:06]ADMIN: appearance_keylist was empty
+[13:12:06]ADMIN: Updating jobbanfile!
+[13:12:06]ADMIN: Loading Banlist
+[13:12:06]ADMIN: Banlist is empty.
+[13:12:06]ADMIN: Banlist missing base dir.
+[13:12:10]ADMIN: Loading Banlistjob
+[13:12:10]ADMIN: Loading jobban_rank
+[13:12:10]ADMIN: jobban_keylist was empty
+[13:12:10]ADMIN: Loading appearance_rank
+[13:12:10]ADMIN: appearance_keylist was empty
+[13:12:10]ADMIN: Updating jobbanfile!
+[13:12:10]ADMIN: Loading Banlist
+[13:12:10]ADMIN: Banlist is empty.
+[13:12:10]ADMIN: Banlist missing base dir.
+[13:12:17]ADMIN: Loading Banlistjob
+[13:12:17]ADMIN: Loading jobban_rank
+[13:12:17]ADMIN: jobban_keylist was empty
+[13:12:17]ADMIN: Loading appearance_rank
+[13:12:17]ADMIN: appearance_keylist was empty
+[13:12:17]ADMIN: Updating jobbanfile!
+[13:12:17]ADMIN: Loading Banlist
+[13:12:17]ADMIN: Banlist is empty.
+[13:12:17]ADMIN: Banlist missing base dir.
+[13:12:25]ADMIN: Loading Banlistjob
+[13:12:25]ADMIN: Loading jobban_rank
+[13:12:25]ADMIN: jobban_keylist was empty
+[13:12:25]ADMIN: Loading appearance_rank
+[13:12:25]ADMIN: appearance_keylist was empty
+[13:12:25]ADMIN: Updating jobbanfile!
+[13:12:25]ADMIN: Loading Banlist
+[13:12:25]ADMIN: Banlist is empty.
+[13:12:25]ADMIN: Banlist missing base dir.
+[13:12:33]ADMIN: Loading Banlistjob
+[13:12:33]ADMIN: Loading jobban_rank
+[13:12:33]ADMIN: jobban_keylist was empty
+[13:12:33]ADMIN: Loading appearance_rank
+[13:12:33]ADMIN: appearance_keylist was empty
+[13:12:33]ADMIN: Updating jobbanfile!
+[13:12:33]ADMIN: Loading Banlist
+[13:12:33]ADMIN: Banlist is empty.
+[13:12:33]ADMIN: Banlist missing base dir.
+[13:12:42]ADMIN: Loading Banlistjob
+[13:12:42]ADMIN: Loading jobban_rank
+[13:12:42]ADMIN: jobban_keylist was empty
+[13:12:42]ADMIN: Loading appearance_rank
+[13:12:42]ADMIN: appearance_keylist was empty
+[13:12:42]ADMIN: Updating jobbanfile!
+[13:12:42]ADMIN: Loading Banlist
+[13:12:42]ADMIN: Banlist is empty.
+[13:12:42]ADMIN: Banlist missing base dir.
+[13:12:50]ADMIN: Loading Banlistjob
+[13:12:50]ADMIN: Loading jobban_rank
+[13:12:50]ADMIN: jobban_keylist was empty
+[13:12:50]ADMIN: Loading appearance_rank
+[13:12:50]ADMIN: appearance_keylist was empty
+[13:12:50]ADMIN: Updating jobbanfile!
+[13:12:50]ADMIN: Loading Banlist
+[13:12:50]ADMIN: Banlist is empty.
+[13:12:50]ADMIN: Banlist missing base dir.
+[13:12:58]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[13:12:58]ADMIN: Loading Banlistjob
+[13:12:58]ADMIN: Loading jobban_rank
+[13:12:58]ADMIN: jobban_keylist was empty
+[13:12:58]ADMIN: Loading appearance_rank
+[13:12:58]ADMIN: appearance_keylist was empty
+[13:12:58]ADMIN: Updating jobbanfile!
+[13:12:58]ADMIN: Loading Banlist
+[13:12:58]ADMIN: Banlist is empty.
+[13:12:58]ADMIN: Banlist missing base dir.
+
+
+Starting up. 13:15.08
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[13:15:10]ADMIN: Loading Banlistjob
+[13:15:10]ADMIN: Loading jobban_rank
+[13:15:10]ADMIN: jobban_keylist was empty
+[13:15:10]ADMIN: Loading appearance_rank
+[13:15:10]ADMIN: appearance_keylist was empty
+[13:15:10]ADMIN: Updating jobbanfile!
+[13:15:10]ADMIN: Loading Banlist
+[13:15:14]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:15:18]ADMIN: Loading Banlist
+[13:15:18]ADMIN: Banlist is empty.
+[13:15:18]ADMIN: Banlist missing base dir.
+[13:15:18]ADMIN: Ban Expired: 
+[13:15:18]ADMIN: Invalid Ban.
+[13:15:25]ADMIN: Loading Banlist
+[13:15:25]ADMIN: Banlist is empty.
+[13:15:25]ADMIN: Banlist missing base dir.
+[13:15:25]ADMIN: Ban Expired: 
+[13:15:25]ADMIN: Invalid Ban.
+[13:15:35]ADMIN: Loading Banlist
+[13:15:35]ADMIN: Banlist is empty.
+[13:15:35]ADMIN: Banlist missing base dir.
+[13:15:35]ADMIN: Ban Expired: 
+[13:15:35]ADMIN: Invalid Ban.
+[13:15:45]ADMIN: Loading Banlist
+[13:15:45]ADMIN: Banlist is empty.
+[13:15:45]ADMIN: Banlist missing base dir.
+[13:15:45]ADMIN: Ban Expired: 
+[13:15:45]ADMIN: Invalid Ban.
+[13:15:56]ACCESS: Logout: Tk420634[DC]/(Tk420634)
+[13:15:56]ADMIN: Loading Banlist
+[13:15:56]ADMIN: Banlist is empty.
+[13:15:56]ADMIN: Banlist missing base dir.
+[13:15:56]ADMIN: Ban Expired: 
+[13:15:56]ADMIN: Invalid Ban.
+…l≥úAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[13:22:36]ADMIN: Loading Banlistjob
+[13:22:36]ADMIN: Loading jobban_rank
+[13:22:36]ADMIN: jobban_keylist was empty
+[13:22:37]ADMIN: Loading appearance_rank
+[13:22:37]ADMIN: appearance_keylist was empty
+[13:22:37]ADMIN: Updating jobbanfile!
+[13:22:37]ADMIN: Loading Banlist
+[13:22:49]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[13:23:49]ADMIN: Tk420634 has started the game.
+[13:23:52]GAME: Tk420634 (ckey) has been selected as a traitor
+[13:23:52]ACCESS: Logout: *no key*/(Tk420634)
+[13:23:52]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:24:14]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[13:24:36]EMOTE: monkey (80)/ : <B>The monkey (80)</B> jumps!
+[13:24:50]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[13:24:54]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:25:25]ADMIN: Tk420634/(Greyson Ehret) has modified world.fps to 16
+[13:27:20]EMOTE: monkey (818)/ : <B>The monkey (818)</B> jumps!
+[13:27:49]ADMIN: Tk420634/(Greyson Ehret) manipulated a pump at 121, 35, 1
+[13:27:51]ADMIN: Tk420634/(Greyson Ehret) manipulated a pump at 121, 35, 1
+[13:28:05]EMOTE: monkey (682)/ : <B>The monkey (682)</B> jumps!
+[13:28:12]ADMIN: Tk420634/(Greyson Ehret) manipulated a pump at 129, 35, 1
+[13:28:13]ADMIN: Tk420634/(Greyson Ehret) manipulated a pump at 129, 35, 1
+[13:28:19]ADMIN: Tk420634/(Greyson Ehret) manipulated a pump at 129, 41, 1
+[13:28:19]ADMIN: Tk420634/(Greyson Ehret) manipulated a pump at 129, 41, 1
+[13:29:42]EMOTE: Poly/ : <B>Poly</B> squawks.
+[13:29:43]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[13:30:00]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Lieutenant.
+[13:30:04]EMOTE: monkey (80)/ : <B>The monkey (80)</B> jumps!
+[13:30:23]EMOTE: monkey (994)/ : <B>The monkey (994)</B> jumps!
+[13:30:25]EMOTE: Runtime/ : <B>Runtime</B> shivers
+[13:31:53]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Medical Doctor.
+[13:32:09]EMOTE: monkey (519)/ : <B>The monkey (519)</B> jumps!
+[13:32:25]EMOTE: monkey (994)/ : <B>The monkey (994)</B> jumps!
+[13:32:57]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:33:37]EMOTE: monkey (682)/ : <B>The monkey (682)</B> jumps!
+[13:34:21]EMOTE: monkey (519)/ : <B>The monkey (519)</B> jumps!
+[13:34:46]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/t_scanner at (97,80,1)
+[13:35:03]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/weapon/storage/belt/utility/full at (97,80,1)
+[13:35:40]EMOTE: monkey (818)/ : <B>The monkey (818)</B> jumps!
+[13:36:05]EMOTE: monkey (1000)/ : <B>The monkey (1000)</B> jumps!
+[13:36:57]SAY: Poly/ : Check the singlo, you chucklefucks!
+[13:37:03]ADMIN: Tk420634/(Greyson Ehret) healed / revived Tk420634/(Greyson Ehret)
+[13:37:13]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/clothing/gloves/color/yellow at (100,79,1)
+[13:37:25]EMOTE: monkey (682)/ : <B>The monkey (682)</B> jumps!
+[13:37:56]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Geneticist.
+[13:38:02]EMOTE: Poly/ : <B>Poly</B> squawks.
+[13:38:10]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Virologist.
+[13:38:20]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Assistant.
+[13:38:23]SAY: Poly/ : Wire the solars, you lazy bums!
+[13:38:40]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Chief Medical Officer.
+[13:38:57]EMOTE: monkey (1000)/ : <B>The monkey (1000)</B> jumps!
+[13:39:35]EMOTE: monkey (635)/ : <B>The monkey (635)</B> jumps!
+[13:40:48]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[13:41:27]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[13:41:45]SAY: Poly/ : Wire the solars, you lazy bums!
+[13:42:35]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:42:55]EMOTE: monkey (635)/ : <B>The monkey (635)</B> jumps!
+[13:43:43]ADMIN: Tk420634/(Greyson Ehret) jumped to 129,70,1 in Research Director's Office
+[13:43:55]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/t_scanner at (129,73,1)
+[13:44:03]SAY: Poly/ : Wire the solars, you lazy bums!
+[13:44:03]EMOTE: monkey (994)/ : <B>The monkey (994)</B> jumps!
+[13:44:47]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/weapon/storage/belt/utility/full at (129,71,1)
+[13:45:19]EMOTE: monkey (80)/ : <B>The monkey (80)</B> jumps!
+[13:45:31]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[13:45:43]EMOTE: Runtime/ : <B>Runtime</B> meows
+[13:45:53]EMOTE: monkey (682)/ : <B>The monkey (682)</B> jumps!
+[13:45:59]EMOTE: monkey (519)/ : <B>The monkey (519)</B> jumps!
+[13:46:00]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Captain.
+[13:46:22]SAY: Poly/ : Check the singlo, you chucklefucks!
+[13:46:52]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[13:49:11]ADMIN: Tk420634/(Greyson Ehret) jumped to 121,70,1 in Chief Medical Officer's office
+[13:49:19]ADMIN: Tk420634/(Greyson Ehret) jumped to 125,72,1 in Aft Primary Hallway
+[13:49:35]SAY: Runtime/ : HSSSSS
+[13:49:43]ADMIN: Tk420634/(Greyson Ehret) jumped to 132,76,1 in Research Division
+[13:49:50]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/clothing/glasses/night/shadowling at (133,76,1)
+[13:50:33]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[13:50:45]GAME: Random Event triggering: Camera Failure (/datum/round_event/camera_failure)
+[13:51:01]ADMIN: Tk420634/(Greyson Ehret) jumped to 144,80,1 in Slime Biology Lab
+[13:51:30]ADMIN: Tk420634/(Greyson Ehret) jumped to 151,66,1 in Science Shuttle
+[13:52:21]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[13:52:21]ACCESS: Logout: *no key*/(Greyson Ehret)
+[13:52:21]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:52:21]ACCESS: Logout: *no key*/(Greyson Ehret)
+[13:52:21]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:52:22]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[13:52:22]ACCESS: Logout: *no key*/(Greyson Ehret)
+[13:52:22]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:52:22]ACCESS: Logout: *no key*/(Greyson Ehret)
+[13:52:22]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:52:28]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[13:52:28]ACCESS: Logout: *no key*/(Greyson Ehret)
+[13:52:28]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:52:36]ADMIN: Tk420634/(Greyson Ehret) teleported @Tk420634[DC]/(Greyson Ehret)
+[13:52:38]ACCESS: Logout: *no key*/(Greyson Ehret)
+[13:52:38]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:53:41]EMOTE: monkey (519)/ : <B>The monkey (519)</B> jumps!
+[13:53:51]ADMIN: Tk420634/(Greyson Ehret) jumped to 152,71,1 in Slime Biology Lab
+[13:54:26]EMOTE: monkey (994)/ : <B>The monkey (994)</B> jumps!
+[13:55:15]ADMIN: Tk420634/(Greyson Ehret) has triggered an event. (Meteor Wave)
+[13:55:16]ADMIN: Tk420634/(Greyson Ehret) has triggered an event. (Meteor Wave)
+[13:55:17]ADMIN: Tk420634/(Greyson Ehret) has triggered an event. (Meteor Wave)
+[13:55:23]EMOTE: monkey (1000)/ : <B>The monkey (1000)</B> jumps!
+[13:55:27]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[13:55:27]ACCESS: Logout: *no key*/(Greyson Ehret)
+[13:55:27]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[13:55:33]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 128.
+[13:55:43]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[13:55:48]GAME: SMES deleted at (Engineering SMES)
+[13:55:52]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[13:56:10]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:56:12]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:56:50]EMOTE: Greyson Ehret/@Tk420634 : <B>Greyson Ehret</B> gasps!
+[13:56:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:57:04]GAME: Radiation pulse with size (2, 5) and severity 50 in area Supermatter Room 
+[13:57:33]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Maintenance 
+[13:57:44]GAME: Emitter lost power in (123,41,1)
+[13:57:44]GAME: Emitter lost power in (127,41,1)
+[13:57:46]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:57:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Central Primary Hallway 
+[13:57:56]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:58:00]GAME: Radiation pulse with size (2, 5) and severity 50 in area Slime Biology Lab 
+[13:58:13]EMOTE: monkey (853)/ : <B>The monkey (853)</B> gasps!
+[13:58:14]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/effect/meteor/tunguska at (124,169,1)
+[13:58:16]GAME: Radiation pulse with size (2, 5) and severity 50 in area Cargo Bay 
+[13:58:18]ADMIN: Tk420634/(Greyson Ehret) has entered build mode.
+[13:58:19]EMOTE: Greyson Ehret/@Tk420634 : <B>Greyson Ehret</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:58:19]EMOTE: monkey (635)/ : <B>The monkey (635)</B> gasps!
+[13:58:25]GAME: Explosion with size (2, 4, 6, 0) in area Cargo Bay (123,139,1)
+[13:58:26]GAME: Explosion with size (2, 4, 6, 0) in area Mining Dock (121,123,1)
+[13:58:26]GAME: Explosion with size (2, 4, 6, 0) in area Central Primary Hallway (121,120,1)
+[13:58:27]GAME: Explosion with size (2, 4, 6, 0) in area Bar (120,109,1)
+[13:58:28]GAME: Explosion with size (2, 4, 6, 0) in area Chemistry (118,86,1)
+[13:58:30]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (123,140,1)
+[13:58:30]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the metal (0,0,0)
+[13:58:30]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the floor (124,124,1)
+[13:58:30]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the plating (124,117,1)
+[13:58:30]GAME: Explosion with size (-1, 0, 2, 2) in area Engineering (122,54,1)
+[13:58:31]GAME: Explosion with size (-1, 0, 2, 2) in area Primary Tool Storage (122,63,1)
+[13:58:31]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the reinforced wall (123,149,1)
+[13:58:31]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the reinforced wall (123,147,1)
+[13:58:31]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the reinforced wall (123,147,1)
+[13:58:31]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the plating (123,144,1)
+[13:58:31]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the plating (123,143,1)
+[13:58:31]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the plating (123,142,1)
+[13:58:31]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:58:32]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Camp Shuttle 
+[13:58:32]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:58:34]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[13:58:49]EMOTE: monkey (80)/ : <B>The monkey (80)</B> gasps!
+[13:58:49]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[13:58:54]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:58:56]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/effect/meteor/tunguska at (125,28,1)
+[13:58:59]EMOTE: monkey (80)/ : <B>The monkey (80)</B> gasps!
+[13:59:03]EMOTE: monkey (80)/ : <B>The monkey (80)</B> gasps!
+[13:59:03]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[13:59:04]GAME: Explosion with size (2, 4, 6, 0) in area Supermatter Room (125,32,1)
+[13:59:04]GAME: Radiation pulse with size (16, 32) and severity 500 in area Supermatter Room 
+[13:59:04]GAME: Radiation pulse with size (16, 32) and severity 500 in area Supermatter Room 
+[13:59:06]GAME: Explosion with size (2, 4, 6, 0) in area Engineering (125,52,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,66,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,66,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,63,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,64,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,68,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the reinforced window (124,61,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at the reinforced window (124,61,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at Engineering (0,0,0)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,62,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,65,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,65,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,65,1)
+[13:59:09]ADMIN: Build Mode: Tk420634/(Greyson Ehret) threw the tunguska meteor at space (125,65,1)
+[13:59:10]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[13:59:15]GAME: Radiation pulse with size (2, 5) and severity 50 in area Labor Camp Shuttle 
+[13:59:20]GAME: Radiation pulse with size (2, 5) and severity 50 in area Bridge 
+[13:59:21]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Maintenance 
+[13:59:23]ADMIN: Tk420634/(Greyson Ehret) has left build mode.
+[13:59:29]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 7.
+[13:59:34]GAME: Radiation pulse with size (2, 5) and severity 50 in area Starboard Maintenance 
+[13:59:34]GAME: Radiation pulse with size (2, 5) and severity 50 in area Research Division 
+[13:59:37]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:59:47]ADMIN: Tk420634/(Greyson Ehret) has possessed Lamarr (/obj/item/clothing/mask/facehugger) at (119, 119, 1)
+[13:59:49]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[13:59:50]GAME: Radiation pulse with size (2, 5) and severity 50 in area Aft Primary Hallway 
+[13:59:50]GAME: Radiation pulse with size (2, 5) and severity 50 in area Cargo Bay 
+[13:59:51]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[13:59:52]GAME: Radiation pulse with size (2, 5) and severity 50 in area Dormitories 
+[13:59:53]GAME: Radiation pulse with size (2, 5) and severity 50 in area Space 
+[14:00:22]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[14:00:27]ACCESS: Logout: *no key*/(Lamarr)
+[14:00:27]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[14:00:28]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[14:00:28]ACCESS: Logout: *no key*/(Greyson Ehret)
+[14:00:28]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[14:00:39]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[14:00:41]ADMIN: Tk420634/(Greyson Ehret) has used rudimentary transformation on Tk420634/(Greyson Ehret). Transforming to human; deletemob=1
+[14:00:41]ACCESS: Logout: *no key*/(Greyson Ehret)
+[14:00:41]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[14:00:53]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Chaplain.
+[14:01:06]ADMIN: Tk420634/(Greyson Ehret) spawned /mob/living/carbon/human at (130,77,2)
+[14:01:13]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[14:01:19]ADMIN: Tk420634/(Greyson Ehret) has used rudimentary transformation on Tk420634/(Greyson Ehret). Transforming to queen; deletemob=0
+[14:01:19]ACCESS: Logout: *no key*/(Greyson Ehret)
+[14:01:19]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[14:01:35]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:01:40]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[14:01:43]ADMIN: Tk420634/(Greyson Ehret) modified Greyson Ehret's has_fine_manipulation to 1
+[14:01:56]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/clothing/suit/hooded/wintercoat/security at (131,75,2)
+[14:01:58]EMOTE: monkey (994)/ : <B>The monkey (994)</B> jumps!
+[14:02:12]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/clothing/suit/hooded/chaplain_hoodie at (128,77,2)
+[14:02:25]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[14:02:25]ACCESS: Logout: *no key*/(Greyson Ehret)
+[14:02:25]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[14:02:36]ADMIN: Tk420634/(Greyson Ehret) stuffed tk420634 into Greyson Ehret.
+[14:02:36]ACCESS: Logout: *no key*/(Greyson Ehret)
+[14:02:36]ACCESS: Login: tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[14:03:11]ADMIN: tk420634/(Greyson Ehret) spawned /obj/item/clothing/head/chaplain_hood at (130,75,2)
+[14:06:05]ACCESS: Logout: tk420634[DC]/(Greyson Ehret)
+
+
+Starting up. 18:17.49
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[18:17:51]ADMIN: Loading Banlistjob
+[18:17:51]ADMIN: Loading jobban_rank
+[18:17:51]ADMIN: jobban_keylist was empty
+[18:17:51]ADMIN: Loading appearance_rank
+[18:17:51]ADMIN: appearance_keylist was empty
+[18:17:51]ADMIN: Updating jobbanfile!
+[18:17:51]ADMIN: Loading Banlist
+[18:17:58]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:18:02]ADMIN: Loading Banlist
+[18:18:02]ADMIN: Banlist is empty.
+[18:18:02]ADMIN: Banlist missing base dir.
+[18:18:02]ADMIN: Ban Expired: 
+[18:18:02]ADMIN: Invalid Ban.
+[18:18:13]ADMIN: Loading Banlist
+[18:18:13]ADMIN: Banlist is empty.
+[18:18:13]ADMIN: Banlist missing base dir.
+[18:18:13]ADMIN: Ban Expired: 
+[18:18:13]ADMIN: Invalid Ban.
+[18:18:25]ADMIN: Loading Banlist
+[18:18:25]ADMIN: Banlist is empty.
+[18:18:25]ADMIN: Banlist missing base dir.
+[18:18:25]ADMIN: Ban Expired: 
+[18:18:25]ADMIN: Invalid Ban.
+
+
+Starting up. 18:26.21
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[18:26:23]ADMIN: Loading Banlistjob
+[18:26:23]ADMIN: Loading jobban_rank
+[18:26:23]ADMIN: jobban_keylist was empty
+[18:26:23]ADMIN: Loading appearance_rank
+[18:26:23]ADMIN: appearance_keylist was empty
+[18:26:23]ADMIN: Updating jobbanfile!
+[18:26:23]ADMIN: Loading Banlist
+[18:26:30]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[18:27:28]ADMIN: Tk420634 has started the game.
+[18:27:32]GAME: Tk420634 (ckey) has been selected as a traitor
+[18:27:32]ACCESS: Logout: *no key*/(Tk420634)
+[18:27:32]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[18:27:58]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Chief Engineer.
+[18:28:07]ADMIN: Tk420634/(Greyson Ehret) made all SMESs powered
+[18:28:07]ADMIN: Tk420634/(Greyson Ehret) used secret quickpower
+[18:28:40]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:29:11]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:29:14]SAY: Greyson Ehret/Tk420634 : Working?
+[18:29:17]SAY: Greyson Ehret/Tk420634 : Shit\
+[18:29:23]SAY: Greyson Ehret/Tk420634 : Hello
+[18:29:27]SAY: Greyson Ehret/Tk420634 : Welp
+[18:29:58]SAY: Greyson Ehret/Tk420634 : Help
+[18:30:07]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[18:30:25]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:30:33]EMOTE: monkey (745)/ : <B>The monkey (745)</B> jumps!
+[18:30:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:31:17]SAY: grey baby slime (446)/ : Lonely...
+[18:31:37]PDA: Greyson Ehret/(tk420634) (PDA: System Administrator) sent "This is a test, please ignore." to Greyson Ehret
+[18:32:15]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:32:20]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Captain.
+[18:32:34]SAY: Greyson Ehret/Tk420634 : Test
+[18:32:37]SAY: Greyson Ehret/Tk420634 : Test
+[18:32:41]SAY: Greyson Ehret/Tk420634 : Test
+[18:32:45]SAY: Greyson Ehret/Tk420634 : Test
+[18:32:49]SAY: Greyson Ehret/Tk420634 : Test
+[18:32:55]SAY: Greyson Ehret/Tk420634 : Test
+[18:33:07]EMOTE: monkey (499)/ : <B>The monkey (499)</B> jumps!
+[18:34:01]EMOTE: monkey (499)/ : <B>The monkey (499)</B> jumps!
+[18:34:15]SAY: Greyson Ehret/Tk420634 : Test
+[18:34:18]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[18:34:19]SAY: Greyson Ehret/Tk420634 : Test
+[18:34:44]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:35:04]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[18:35:20]EMOTE: monkey (790)/ : <B>The monkey (790)</B> jumps!
+[18:36:17]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[18:36:46]ACCESS: Logout: Tk420634[DC]/(Greyson Ehret)
+
+
+Starting up. 20:19.10
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[20:19:13]ADMIN: Loading Banlistjob
+[20:19:13]ADMIN: Loading jobban_rank
+[20:19:13]ADMIN: jobban_keylist was empty
+[20:19:13]ADMIN: Loading appearance_rank
+[20:19:13]ADMIN: appearance_keylist was empty
+[20:19:13]ADMIN: Updating jobbanfile!
+[20:19:13]ADMIN: Loading Banlist
+[20:19:19]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:19:30]ADMIN: Loading Banlist
+[20:19:30]ADMIN: Banlist is empty.
+[20:19:30]ADMIN: Banlist missing base dir.
+[20:19:30]ADMIN: Ban Expired: 
+[20:19:30]ADMIN: Invalid Ban.
+[20:19:40]ADMIN: Loading Banlist
+[20:19:40]ADMIN: Banlist is empty.
+[20:19:40]ADMIN: Banlist missing base dir.
+[20:19:40]ADMIN: Ban Expired: 
+[20:19:40]ADMIN: Invalid Ban.
+[20:19:50]ADMIN: Loading Banlist
+[20:19:50]ADMIN: Banlist is empty.
+[20:19:50]ADMIN: Banlist missing base dir.
+[20:19:50]ADMIN: Ban Expired: 
+[20:19:50]ADMIN: Invalid Ban.
+
+
+Starting up. 20:26.14
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[20:26:17]ADMIN: Loading Banlistjob
+[20:26:17]ADMIN: Loading jobban_rank
+[20:26:17]ADMIN: jobban_keylist was empty
+[20:26:17]ADMIN: Loading appearance_rank
+[20:26:17]ADMIN: appearance_keylist was empty
+[20:26:17]ADMIN: Updating jobbanfile!
+[20:26:17]ADMIN: Loading Banlist
+[20:26:25]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[20:27:19]ADMIN: Tk420634 has started the game.
+[20:27:22]GAME: Tk420634 (ckey) has been selected as a traitor
+[20:27:22]ACCESS: Logout: *no key*/(Tk420634)
+[20:27:22]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:27:36]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[20:27:39]ADMIN: Tk420634/(Greyson Ehret) has modified world.fps to 16
+[20:27:44]EMOTE: monkey (485)/ : <B>The monkey (485)</B> jumps!
+[20:27:44]EMOTE: monkey (189)/ : <B>The monkey (189)</B> jumps!
+[20:27:54]ADMIN: Tk420634/(Greyson Ehret) made all SMESs powered
+[20:27:54]ADMIN: Tk420634/(Greyson Ehret) used secret quickpower
+[20:27:56]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[20:27:56]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:27:56]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:29:43]EMOTE: monkey (278)/ : <B>The monkey (278)</B> jumps!
+[20:30:24]EMOTE: monkey (402)/ : <B>The monkey (402)</B> jumps!
+[20:30:30]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:30:30]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:30:37]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Captain.
+[20:30:46]SAY: Greyson Ehret/Tk420634 : Erds
+[20:30:49]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:30:52]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:30:54]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:30:55]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:30:58]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:30:59]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:31:03]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:31:05]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:31:09]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:31:13]SAY: Greyson Ehret/Tk420634 : Nerds
+[20:31:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:32:01]EMOTE: monkey (485)/ : <B>The monkey (485)</B> jumps!
+[20:32:04]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Assistant.
+[20:32:15]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Scientist.
+[20:32:23]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Roboticist.
+[20:32:50]EMOTE: monkey (189)/ : <B>The monkey (189)</B> jumps!
+[20:32:58]EMOTE: monkey (650)/ : <B>The monkey (650)</B> jumps!
+[20:33:45]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[20:33:45]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:33:45]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:33:49]ADMIN: Tk420634/(Greyson Ehret) has entered build mode.
+[20:33:52]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the wall at (139,107,1)
+[20:33:52]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the reinforced wall at (139,107,1)
+[20:33:53]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the wall at (139,106,1)
+[20:33:53]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the reinforced wall at (139,106,1)
+[20:33:53]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the reinforced wall at (139,106,1)
+[20:33:54]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:33:54]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:33:55]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[20:33:58]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the wall at (127,116,1)
+[20:34:05]ADMIN: Build Mode: Tk420634/(Greyson Ehret) deleted the shutter controller at (126,121,1)
+[20:34:07]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the reinforced wall at (125,121,1)
+[20:34:07]ADMIN: Build Mode: Tk420634/(Greyson Ehret) built the wall at (126,121,1)
+[20:34:11]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[20:34:11]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:34:11]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:34:15]ADMIN: Tk420634/(Greyson Ehret) has left build mode.
+[20:34:15]ADMIN: Tk420634/(Greyson Ehret) has entered build mode.
+[20:34:16]ADMIN: Tk420634/(Greyson Ehret) has left build mode.
+[20:34:17]ADMIN: Tk420634/(Greyson Ehret) has entered build mode.
+[20:34:18]ADMIN: Build Mode: Tk420634/(Greyson Ehret) deleted the wall at (126,121,1)
+[20:34:20]ADMIN: Tk420634/(Greyson Ehret) has left build mode.
+[20:34:22]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:34:22]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:34:30]ADMIN: Tk420634/(Greyson Ehret) has entered build mode.
+[20:34:31]ADMIN: Build Mode: Tk420634/(Greyson Ehret) deleted the wall at (127,116,1)
+[20:34:32]ADMIN: Tk420634/(Greyson Ehret) has left build mode.
+[20:35:18]SAY: Runtime/ : HSSSSS
+[20:35:24]EMOTE: Runtime/ : <B>Runtime</B> mews
+[20:35:47]GAME: Random Event triggering: Shuttle loan (/datum/round_event/shuttle_loan)
+[20:35:50]EMOTE: monkey (742)/ : <B>The monkey (742)</B> jumps!
+[20:36:32]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/flashlight/seclite at (124,123,1)
+[20:36:34]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/flashlight/seclite at (124,123,1)
+[20:36:53]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/flashlight/seclite at (124,123,1)
+[20:36:57]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[20:37:07]EMOTE: monkey (278)/ : <B>The monkey (278)</B> jumps!
+[20:37:29]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[20:37:29]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:37:29]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:37:34]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 14.
+[20:39:14]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 7.
+[20:39:17]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 14.
+[20:39:18]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 7.
+[20:39:20]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 128.
+[20:39:23]SAY: grey baby slime (474)/ : Lonely...
+[20:40:12]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:40:12]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:40:18]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 7.
+[20:40:43]EMOTE: monkey (9)/ : <B>The monkey (9)</B> jumps!
+[20:40:48]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Syndicate Operative - Full Kit.
+[20:41:17]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Captain.
+[20:42:51]SAY: Poly/ : Check the singlo, you chucklefucks!
+[20:43:12]EMOTE: monkey (9)/ : <B>The monkey (9)</B> jumps!
+[20:44:13]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[20:44:13]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:44:13]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:44:17]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 14.
+[20:44:24]ACCESS: Logout: *no key*/(Greyson Ehret)
+[20:44:24]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[20:44:26]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 7.
+[20:45:43]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[20:45:48]EMOTE: monkey (402)/ : <B>The monkey (402)</B> jumps!
+[20:46:35]SAY: Runtime/ : Esp!
+[20:46:37]EMOTE: monkey (363)/ : <B>The monkey (363)</B> jumps!
+[20:47:25]SAY: grey baby slime (474)/ : Blorble...
+[20:48:24]EMOTE: monkey (9)/ : <B>The monkey (9)</B> jumps!
+[20:49:22]EMOTE: monkey (485)/ : <B>The monkey (485)</B> jumps!
+[20:49:28]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[20:50:04]EMOTE: monkey (650)/ : <B>The monkey (650)</B> jumps!
+[20:50:06]EMOTE: monkey (278)/ : <B>The monkey (278)</B> jumps!
+[20:51:01]EMOTE: monkey (278)/ : <B>The monkey (278)</B> jumps!
+[20:52:58]GAME: Random Event triggering: Communications Blackout (/datum/round_event/communications_blackout)
+[20:53:33]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:53:37]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/flashlight/seclite at (118,123,1)
+[20:53:41]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/device/flashlight/seclite at (118,123,1)
+[20:54:04]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[20:54:29]SAY: Runtime/ : Meow!
+[20:54:29]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[20:54:29]EMOTE: monkey (278)/ : <B>The monkey (278)</B> jumps!
+[20:55:49]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[20:56:09]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[20:57:48]EMOTE: Runtime/ : <B>Runtime</B> meows
+[20:58:56]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[21:00:04]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[21:00:12]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:00:38]EMOTE: monkey (402)/ : <B>The monkey (402)</B> jumps!
+[21:01:02]EMOTE: monkey (189)/ : <B>The monkey (189)</B> jumps!
+[21:01:10]EMOTE: monkey (189)/ : <B>The monkey (189)</B> jumps!
+[21:01:23]EMOTE: monkey (9)/ : <B>The monkey (9)</B> jumps!
+[21:01:31]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[21:01:52]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/weapon/wrench at (129,51,1)
+[21:02:10]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[21:02:34]SAY: Poly/ : Wire the solars, you lazy bums!
+[21:03:41]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[21:04:35]EMOTE: Poly/ : <B>Poly</B> squawks.
+[21:04:54]GAME: Random Event triggering: Carp Migration (/datum/round_event/carp_migration)
+[21:05:46]EMOTE: monkey (189)/ : <B>The monkey (189)</B> jumps!
+[21:06:05]ADMIN: Tk420634/(Greyson Ehret) healed / revived Tk420634/(Greyson Ehret)
+[21:06:08]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[21:07:31]ADMIN: Tk420634/(Greyson Ehret) healed / revived Tk420634/(Greyson Ehret)
+[21:07:52]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:08:26]EMOTE: monkey (402)/ : <B>The monkey (402)</B> jumps!
+[21:08:53]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[21:09:51]SAY: Runtime/ : HSSSSS
+[21:10:06]EMOTE: monkey (316)/ : <B>The monkey (316)</B> jumps!
+[21:10:19]SAY: grey baby slime (474)/ : Lonely...
+[21:10:21]EMOTE: monkey (742)/ : <B>The monkey (742)</B> jumps!
+[21:12:18]EMOTE: monkey (402)/ : <B>The monkey (402)</B> jumps!
+[21:12:22]EMOTE: monkey (485)/ : <B>The monkey (485)</B> jumps!
+[21:13:33]SAY: Runtime/ : Meow!
+[21:13:42]EMOTE: monkey (363)/ : <B>The monkey (363)</B> jumps!
+[21:13:50]SAY: Poly/ : Check the singlo, you chucklefucks!
+[21:14:38]EMOTE: monkey (9)/ : <B>The monkey (9)</B> jumps!
+[21:16:52]EMOTE: monkey (742)/ : <B>The monkey (742)</B> jumps!
+[21:17:16]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[21:17:52]ACCESS: Logout: Tk420634[DC]/(Greyson Ehret)
+`ÛXhAdding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[22:05:29]ADMIN: Loading Banlistjob
+[22:05:29]ADMIN: Loading jobban_rank
+[22:05:29]ADMIN: jobban_keylist was empty
+[22:05:29]ADMIN: Loading appearance_rank
+[22:05:29]ADMIN: appearance_keylist was empty
+[22:05:29]ADMIN: Updating jobbanfile!
+[22:05:29]ADMIN: Loading Banlist
+[22:05:38]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[22:06:32]ADMIN: Tk420634 has started the game.
+[22:06:36]GAME: Tk420634 (ckey) has been selected as a traitor
+[22:06:36]ACCESS: Logout: *no key*/(Tk420634)
+[22:06:36]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[22:06:45]ADMIN: Tk420634/(Greyson Ehret) made all SMESs powered
+[22:06:45]ADMIN: Tk420634/(Greyson Ehret) used secret quickpower
+[22:06:49]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[22:06:57]SAY: Runtime/ : Esp!
+[22:07:05]EMOTE: monkey (486)/ : <B>The monkey (486)</B> jumps!
+[22:07:12]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Captain.
+[22:07:34]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:07:40]EMOTE: monkey (241)/ : <B>The monkey (241)</B> jumps!
+[22:09:00]SAY: Poly/ : Poly wanna cracker!
+[22:09:22]EMOTE: monkey (109)/ : <B>The monkey (109)</B> jumps!
+[22:10:18]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/weapon/storage/belt/utility/full at (117,126,1)
+[22:10:21]SAY: grey baby slime (268)/ : Lonely...
+[22:10:23]EMOTE: monkey (762)/ : <B>The monkey (762)</B> jumps!
+[22:10:49]SAY: Runtime/ : Purr!
+[22:11:50]EMOTE: monkey (109)/ : <B>The monkey (109)</B> jumps!
+[22:12:18]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Assistant.
+[22:12:36]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Chaplain.
+[22:13:28]ADMIN: Tk420634/(Greyson Ehret) spawned /mob/living/carbon/human at (115,133,1)
+[22:13:42]EMOTE: Donny Miller/ : <B>Donny Miller</B> screams!
+[22:14:44]EMOTE: monkey (604)/ : <B>The monkey (604)</B> jumps!
+[22:14:54]EMOTE: monkey (762)/ : <B>The monkey (762)</B> jumps!
+[22:15:02]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[22:15:16]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Librarian.
+[22:15:30]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/item/weapon/storage/book/bible at (131,127,1)
+[22:16:10]EMOTE: monkey (109)/ : <B>The monkey (109)</B> jumps!
+[22:16:54]ACCESS: Logout: Tk420634[DC]/(Greyson Ehret)
+
+
+Starting up. 22:18.41
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[22:18:48]ADMIN: Loading Banlistjob
+[22:18:48]ADMIN: Loading jobban_rank
+[22:18:48]ADMIN: jobban_keylist was empty
+[22:18:48]ADMIN: Loading appearance_rank
+[22:18:48]ADMIN: appearance_keylist was empty
+[22:18:48]ADMIN: Updating jobbanfile!
+[22:18:48]ADMIN: Loading Banlist
+[22:18:56]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[22:19:47]ADMIN: Tk420634 has started the game.
+[22:19:52]GAME: Tk420634 (ckey) has been selected as a traitor
+[22:19:52]ACCESS: Logout: *no key*/(Tk420634)
+[22:19:52]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[22:19:59]ADMIN: Tk420634/(Greyson Ehret) has modified world.fps to 16
+[22:20:04]ADMIN: Tk420634/(Greyson Ehret) made all SMESs powered
+[22:20:04]ADMIN: Tk420634/(Greyson Ehret) used secret quickpower
+[22:20:36]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[22:20:49]EMOTE: monkey (656)/ : <B>The monkey (656)</B> jumps!
+[22:21:22]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[22:21:22]ACCESS: Logout: *no key*/(Greyson Ehret)
+[22:21:22]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[22:21:30]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 12.
+[22:21:32]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 7.
+[22:21:34]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 9.
+[22:21:39]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 7.
+[22:21:41]ADMIN: Tk420634/(Greyson Ehret) changed their view range to 10.
+[22:22:24]EMOTE: monkey (35)/ : <B>The monkey (35)</B> jumps!
+[22:23:09]ACCESS: Logout: *no key*/(Greyson Ehret)
+[22:23:09]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[22:23:12]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[22:23:15]ADMIN: Tk420634/(Greyson Ehret) AIized Tk420634/(Greyson Ehret)
+[22:23:15]ACCESS: Logout: *no key*/(Greyson Ehret)
+[22:23:15]ACCESS: Login: Tk420634/(Hadaly) from localhost-4019019304 || BYOND v509
+[22:23:28]EMOTE: monkey (656)/ : <B>The monkey (656)</B> jumps!
+[22:23:37]EMOTE: Poly/ : <B>Poly</B> squawks.
+[22:24:09]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:24:11]SAY: Runtime/ : Meow!
+[22:24:19]ADMIN: Tk420634/(ASTAR) changed their view range to 7.
+[22:24:32]EMOTE: monkey (914)/ : <B>The monkey (914)</B> jumps!
+[22:24:43]GAME: Tk420634/(ASTAR) made a vocal announcement with the following message: abortions.
+[22:26:02]EMOTE: monkey (13)/ : <B>The monkey (13)</B> jumps!
+[22:26:12]EMOTE: monkey (203)/ : <B>The monkey (203)</B> jumps!
+[22:26:34]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[22:26:55]EMOTE: monkey (914)/ : <B>The monkey (914)</B> jumps!
+[22:27:29]ADMIN: Tk420634/(ASTAR) admin ghosted
+[22:27:29]ACCESS: Logout: *no key*/(ASTAR)
+[22:27:29]ACCESS: Login: Tk420634/(ASTAR) from localhost-4019019304 || BYOND v509
+[22:27:39]EMOTE: monkey (363)/ : <B>The monkey (363)</B> jumps!
+[22:27:48]EMOTE: monkey (363)/ : <B>The monkey (363)</B> jumps!
+[22:27:48]EMOTE: monkey (13)/ : <B>The monkey (13)</B> jumps!
+[22:28:17]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[22:28:20]ADMIN: Tk420634/(ASTAR) has used rudimentary transformation on Tk420634/(ASTAR). Transforming to human; deletemob=1
+[22:28:20]ACCESS: Logout: *no key*/(ASTAR)
+[22:28:20]ACCESS: Login: Tk420634/(Greyson Ehret) from localhost-4019019304 || BYOND v509
+[22:28:32]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Chief Engineer.
+[22:28:48]EMOTE: Runtime/ : <B>Runtime</B> mews
+[22:29:15]ADMIN: Tk420634/(Greyson Ehret) called Confession Booth (Chaplain)'s open() with no arguments.
+[22:29:29]EMOTE: monkey (363)/ : <B>The monkey (363)</B> jumps!
+[22:30:23]ADMIN: Tk420634/(Greyson Ehret) changed the equipment of Tk420634/(Greyson Ehret) to Lieutenant.
+[22:31:43]EMOTE: monkey (203)/ : <B>The monkey (203)</B> jumps!
+[22:31:48]ADMIN: Tk420634/(Greyson Ehret) spawned /obj/structure/closet/ammunitionlocker at (117,130,1)
+[22:31:57]ADMIN: Tk420634/(Greyson Ehret) deleted the ammunition locker at (117,124,1)
+[22:32:07]EMOTE: monkey (35)/ : <B>The monkey (35)</B> jumps!
+[22:33:30]ADMIN: Tk420634/(Greyson Ehret) admin ghosted
+[22:33:30]ACCESS: Logout: *no key*/(Greyson Ehret)
+[22:33:30]ACCESS: Login: Tk420634/(ASTAR) from localhost-4019019304 || BYOND v509
+[22:34:56]SAY: Poly/ : Wire the solars, you lazy bums!
+[22:35:35]ACCESS: Logout: Tk420634[DC]/(ASTAR)
+
+
+Starting up. 23:18.05
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[23:18:11]ADMIN: Loading Banlistjob
+[23:18:11]ADMIN: Loading jobban_rank
+[23:18:11]ADMIN: jobban_keylist was empty
+[23:18:11]ADMIN: Loading appearance_rank
+[23:18:11]ADMIN: appearance_keylist was empty
+[23:18:11]ADMIN: Updating jobbanfile!
+[23:18:11]ADMIN: Loading Banlist
+[23:18:16]ACCESS: Login: Tk420634/(Tk420634) from localhost-4019019304 || BYOND v509
+[23:20:29]ADMIN: Tk420634 has started the game.
+[23:20:34]GAME: Tk420634 (ckey) has been selected as a traitor
+[23:20:34]ACCESS: Logout: *no key*/(Tk420634)
+[23:20:34]ACCESS: Login: Tk420634/(Sophie Smith) from localhost-4019019304 || BYOND v509
+[23:20:42]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the clipboard.
+[23:20:50]EMOTE: monkey (713)/ : <B>The monkey (713)</B> jumps!
+[23:20:52]ADMIN: Tk420634/(Sophie Smith) made all SMESs powered
+[23:20:52]ADMIN: Tk420634/(Sophie Smith) used secret quickpower
+[23:21:22]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[23:23:06]EMOTE: monkey (123)/ : <B>The monkey (123)</B> jumps!
+[23:23:34]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[23:23:51]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[23:24:41]EMOTE: monkey (88)/ : <B>The monkey (88)</B> jumps!
+[23:24:46]ADMIN: Tk420634/(Sophie Smith) changed the equipment of Tk420634/(Sophie Smith) to Assistant.
+[23:25:15]ACCESS: Logout: Tk420634[DC]/(Sophie Smith)
