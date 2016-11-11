@@ -15,6 +15,8 @@
 #define FILE_DIR "code/cactus/sound/misc/step"
 #define FILE_DIR "code/cactus/sound/pred"
 #define FILE_DIR "code/cactus/sound/pred/voice"
+#define FILE_DIR "code/hybi"
+#define FILE_DIR "code/hybi/icons"
 #define FILE_DIR "code/modules"
 #define FILE_DIR "code/modules/games"
 #define FILE_DIR "code/modules/html_interface"
