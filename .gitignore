@@ -1,4 +1,4 @@
-###Files and folders specified here will never be tracked.
+#Files and folders specified here will never be tracked.
 
 #Ignore everything in datafolder and subdirectories
 /data/**/*
@@ -14,7 +14,7 @@
 *.int
 *.backup
 *.int
-### https://raw.github.com/github/gitignore/cc542de017c606138a87ee4880e5f06b3a306def/Global/Linux.gitignore
+# https://raw.github.com/github/gitignore/cc542de017c606138a87ee4880e5f06b3a306def/Global/Linux.gitignore
 
 *~
 
