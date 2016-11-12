@@ -1,7 +1,11 @@
 // WIP
 
 
-
+/mob/verb/d_spawn(var/chosen_item in show_items, mob/user)
+	set name = "Donator Item Spawn"
+	set category = "OOC"
+	set desc = "Spawn in an item!"
+	return
 
 
 var/list/donatoritems = list(/obj/item/weapon/reagent_containers/food/snacks/grown/poppy/geranium, /obj/item/weapon/reagent_containers/food/snacks/cookie, /obj/item/weapon/drilldo, /obj/item/clothing/under/bowlingoutfit, /obj/item/clothing/under/middriftturtleneck, /obj/item/clothing/tie/watch, /obj/item/toy/cattoygreen, /obj/item/clothing/suit/space/hardsuit/miningsacafe)
@@ -12,40 +16,36 @@ var/list/donatoritems = list(/obj/item/weapon/reagent_containers/food/snacks/gro
 var/donators = list("tk420634", "jonathanhybrid", "sacafe", "chokin and tokin", "andyman105", "hibou4", "suicidalpickles")
 //List of all the donators, ckeys = their username all lowercased with no spaces.
 // I.E: "Its hip to fuck bees" would be "itshiptofuckbees" and in the list it would look like list("itshiptofuckbees","randomckey")
+var/list/show_items = list("EXIT" = null) + sortList(donatoritems) // the list that will be shown to the user to pick from
 
-/client/verb/d_spawnitem(mob/living/carbon/human/H, mob/user)
-	set name = "Donator Item Spawn"
-	set category = "Donators"
-	set desc = "Spawn in an item!"
 
-	if(!ishuman(H))
-		usr << "This can only be used on instances of type /mob/living/carbon/human"
+/mob/living/carbon/human/d_spawn(var/input_item in show_items, mob/user)
+	if(user.stat == UNCONSCIOUS)
 		return
 
+	if(user.stat == DEAD)
+		return
+
+
 	if(ckey in donators)
-
-		var/list/show_items = list("EXIT" = null) + sortList(donatoritems) // the list that will be shown to the user to pick from
-
-		var/input_item = input(user, "Choose an item to spawn.", "Choose an item.") in show_items //Gives the list to what the user wants.
-
-		H.equip_to_slot_or_del( new input_item(H), slot_l_hand ) // Spawn the item into left hand
-		if(!(istype(H.l_hand,input_item))) //The rest of this is just to make sure their hands aren't full.
-			H.equip_to_slot_or_del( new input_item(H), slot_r_hand )
-			if(!(istype(H.r_hand,input_item)))
+		user.equip_to_slot_or_del( new input_item(user), slot_l_hand ) // Spawn the item into left hand
+		if(!(istype(user.l_hand,input_item))) //The rest of this is just to make sure their hands aren't full.
+			user.equip_to_slot_or_del( new input_item(user), slot_r_hand )
+			if(!(istype(user.r_hand,input_item)))
 				src << "Hands are full!"
 				log_admin("[key] has attempted to spawn in [input_item] but their hands were full!")
 				return
 			else
-				H.update_inv_r_hand()//To ensure the icon appears in the HUD
+				user.update_inv_r_hand()//To ensure the icon appears in the HUD
 		else
-			H.update_inv_l_hand() // Same thing as the proc above.
-		log_admin("[key_name(H)] donator spawned [input_item]") //Logging
-		message_admins("[key_name(H)] donator spawned [input_item]")
-		H << "<span class='adminnotice'>You've spawned in your <b>[input_item]</b>!</span>"
+			user.update_inv_l_hand() // Same thing as the proc above.
+		log_admin("[key_name(user)] donator spawned [input_item]") //Logging
+		message_admins("[key_name(user)] donator spawned [input_item]")
+		user << "<span class='adminnotice'>You've spawned in your <b>[input_item]</b>!</span>"
 		return
 
 	else
-		usr << "Sorry, you aren't a donator. If you have donated, you will be able to access this feature in the next update."
+		user << "Sorry, you aren't a donator. If you have donated, you will be able to access this feature in the next update."
 
 /*
 /client/proc/build_donator_items(donatoritems)
