@@ -2806,7 +2806,11 @@
 "bbX" = (/turf/simulated/wall,/area/engine/engineering)
 "bbY" = (/obj/machinery/atmospherics/components/unary/vent_scrubber{dir = 1; on = 1; scrub_N2O = 0; scrub_Toxins = 0},/turf/simulated/floor/plasteel/darkyellow/side{tag = "icon-darkyellow (NORTHEAST)"; icon_state = "darkyellow"; dir = 5},/area/atmos)
 "bbZ" = (/obj/machinery/atmospherics/components/binary/pump{dir = 0; name = "Waste In"; on = 1},/turf/simulated/floor/plasteel/black,/area/atmos)
+<<<<<<< HEAD
 "bca" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/obj/machinery/camera{c_tag = "Atmospherics West"; dir = 8; network = list("SS13")},/turf/simulated/floor/plasteel/black,/area/atmos)
+=======
+"bca" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/obj/machinery/camera{c_tag = "Chief Medical Office"; dir = 8; network = list("SS13"); pixel_x = 0; pixel_y = -22},/turf/simulated/floor/plasteel/black,/area/atmos)
+>>>>>>> refs/remotes/Tk420634/master
 "bcb" = (/turf/simulated/wall,/area/atmos)
 "bcc" = (/obj/machinery/atmospherics/pipe/manifold/general/visible{dir = 8},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/plasteel/black,/area/atmos)
 "bcd" = (/obj/machinery/atmospherics/pipe/simple/general/visible{dir = 9},/turf/simulated/floor/plasteel/black,/area/atmos)

@@ -14,6 +14,7 @@
 	desc = "A powdered wig."
 	icon_state = "pwig"
 	item_state = "pwig"
+	flags = BLOCKHAIR
 
 /obj/item/clothing/head/that
 	name = "top-hat"
@@ -60,16 +61,19 @@
 	name = "hijab"
 	icon_state = "hijab"
 	item_state = "hijab"
+	flags = BLOCKHAIR
 
 /obj/item/clothing/head/turban
 	name = "turban"
 	icon_state = "turban"
 	item_state = "turban"
+	flags = BLOCKHAIR
 
 /obj/item/clothing/head/towel
 	name = "towel"
 	icon_state = "towel"
 	item_state = "towel"
+	flags = BLOCKHAIR
 
 /obj/item/clothing/head/skeleton
 	name = "skeleton"
