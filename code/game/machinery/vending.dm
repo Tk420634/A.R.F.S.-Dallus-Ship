@@ -1052,9 +1052,13 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	product_slogans = "Kinky!;Sexy!;Check me out, big boy!"
 	vend_delay = 15
 	vend_reply = "Have fun, you shameless pervert!"
-	products = list(/obj/item/weapon/dildo=10,/obj/item/clothing/under/maid=5,/obj/item/clothing/under/schoolgirl=3,
-	/obj/item/clothing/tie/petcollar=5,/obj/item/clothing/tie/spikecollar=3, /obj/item/clothing/ears/earmuffs=2,/obj/item/clothing/glasses/sunglasses/blindfold=2,
-	/obj/item/clothing/mask/muzzle=2, /obj/item/weapon/fleshlight=2, /obj/item/weapon/bulletvibe=4, /obj/item/weapon/canine=4, /obj/item/weapon/purpledong=4, /obj/item/weapon/bigblackdick=4, /obj/item/weapon/floppydick=4)
+	products = list(/obj/item/clothing/under/maid=5,/obj/item/clothing/under/schoolgirl=3,
+	/obj/item/clothing/tie/petcollar=5,/obj/item/clothing/tie/spikecollar=3,
+	/obj/item/clothing/ears/earmuffs=2,/obj/item/clothing/glasses/sunglasses/blindfold=2,
+	/obj/item/clothing/mask/muzzle=2,/obj/item/weapon/dildo=10,/obj/item/weapon/dildos/canine=4,
+	/obj/item/weapon/dildos/purpledong=4,/obj/item/weapon/dildos/bigblackdick=4,
+	/obj/item/weapon/dildos/floppydick=4,/obj/item/weapon/bulletvibe=4,
+	/obj/item/weapon/fleshlight=2)
 	contraband = list()
 	premium = list(/obj/item/clothing/under/latexmaid=3,/obj/item/weapon/dildo/psych=2,/obj/item/weapon/restraints/handcuffs/kink=2,
 	/obj/item/clothing/head/wizard/fake=1,/obj/item/clothing/suit/wizrobe/fake=1)
@@ -1116,7 +1120,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/head/lindaberet = 4, /obj/item/clothing/head/canada = 4,
 	/obj/item/clothing/head/bowler = 4, /obj/item/clothing/head/fedora = 4,
 	/obj/item/clothing/head/sombrero = 4, /obj/item/clothing/head/sombrero/green = 4,
-	/obj/item/clothing/head/hunter = 4)
+	/obj/item/clothing/head/hunter = 4, /obj/item/clothing/glasses/regular = 4,
+	/obj/item/clothing/glasses/regular/hipster = 4, /obj/item/clothing/glasses/sunglasses = 2)
 
 /*
 /obj/machinery/vending/suits
