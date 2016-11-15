@@ -383,56 +383,51 @@
 	user.visible_message("<span class='suicide'>[user] is shoving the [src.name] up \his ass! It looks like \he's trying to commit suicide!</span>")
 	return(BRUTELOSS)
 
-/obj/item/weapon/fleshlight
+obj/item/weapon/fleshlight
 	name = "fleshlight"
-	desc = "Insert penis"
+	desc = "Somehow, it seems to be the perfect fit for any length. Very cool."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "fleshlight"
-	force = 0
-	throwforce = 0
-	attack_verb = list("lewds")
+	item_state = "fleshlight"
+	attack_verb = list("cuntslapped", "violated", "teased", "prodded")
 
 /obj/item/weapon/bulletvibe
 	name = "bullet vibrator"
-	desc = "Girls love it, but you can also put it in your butt."
+	desc = "A discreet, versatile vibrator, and don't you let its size fool you. Still one of the most popular vibes on the market."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "bulletvibe"
-	force = 0
-	throwforce = 0
-	attack_verb = list("lewds")
+	item_state = "bulletvibe"
+	attack_verb = list("pleasured", "vibrated", "violated", "teased", "poked")
 
-/obj/item/weapon/canine
+
+/obj/item/weapon/dildos/canine
 	name = "canine dildo"
-	desc = "floppy, but yet hard."
+	desc = "It has a bulbous knot."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "canine"
-	force = 0
-	throwforce = 0
-	attack_verb = list("pokes","prodes", "lewds")
+	item_state = "canine"
+	attack_verb = list("fucked", "probed", "violated", "teased", "prodded")
 
-/obj/item/weapon/purpledong
+/obj/item/weapon/dildos/purpledong
 	name = "purple dildo"
-	desc = "floppy."
+	desc = "It's a playful shade of purple."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "purple-dong"
-	force = 0
-	throwforce = 0
-	attack_verb = list("pokes","prodes", "lewds")
+	item_state = "purple-dong"
+	attack_verb = list("fucked", "probed", "violated", "teased", "prodded")
 
-/obj/item/weapon/bigblackdick
+/obj/item/weapon/dildos/bigblackdick
 	name = "big black dick"
-	desc = "floppy."
+	desc = "Bigger. Blacker. For when the real thing just doesn't cut it."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "bigblackdick"
-	force = 0
-	throwforce = 0
-	attack_verb = list("pokes","prodes", "lewds")
+	item_state = "bigblackdick"
+	attack_verb = list("fucked", "probed", "violated", "teased", "prodded")
 
-/obj/item/weapon/floppydick
+/obj/item/weapon/dildos/floppydick
 	name = "floppy dick"
-	desc = "very floppy."
+	desc = "The silicone on this toy is particularly soft and, well, kind of flaccid."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "floppydick"
-	force = 0
-	throwforce = 0
-	attack_verb = list("pokes","prodes", "slaps")
+	item_state = "floppydick"
+	attack_verb = list("fucked", "probed", "violated", "teased", "prodded")
