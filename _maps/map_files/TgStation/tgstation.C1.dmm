@@ -3281,7 +3281,7 @@
 "ble" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/lattice,/turf/space,/area/space)
 "blf" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/lattice,/turf/space,/area/space)
 "blg" = (/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"; tag = ""},/turf/simulated/wall/r_wall,/area/turret_protected/ai)
-"blh" = (/obj/machinery/power/smes{charge = 5e+006},/turf/simulated/floor/plasteel{icon_state = "dark"},/area/turret_protected/ai)
+"blh" = (/obj/machinery/power/smes{charge = 5e+006},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/plasteel{icon_state = "dark"},/area/turret_protected/ai)
 "bli" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 8},/turf/space,/area/space)
 "blj" = (/obj/machinery/porta_turret{ai = 1; dir = 4},/turf/simulated/floor/plasteel{icon_state = "dark"},/area/turret_protected/ai)
 "blk" = (/obj/machinery/status_display{density = 0; layer = 4; pixel_x = 0; pixel_y = 32},/obj/machinery/atmospherics/components/unary/vent_scrubber{dir = 2; on = 1; scrub_N2O = 0; scrub_Toxins = 0},/turf/simulated/floor/plasteel{icon_state = "dark"},/area/turret_protected/ai)
