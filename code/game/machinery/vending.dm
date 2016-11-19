@@ -935,7 +935,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	products = list(/obj/item/stack/cable_coil/random = 10,/obj/item/weapon/crowbar = 5,/obj/item/weapon/weldingtool = 3,/obj/item/weapon/wirecutters = 5,
 					/obj/item/weapon/wrench = 5,/obj/item/device/analyzer = 5,/obj/item/device/t_scanner = 5,/obj/item/weapon/screwdriver = 5)
 	contraband = list(/obj/item/weapon/weldingtool/hugetank = 2,/obj/item/clothing/gloves/color/fyellow = 2)
-	premium = list(/obj/item/clothing/gloves/color/yellow = 1)
+	premium = list(/obj/item/clothing/gloves/color/fyellow = 1) // I hate powergaming trash.  ~Tk
 
 /obj/machinery/vending/engivend
 	name = "\improper Engi-Vend"
@@ -1014,6 +1014,15 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/under/bb = 4, /obj/item/clothing/under/bb/sweater = 4,
 	/obj/item/clothing/under/bb/sweater/purple = 4, /obj/item/clothing/under/bb/sweater/green = 4,
 	/obj/item/clothing/under/bb/sweater/red = 4, /obj/item/clothing/under/bb/sweater/blue = 4,
+	/obj/item/clothing/under/pants/classicjeans = 4, /obj/item/clothing/under/pants/mustangjeans =4,
+	/obj/item/clothing/under/pants/blackjeans = 4, /obj/item/clothing/under/pants/youngfolksjeans =4,
+	/obj/item/clothing/under/pants/white = 4, /obj/item/clothing/under/pants/red = 4,
+	/obj/item/clothing/under/pants/black = 4, /obj/item/clothing/under/pants/tan = 4,
+	/obj/item/clothing/under/pants/track = 4, /obj/item/clothing/under/pants/jeans = 4,
+	/obj/item/clothing/under/pants/khaki = 4, /obj/item/clothing/under/pants/camo = 4,
+	/obj/item/clothing/under/lawyer/black = 2, /obj/item/clothing/under/lawyer/female = 2,
+	/obj/item/clothing/under/lawyer/red = 2, /obj/item/clothing/under/lawyer/blue = 2,
+	/obj/item/clothing/under/lawyer/bluesuit = 2, /obj/item/clothing/under/lawyer/purpsuit = 2,
 	/obj/item/clothing/under/toga = 4, /obj/item/clothing/under/latexmaid = 4,
 	/obj/item/clothing/tie/blackcollar = 4, /obj/item/clothing/tie/shinycollar = 4,
 	/obj/item/clothing/tie/goldcollar = 4, /obj/item/clothing/tie/necklace/bellcollar = 4,
@@ -1030,7 +1039,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/tie/scarf/zebra = 4, /obj/item/clothing/tie/scarf/christmas = 4,
 	/obj/item/clothing/tie/stripedredscarf = 4, /obj/item/clothing/tie/stripedgreenscarf = 4,
 	/obj/item/clothing/tie/stripedbluescarf = 4, /obj/item/clothing/tie/mantelet = 4,
-	/obj/item/clothing/tie/mantelet/white = 4, /obj/item/clothing/tie/mantelet/cc = 4)
+	/obj/item/clothing/tie/mantelet/white = 4, /obj/item/clothing/tie/mantelet/cc = 4,
+	/obj/item/clothing/gloves/weddingring = 6, /obj/item/clothing/gloves/weddingring/silver = 6)
 
 
 	refill_canister = /obj/item/weapon/vending_refill/clothing
@@ -1042,16 +1052,20 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	product_slogans = "Kinky!;Sexy!;Check me out, big boy!"
 	vend_delay = 15
 	vend_reply = "Have fun, you shameless pervert!"
-	products = list(/obj/item/weapon/dildo=10,/obj/item/clothing/under/maid=5,/obj/item/clothing/under/schoolgirl=3,
-	/obj/item/clothing/tie/petcollar=5,/obj/item/clothing/tie/spikecollar=3, /obj/item/clothing/ears/earmuffs=2,/obj/item/clothing/glasses/sunglasses/blindfold=2,
-	/obj/item/clothing/mask/muzzle=2, /obj/item/weapon/fleshlight=2, /obj/item/weapon/bulletvibe=4, /obj/item/weapon/canine=4, /obj/item/weapon/purpledong=4, /obj/item/weapon/bigblackdick=4, /obj/item/weapon/floppydick=4)
+	products = list(/obj/item/clothing/under/maid=5,/obj/item/clothing/under/schoolgirl=3,
+	/obj/item/clothing/tie/petcollar=5,/obj/item/clothing/tie/spikecollar=3,
+	/obj/item/clothing/ears/earmuffs=2,/obj/item/clothing/glasses/sunglasses/blindfold=2,
+	/obj/item/clothing/mask/muzzle=2,/obj/item/weapon/dildo=10,/obj/item/weapon/dildos/canine=4,
+	/obj/item/weapon/dildos/purpledong=4,/obj/item/weapon/dildos/bigblackdick=4,
+	/obj/item/weapon/dildos/floppydick=4,/obj/item/weapon/bulletvibe=4,
+	/obj/item/weapon/fleshlight=2)
 	contraband = list()
 	premium = list(/obj/item/clothing/under/latexmaid=3,/obj/item/weapon/dildo/psych=2,/obj/item/weapon/restraints/handcuffs/kink=2,
 	/obj/item/clothing/head/wizard/fake=1,/obj/item/clothing/suit/wizrobe/fake=1)
 	refill_canister = /obj/item/weapon/vending_refill/kink
 
 /obj/machinery/vending/donut
-	name = "A Donut Vender!"
+	name = "A Donut Vendor!"
 	desc = "It dispenses donuts to officers! Sprinkle Power!"
 	product_ads = "Sprinkle your foes!;Donuts are good for your heath!;Free sprinkles with every coin!;Don't tase me bro!;Tase them, bro.;Why not have a donut?"
 	icon_state = "Donut"
@@ -1063,7 +1077,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	premium = list()
 
 /obj/machinery/vending/taco
-	name = "Taco Vender"
+	name = "Taco Vendor"
 	desc = "Looks like it was made for a taco bird. Weird."
 	product_ads = "Inhale tacos. Exhale Negativity!;I'm a big taco fan!;Free sprinkles with every coin!;Hey you. Yeah, you. No, not you..The other guy. You right there! Yes, you. Do you like tacos?.;Live everday like it's Taco Tuesday!"
 	icon_state = "taco"
@@ -1074,7 +1088,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	premium = list()
 
 /obj/machinery/vending/shoes
-	name = "Shoe Vender"
+	name = "Shoe Vendor"
 	desc = "A place for all your shoe needs!"
 	product_ads = "Get your kicks here!"
 	icon_state = "shoes"
@@ -1088,7 +1102,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/shoes/laceup = 4)
 
 /obj/machinery/vending/hats
-	name = "Hat Vender"
+	name = "Hat Vendor"
 	desc = "A place for all your hat needs!"
 	product_ads = "Euphoric!;You can hide in our shade!;Stylish!;Just like the royal wedding!"
 	icon_state = "hats"
@@ -1106,7 +1120,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/head/lindaberet = 4, /obj/item/clothing/head/canada = 4,
 	/obj/item/clothing/head/bowler = 4, /obj/item/clothing/head/fedora = 4,
 	/obj/item/clothing/head/sombrero = 4, /obj/item/clothing/head/sombrero/green = 4,
-	/obj/item/clothing/head/hunter = 4)
+	/obj/item/clothing/head/hunter = 4, /obj/item/clothing/glasses/regular = 4,
+	/obj/item/clothing/glasses/regular/hipster = 4, /obj/item/clothing/glasses/sunglasses = 2)
 
 /*
 /obj/machinery/vending/suits

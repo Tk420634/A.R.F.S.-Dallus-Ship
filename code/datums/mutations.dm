@@ -107,7 +107,7 @@
 
 /datum/mutation/human/proc/get_spans()
 	return list()
-
+/*
 /datum/mutation/human/hulk
 
 	name = "Hulk"
@@ -217,6 +217,7 @@
 		return
 	owner.see_in_dark = initial(owner.see_in_dark)
 	owner.sight = initial(owner.sight)
+*/
 
 /datum/mutation/human/nearsight
 
@@ -280,6 +281,7 @@
 		owner.drop_item()
 		owner.emote("cough")
 
+/*
 /datum/mutation/human/dwarfism
 
 	name = "Dwarfism"
@@ -300,6 +302,7 @@
 	owner.resize = 1.25
 	owner.pass_flags &= ~PASSTABLE
 	owner.visible_message("<span class='danger'>[owner] suddenly grows!</span>")
+*/
 
 /datum/mutation/human/clumsy
 
@@ -392,7 +395,7 @@
 	if(owner && istype(owner) && owner.stat != DEAD && (owner.dna.mutations.Remove(src)))
 		. = owner.humanize(TR_KEEPITEMS | TR_KEEPIMPLANTS | TR_KEEPORGANS | TR_KEEPDAMAGE | TR_KEEPVIRUS | TR_KEEPSE)
 
-
+/*
 /datum/mutation/human/stealth
 	name = "Cloak Of Darkness"
 	quality = POSITIVE
@@ -442,6 +445,7 @@
 	if(..())
 		return
 	owner.alpha = 255
+*/
 
 /datum/mutation/human/wacky
 	name = "Wacky"
