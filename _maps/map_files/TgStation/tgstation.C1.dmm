@@ -2433,7 +2433,7 @@
 "aUO" = (/obj/effect/spawner/lootdrop/maintenance,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0},/turf/simulated/floor/plating,/area/maintenance/port)
 "aUP" = (/obj/structure/bed,/obj/item/weapon/bedsheet/medical,/turf/simulated/floor/plasteel/white,/area/medical/medbay)
 "aUQ" = (/turf/simulated/floor/plasteel/white,/area/medical/medbay)
-"aUR" = (/obj/item/device/radio/intercom{pixel_y = -28},/obj/machinery/button/door{id = "patientshutters"; name = "Privacy Shutters Control"; pixel_x = -4; pixel_y = -26},/turf/simulated/floor/plasteel/white,/area/medical/medbay)
+"aUR" = (/obj/item/device/radio/intercom{pixel_x = 4; pixel_y = -28},/obj/machinery/button/door{id = "patientshutters"; name = "Privacy Shutters Control"; pixel_x = 0; pixel_y = -36},/turf/simulated/floor/plasteel/white,/area/medical/medbay)
 "aUS" = (/obj/structure/grille,/obj/structure/window/fulltile,/obj/machinery/door/firedoor,/obj/machinery/door/poddoor/shutters/preopen{id = "patientshutters"},/turf/simulated/floor/plating,/area/medical/medbay)
 "aUT" = (/obj/machinery/sleeper{icon_state = "sleeper-open"; dir = 4},/turf/simulated/floor/plasteel/blue/corner{tag = "icon-bluecorner (EAST)"; icon_state = "bluecorner"; dir = 4},/area/medical/medbay)
 "aUU" = (/obj/machinery/sleeper{icon_state = "sleeper-open"; dir = 4},/obj/machinery/light,/turf/simulated/floor/plasteel/blue/side{tag = "icon-blue (NORTH)"; icon_state = "blue"; dir = 1},/area/medical/medbay)
