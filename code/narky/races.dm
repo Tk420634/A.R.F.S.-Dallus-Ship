@@ -81,6 +81,7 @@ datum
 			tail=1
 			attack_verb = "tailslap"
 			attack_sound = 'sound/items/dodgeball.ogg'
+/*
 		beholder
 			name="beholder"
 			id="beholder"
@@ -97,6 +98,7 @@ datum
 			generic="pig"
 			adjective="wild and curly"
 			tail=1
+*/
 		capra
 			name="caprine"
 			id="capra"
@@ -252,6 +254,7 @@ datum
 			adjective="feathery"
 			tail=1
 			attack_verb = "whack"
+/*
 		hippo
 			name="hippo"
 			id="hippo"
@@ -259,6 +262,7 @@ datum
 			generic="hippo"
 			adjective="buoyant"
 			tail=1
+*/
 		hummingbird
 			name="hummingbird"
 			id="hummingbird"
@@ -359,6 +363,7 @@ datum
 			generic="insect"
 			adjective="fluttery"
 			eyes="motheyes" // this SHOULD work after i've updated human_face.dmi -- iska
+/*
 		mushman
 			name="mushroom"
 			id="fung"
@@ -366,6 +371,7 @@ datum
 			adjective="sporey"
 			say_mod = "mushes"
 			tail=0
+*/
 		monkey
 			name="monkey"
 			id="monkey"
@@ -442,6 +448,7 @@ datum
 			tail=1
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
+/*
 		pug
 			name="pug"
 			id="pug"
@@ -449,6 +456,7 @@ datum
 			adjective="Adorable"
 			say_mod = "borks"
 			tail=0
+*/
 		penguin
 			name="penguin"
 			id="penguin"
@@ -487,7 +495,7 @@ datum
 			adjective="salty"
 			restricted=2
 			say_mod = "bitches"
-*/
+
 		seaslug
 			name="sea slug"
 			id="seaslug"
@@ -496,6 +504,7 @@ datum
 			tail=1
 			attack_verb = "smack"
 			say_mod = "cucumbers"
+*/
 		sergal
 			name="sergal"
 			id="sergal"
@@ -537,6 +546,7 @@ datum
 			generic="smilodon"
 			adjective="toothy"
 			tail=1
+/*
 		snarby
 			name="snarby"
 			id="snarby"
@@ -547,6 +557,7 @@ datum
 			attack_verb = "chomp"
 			attack_sound = 'sound/weapons/bite.ogg'
 			eyes = "snarbyeyes"
+*/
 		squirrel
 			name="squirrel"
 			id="squirrel"
@@ -852,9 +863,7 @@ var/list/mutant_tails = list(
 	"bee" = "bee",
 	"succubus" = "succubus",
 	"deathclaw" = "deathclaw",
-	"eevee" = "eevee",
-	"absol" = "absol",
-	"datashark" = "datashark",
+	"doublefoxtail" = "doublefoxtail",
 	)
 
 var/list/mutant_wings = list(

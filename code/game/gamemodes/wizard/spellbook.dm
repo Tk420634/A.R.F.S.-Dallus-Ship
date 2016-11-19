@@ -166,10 +166,12 @@
 	log_name = "TP"
 	category = "Mobility"
 
+/*
 /datum/spellbook_entry/mutate
 	name = "Mutate"
 	spell_type = /obj/effect/proc_holder/spell/targeted/genetic/mutate
 	log_name = "MU"
+*/
 
 /datum/spellbook_entry/jaunt
 	name = "Ethereal Jaunt"
