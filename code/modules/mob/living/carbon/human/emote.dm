@@ -296,8 +296,8 @@
 						if("bee")
 							playsound(src.loc, 'sound/misc/moth.ogg', 50, 1, 5)
 
-						if("boar")
-							playsound(src.loc, 'sound/misc/boar1.ogg', 50, 1, 5)
+					/*	if("boar")
+							playsound(src.loc, 'sound/misc/boar1.ogg', 50, 1, 5) */
 
 						if("capra")
 							playsound(src.loc, 'sound/misc/capra1.ogg', 50, 1, 5)
@@ -402,8 +402,8 @@
 									playsound(src.loc, 'sound/misc/bird_1.ogg', 35, 1, 5)
 									..(act)
 
-						if("hippo")
-							playsound(src.loc, 'sound/misc/hippo1.ogg', 50, 1, 5)
+					/*	if("hippo")
+							playsound(src.loc, 'sound/misc/hippo1.ogg', 50, 1, 5) */
 
 						if("hummingbird")
 							playsound(src.loc, 'sound/misc/hummingbird1.ogg', 50, 1, 5)
@@ -479,8 +479,8 @@
 						if("possum")
 							playsound(src.loc, 'sound/misc/possum1.ogg', 50, 1, 5)
 
-						if("pug")
-							playsound(src.loc, 'sound/misc/pug1.ogg', 50, 1, 5)
+					/*	if("pug")
+							playsound(src.loc, 'sound/misc/pug1.ogg', 50, 1, 5) */
 
 						if("penguin")
 							playsound(src.loc, 'sound/misc/penguin1.ogg', 50, 1, 5)

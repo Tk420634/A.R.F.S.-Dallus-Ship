@@ -801,6 +801,23 @@
 				spawn()
 					h.update_icon()
 
+	else if(istype(O, /obj/item/weapon/shovel/spade) && unwrenchable)
+		if(!myseed && !weedlevel)
+			user << "<span class='warning'>[src] doesn't have any plants or weeds!</span>"
+			return
+		user.visible_message("<span class='notice'>[user] starts digging out [src]'s plants...</span>", "<span class='notice'>You start digging out [src]'s plants...</span>")
+		playsound(src, 'sound/effects/shovel_dig.ogg', 50, 1)
+		if(!do_after(user, 50, target = src) || (!myseed && !weedlevel))
+			return
+		user.visible_message("<span class='notice'>[user] digs out the plants in [src]!</span>", "<span class='notice'>You dig out all of [src]'s plants!</span>")
+		playsound(src, 'sound/effects/shovel_dig.ogg', 50, 1)
+		if(myseed) //Could be that they're just using it as a de-weeder
+			qdel(myseed)
+			myseed = null
+		weedlevel = 0 //Has a side effect of cleaning up those nasty weeds
+		update_icon()
+
+
 	return
 
 /obj/machinery/hydroponics/attack_hand(mob/user)
@@ -1049,3 +1066,4 @@
 	if(istype(O, /obj/item/weapon/shovel))
 		user << "<span class='notice'>You clear up [src]!</span>"
 		qdel(src)
+
