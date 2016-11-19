@@ -2707,7 +2707,7 @@
 "bac" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/simulated/floor/plasteel/black,/area/hallway/primary/aft)
 "bad" = (/obj/machinery/light{dir = 4},/obj/structure/closet/emcloset,/turf/simulated/floor/plasteel/darkyellow/side{tag = "icon-darkyellow (WEST)"; icon_state = "darkyellow"; dir = 8},/area/hallway/primary/aft)
 "bae" = (/turf/simulated/wall/r_wall,/area/maintenance/starboard)
-"baf" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0; tag = ""},/obj/machinery/door/airlock/maintenance{name = "Atmospherics Maintenance"; req_access_txt = "24"},/obj/machinery/door/poddoor/preopen{id = "Engineering"; name = "Engineering Blast Door"},/turf/simulated/floor/plating,/area/maintenance/starboard)
+"baf" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0; tag = ""},/obj/machinery/door/poddoor/preopen{id = "Engineering"; name = "Engineering Blast Door"},/obj/machinery/door/airlock/maintenance{name = "Atmospherics Maintenance"; req_access_txt = "24"},/turf/simulated/floor/plating,/area/maintenance/starboard)
 "bag" = (/turf/simulated/wall/r_wall,/area/atmos)
 "bah" = (/turf/simulated/wall/r_wall{color = "#9CAB4E"},/area/atmos)
 "bai" = (/obj/structure/grille,/turf/simulated/wall/r_wall{color = "#9CAB4E"},/area/atmos)
