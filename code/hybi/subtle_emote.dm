@@ -12,10 +12,10 @@
 		return
 
 	//listing the "hearers", it's a proc which detects mobs who i can see.
-	var/list/e_watching  = hearers(1, src)
+	var/list/e_watching  = hearers(1, src.loc)
 
 	//Lising another set of hearers but removing the ones who are next to me.
-	var/list/e_nearby = get_hearers_in_view(2, src)
+	var/list/e_nearby = get_hearers_in_view(2, src.loc)
 	e_nearby -= e_watching
 
 	//Putting the emote into an emote.
