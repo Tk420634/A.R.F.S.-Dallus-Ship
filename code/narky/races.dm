@@ -471,6 +471,15 @@ datum
 			generic="procyonid" // Family Procyonidae
 			adjective="stripy"
 			tail=1
+		renamon
+			name="renamon"
+			id="renamon"
+			say_mod = "yips"
+			generic = "digivulp"
+			adjective = "digital"
+			tail=1
+			attack_verb = "claw"
+			attack_sound = 'sound/weapons/slash.ogg'
 		roorat
 			name="kangaroo rat"
 			id="roorat"
