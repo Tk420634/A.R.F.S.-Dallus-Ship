@@ -33,9 +33,10 @@
 
 	if(nextperform >= limit)
 		user << "You're too tired to work out!"
+		user.setClickCooldown(40)
 		return
 	else
-		visible_message("<span class='notice'>[user] starts to excersize vigorously!</span>")
+		visible_message("<span class='notice'>[user] starts to excersise vigorously!</span>")
 		user.setClickCooldown(40)
 		user.nutrition -= burn
 		user.staminaloss += pain
@@ -77,6 +78,7 @@
 
 	if(nextperform >= limit)
 		user << "You're too tired to work out!"
+		user.setClickCooldown(50)
 		return
 	else
 		visible_message("<span class='notice'>[user] starts to excersize vigorously!</span>")

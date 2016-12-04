@@ -618,6 +618,8 @@
 
 		add_fingerprint(usr)
 
+	log_admin("[key_name_admin(usr)] has entered a stasis pod.")
+	message_admins("<span class='notice'>[key_name_admin(usr)] has entered a stasis pod.</span>")
 	return
 
 /obj/machinery/cryopod/robot/door/gateway/move_inside()
