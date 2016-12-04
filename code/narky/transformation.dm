@@ -1,16 +1,16 @@
 /datum/vore_transform_datum
-	var/tf_path
-	var/tf_species
-	var/tf_gender=NEUTER
-	var/tf_egg=0
-	proc/apply_transform(var/mob/living/targ)
-		var/old_name=targ.real_name
-		var/new_gender=tf_gender==NEUTER ? targ.gender : tf_gender
-		var/transformation_happened=new_gender==targ.gender ? 0 : 1
+	var/tf_path //Tranasform path
+	var/tf_species //Species transform
+	var/tf_gender=NEUTER //Gender
+	var/tf_egg=0 // Egging
+	proc/apply_transform(var/mob/living/targ) //Apply transform proc assigned to a target
+		var/old_name=targ.real_name //old name is = to the real name of the target
+		var/new_gender=tf_gender==NEUTER ? targ.gender : tf_gender //new gender = transformation gender or if the target gender is the transformation gender
+		var/transformation_happened=new_gender==targ.gender ? 0 : 1 //If it has happened or not
 		var/new_path= tf_egg ? /mob/living/egg : tf_path
 		var/datum/dna/tmp_dna=targ.has_dna()
 		if(tmp_dna)
-			targ.last_working_dna=tmp_dna
+			targ.last_working_dna=tmp_dna //dna modification
 
 		if(tf_egg&&!tf_path)tf_path=targ.type
 
@@ -54,7 +54,7 @@
 			src.tf_egg=0
 			E.hatch_tf=src
 			if(!E.get_last_organ_in())
-				E.incubate()
+				E.Life()
 
 		targ.gender=new_gender
 		targ.real_name=old_name
@@ -72,7 +72,7 @@
 
 
 
-/mob/living/proc/vore_dna_mod(var/new_dna)
+/mob/living/proc/vore_dna_mod(var/new_dna) //new dna modification
 	if(!has_dna(src))return
 	if(!new_dna)return
 	var/mob/living/carbon/C=src
@@ -177,7 +177,7 @@
 
 
 
-/mob/living/egg
+/mob/living/egg // egg shit, ima fix this soon.
 	name = "egg"
 	icon = 'icons/mob/animal.dmi'
 	icon_state = "egg"
@@ -194,7 +194,7 @@
 	var/datum/vore_transform_datum/hatch_tf = null
 	var/hatch_prog = 0
 	var/targ_hatch = 80
-	var/incubating=0
+	var/incubating = 0
 
 	proc/incubate()
 		incubating=1
@@ -209,14 +209,9 @@
 
 	Life()
 		vore_transform_index=-200
-		if(incubating)
-			if(get_last_organ_in())
-				hatch_prog+=2
-			else
-				hatch_prog+=1
-			if(hatch_prog>=targ_hatch&&hatch_tf)
-				src.visible_message("<span class='notice'>[src]'s egg hatches!</span>")
-				hatch_tf.apply_transform(src)
+		if(!do_after(src,600))	return
+		src.visible_message("<span class='notice'>[src]'s egg hatches!</span>")
+		hatch_tf.apply_transform(src)
 
 	attack_hand(mob/living/carbon/human/M as mob)
 		..()

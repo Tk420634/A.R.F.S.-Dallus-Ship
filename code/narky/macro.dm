@@ -8,7 +8,7 @@ var/const/SIZEPLAY_HUGE=5
 	var/sizeplay_size=SIZEPLAY_NORMAL
 
 	proc
-		sizeplay_set(var/newsize)
+		sizeplay_set(var/newsize) //Set the size using the newsize variable in the param
 			if(!istype(src,/mob/living/carbon))
 				if(newsize<initial(src.sizeplay_size) || newsize>initial(src.sizeplay_size)+1)
 					return
@@ -52,14 +52,14 @@ var/const/SIZEPLAY_HUGE=5
 				stable_matrix(get_matrix_norm(),0)
 				src.sizeplay_size=SIZEPLAY_NORMAL
 		//	src.updateappearance
-		sizeplay_shrink()
+		sizeplay_shrink() //SHRINK PROC
 			//if(!istype(src,/mob/living/carbon))
 			//	return
 			if(sizeplay_size>SIZEPLAY_TINY)
 				src.sizeplay_set(sizeplay_size-1)
 				for(var/mob/living/M in src.stomach_contents)
 					M.sizeplay_shrink()
-		sizeplay_grow()
+		sizeplay_grow() //GROW PROC
 			//if(!istype(src,/mob/living/carbon))
 			//	return
 			if(sizeplay_size<SIZEPLAY_HUGE)
@@ -67,7 +67,7 @@ var/const/SIZEPLAY_HUGE=5
 				for(var/mob/living/M in src.stomach_contents)
 					M.sizeplay_grow()
 
-		stable_matrix(var/matrix/sze,var/pixel_en)
+		stable_matrix(var/matrix/sze,var/pixel_en) // make sure there's no glitch in the matrix
 			sze.TurnTo(0,lying)
 			animate(src, transform = sze, time = 4, pixel_y = pixel_en, easing = EASE_IN|EASE_OUT)
 

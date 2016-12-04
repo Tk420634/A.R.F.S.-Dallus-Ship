@@ -79,7 +79,7 @@ proc/generate_colour_icon(var/fil_chk=null,var/state=null,var/list/lst=null,var/
 
 
 
-/datum/special_mutant
+/datum/special_mutant //generates any overlays for this mutant species
 	proc/generate_overlay()
 		return 0
 	proc/generate_underlay()
@@ -87,12 +87,12 @@ proc/generate_colour_icon(var/fil_chk=null,var/state=null,var/list/lst=null,var/
 
 
 /datum/dna/proc/mutantrace() //Easy legacy support!
-	if(species)
+	if(species) //Checks to see if this is an old race or new race.
 		return species.id
 	else
 		return "human"
 
-/datum/dna/proc/generate_race_block()
+/datum/dna/proc/generate_race_block() //Generates a block for the species.
 	var/block_gen="fff"
 	if(species_list[mutantrace()])
 		//block_gen = construct_block(species_list.Find(mutantrace), species_list.len+1)
@@ -101,7 +101,7 @@ proc/generate_colour_icon(var/fil_chk=null,var/state=null,var/list/lst=null,var/
 		block_gen = construct_block(species_list.len+1, species_list.len+1)
 	return block_gen
 
-/mob/living/proc/set_mutantrace(var/new_mutantrace=null)
+/mob/living/proc/set_mutantrace(var/new_mutantrace=null) //Set the race.
 	new_mutantrace=kpcode_race_san(new_mutantrace)
 	var/datum/dna/dna=has_dna(src)
 	if(!dna)return
@@ -115,7 +115,7 @@ proc/generate_colour_icon(var/fil_chk=null,var/state=null,var/list/lst=null,var/
 	regenerate_icons()
 
 
-/datum/dna/proc/generate_cock_block()
+/datum/dna/proc/generate_cock_block() // Generate a block for thicc diccs THIIIICCCC
 	var/cock_block=0
 	if(cock["has"])
 		cock_block+=1
@@ -123,13 +123,13 @@ proc/generate_colour_icon(var/fil_chk=null,var/state=null,var/list/lst=null,var/
 		cock_block+=2
 	return construct_block(cock_block+1, 4)
 
-/mob/living/proc/set_cock_block()
+/mob/living/proc/set_cock_block() //Set the block for a dicc
 	var/datum/dna/dna=has_dna(src)
 	if(!dna)return
 	dna.uni_identity = setblock(dna.uni_identity, DNA_COCK_BLOCK, dna.generate_cock_block())
 
 
-/mob/living/proc/is_taur()
+/mob/living/proc/is_taur() //If they're taur
 	if(istype(src,/mob/living/carbon/human)&&src:dna&&src:dna:taur)
 		if(src:dna:species&&kpcode_cantaur(src:dna:species))
 			return 1
