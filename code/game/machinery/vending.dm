@@ -873,6 +873,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/head/witchwig  = 4, /obj/item/clothing/head/chicken = 4,
 	/obj/item/clothing/head/griffin  = 4, /obj/item/clothing/head/bearpelt = 4,
 	/obj/item/clothing/head/xenos = 4, /obj/item/clothing/head/cone  = 4,
+	/obj/item/clothing/head/xenom_q = 4,
 	/obj/item/clothing/head/santa = 4, /obj/item/clothing/head/jester  = 4,
 	/obj/item/clothing/head/rice_hat = 4, /obj/item/clothing/mask/fakemoustache = 4,
 	/obj/item/clothing/mask/tikieyebrow = 4, /obj/item/clothing/mask/tikihappy = 4,
