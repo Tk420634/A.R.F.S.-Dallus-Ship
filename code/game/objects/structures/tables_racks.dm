@@ -153,6 +153,7 @@
 		var/obj/item/organ/limb/affecting = H.get_organ(organ)
 		if(affecting.take_damage(5, 0))
 			H.update_damage_overlays(0)
+			H.setClickCooldown(5)
 	return
 
 /obj/structure/table/attackby(obj/item/I, mob/user, params)
