@@ -175,4 +175,11 @@
 	can_buckle = 0
 	buildstackamount = 1
 
+/obj/structure/bed/stool/bar
+	name = "bar stool"
+	desc = "Apply butt."
+	icon_state = "bar-stool"
+	can_buckle = 0
+	buildstackamount = 1
+
 

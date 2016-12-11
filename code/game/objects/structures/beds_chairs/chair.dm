@@ -6,6 +6,47 @@
 	burn_state = -1 //Not Burnable
 	buildstackamount = 1
 
+/obj/structure/bed/chair/blue
+	name = "blue chair"
+	desc = "You sit in this. Either by will or force.\n<span class='notice'>Alt-click to rotate it clockwise.</span>"
+	icon_state = "chair_b"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+/obj/structure/bed/chair/yellow
+	name = "yellow chair"
+	desc = "You sit in this. Either by will or force.\n<span class='notice'>Alt-click to rotate it clockwise.</span>"
+	icon_state = "chair_y"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+/obj/structure/bed/chair/red
+	name = "red chair"
+	desc = "You sit in this. Either by will or force.\n<span class='notice'>Alt-click to rotate it clockwise.</span>"
+	icon_state = "chair_r"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+/obj/structure/bed/chair/green
+	name = "green chair"
+	desc = "You sit in this. Either by will or force.\n<span class='notice'>Alt-click to rotate it clockwise.</span>"
+	icon_state = "chair_g"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+/obj/structure/bed/chair/pool
+	name = "pool chair"
+	desc = "A blue chair. It seems best to be by a pool of some sort."
+	icon_state = "chair_pool"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+
 /obj/structure/bed/chair/New()
 	..()
 	spawn(3)	//sorry. i don't think there's a better way to do this.
@@ -124,19 +165,57 @@
 
 
 /obj/structure/bed/chair/comfy/brown
-	color = rgb(255,113,0)
+	icon_state = "comfychair_brown"
 
 /obj/structure/bed/chair/comfy/beige
 	color = rgb(255,253,195)
 
 /obj/structure/bed/chair/comfy/teal
-	color = rgb(0,255,255)
+	icon_state = "comfychair_blue"
 
 /obj/structure/bed/chair/comfy/black
 	color = rgb(167,164,153)
 
 /obj/structure/bed/chair/comfy/lime
-	color = rgb(255,251,0)
+	icon_state = "comfychair_green"
+
+/obj/structure/bed/chair/comfy/red
+	icon_state = "comfychair_red"
+
+/obj/structure/bed/chair/comfy/purple
+	icon_state = "comfychair_purple"
+
+/obj/structure/bed/chair/comfy/shuttlechair
+	name = "shuttle chair"
+	desc = "A chair made to go on the shuttle"
+	icon_state = "shuttle__chair"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+/obj/structure/bed/chair/comfy/shuttlechairred
+	name = "red shuttle chair"
+	desc = "A chair made to go on the shuttle"
+	icon_state = "shuttle__chair-red"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+/obj/structure/bed/chair/comfy/shuttlechairbrown
+	name = "brown shuttle chair"
+	desc = "A chair made to go on the shuttle"
+	icon_state = "shuttle__chair-brown"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
+
+/obj/structure/bed/chair/comfy/shuttlechairgreen
+	name = "green shuttle chair"
+	desc = "A chair made to go on the shuttle"
+	icon_state = "shuttle__chair-green"
+	buckle_lying = 0 //you sit in a chair, not lay
+	burn_state = -1 //Not Burnable
+	buildstackamount = 1
 
 /obj/structure/bed/chair/office
 	anchored = 0
@@ -147,3 +226,27 @@
 
 /obj/structure/bed/chair/office/dark
 	icon_state = "officechair_dark"
+
+/obj/structure/bed/chair/office/red
+	icon_state = "ofice_chair_red"
+
+/obj/structure/bed/chair/office/green
+	icon_state = "ofice_chair_green"
+
+/obj/structure/bed/chair/office/yellow
+	icon_state = "ofice_chair_yellow"
+
+/obj/structure/bed/chair/office/purple
+	icon_state = "ofice_chair_purple"
+
+/obj/structure/stool/bed/chair/sofa
+	name = "old ratty sofa"
+	icon_state = "sofamiddle"
+	anchored = 1
+
+/obj/structure/stool/bed/chair/sofa/left
+	icon_state = "sofaend_left"
+/obj/structure/stool/bed/chair/sofa/right
+	icon_state = "sofaend_right"
+/obj/structure/stool/bed/chair/sofa/corner
+	icon_state = "sofacorner"
