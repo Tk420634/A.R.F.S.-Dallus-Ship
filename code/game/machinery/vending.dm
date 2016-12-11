@@ -1026,7 +1026,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/under/toga = 4, /obj/item/clothing/under/latexmaid = 4,
 	/obj/item/clothing/tie/blackcollar = 4, /obj/item/clothing/tie/shinycollar = 4,
 	/obj/item/clothing/tie/goldcollar = 4, /obj/item/clothing/tie/necklace/bellcollar = 4,
-	/obj/item/clothing/tie/necklace/pinkcollar = 4, /obj/item/clothing/tie/necklace/flowercollar = 4,
+	/obj/item/clothing/tie/necklace/pinkcollar = 4, /obj/item/clothing/tie/necklace/flowercollar = 4, /obj/item/clothing/tie/necklace/spikedmant = 4,
 	/obj/item/clothing/tie/necklace/steelcollar = 4, /obj/item/clothing/tie = 4,
 	/obj/item/clothing/tie/blue = 4, /obj/item/clothing/tie/red = 4,
 	/obj/item/clothing/tie/black = 4, /obj/item/clothing/tie/horrible = 4,

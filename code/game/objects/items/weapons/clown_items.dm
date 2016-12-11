@@ -35,6 +35,11 @@
 	icon_state = "soapdeluxe"
 	cleanspeed = 40 //same speed as mop because deluxe -- captain gets one of these
 
+/obj/item/weapon/soap/cebu
+	desc = "A deluxe Wolfle Co. brand bar of soap. Smells of high-class Wolf Girl."
+	icon_state = "soapcebu"
+	cleanspeed = 40 //same speed as mop because deluxe -- Wolfy is a god damn nerd.
+
 /obj/item/weapon/soap/syndie
 	desc = "An untrustworthy bar of soap made of strong chemical agents that dissolve blood faster."
 	icon_state = "soapsyndie"
