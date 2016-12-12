@@ -873,7 +873,6 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/head/witchwig  = 4, /obj/item/clothing/head/chicken = 4,
 	/obj/item/clothing/head/griffin  = 4, /obj/item/clothing/head/bearpelt = 4,
 	/obj/item/clothing/head/xenos = 4, /obj/item/clothing/head/xenom_q = 4, /obj/item/clothing/head/cone  = 4,
-
 	/obj/item/clothing/head/santa = 4, /obj/item/clothing/head/jester  = 4,
 	/obj/item/clothing/head/rice_hat = 4, /obj/item/clothing/mask/fakemoustache = 4,
 	/obj/item/clothing/mask/tikieyebrow = 4, /obj/item/clothing/mask/tikihappy = 4,
@@ -1125,12 +1124,11 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/glasses/regular/hipster = 4, /obj/item/clothing/glasses/sunglasses = 2)
 
 /obj/machinery/vending/toy
-	name = "/improper Toy Vendor"
+	name = "\improper Toy Vendor"
 	desc = "A cute teddy bear! It can give you toys!."
 	product_ads = "Action figures!"
 	icon_state = "toy"
 	vend_reply = "Get to donk-ing!"
-	req_access_txt = "0"
 	products = list(/obj/item/toy/balloon = 5, /obj/item/toy/spinningtoy = 5,
 	/obj/item/toy/sword = 5, /obj/item/toy/foamblade = 5,
 	/obj/item/toy/carpplushie = 5, /obj/item/toy/beach_ball = 5,
