@@ -16,11 +16,12 @@
 	// doing what i said above
 	rendered_emote = trim(copytext(sanitize(rendered_emote), 1, MAX_MESSAGE_LEN))
 
+	var/spans = list(SPAN_ITALICS) //ITALIC TEXT
 
 	// For every mob in view 1 tile around the player, show the emote message for "eyes" to see.
 	// that's why "1" on the end of show_message, because it handles the rest for me.
 	for(var/mob/M in view(1,usr.loc))
-		M.show_message("<b>[usr]</b> [rendered_emote]",1)
+		M.show_message("<b>[attach_spans(usr, spans)]</b> [attach_spans(rendered_emote, spans)]",1)
 
 
 	/* future work
