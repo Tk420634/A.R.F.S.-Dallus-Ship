@@ -1123,58 +1123,6 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/head/hunter = 4, /obj/item/clothing/glasses/regular = 4,
 	/obj/item/clothing/glasses/regular/hipster = 4, /obj/item/clothing/glasses/sunglasses = 2)
 
-/obj/machinery/vending/toy
-	name = "\improper Toy Vendor"
-	desc = "A cute teddy bear! It can give you toys!."
-	product_ads = "Action figures!"
-	icon_state = "toy"
-	vend_reply = "Get to donk-ing!"
-	products = list(/obj/item/toy/balloon = 5, /obj/item/toy/spinningtoy = 5,
-	/obj/item/toy/sword = 5, /obj/item/toy/foamblade = 5,
-	/obj/item/toy/carpplushie = 5, /obj/item/toy/beach_ball = 5,
-	/obj/item/toy/toy_xeno = 5, /obj/item/toy/cattoy = 5,
-	/obj/item/toy/figure/cmo = 5, /obj/item/toy/figure/assistant = 5,
-	/obj/item/toy/figure/atmos = 5, /obj/item/toy/figure/bartender = 5,
-	/obj/item/toy/figure/borg = 5, /obj/item/toy/figure/botanist = 5,
-	/obj/item/toy/figure/captain = 5, /obj/item/toy/figure/cargotech = 5,
-	/obj/item/toy/figure/ce = 5, /obj/item/toy/figure/chaplain = 5,
-	/obj/item/toy/figure/chef = 5, /obj/item/toy/figure/chemist = 5,
-	/obj/item/toy/figure/clown = 5, /obj/item/toy/figure/ian = 5,
-	/obj/item/toy/figure/detective = 5, /obj/item/toy/figure/dsquad = 5,
-	/obj/item/toy/figure/engineer = 5, /obj/item/toy/figure/geneticist = 5,
-	/obj/item/toy/figure/hop = 5, /obj/item/toy/figure/hos = 5,
-	/obj/item/toy/figure/qm = 5, /obj/item/toy/figure/janitor = 5,
-	/obj/item/toy/figure/lawyer = 5, /obj/item/toy/figure/librarian = 5,
-	/obj/item/toy/figure/md = 5, /obj/item/toy/figure/mime = 5,
-	/obj/item/toy/figure/miner = 5, /obj/item/toy/figure/ninja = 5,
-	/obj/item/toy/figure/wizard = 5, /obj/item/toy/figure/rd = 5,
-	/obj/item/toy/figure/roboticist = 5, /obj/item/toy/figure/scientist = 5,
-	/obj/item/toy/figure/syndie = 5, /obj/item/toy/figure/secofficer = 5,
-	/obj/item/toy/figure/virologist = 5, /obj/item/toy/figure/virologist = 5,
-	/obj/item/toy/figure/warden = 5, /obj/item/toy/plushie/corgi = 5,
-	/obj/item/toy/plushie/girly_corgi = 5, /obj/item/toy/plushie/robo_corgi,
-	/obj/item/toy/plushie/octopus = 5, /obj/item/toy/plushie/octopus = 5,
-	/obj/item/toy/plushie/face_hugger = 5, /obj/item/toy/plushie/red_fox = 5,
-	/obj/item/toy/plushie/black_fox = 5, /obj/item/toy/plushie/marble_fox = 5,
-	/obj/item/toy/plushie/blue_fox = 5, /obj/item/toy/plushie/orange_fox = 5,
-	/obj/item/toy/plushie/coffee_fox = 5, /obj/item/toy/plushie/pink_fox = 5,
-	/obj/item/toy/plushie/purple_fox = 5, /obj/item/toy/plushie/crimson_fox = 5,
-	/obj/item/toy/plushie/deer = 5, /obj/item/toy/plushie/black_cat = 5,
-	/obj/item/toy/plushie/grey_cat = 5, /obj/item/toy/plushie/white_cat = 5,
-	/obj/item/toy/plushie/orange_cat = 5, /obj/item/toy/plushie/siamese_cat = 5,
-	/obj/item/toy/plushie/tabby_cat = 5, /obj/item/toy/plushie/tuxedo_cat = 5,
-	/obj/item/toy/carpplushie/ice = 5, /obj/item/toy/carpplushie/silent = 5,
-	/obj/item/toy/carpplushie/electric = 5, /obj/item/toy/carpplushie/gold = 5,
-	/obj/item/toy/carpplushie/toxin = 5, /obj/item/toy/carpplushie/dragon = 5,
-	/obj/item/toy/carpplushie/pink = 5, /obj/item/toy/carpplushie/candy = 5,
-	/obj/item/toy/carpplushie/nebula = 5, /obj/item/toy/carpplushie/void = 5,
-	/obj/item/toy/eight_ball = 5, /obj/item/toy/eight_ball/conch = 5,
-	/obj/item/toy/character/alien = 5, /obj/item/toy/character/cleric = 5,
-	/obj/item/toy/character/warrior = 5, /obj/item/toy/character/thief = 5,
-	/obj/item/toy/character/wizard = 5, /obj/item/toy/character/cthulhu = 5,
-	/obj/item/toy/character/lich = 5)
-	contraband = list(/obj/item/toy/syndicateballoon = 1)
-	premium = list(/obj/item/weapon/twohanded/dualsaber/toy = 1)
 /*
 /obj/machinery/vending/suits
 	name = "Suit Vender"
