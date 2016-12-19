@@ -15,3 +15,4 @@
 /obj/item/weapon/twohanded/fireaxe/sawcleaver/update_icon()  //Currently only here to fuck with the on-mob icons.
 	icon_state = "sawcleaver[wielded]"
 	return
+
