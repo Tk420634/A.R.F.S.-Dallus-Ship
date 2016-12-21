@@ -18,7 +18,7 @@
 	var/loose = 0
 
 /obj/item/organ/internal/butt/suicide_act(mob/user)
-	user.visible_message("<span class='suicide'>[user] shoves their face into the ass, motorboating it! They aren't stopping, they as if they're going to commit suicide!")
+	user.visible_message("<span class='suicide'>[user] shoves their face into the ass and begins to motorboat it! They aren't stopping, they're going to commit suicide at this rate!")
 	user.say(";HONK HONK BUTT BUTT!!")
 	return (OXYLOSS)
 
