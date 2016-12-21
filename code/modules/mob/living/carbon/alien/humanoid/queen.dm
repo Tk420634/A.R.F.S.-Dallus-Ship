@@ -38,6 +38,7 @@
 	internal_organs += new /obj/item/organ/internal/alien/acid
 	internal_organs += new /obj/item/organ/internal/alien/neurotoxin
 	internal_organs += new /obj/item/organ/internal/alien/eggsac
+	internal_organs += new /obj/item/organ/internal/butt/xeno //Jonathanhybrid butt code!
 	AddSpell(new /obj/effect/proc_holder/spell/aoe_turf/repulse/xeno(src))
 	AddAbility(new/obj/effect/proc_holder/alien/royal/queen/promote())
 	AddAbility(new/obj/effect/proc_holder/alien/royal/queen/screech())
