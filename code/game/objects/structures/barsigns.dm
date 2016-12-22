@@ -39,6 +39,7 @@
 		icon = sign.icon_file
 	else
 		icon = 'icons/obj/barsigns.dmi'
+	pixel_y = sign.pixely
 	name = sign.name
 	if(sign.desc)
 		desc = sign.desc
@@ -138,6 +139,7 @@
 	var/desc = "desc"
 	var/hidden = 0
 	var/icon_file = 'icons/obj/barsigns.dmi'
+	var/pixely = 0
 
 //Anything below this is where all the specific signs are. If people want to add more signs, add them below.
 
@@ -300,6 +302,7 @@
 	name = "Top Men"
 	icon = "topmen"
 	icon_file = 'icons/obj/barsignsnew.dmi'
+	pixely = -2 //Too lazy to sprite 42 frames.
 
 /datum/barsign/hiddensigns
 	hidden = 1
