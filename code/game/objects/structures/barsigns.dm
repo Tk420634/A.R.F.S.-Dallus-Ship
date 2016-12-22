@@ -35,6 +35,10 @@
 	if(!istype(sign))
 		return
 	icon_state = sign.icon
+	if(sign.icon_file)
+		icon = sign.icon_file
+	else
+		icon = 'icons/obj/barsigns.dmi'
 	name = sign.name
 	if(sign.desc)
 		desc = sign.desc
@@ -133,7 +137,7 @@
 	var/icon = "Icon"
 	var/desc = "desc"
 	var/hidden = 0
-
+	var/icon_file = 'icons/obj/barsigns.dmi'
 
 //Anything below this is where all the specific signs are. If people want to add more signs, add them below.
 
@@ -279,12 +283,29 @@
 	desc = "You just seem to get caught up in it for hours."
 
 
+// JonathanHybrid, signs portover
+
+/datum/barsign/cybersylph
+	name = "Cyber Sylph"
+	icon = "cybersylph"
+	icon_file = 'icons/obj/barsignsnew.dmi'
+
+
+/datum/barsign/spaceballgrille
+	name = "Spaceball Grille"
+	icon = "spaceballgrille"
+	icon_file = 'icons/obj/barsignsnew.dmi'
+
+/datum/barsign/topmen
+	name = "Top Men"
+	icon = "topmen"
+	icon_file = 'icons/obj/barsignsnew.dmi'
+
 /datum/barsign/hiddensigns
 	hidden = 1
 
 
 //Hidden signs list below this point
-
 
 
 /datum/barsign/hiddensigns/empbarsign
