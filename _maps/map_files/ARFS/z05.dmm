@@ -558,7 +558,7 @@
 "kL" = (/turf/simulated/floor/plasteel/whitepurple/side{tag = "icon-whitepurple (EAST)"; icon_state = "whitepurple"; dir = 4},/area/toxins/xenobiology_alien)
 "kM" = (/obj/structure/window/reinforced{dir = 1; layer = 2.9},/obj/machinery/door/window/northleft{tag = "icon-right (WEST)"; name = "Containment Cell"; icon_state = "right"; dir = 8; req_access_txt = "55"},/turf/simulated/floor/engine,/area/toxins/xenobiology_alien)
 "kN" = (/obj/machinery/door/window/northleft{tag = "icon-left (EAST)"; name = "Containment Cell"; icon_state = "left"; dir = 4; req_access_txt = "55"},/obj/machinery/door/poddoor/shutters/preopen{id = "slime_cell_2"},/turf/simulated/floor/engine,/area/toxins/xenobiology_alien)
-"kO" = (/mob/living/simple_animal/slime{health = 0},/turf/simulated/floor/engine,/area/toxins/xenobiology_alien)
+"kO" = (/obj/item/slime_extract/grey,/turf/simulated/floor/engine,/area/toxins/xenobiology_alien)
 "kP" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/engine,/area/toxins/xenobiology_alien)
 "kQ" = (/obj/machinery/door/firedoor,/obj/structure/grille,/obj/structure/window/reinforced/fulltile,/turf/simulated/floor/plating,/area/toxins/xenobiology_alien)
 "kR" = (/turf/simulated/floor/plasteel/whitepurple/side{tag = "icon-whitepurple (WEST)"; icon_state = "whitepurple"; dir = 8},/area/toxins/xenobiology_alien)
@@ -1510,3 +1510,4 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 "}
+
