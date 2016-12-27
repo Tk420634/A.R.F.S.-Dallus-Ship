@@ -1,0 +1,20 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to the <b>A.R.F.S. Dallus</b></h1>
+
+<i>This server is running a tgstation 13 Git build based off the 5th Port Citadel Station 13 code.</i>
+<i>What this means, is that if you're running the newest version of byond you may have a few graphical issues.  Your best bet would be to hunt down and install a copy of byond 5.09, you don't need a new account or anything.</i>  
+<i>Our codes just kind of old.</i>
+
+<b>We are a server with both ERP, and Vore.  You must be 18 years of age or older to play here.  Or, the legal age of consent for the country that you are a resident of.</b>
+
+<b>We are a tg code base, but we are not a tg mindset.  If you come here looking for a Hippie alternative, or a super high action server you're probably in the wrong place.  We're not Bay either, though!</b>
+<b>What we are is a Medium RP experience.  If you're curious as to what this means then just keep this in mind.  RP out stuff when you can, but when combat comes around do what needs doing.</b>
+
+<i>Please be sure to read our rules! As failure to know them does not make you exempt from them. http://arfsdallusstation.createaforum.com/rules/rules-for-a-r-f-s-dallus-station/ </i>
+
+<i>You can find our FurAffinity page here http://www.furaffinity.net/user/arfsdallus/ Though, it's not updated much right now. </i>
+<i>We also happily accept donations with the rewards of ingame cosmetic items, custom races (on backorder until we can work out an issue with humans.dmi), and other things of that nature!</i>  
+<i>You can talk to any of the staff to find out how to do so!</i>
+
+<i>Also, if we're up on the Hub, and you want to play during the weekdays you need to favorite us!  We don't normally stay up on the hub on weekdays, and we want players to be able to find us when we're not.</i>

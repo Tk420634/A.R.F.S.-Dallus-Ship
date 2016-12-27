@@ -15,7 +15,7 @@ z7 = empty space
 
 #if !defined(MAP_FILE)
 
-        #include "map_files\ARFS\z01.dmm"
+        #include "map_files\_ARFS\ARFS.dmm"
         #include "map_files\ARFS\z02.dmm"
         #include "map_files\ARFS\z03.dmm"
         #include "map_files\ARFS\z04.dmm"
@@ -23,7 +23,7 @@ z7 = empty space
         #include "map_files\ARFS\z06.dmm"
         #include "map_files\ARFS\z07.dmm"
 
-        #define MAP_FILE "z01.dmm"
+        #define MAP_FILE "ARFS.dmm"
         #define MAP_NAME "Dallus Ship"
 
         #define MAP_TRANSITION_CONFIG	list(MAIN_STATION = CROSSLINKED, CENTCOMM = SELFLOOPING, ABANDONED_SATELLITE = CROSSLINKED, DERELICT = CROSSLINKED, MINING = CROSSLINKED, EMPTY_AREA_1 = CROSSLINKED, EMPTY_AREA_2 = CROSSLINKED)
