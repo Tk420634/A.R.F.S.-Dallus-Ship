@@ -51,6 +51,8 @@ var/const/BRIDGE_OFFICER	=(1<<13)
 var/const/PASSENGER			=(1<<14)
 var/const/DEFAT				=(1<<15)
 
+//ENTERTAINERS Clowns, mimes, etc
+var/const/ENTERTAINER =(1<<2)
 
 var/list/assistant_occupations = list(
 	"Assistant",
@@ -59,6 +61,7 @@ var/list/assistant_occupations = list(
 	"Chaplain",
 	"Lawyer",
 	"Librarian",
+	"Security Secretary",
 )
 
 
@@ -88,8 +91,6 @@ var/list/medical_positions = list(
 	"Geneticist",
 	"Virologist",
 	"Chemist",
-	"Laboratory Assistant",
-	"Xenobiologist",
 )
 
 
@@ -97,6 +98,8 @@ var/list/science_positions = list(
 	"Research Director",
 	"Scientist",
 	"Roboticist",
+	"Xenobiologist",
+	"Laboratory Assistant",
 )
 
 
@@ -117,15 +120,19 @@ var/list/civilian_positions = list(
 	"Librarian",
 	"Lawyer",
 	"Chaplain",
-	"Clown",
-	"Mime",
 	"Assistant",
 	"Bridge Officer",
 	"Passenger",
 	"Defense Attorney",
+	"Clown",
+	"Mime",
 	//"Prisoner",
 )
 
+var/list/entertainers = list(
+	"Clown",
+	"Mime",
+)
 
 var/list/security_positions = list(
 	"Head of Security",
@@ -133,7 +140,6 @@ var/list/security_positions = list(
 	"Detective",
 	"Security Officer",
 	"Security Trainee",
-	"Security Secretary"
 )
 
 
@@ -145,7 +151,7 @@ var/list/nonhuman_positions = list(
 
 
 /proc/guest_jobbans(job)
-	return ((job in command_positions) || (job in nonhuman_positions) || (job in security_positions))
+	return ((job in command_positions) || (job in nonhuman_positions) || (job in security_positions) || (job in entertainers))
 
 
 
