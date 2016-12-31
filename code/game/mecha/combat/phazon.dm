@@ -95,6 +95,15 @@
 	if(!owner || !chassis || chassis.occupant != owner)
 		return
 	var/obj/mecha/combat/phazon/P = chassis
+	// WEW, stopped them filthy cheaters! - JonathanHybrid
+	if(P.phasing == 1)
+		for(var/obj/machinery/door/D in chassis.loc.contents)
+			if(D.density == 1)
+				chassis.occupant_message("The exosuit safety precautions prevent you from unphazing while inside a dense object!")
+				return
+		if(chassis.loc.density == 1)
+			chassis.occupant_message("The exosuit safety precautions prevent you from unphazing while inside a dense object!")
+			return
 	P.phasing = !P.phasing
 	button_icon_state = "mech_phasing_[P.phasing ? "on" : "off"]"
 	P.occupant_message("<font color=\"[P.phasing?"#00f\">En":"#f00\">Dis"]abled phasing.</font>")

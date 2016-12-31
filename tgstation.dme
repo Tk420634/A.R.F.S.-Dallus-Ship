@@ -854,7 +854,7 @@
 #include "code\game\verbs\ooc.dm"
 #include "code\game\verbs\suicide.dm"
 #include "code\game\verbs\who.dm"
-#include "code\hybi\chewchems.dm"
+#include "code\hybi\autocrew call.dm"
 #include "code\hybi\chewys.dm"
 #include "code\hybi\cryopod.dm"
 #include "code\hybi\items.dm"

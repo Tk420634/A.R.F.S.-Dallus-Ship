@@ -347,6 +347,8 @@
 	construction_time = 600
 	category = list("Durand")
 
+// NO MORE, THIS NEEDS TO STOP. WHERE ARE YOUR PARENTS? - JonathanHybrid
+/*
 //H.O.N.K
 /datum/design/honk_chassis
 	name = "Exosuit Chassis (\"H.O.N.K\")"
@@ -410,7 +412,7 @@
 	materials = list(MAT_METAL=20000,MAT_BANANIUM=5000)
 	construction_time = 200
 	category = list("H.O.N.K")
-
+*/
 
 //Phazon
 /datum/design/phazon_chassis
