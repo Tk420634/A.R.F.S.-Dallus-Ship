@@ -25,3 +25,10 @@
 	A.overlays += I
 	sleep(duration)
 	A.overlays -= I
+
+/proc/mobs_in_area(var/area/A)
+	var/list/mobs = new
+	for(var/mob/living/M in mob_list)
+		if(get_area(M) == A)
+			mobs += M
+	return mobs
