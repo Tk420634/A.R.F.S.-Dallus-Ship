@@ -261,6 +261,9 @@
 			m_type = 1
 
 		if ("scream","screams")
+			if(oxyloss > 50)
+				src << "You're out of breath!"
+				return
 			if (miming)
 				message = "<B>[src]</B> acts out a scream!"
 			else
@@ -553,7 +556,7 @@
 
 			message = "<B>[src]</B> screams!"
 			m_type = 2
-			src.adjustOxyLoss(15)
+			src.adjustOxyLoss(5)
 
 
 
