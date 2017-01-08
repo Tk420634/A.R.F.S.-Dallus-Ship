@@ -284,7 +284,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/red
 	name = "gummy bear"
 	desc = "A small edible bear. It's red!"
-	icon_state = "gbear_red"
+	icon_state = "gbear6"
 	filling_color = "#801E28"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/red/New()
@@ -295,7 +295,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/blue
 	name = "gummy bear"
 	desc = "A small edible bear. It's blue!"
-	icon_state = "gbear_blue"
+	icon_state = "gbear2"
 	filling_color = "#863333"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/blue/New()
@@ -306,7 +306,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/poison
 	name = "gummy bear"
 	desc = "A small edible bear. It's blue!"
-	icon_state = "gbear_blue"
+	icon_state = "gbear2"
 	filling_color = "#863353"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/poison/New()
@@ -320,7 +320,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/green
 	name = "gummy bear"
 	desc = "A small edible bear. It's green!"
-	icon_state = "gbear_green"
+	icon_state = "gbear3"
 	filling_color = "#365E30"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/green/New()
@@ -331,7 +331,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/yellow
 	name = "gummy bear"
 	desc = "A small edible bear. It's yellow!"
-	icon_state = "gbear_yellow"
+	icon_state = "gbear8"
 	filling_color = "#863333"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/yellow/New()
@@ -342,7 +342,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/orange
 	name = "gummy bear"
 	desc = "A small edible bear. It's orange!"
-	icon_state = "gbear_orange"
+	icon_state = "gbear4"
 	filling_color = "#E78108"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/orange/New()
@@ -353,7 +353,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/purple
 	name = "gummy bear"
 	desc = "A small edible bear. It's purple!"
-	icon_state = "gbear_purple"
+	icon_state = "gbear5"
 	filling_color = "#993399"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/purple/New()
@@ -364,7 +364,7 @@
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/wtf
 	name = "gummy bear"
 	desc = "A small bear. Wait... what?"
-	icon_state = "gbear_wtf"
+	icon_state = "gbear7"
 	filling_color = "#60A584"
 
 /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear/wtf/New()
