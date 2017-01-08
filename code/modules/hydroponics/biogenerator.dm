@@ -150,6 +150,7 @@
 			dat += "E-Z-Nutrient: <A href='?src=\ref[src];create=ez;amount=1'>Make</A><A href='?src=\ref[src];create=ez;amount=5'>x5</A> ([10/efficiency])<BR>"
 			dat += "Left 4 Zed: <A href='?src=\ref[src];create=l4z;amount=1'>Make</A><A href='?src=\ref[src];create=l4z;amount=5'>x5</A> ([20/efficiency])<BR>"
 			dat += "Robust Harvest: <A href='?src=\ref[src];create=rh;amount=1'>Make</A><A href='?src=\ref[src];create=rh;amount=5'>x5</A> ([25/efficiency])<BR>"
+			dat += "Unstable Mutagen: <A href='?src=\ref[src];create=um;amount=1'>Make</A><A href='?src=\ref[src];create=um;amount=5'>x5</A> ([500/efficiency])<BR>"
 			dat += "Weed Killer: <A href='?src=\ref[src];create=wk;amount=1'>Make</A><A href='?src=\ref[src];create=wk;amount=5'>x5</A> ([50/efficiency])<BR>"
 			dat += "Pest Killer: <A href='?src=\ref[src];create=pk;amount=1'>Make</A><A href='?src=\ref[src];create=pk;amount=5'>x5</A> ([50/efficiency])<BR>"
 			dat += "</div>"
@@ -251,6 +252,9 @@
 		if("ez")
 			if (check_cost(10/efficiency)) return 0
 			else new/obj/item/weapon/reagent_containers/glass/bottle/nutrient/ez(src.loc)
+		if("um")
+			if (check_cost(500/efficiency)) return 0
+			else new/obj/item/weapon/reagent_containers/glass/bottle/mutagen(src.loc)
 		if("l4z")
 			if (check_cost(20/efficiency)) return 0
 			else new/obj/item/weapon/reagent_containers/glass/bottle/nutrient/l4z(src.loc)
