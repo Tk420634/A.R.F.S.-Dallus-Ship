@@ -68,7 +68,7 @@ var/datum/subsystem/vote/SSvote
 					if(choices[master_mode] >= greatest_votes)
 						greatest_votes = choices[master_mode]
 			else if(mode == "auto_transfer")
-				choices["Continue shift"] += non_voters
+				choices["Continue shift"] += non_voters/2
 				if(choices["Continue shift"] >= greatest_votes)
 					greatest_votes = choices["Continue shift"]
 	//get all options with that many votes and return them in a list
