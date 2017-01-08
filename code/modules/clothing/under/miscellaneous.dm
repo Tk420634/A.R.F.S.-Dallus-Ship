@@ -759,7 +759,7 @@
 	icon_state = "barebutt"
 	item_state = "w_suit"
 	item_color = "barebutt"
-	body_parts_covered = CHEST|ARMS
+	body_parts_covered = CHEST|ARMS|GROIN
 	can_adjust = 1
 /obj/item/clothing/under/bb/sweater
 	name = "black sweater"

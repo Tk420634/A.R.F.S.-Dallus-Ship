@@ -11,6 +11,8 @@ var/list/icons_to_ignore_at_floor_init = list("damaged1","damaged2","damaged3","
 				"carpetcorner", "carpetside", "carpet", "ironsand1", "ironsand2", "ironsand3", "ironsand4", "ironsand5",
 				"ironsand6", "ironsand7", "ironsand8", "ironsand9", "ironsand10", "ironsand11",
 				"ironsand12", "ironsand13", "ironsand14", "ironsand15")
+// TO DO, PUT SNOW ICONS INTO HERE
+
 
 /turf/simulated/floor
 	//NOTE: Floor code has been refactored, many procs were removed and refactored

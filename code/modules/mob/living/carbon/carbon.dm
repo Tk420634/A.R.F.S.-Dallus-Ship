@@ -424,6 +424,27 @@ var/const/GALOSHES_DONT_HELP = 4
 		changeNext_move(CLICK_CD_BREAKOUT)
 		last_special = world.time + CLICK_CD_BREAKOUT
 		cuff_resist(I)
+	else
+		var/breakouttime = 50
+		visible_message("<span class='warning'>[src] is trying to break [I]!</span>")
+		src << "<span class='notice'>You attempt to break [I]... (This will take around 5 seconds and you need to stand still.)</span>"
+		if(do_after(src, breakouttime, needhand = 0, target = src))
+			if(!I.loc || buckled)
+				return
+			visible_message("<span class='danger'>[src] manages to break [I]!</span>")
+			src << "<span class='notice'>You successfully break [I].</span>"
+			qdel(I)
+
+			if(handcuffed)
+				handcuffed = null
+				update_inv_handcuffed()
+				return
+			else
+				legcuffed = null
+				update_inv_legcuffed()
+		else
+			src << "<span class='warning'>You fail to break [I]!</span>"
+
 
 
 /mob/living/carbon/proc/cuff_resist(obj/item/I, breakouttime = 600, cuff_break = 0)
