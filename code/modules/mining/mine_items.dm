@@ -119,6 +119,7 @@
 	hitsound = 'sound/weapons/sonic_jackhammer.ogg'
 	desc = "Cracks rocks with sonic blasts, and doubles as a demolition power tool for smashing walls."
 
+
 /*****************************Shovel********************************/
 
 /obj/item/weapon/shovel
