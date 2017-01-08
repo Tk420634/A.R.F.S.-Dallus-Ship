@@ -10,7 +10,7 @@ var/datum/subsystem/transfer_controller/SStransfer
 
 /datum/subsystem/transfer_controller
 	name = "transfer controller"
-	var/timerbuffer = 10800 //buffer for time check
+	var/timerbuffer = 108000 //buffer for time check
 	var/intervalbuffer = 36000
 	can_fire = 1
 
