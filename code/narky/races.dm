@@ -115,6 +115,7 @@ datum
 			eyes = "carpeyes"
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
+/*
 		chicken
 			name="chicken"
 			id="chicken"
@@ -123,6 +124,7 @@ datum
 			adjective="coward"
 			tail=1
 			attack_verb = "whack"
+*/
 		corgi
 			name="corgi"
 			id="corgi"
@@ -262,7 +264,7 @@ datum
 			generic="hippo"
 			adjective="buoyant"
 			tail=1
-*/
+
 		hummingbird
 			name="hummingbird"
 			id="hummingbird"
@@ -270,6 +272,7 @@ datum
 			adjective="fluttery"
 			tail=0
 			say_mod = "hums"
+*/
 		husky
 			name="husky"
 			id="husky"
@@ -287,6 +290,7 @@ datum
 			tail=1
 			attack_verb = "chomp"
 			attack_sound = 'sound/weapons/bite.ogg'
+		/*
 		jackalope
 			name="jackalope"
 			id="jackalope"
@@ -295,6 +299,7 @@ datum
 			adjective="hoppy and horny" //hue
 			attack_verb = "kick"
 			tail=1
+		*/
 		jelly
 			name="jelly"
 			id="jelly"
@@ -555,6 +560,15 @@ datum
 			generic="smilodon"
 			adjective="toothy"
 			tail=1
+		stitch
+			name = "stitch"
+			id = "stitch"
+			say_mod = "barks"
+			generic = "space alien"
+			adjective = "Evil"
+			tail =1
+			attack_verb = "scratch"
+			attack_sound = 'sound/weapons/slash.ogg'
 /*
 		snarby
 			name="snarby"
