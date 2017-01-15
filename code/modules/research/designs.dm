@@ -187,7 +187,7 @@ other types of metals and chemistry for reagents).
 	build_type = PROTOLATHE
 	materials = list(MAT_METAL = 8000, MAT_GLASS = 1500, MAT_SILVER = 2000, MAT_URANIUM = 2000)
 	build_path = /obj/item/weapon/gun/energy/kinetic_accelerator/super
-	category = list("Mining Designs")
+	category = list("Mining")
 
 /datum/design/hyperaccelerator
 	name = "Hyper-Kinetic Accelerator"
@@ -197,7 +197,7 @@ other types of metals and chemistry for reagents).
 	build_type = PROTOLATHE
 	materials = list(MAT_METAL = 8000, MAT_GLASS = 1500, MAT_SILVER = 2000, MAT_GOLD = 2000, MAT_DIAMOND = 2000)
 	build_path = /obj/item/weapon/gun/energy/kinetic_accelerator/hyper
-	category = list("Mining Designs")
+	category = list("Mining")
 
 /datum/design/superresonator
 	name = "Upgraded Resonator"
@@ -207,7 +207,7 @@ other types of metals and chemistry for reagents).
 	build_type = PROTOLATHE
 	materials = list(MAT_METAL = 4000, MAT_GLASS = 1500, MAT_SILVER = 2000, MAT_URANIUM = 2000)
 	build_path = /obj/item/weapon/gun/energy/kinetic_accelerator/super
-	category = list("Mining Designs")
+	category = list("Mining")
 
 /////////////////////////////////////////
 //////////////Blue Space/////////////////
