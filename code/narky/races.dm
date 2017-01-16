@@ -204,6 +204,15 @@ datum
 			taur=1
 			tail=1
 			eyes="spidereyes"
+		eevee
+			name="eevee"
+			say_mod = "yaps"
+			id="eevee"
+			generic="fluffy"
+			adjective="fluffy"
+			attack_verb = "tailwhip"
+			restricted = "ThingPony"
+			tail=1
 		fennec
 			name="fennec"
 			say_mod = "yips"
@@ -219,15 +228,6 @@ datum
 			adjective="burny"
 			attack_verb = "tackle"
 			restricted = "Alex123890"
-			tail=1
-		eevee
-			name="eevee"
-			say_mod = "yaps"
-			id="eevee"
-			generic="fluffy"
-			adjective="fluffy"
-			attack_verb = "tailwhip"
-			restricted = "ThingPony"
 			tail=1
 		fox
 			name="fox"
