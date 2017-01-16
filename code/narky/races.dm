@@ -262,20 +262,21 @@ datum
 			adjective="glowing"
 			attack_verb = "tackles"
 			say_mod = "chimes"
-			tail=1		glowfen
+			tail=1
+		glowfen
 			name="glowfen"
 			id="glowfen"
 			generic="vulpine"
 			adjective="glowing"
 			tail=1
-		
+
 		gremlin
 			name="gremlin"
 			id="gremlin"
 			generic="creature"
 			tail=1
 			attack_verb = "thwack"
-		
+
 		gria
 			name="gria"
 			id="gria"
