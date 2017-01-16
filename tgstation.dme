@@ -155,6 +155,7 @@
 #include "code\cactus\obj\motionTracker.dm"
 #include "code\cactus\obj\tools.dm"
 #include "code\cactus\obj\weapons.dm"
+#include "code\cecily\Clothing.dm"
 #include "code\cecily\weapons.dm"
 #include "code\controllers\configuration.dm"
 #include "code\controllers\failsafe.dm"

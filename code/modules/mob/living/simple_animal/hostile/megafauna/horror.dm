@@ -26,12 +26,6 @@
 	idle_vision_range = 20
 	incorporeal_move = 1
 
-
-
-	var/anger_modifier = 0
-	var/obj/item/device/gps/internal
-
-
 /obj/item/device/gps/internal/horror
 	icon_state = null
 	gpstag = "Angelic Signal"

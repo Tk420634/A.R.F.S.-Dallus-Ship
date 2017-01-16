@@ -26,8 +26,6 @@
 	idle_vision_range = 5
 	butcher_results = list(/obj/item/weapon/ore/diamond = 5)
 
-	var/anger_modifier = 0
-	var/obj/item/device/gps/internal
 
 
 /mob/living/simple_animal/hostile/megafauna/colossus/AttackingTarget()

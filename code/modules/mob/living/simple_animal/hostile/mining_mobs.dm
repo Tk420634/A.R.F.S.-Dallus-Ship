@@ -481,16 +481,6 @@
 			else
 				user << "<span class='warning'>You can't improve [C] any further!</span>"
 				return
-		if(istype(target, /obj/item/clothing/suit/space/hardsuit/miningsacafe) || istype(target, /obj/item/clothing/head/helmet/space/hardsuit/miningsacafe))
-			var/obj/item/clothing/C = target
-			var/list/current_armor = C.armor
-			if(current_armor.["melee"] < 80)
-				current_armor.["melee"] = min(current_armor.["melee"] + 10, 80)
-				user << "<span class='info'>You strengthen [target], improving its resistance against melee attacks.</span>"
-				qdel(src)
-			else
-				user << "<span class='warning'>You can't improve [C] any further!</span>"
-				return
 		if(istype(target, /obj/mecha/working/ripley))
 			var/obj/mecha/working/ripley/D = target
 			var/list/damage_absorption = D.damage_absorption

@@ -24,8 +24,6 @@
 	pixel_x = -16
 	aggro_vision_range = 18
 	idle_vision_range = 5
-	var/anger_modifier = 0
-	var/obj/item/device/gps/internal
 	var/swooping = 0
 	var/swoop_cooldown = 0
 
@@ -42,19 +40,10 @@
 		return
 	..()
 
-/mob/living/simple_animal/hostile/megafauna/dragon/adjustHealth(amount)
-	if(swooping)
-		return 0
-	return ..()
 
 /mob/living/simple_animal/hostile/megafauna/dragon/AttackingTarget()
 	if(swooping)
 		return
-	else
-		..()
-		if(isliving(target))
-			var/mob/living/L = target
-			devour(L)
 
 /mob/living/simple_animal/hostile/megafauna/dragon/Process_Spacemove(movement_dir = 0)
 	return 1
@@ -214,8 +203,6 @@
 	new /obj/effect/decal/cleanable/blood (get_turf(src))
 	playsound(get_turf(src),'sound/magic/demon_dies.ogg', 200, 1)
 	visible_message("<span class='danger'>[src] screams in anger as it collapses into a puddle of viscera, its most recent meals spilling out of it.</span>")
-	for(var/mob/living/M in consumed_mobs)
-		M.loc = get_turf(src)
 	ghostize()
 	qdel(src)
 	return
