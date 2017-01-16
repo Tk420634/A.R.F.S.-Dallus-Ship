@@ -204,6 +204,7 @@ datum
 			taur=1
 			tail=1
 			eyes="spidereyes"
+			
 		fennec
 			name="fennec"
 			say_mod = "yips"
@@ -237,6 +238,7 @@ datum
 			adjective="foxy" // open and shut with this one, huh
 			tail=1
 			taur=1
+		
 		glaceons
 			name="shiny glaceon"
 			id="glaceons"
@@ -246,6 +248,7 @@ datum
 			say_mod = "chimes"
 			restricted = "Alex123890"
 			tail=1
+		
 		glaceon
 			name="glaceon"
 			id="glaceon"
@@ -255,18 +258,21 @@ datum
 			say_mod = "chimes"
 			restricted = "Alex123890"
 			tail=1
+		
 		glowfen
 			name="glowfen"
 			id="glowfen"
 			generic="vulpine"
 			adjective="glowing"
 			tail=1
+		
 		gremlin
 			name="gremlin"
 			id="gremlin"
 			generic="creature"
 			tail=1
 			attack_verb = "thwack"
+		
 		gria
 			name="gria"
 			id="gria"
@@ -659,7 +665,7 @@ datum
 			name="zigzagoon"
 			id="zigzagoon"
 			say_mod = "zigs"
-			generic="pokémon"
+			generic="pokÃ©mon"
 			adjective="curious"
 			tail=1
 		narky
