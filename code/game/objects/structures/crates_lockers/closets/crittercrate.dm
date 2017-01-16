@@ -45,8 +45,10 @@
 	content_mob = /mob/living/simple_animal/pet/dog/corgi
 
 /obj/structure/closet/critter/corgi/New()
-	if(prob(50))
+	if(prob(33))
 		content_mob = /mob/living/simple_animal/pet/dog/corgi/Lisa
+	else if(prob(33))
+		content_mob = /mob/living/simple_animal/pet/dog/corgi/Ian
 	..()
 
 /obj/structure/closet/critter/cow
