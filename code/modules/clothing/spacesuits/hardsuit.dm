@@ -184,7 +184,7 @@
 
 
 	//Donation Item for Sacafe
-/obj/item/clothing/head/helmet/space/hardsuit/miningsacafe
+/obj/item/clothing/head/helmet/space/hardsuit/mining/miningsacafe
 	name = "McMullen Helment"
 	desc = "A special helmet designed for Brock McMullen. It fits on the McMullen suit."
 	icon_state = "hardsuit0-sac"
@@ -195,14 +195,14 @@
 	allowed = list(/obj/item/device/flashlight,/obj/item/weapon/tank/internals, /obj/item/weapon/resonator, /obj/item/device/mining_scanner, /obj/item/device/t_scanner/adv_mining_scanner, /obj/item/weapon/gun/energy/kinetic_accelerator)
 
 
-/obj/item/clothing/suit/space/hardsuit/miningsacafe
+/obj/item/clothing/suit/space/hardsuit/mining/miningsacafe
 	icon_state = "hardsuit-sac"
 	name = "McMullen Suit"
 	desc = "A special suit that protects against hazardous, low pressure environments. Has reinforced plating for wildlife encounters."
 	item_state = "hardsuit-sac"
 	armor = list(melee = 30, bullet = 5, laser = 10, energy = 5, bomb = 50, bio = 100, rad = 50)
 	allowed = list(/obj/item/device/flashlight,/obj/item/weapon/tank/internals,/obj/item/weapon/storage/bag/ore,/obj/item/weapon/pickaxe)
-	helmettype = /obj/item/clothing/head/helmet/space/hardsuit/miningsacafe
+	helmettype = /obj/item/clothing/head/helmet/space/hardsuit/mining/miningsacafe
 
 
 
