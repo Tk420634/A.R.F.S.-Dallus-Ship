@@ -213,6 +213,15 @@ datum
 			attack_verb = "tailwhip"
 			restricted = "ThingPony"
 			tail=1
+		flareon
+			name="flareon"
+			say_mod = "roars"
+			id="flareon"
+			generic="burny"
+			adjective="burny"
+			attack_verb = "tackle"
+			restricted = "Alex123890"
+			tail=1
 		fennec
 			name="fennec"
 			say_mod = "yips"
@@ -238,7 +247,6 @@ datum
 			adjective="foxy" // open and shut with this one, huh
 			tail=1
 			taur=1
-		
 		glaceons
 			name="shiny glaceon"
 			id="glaceons"
@@ -246,9 +254,7 @@ datum
 			adjective="glowing"
 			attack_verb = "tackles"
 			say_mod = "chimes"
-			restricted = "Alex123890"
 			tail=1
-		
 		glaceon
 			name="glaceon"
 			id="glaceon"
@@ -256,10 +262,7 @@ datum
 			adjective="glowing"
 			attack_verb = "tackles"
 			say_mod = "chimes"
-			restricted = "Alex123890"
-			tail=1
-		
-		glowfen
+			tail=1		glowfen
 			name="glowfen"
 			id="glowfen"
 			generic="vulpine"
@@ -665,7 +668,7 @@ datum
 			name="zigzagoon"
 			id="zigzagoon"
 			say_mod = "zigs"
-			generic="pokÃ©mon"
+			generic="pokémon"
 			adjective="curious"
 			tail=1
 		narky
