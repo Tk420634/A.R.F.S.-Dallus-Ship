@@ -211,6 +211,15 @@ datum
 			generic="vulpine"
 			adjective="foxy"
 			tail=1
+		flareon
+			name="flareon"
+			say_mod = "roars"
+			id="flareon"
+			generic="burny"
+			adjective="burny"
+			attack_verb = "tackle"
+			restricted = "Alex123890"
+			tail=1
 		eevee
 			name="eevee"
 			say_mod = "yaps"
@@ -228,6 +237,22 @@ datum
 			adjective="foxy" // open and shut with this one, huh
 			tail=1
 			taur=1
+		glaceons
+			name="shiny glaceon"
+			id="glaceons"
+			generic="vulpine"
+			adjective="glowing"
+			attack_verb = "tackles"
+			say_mod = "chimes"
+			tail=1
+		glaceon
+			name="glaceon"
+			id="glaceon"
+			generic="vulpine"
+			adjective="glowing"
+			attack_verb = "tackles"
+			say_mod = "chimes"
+			tail=1
 		glowfen
 			name="glowfen"
 			id="glowfen"

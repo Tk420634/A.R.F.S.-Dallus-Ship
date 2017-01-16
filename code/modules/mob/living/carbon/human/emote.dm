@@ -525,8 +525,17 @@
 						if("wolf")
 							playsound(src.loc, 'sound/misc/wolf1.ogg', 50, 1, 5)
 
-						if("zig")
+						if("zigzagoon")
 							playsound(src.loc, 'sound/misc/zig1.ogg', 50, 1, 5)
+
+						if("glaceons")
+							playsound(src.loc, 'sound/misc/Glaceon1.ogg', 50, 1, 5)
+
+						if("glaceon")
+							playsound(src.loc, 'sound/misc/Glaceon1.ogg', 50, 1, 5)
+
+						if("flareon")
+							playsound(src.loc, 'sound/misc/Flareon1.ogg', 50, 1, 5)
 
 
 						else
