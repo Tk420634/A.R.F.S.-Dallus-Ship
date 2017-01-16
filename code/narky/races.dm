@@ -204,6 +204,24 @@ datum
 			taur=1
 			tail=1
 			eyes="spidereyes"
+		eevee
+			name="eevee"
+			say_mod = "yaps"
+			id="eevee"
+			generic="fluffy"
+			adjective="fluffy"
+			attack_verb = "tailwhip"
+			restricted = "ThingPony"
+			tail=1
+		flareon
+			name="flareon"
+			say_mod = "roars"
+			id="flareon"
+			generic="burny"
+			adjective="burny"
+			attack_verb = "tackle"
+			restricted = "Alex123890"
+			tail=1
 		fennec
 			name="fennec"
 			say_mod = "yips"
@@ -220,15 +238,7 @@ datum
 			attack_verb = "tackle"
 			restricted = "Alex123890"
 			tail=1
-		eevee
-			name="eevee"
-			say_mod = "yaps"
-			id="eevee"
-			generic="fluffy"
-			adjective="fluffy"
-			attack_verb = "tailwhip"
-			restricted = "ThingPony"
-			tail=1
+
 		fox
 			name="fox"
 			id="fox"
@@ -259,12 +269,14 @@ datum
 			generic="vulpine"
 			adjective="glowing"
 			tail=1
+
 		gremlin
 			name="gremlin"
 			id="gremlin"
 			generic="creature"
 			tail=1
 			attack_verb = "thwack"
+
 		gria
 			name="gria"
 			id="gria"

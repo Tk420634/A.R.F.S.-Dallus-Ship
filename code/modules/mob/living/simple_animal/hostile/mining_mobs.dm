@@ -638,9 +638,9 @@
 /mob/living/simple_animal/hostile/asteroid/crabmonster
 	name = "Lobster Man"
 	desc = "Evil Lobster Man. Beware."
-	icon_state = "crab monster"
-	icon_living = "crab monster"
-	icon_dead = "crab monster-dead"
+	icon_state = "crabmonster"
+	icon_living = "crabmonster"
+	icon_dead = "crabmonster_d"
 	speak_chance = 0
 	turns_per_move = 5
 	butcher_results = list(/obj/item/asteroid/goliath_hide = 1)
