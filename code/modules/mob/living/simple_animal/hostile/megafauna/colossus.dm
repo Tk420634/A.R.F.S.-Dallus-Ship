@@ -7,7 +7,7 @@
 	attack_sound = 'sound/magic/clockwork/ratvar_attack.ogg'
 	icon_state = "eva"
 	icon_living = "eva"
-	icon_dead = "dragon_dead"
+	icon_dead = "eva_dead"
 	friendly = "stares down"
 	icon = 'icons/mob/lavaland/96x96megafauna.dmi'
 	faction = list("mining")
@@ -26,7 +26,8 @@
 	idle_vision_range = 5
 	butcher_results = list(/obj/item/weapon/ore/diamond = 5)
 
-
+	var/anger_modifier = 0
+	var/obj/item/device/gps/internal
 
 /mob/living/simple_animal/hostile/megafauna/colossus/AttackingTarget()
 	..()
@@ -38,7 +39,7 @@
 
 /mob/living/simple_animal/hostile/megafauna/colossus/OpenFire()
 	anger_modifier = Clamp(((maxHealth - health)/50),0,20)
-	ranged_cooldown = world.time + 120
+	ranged_cooldown = world.time + 30
 
 	if(prob(20+anger_modifier)) //Major attack
 		telegraph()

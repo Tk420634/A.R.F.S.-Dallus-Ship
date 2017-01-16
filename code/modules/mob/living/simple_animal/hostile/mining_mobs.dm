@@ -481,6 +481,16 @@
 			else
 				user << "<span class='warning'>You can't improve [C] any further!</span>"
 				return
+		if(istype(target, /obj/item/clothing/suit/space/hardsuit/mining/miningsacafe) || istype(target, /obj/item/clothing/head/helmet/space/hardsuit/mining/miningsacafe))
+			var/obj/item/clothing/C = target
+			var/list/current_armor = C.armor
+			if(current_armor.["melee"] < 80)
+				current_armor.["melee"] = min(current_armor.["melee"] + 10, 80)
+				user << "<span class='info'>You strengthen [target], improving its resistance against melee attacks.</span>"
+				qdel(src)
+			else
+				user << "<span class='warning'>You can't improve [C] any further!</span>"
+				return
 		if(istype(target, /obj/mecha/working/ripley))
 			var/obj/mecha/working/ripley/D = target
 			var/list/damage_absorption = D.damage_absorption
@@ -638,9 +648,9 @@
 /mob/living/simple_animal/hostile/asteroid/crabmonster
 	name = "Lobster Man"
 	desc = "Evil Lobster Man. Beware."
-	icon_state = "crab monster"
-	icon_living = "crab monster"
-	icon_dead = "crab monster-dead"
+	icon_state = "crabmonster"
+	icon_living = "crabmonster"
+	icon_dead = "crabmonster_d"
 	speak_chance = 0
 	turns_per_move = 5
 	butcher_results = list(/obj/item/asteroid/goliath_hide = 1)

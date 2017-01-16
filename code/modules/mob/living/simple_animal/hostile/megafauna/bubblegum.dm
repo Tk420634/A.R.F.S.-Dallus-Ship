@@ -7,7 +7,7 @@
 	attack_sound = 'sound/magic/demon_attack1.ogg'
 	icon_state = "bubblegum"
 	icon_living = "bubblegum"
-	icon_dead = ""
+	icon_dead = "bubblegum_dead"
 	friendly = "stares down"
 	icon = 'icons/mob/lavaland/96x96megafauna.dmi'
 	faction = list("mining")
@@ -44,9 +44,11 @@
 	..()
 	if(isliving(target))
 
+/*
 /mob/living/simple_animal/hostile/megafauna/bubblegum/Life()
 	..()
 	move_to_delay = Clamp(round((health/maxHealth) * 10), 5, 10)
+
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/OpenFire()
 	var/anger_modifier = Clamp(((maxHealth - health)/50),0,20)
@@ -56,6 +58,7 @@
 
 	if(prob(25))
 		blood_spray()
+
 
 	else if(prob(5+anger_modifier/2))
 		slaughterlings()
@@ -68,6 +71,7 @@
 			charge()
 			sleep(10)
 			charge()
+
 
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/New()
@@ -95,6 +99,7 @@
 			T.singularity_pull(src, 7)
 	. = ..()
 
+
 /mob/living/simple_animal/hostile/megafauna/bubblegum/proc/charge()
 	var/turf/T = get_step_away(target, src)
 	charging = 1
@@ -102,6 +107,7 @@
 	sleep(5)
 	throw_at(T, 7, 1, src, 0)
 	charging = 0
+*/
 
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/Bump(atom/A)
@@ -139,7 +145,7 @@
 			visible_message("<span class='danger'>And springs back out!</span>")
 			break
 
-
+/*
 /mob/living/simple_animal/hostile/megafauna/bubblegum/proc/blood_spray()
 	visible_message("<span class='danger'>[src] sprays a stream of gore!</span>")
 	spawn(0)
@@ -151,6 +157,7 @@
 			new /obj/effect/decal/cleanable/blood
 			range--
 			sleep(1)
+*/
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/proc/slaughterlings()
 	visible_message("<span class='danger'>[src] summons a shoal of slaughterlings!</span>")
