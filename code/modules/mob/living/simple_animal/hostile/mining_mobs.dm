@@ -634,3 +634,34 @@
 		A.environment_smash += 2
 		user << "<span class='info'>You increase the size of [A], giving it a surge of strength!</span>"
 		qdel(src)
+
+/mob/living/simple_animal/hostile/asteroid/crabmonster
+	name = "Lobster Man"
+	desc = "Evil Lobster Man. Beware."
+	icon_state = "crab monster"
+	icon_living = "crab monster"
+	icon_dead = "crab monster-dead"
+	speak_chance = 0
+	turns_per_move = 5
+	butcher_results = list(/obj/item/asteroid/goliath_hide = 1)
+	response_help = "pets"
+	response_disarm = "gently pushes aside"
+	response_harm = "hits"
+	emote_taunt = list("pinches its claws")
+	taunt_chance = 30
+	speed = 0
+	maxHealth = 200
+	health = 200
+	harm_intent_damage = 5
+	melee_damage_lower = 15
+	melee_damage_upper = 15
+	attacktext = "bites"
+	attack_sound = 'sound/weapons/zoid.ogg'
+	speak_emote = list("pinchs")
+	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0)
+	minbodytemp = 0
+	maxbodytemp = 1500
+	speed = 2
+	aggro_vision_range = 9
+	idle_vision_range = 5
+	faction = list("mining")
