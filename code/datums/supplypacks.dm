@@ -872,6 +872,31 @@ var/list/all_supply_groups = list(supply_emergency,supply_security,supply_engine
 	containername = "butterflies crate"
 	contraband = 1
 
+/datum/supply_packs/organic/parrot
+	name = "Parrot Crate"
+	cost = 500
+	containertype = /obj/structure/closet/critter/parrot
+	containername = "parrot crate"
+
+/datum/supply_packs/organic/deer
+	name = "deer Crate"
+	cost = 50
+	containertype = /obj/structure/closet/critter/deer
+	containername = "deer crate"
+
+/datum/supply_packs/organic/pig
+	name = "pig Crate"
+	cost = 50
+	containertype = /mob/living/simple_animal/pig
+	containername = "pig crate"
+
+/datum/supply_packs/organic/turkey
+	name = "turkey Crate"
+	cost = 50
+	containertype = /mob/living/simple_animal/turkey
+	containername = "turkey crate"
+
+
 ////// hippy gear
 
 /datum/supply_packs/organic/hydroponics // -- Skie
