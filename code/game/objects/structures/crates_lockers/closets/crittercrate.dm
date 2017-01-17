@@ -80,11 +80,34 @@
 	name = "pug crate"
 	content_mob = /mob/living/simple_animal/pet/dog/pug
 
-/obj/structure/closet/critter/fox
-	name = "fox crate"
-	content_mob = /mob/living/simple_animal/pet/fox
+/obj/structure/closet/critter/fox/New()
+	if(prob(33))
+		content_mob = /mob/living/simple_animal/pet/fox/fennec
+	else if(prob(33))
+		content_mob = /mob/living/simple_animal/pet/fox
+	..()
 
 /obj/structure/closet/critter/butterfly
 	name = "butterflies crate"
 	content_mob = /mob/living/simple_animal/butterfly
 	amount = 50
+
+/obj/structure/closet/critter/parrot
+	name = "parrot crate"
+	content_mob = /mob/living/simple_animal/parrot
+	amount = 20
+
+/obj/structure/closet/critter/pig
+	name = "pig crate"
+	content_mob = /mob/living/simple_animal/pig
+	amount = 5
+
+/obj/structure/closet/critter/turkey
+	name = "turkey crate"
+	content_mob = /mob/living/simple_animal/turkey
+	amount = 5
+
+/obj/structure/closet/critter/deer
+	name = "deer crate"
+	content_mob = /mob/living/simple_animal/deer
+	amount = 2
