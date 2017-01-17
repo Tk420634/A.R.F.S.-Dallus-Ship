@@ -254,6 +254,7 @@ datum
 			adjective="glowing"
 			attack_verb = "tackles"
 			say_mod = "chimes"
+			restricted = "Alex123890"
 			tail=1
 		glaceon
 			name="glaceon"
@@ -262,6 +263,16 @@ datum
 			adjective="glowing"
 			attack_verb = "tackles"
 			say_mod = "chimes"
+			restricted = "Alex123890"
+			tail=1
+		grovyle
+			name="grovyle"
+			id="grovyle"
+			generic="vulpine"
+			adjective="glowing"
+			attack_verb = "slashes"
+			say_mod = "growls"
+			restricted = "KriegsmarineOffizier"
 			tail=1
 		glowfen
 			name="glowfen"

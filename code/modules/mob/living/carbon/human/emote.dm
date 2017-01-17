@@ -519,6 +519,9 @@
 						if("ursine")
 							playsound(src.loc, 'sound/misc/bear1.ogg', 50, 1, 5)
 
+						if("stitch")
+							playsound(src.loc, 'sound/misc/bear1.ogg', 50, 1, 5)
+
 						if("vulture")
 							playsound(src.loc, 'sound/misc/vulture1.ogg', 50, 1, 5)
 
@@ -527,6 +530,9 @@
 
 						if("zigzagoon")
 							playsound(src.loc, 'sound/misc/zig1.ogg', 50, 1, 5)
+
+						if("grovyle")
+							playsound(src.loc, 'sound/misc/Grov1.ogg', 50, 1, 5)
 
 						if("glaceons")
 							playsound(src.loc, 'sound/misc/Glaceon1.ogg', 50, 1, 5)
