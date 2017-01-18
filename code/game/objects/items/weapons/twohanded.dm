@@ -191,6 +191,36 @@
 
 
 /*
+ * Saw Cleaver - Cecily, programmed by Junerthan
+ */
+
+/obj/item/weapon/twohanded/sawcleaver
+	icon_state = "sawcleaver0"
+	name = "Saw Cleaver"
+	desc = "Is this just real life, or is this just a hunters dream"
+	force = 15
+	throwforce = 15
+	throw_range = 3
+	w_class = 2
+	force_unwielded = 15
+	force_wielded = 34
+	attack_verb = list("attacked", "chopped", "cleaved", "torn", "cut")
+	hitsound = 'sound/weapons/bladeslice.ogg'
+	flags = NOSHIELD
+	slot_flags = SLOT_BACK
+	origin_tech = "magnets=3;syndicate=4"
+	sharpness = IS_SHARP
+
+
+/obj/item/weapon/twohanded/sawcleaver/update_icon()
+	if(wielded)
+		icon_state = "sawcleaver[wielded]"
+	else
+		icon_state = "sawcleaver0"
+	clean_blood()//blood overlays get weird otherwise, because the sprite changes.
+	return
+
+/*
  * Double-Bladed Energy Swords - Cheridan
  */
 /obj/item/weapon/twohanded/dualsaber

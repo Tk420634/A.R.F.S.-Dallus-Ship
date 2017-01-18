@@ -907,7 +907,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/suit/jacket = 4, /obj/item/clothing/suit/jacket/leather = 4,
 	/obj/item/clothing/suit/jacket/puffer = 4,
 	/obj/item/clothing/suit/jacket/puffer/vest = 4, /obj/item/clothing/suit/jacket/miljacket = 4,
-	/obj/item/clothing/suit/hooded/wintercoat = 4)
+	/obj/item/clothing/suit/hooded/wintercoat = 4,/obj/item/clothing/suit/hunterscoat = 4,
+	/obj/item/clothing/suit/overcoat = 2,/obj/item/clothing/suit/cec_dress = 2)
 	refill_canister = /obj/item/weapon/vending_refill/autodrobe
 
 /obj/machinery/vending/dinnerware
@@ -991,7 +992,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/under/bluecheongsam = 4, /obj/item/clothing/under/whitedress2 = 4,
 	/obj/item/clothing/under/redcheongsam = 4, /obj/item/clothing/under/whitedress  = 4,
 	/obj/item/clothing/under/tiandress = 4, /obj/item/clothing/under/sakurakimono = 4,
-	/obj/item/clothing/under/hawaiian = 4,
+	/obj/item/clothing/under/hawaiian = 4,/obj/item/clothing/under/bowlingoutfit = 4,
 	/obj/item/clothing/under/orangebride = 4, /obj/item/clothing/under/purplebride = 4,
 	/obj/item/clothing/under/redbride = 4, /obj/item/clothing/under/whitebride = 4,
 	/obj/item/clothing/under/firedress = 4, /obj/item/clothing/under/firereddress = 4,

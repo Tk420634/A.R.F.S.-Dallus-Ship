@@ -1,3 +1,9 @@
+/*
+ * I've moved this to twohanded.dm    - Jonathan
+ */
+
+
+/*
 /obj/item/weapon/twohanded/fireaxe/sawcleaver  //Cecily code! Harder to read then regular code
 	icon_state = "cleaver0"
 	name = "Saw Cleaver"
@@ -16,3 +22,4 @@
 	icon_state = "cleaver1[wielded]"
 	return
 
+*/
