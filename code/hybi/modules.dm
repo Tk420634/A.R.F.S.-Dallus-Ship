@@ -33,3 +33,12 @@
 		if(get_area(M) == A)
 			mobs += M
 	return mobs
+
+/mob/living/proc/thundersmite()
+	var/image/img = image(icon = 'icons/effects/224x224.dmi', icon_state = "lightning")
+	img.pixel_x = -world.icon_size*3
+	img.pixel_y = -world.icon_size
+	flick_overlay_static(img, src, 10)
+	playsound(src,'sound/effects/thunder.ogg', 90, 1)
+	spawn(10)
+	gib()
