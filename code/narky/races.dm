@@ -268,7 +268,7 @@ datum
 		grovyle
 			name="grovyle"
 			id="grovyle"
-			generic="vulpine"
+			generic="poke-y"
 			adjective="glowing"
 			attack_verb = "slashes"
 			say_mod = "growls"

@@ -1,5 +1,5 @@
 /obj/item/weapon/twohanded/fireaxe/sawcleaver  //Cecily code! Harder to read then regular code
-	icon_state = "cleaver"
+	icon_state = "cleaver0"
 	name = "Saw Cleaver"
 	desc = "Is this just real life, or is this just a hunters dream"
 	force = 5
@@ -13,6 +13,6 @@
 	sharpness = IS_SHARP
 
 /obj/item/weapon/twohanded/fireaxe/sawcleaver/update_icon()  //Currently only here to fuck with the on-mob icons.
-	icon_state = "cleaver[wielded]"
+	icon_state = "cleaver1[wielded]"
 	return
 

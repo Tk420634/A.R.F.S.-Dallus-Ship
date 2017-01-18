@@ -230,9 +230,3 @@ ANNOUNCE_ADMIN_LOGOUT
 
 ## Job whitelist head ban
 JOBLIST
-
-## autovote initial delay (deciseconds) before first automatic transfer vote call (default 180 minutes)
-VOTE_AUTOTRANSFER_INITIAL 108000
-
-##autovote delay (deciseconds) before sequential automatic transfer votes are called (default 60 minutes)
-VOTE_AUTOTRANSFER_INTERVAL 36000
