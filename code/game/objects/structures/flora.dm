@@ -72,6 +72,9 @@
 	icon_state = "snowgrassall[rand(1, 3)]"
 	..()
 
+/obj/structure/flora/grass/fallleaves
+	icon_state = "fallleaves"
+
 
 //bushes
 /obj/structure/flora/bush
@@ -212,6 +215,260 @@
 	desc = "A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says \"Y'all come back now, y'hear?\"\nIt doesn't look very healthy..."
 	icon_state = "plant-25"
 
+/obj/structure/flora/kirbyplants/applebush
+	name = "An Apple Bush"
+	desc = "Thats a plant."
+	icon_state = "applebush"
+
+/obj/structure/flora/kirbyplants/plant1
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-01"
+
+/obj/structure/flora/kirbyplants/plant2
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-02"
+
+/obj/structure/flora/kirbyplants/plant3
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-03"
+
+/obj/structure/flora/kirbyplants/plant4
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-04"
+
+/obj/structure/flora/kirbyplants/plant5
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-05"
+
+/obj/structure/flora/kirbyplants/plant6
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-06"
+
+/obj/structure/flora/kirbyplants/plant7
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-07"
+
+/obj/structure/flora/kirbyplants/plant8
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-08"
+
+/obj/structure/flora/kirbyplants/plant9
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-09"
+
+/obj/structure/flora/kirbyplants/plant10
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-10"
+
+/obj/structure/flora/kirbyplants/plant11
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-11"
+
+/obj/structure/flora/kirbyplants/plant12
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-12"
+
+/obj/structure/flora/kirbyplants/plant13
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-13"
+
+/obj/structure/flora/kirbyplants/plant14
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-14"
+
+/obj/structure/flora/kirbyplants/plant15
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-15"
+
+/obj/structure/flora/kirbyplants/plant16
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-16"
+
+/obj/structure/flora/kirbyplants/plant17
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-17"
+
+/obj/structure/flora/kirbyplants/plant18
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-18"
+
+/obj/structure/flora/kirbyplants/plant19
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-19"
+
+/obj/structure/flora/kirbyplants/plant20
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-20"
+
+/obj/structure/flora/kirbyplants/plant21
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-21"
+
+/obj/structure/flora/kirbyplants/plant22
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-22"
+
+/obj/structure/flora/kirbyplants/plant23
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-23"
+
+/obj/structure/flora/kirbyplants/plant24
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-24"
+
+/obj/structure/flora/kirbyplants/plant25
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-25"
+
+/obj/structure/flora/kirbyplants/plant26
+	name = "An eyeball plant"
+	desc = "Thats a plant. It has what looks like an eye. OH GOD ITS LOOKING AT ME!"
+	icon_state = "plant-26"
+
+/obj/structure/flora/kirbyplants/plant27
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-27"
+
+/obj/structure/flora/kirbyplants/plant28
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-28"
+
+/obj/structure/flora/kirbyplants/plant29
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-29"
+
+/obj/structure/flora/kirbyplants/plant30
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-30"
+
+/obj/structure/flora/kirbyplants/plant31
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-31"
+
+/obj/structure/flora/kirbyplants/plant32
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-32"
+
+/obj/structure/flora/kirbyplants/plant33
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-33"
+
+/obj/structure/flora/kirbyplants/plant34
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-34"
+
+/obj/structure/flora/kirbyplants/plant35
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-35"
+
+/obj/structure/flora/kirbyplants/plant36
+	name = "A plant"
+	desc = "Thats a plant."
+	icon_state = "plant-36"
+
+/obj/structure/flora/kirbyplants/deadplant
+	name = "A dead plant"
+	desc = "Thats a plant. Its dead."
+	icon_state = "plant-dead"
+
+/obj/structure/flora/kirbyplants/cornstalk1
+	name = "A cornstalk"
+	desc = "corny"
+	icon_state = "cornstalk1"
+
+/obj/structure/flora/kirbyplants/cornstalk2
+	name = "A cornstalk"
+	desc = "corny"
+	icon_state = "cornstalk2"
+
+/obj/structure/flora/kirbyplants/cornstalk3
+	name = "A cornstalk"
+	desc = "corny"
+	icon_state = "cornstalk3"
+
+/obj/structure/flora/kirbyplants/scatteredstraw
+	name = "straw"
+	desc = "straw scattered on the ground"
+	icon_state = "strawscattered"
+
+/obj/structure/flora/kirbyplants/scatteredstraw2
+	name = "straw"
+	desc = "straw scattered on the ground"
+	icon_state = "strawscattered2"
+
+/obj/structure/flora/kirbyplants/scatteredstraw3
+	name = "straw"
+	desc = "straw scattered on the ground"
+	icon_state = "strawscattered3"
+
+/obj/structure/flora/kirbyplants/scatteredstrawedge
+	name = "straw"
+	desc = "straw scattered on the ground"
+	icon_state = "strawscatterededge"
+
+/obj/structure/flora/kirbyplants/stump1
+	name = "A Stump"
+	desc = "Its very stump like in both form and function"
+	icon_state = "stump1"
+
+/obj/structure/flora/kirbyplants/stump2
+	name = "A Stump"
+	desc = "Its very stump like in both form and function"
+	icon_state = "stump2"
+
+/obj/structure/flora/kirbyplants/strawbail1
+	name = "straw bale"
+	desc = "A bale of straw"
+	icon_state = "strawbale1"
+
+/obj/structure/flora/kirbyplants/strawbail2
+	name = "straw bale"
+	desc = "two bales of straw"
+	icon_state = "strawbale2"
+
+/obj/structure/flora/kirbyplants/strawbail3
+	name = "straw bale"
+	desc = "three bales of straw"
+	icon_state = "strawbale3"
+
+/obj/structure/flora/kirbyplants/gravestone
+	name = "A gravestone"
+	desc = "A chipped granite tombstone."
+	icon_state = "gravestone"
 
 //a rock is flora according to where the icon file is
 //and now these defines

@@ -57,9 +57,9 @@
 	name = "Laser Cannon"
 	desc = "A heavy duty laser cannon."
 	id = "lasercannon"
-	req_tech = list("combat" = 4, "materials" = 3, "powerstorage" = 3)
+	req_tech = list("combat" = 8, "materials" = 5, "powerstorage" = 5)
 	build_type = PROTOLATHE
-	materials = list(MAT_METAL = 10000, MAT_GLASS = 2000, MAT_DIAMOND = 2000)
+	materials = list(MAT_METAL = 10000, MAT_GLASS = 2000, MAT_DIAMOND = 5000)
 	build_path = /obj/item/weapon/gun/energy/lasercannon
 	category = list("Weapons")
 
@@ -83,17 +83,6 @@
 	materials = list(MAT_METAL = 5000, MAT_GLASS = 1000)
 	build_path = /obj/item/weapon/gun/syringe/rapidsyringe
 	category = list("Weapons")
-
-/datum/design/largecrossbow
-	name = "Energy Crossbow"
-	desc = "A reverse-engineered energy crossbow favored by syndicate infiltration teams and carp hunters."
-	id = "largecrossbow"
-	req_tech = list("combat" = 5, "materials" = 5, "engineering" = 3, "biotech" = 4, "syndicate" = 3)
-	build_type = PROTOLATHE
-	materials = list(MAT_METAL = 5000, MAT_GLASS = 1500, MAT_URANIUM = 1500, MAT_SILVER = 1500)
-	build_path = /obj/item/weapon/gun/energy/kinetic_accelerator/crossbow/large
-	category = list("Weapons")
-	reliability = 76
 
 /datum/design/temp_gun
 	name = "Temperature Gun"
@@ -128,25 +117,15 @@
 	category = list("Weapons")
 
 /datum/design/smg
-	name = "NanoTrasen Saber SMG"
+	name = "A.R.F. Saber SMG"
 	desc = "A prototype advancment over the WT-550 auto rifle made using lightweight materials on a traditional frame, designed to fire standard 9mm rounds."
 	id = "smg"
-	req_tech = list("combat" = 4, "materials" = 3)
+	req_tech = list("combat" = 8, "materials" = 8)
 	build_type = PROTOLATHE
-	materials = list(MAT_METAL = 8000, MAT_SILVER = 2000, MAT_DIAMOND = 1000)
+	materials = list(MAT_METAL = 8000, MAT_SILVER = 2000, MAT_DIAMOND = 6000)
 	build_path = /obj/item/weapon/gun/projectile/automatic/proto
 	category = list("Weapons")
-/*
-/datum/design/xray
-	name = "Xray Laser Gun"
-	desc = "Not quite as menacing as it sounds"
-	id = "xray"
-	req_tech = list("combat" = 6, "materials" = 5, "biotech" = 5, "powerstorage" = 4)
-	build_type = PROTOLATHE
-	materials = list(MAT_GOLD = 5000,MAT_URANIUM = 10000, MAT_METAL = 4000)
-	build_path = /obj/item/weapon/gun/energy/xray
-	category = list("Weapons")
-*/
+
 /datum/design/ioncarbine
 	name = "Ion Carbine"
 	desc = "How to dismantle a cyborg : The gun."
@@ -272,3 +251,30 @@
 	materials = list(MAT_METAL = 2000, MAT_SILVER = 500)
 	build_path = /obj/item/weapon/suppressor
 	category = list("Weapons")
+
+
+//Coded out guns
+
+/*
+/datum/design/largecrossbow
+	name = "Energy Crossbow"
+	desc = "A reverse-engineered energy crossbow favored by syndicate infiltration teams and carp hunters."
+	id = "largecrossbow"
+	req_tech = list("combat" = 5, "materials" = 5, "engineering" = 3, "biotech" = 4, "syndicate" = 3)
+	build_type = PROTOLATHE
+	materials = list(MAT_METAL = 5000, MAT_GLASS = 1500, MAT_URANIUM = 1500, MAT_SILVER = 1500)
+	build_path = /obj/item/weapon/gun/energy/kinetic_accelerator/crossbow/large
+	category = list("Weapons")
+	reliability = 76
+
+/datum/design/xray
+	name = "Xray Laser Gun"
+	desc = "Not quite as menacing as it sounds"
+	id = "xray"
+	req_tech = list("combat" = 6, "materials" = 5, "biotech" = 5, "powerstorage" = 4)
+	build_type = PROTOLATHE
+	materials = list(MAT_GOLD = 5000,MAT_URANIUM = 10000, MAT_METAL = 4000)
+	build_path = /obj/item/weapon/gun/energy/xray
+	category = list("Weapons")
+	*/
+

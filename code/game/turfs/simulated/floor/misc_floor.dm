@@ -43,6 +43,9 @@
 	name = "Iron Sand"
 	icon_state = "ironsand[rand(1,15)]"
 
+// replaced by my own work - Jonathanhybrid
+
+/*
 /turf/simulated/floor/plating/snow
 	name = "snow"
 	icon = 'icons/turf/snow.dmi'
@@ -50,7 +53,7 @@
 
 /turf/simulated/floor/plating/snow/ex_act(severity, target)
 	contents_explosion(severity, target)
-
+*/
 /turf/simulated/floor/plating/snow/gravsnow
 	icon_state = "gravsnow"
 

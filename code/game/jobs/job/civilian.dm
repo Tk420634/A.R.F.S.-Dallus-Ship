@@ -231,5 +231,3 @@ Prisoner
 	uniform = /obj/item/clothing/under/color/orange
 	shoes = /obj/item/clothing/shoes/sneakers/orange
 */
-
-

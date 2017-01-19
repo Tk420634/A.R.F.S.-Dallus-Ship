@@ -115,6 +115,7 @@ datum
 			eyes = "carpeyes"
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
+/*
 		chicken
 			name="chicken"
 			id="chicken"
@@ -123,6 +124,7 @@ datum
 			adjective="coward"
 			tail=1
 			attack_verb = "whack"
+*/
 		corgi
 			name="corgi"
 			id="corgi"
@@ -202,13 +204,6 @@ datum
 			taur=1
 			tail=1
 			eyes="spidereyes"
-		fennec
-			name="fennec"
-			say_mod = "yips"
-			id="fennec"
-			generic="vulpine"
-			adjective="foxy"
-			tail=1
 		eevee
 			name="eevee"
 			say_mod = "yaps"
@@ -218,6 +213,32 @@ datum
 			attack_verb = "tailwhip"
 			restricted = "ThingPony"
 			tail=1
+		flareon
+			name="flareon"
+			say_mod = "roars"
+			id="flareon"
+			generic="burny"
+			adjective="burny"
+			attack_verb = "tackle"
+			restricted = "Alex123890"
+			tail=1
+		fennec
+			name="fennec"
+			say_mod = "yips"
+			id="fennec"
+			generic="vulpine"
+			adjective="foxy"
+			tail=1
+		flareon
+			name="flareon"
+			say_mod = "roars"
+			id="flareon"
+			generic="burny"
+			adjective="burny"
+			attack_verb = "tackle"
+			restricted = "Alex123890"
+			tail=1
+
 		fox
 			name="fox"
 			id="fox"
@@ -226,18 +247,47 @@ datum
 			adjective="foxy" // open and shut with this one, huh
 			tail=1
 			taur=1
+		glaceons
+			name="shiny glaceon"
+			id="glaceons"
+			generic="vulpine"
+			adjective="glowing"
+			attack_verb = "tackles"
+			say_mod = "chimes"
+			restricted = "Alex123890"
+			tail=1
+		glaceon
+			name="glaceon"
+			id="glaceon"
+			generic="vulpine"
+			adjective="glowing"
+			attack_verb = "tackles"
+			say_mod = "chimes"
+			restricted = "Alex123890"
+			tail=1
+		grovyle
+			name="grovyle"
+			id="grovyle"
+			generic="poke-y"
+			adjective="glowing"
+			attack_verb = "slashes"
+			say_mod = "growls"
+			restricted = "KriegsmarineOffizier"
+			tail=1
 		glowfen
 			name="glowfen"
 			id="glowfen"
 			generic="vulpine"
 			adjective="glowing"
 			tail=1
+
 		gremlin
 			name="gremlin"
 			id="gremlin"
 			generic="creature"
 			tail=1
 			attack_verb = "thwack"
+
 		gria
 			name="gria"
 			id="gria"
@@ -262,7 +312,7 @@ datum
 			generic="hippo"
 			adjective="buoyant"
 			tail=1
-*/
+
 		hummingbird
 			name="hummingbird"
 			id="hummingbird"
@@ -270,6 +320,7 @@ datum
 			adjective="fluttery"
 			tail=0
 			say_mod = "hums"
+*/
 		husky
 			name="husky"
 			id="husky"
@@ -287,6 +338,7 @@ datum
 			tail=1
 			attack_verb = "chomp"
 			attack_sound = 'sound/weapons/bite.ogg'
+		/*
 		jackalope
 			name="jackalope"
 			id="jackalope"
@@ -295,6 +347,7 @@ datum
 			adjective="hoppy and horny" //hue
 			attack_verb = "kick"
 			tail=1
+		*/
 		jelly
 			name="jelly"
 			id="jelly"
@@ -471,6 +524,15 @@ datum
 			generic="procyonid" // Family Procyonidae
 			adjective="stripy"
 			tail=1
+		renamon
+			name="renamon"
+			id="renamon"
+			say_mod = "yips"
+			generic = "digivulp"
+			adjective = "digital"
+			tail=1
+			attack_verb = "claw"
+			attack_sound = 'sound/weapons/slash.ogg'
 		roorat
 			name="kangaroo rat"
 			id="roorat"
@@ -546,6 +608,15 @@ datum
 			generic="smilodon"
 			adjective="toothy"
 			tail=1
+		stitch
+			name = "stitch"
+			id = "stitch"
+			say_mod = "barks"
+			generic = "space alien"
+			adjective = "Evil"
+			tail =1
+			attack_verb = "scratch"
+			attack_sound = 'sound/weapons/slash.ogg'
 /*
 		snarby
 			name="snarby"

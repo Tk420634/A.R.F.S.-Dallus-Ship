@@ -142,6 +142,22 @@
 	unique_rename = 1
 	origin_tech = "combat=2;powerstorage=1"
 
+/obj/item/weapon/gun/energy/kinetic_accelerator/super
+	name = "super-kinetic accelerator"
+	desc = "An upgraded, superior version of the proto-kinetic accelerator."
+	icon_state = "kineticgun_u"
+	ammo_type = list(/obj/item/ammo_casing/energy/kinetic/super)
+	overheat_time = 15
+	origin_tech = "combat=3;powerstorage=2"
+
+/obj/item/weapon/gun/energy/kinetic_accelerator/hyper
+	name = "hyper-kinetic accelerator"
+	desc = "An upgraded, even more superior version of the proto-kinetic accelerator."
+	icon_state = "kineticgun_h"
+	ammo_type = list(/obj/item/ammo_casing/energy/kinetic/hyper)
+	overheat_time = 14
+	origin_tech = "combat=4;powerstorage=3"
+
 /obj/item/weapon/gun/energy/kinetic_accelerator/shoot_live_shot()
 	overheat = 1
 	spawn(overheat_time)

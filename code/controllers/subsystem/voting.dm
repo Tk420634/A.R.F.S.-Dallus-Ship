@@ -67,6 +67,10 @@ var/datum/subsystem/vote/SSvote
 					choices[master_mode] += non_voters
 					if(choices[master_mode] >= greatest_votes)
 						greatest_votes = choices[master_mode]
+			else if(mode == "auto_transfer")
+				choices["Continue shift"] += non_voters/2
+				if(choices["Continue shift"] >= greatest_votes)
+					greatest_votes = choices["Continue shift"]
 	//get all options with that many votes and return them in a list
 	. = list()
 	if(greatest_votes)
@@ -108,6 +112,11 @@ var/datum/subsystem/vote/SSvote
 			if("restart")
 				if(. == "Restart Round")
 					restart = 1
+			if("auto_transfer")
+				if(. == "Initiate Crew Transfer")
+					if(SSshuttle.emergency.mode < SHUTTLE_CALL)
+						SSshuttle.emergency.request(null, 1.5)
+						message_admins("Crew Transfer vote passed, calling shuttle")
 			if("gamemode")
 				if(master_mode != .)
 					world.save_mode(.)
@@ -151,6 +160,7 @@ var/datum/subsystem/vote/SSvote
 		switch(vote_type)
 			if("restart")	choices.Add("Restart Round","Continue Playing")
 			if("gamemode")	choices.Add(config.votable_modes)
+			if("auto_transfer")	choices.Add("Initiate Crew Transfer","Continue shift")
 			if("custom")
 				question = stripped_input(usr,"What is the vote for?")
 				if(!question)	return 0

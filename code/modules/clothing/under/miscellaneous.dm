@@ -759,7 +759,7 @@
 	icon_state = "barebutt"
 	item_state = "w_suit"
 	item_color = "barebutt"
-	body_parts_covered = CHEST|ARMS
+	body_parts_covered = CHEST|ARMS|GROIN
 	can_adjust = 1
 /obj/item/clothing/under/bb/sweater
 	name = "black sweater"
@@ -1281,3 +1281,190 @@
 	item_color = "hydro-alt"
 	item_state = "hydro-alt_s"
 	can_adjust = 0
+
+/obj/item/clothing/under/shizunewinter
+	name = "shizune winter"
+	desc = ""
+	icon_state = "shizunewinter"
+	item_color = "shizunewinter"
+	item_state = "shizunewinter_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/shizunenormal
+	name = "shizune normal"
+	desc = ""
+	icon_state = "shizunenormal"
+	item_color = "shizunenormal"
+	item_state = "shizunenormal_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/keyholesweater
+	name = "keyhole sweater"
+	desc = ""
+	icon_state = "keyholesweater"
+	item_color = "keyholesweater"
+	item_state = "keyholesweater_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/hoodiejeans
+	name = "hoodie jeans"
+	desc = ""
+	icon_state = "hoodiejeans"
+	item_color = "hoodiejeans"
+	item_state = "hoodiejeans_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/blessedclown
+	name = "blessed clown"
+	desc = ""
+	icon_state = "blessedclown"
+	item_color = "blessedclown"
+	item_state = "blessedclown_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/dolan
+	name = "dolan"
+	desc = ""
+	icon_state = "dolan"
+	item_color = "dolan"
+	item_state = "dolan_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/merchant
+	name = "merchant"
+	desc = ""
+	icon_state = "merchant"
+	item_color = "merchant"
+	item_state = "merchant_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/yay
+	name = "yay"
+	desc = ""
+	icon_state = "yay"
+	item_color = "yay"
+	item_state = "yay_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/utena
+	name = "utena"
+	desc = ""
+	icon_state = "utena"
+	item_color = "utena"
+	item_state = "utena_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/kilt2
+	name = "kilt"
+	desc = ""
+	icon_state = "kilt2"
+	item_color = "kilt2"
+	item_state = "kilt2_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/bane
+	name = "bane"
+	desc = ""
+	icon_state = "bane"
+	item_color = "bane"
+	item_state = "bane_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/castiledress
+	name = "Castile Dress"
+	desc = ""
+	icon_state = "castile_dress"
+	item_color = "castile_dress"
+	item_state = "castile_dress_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/flapperdress
+	name = "flapper dress"
+	desc = ""
+	icon_state = "flapper"
+	item_color = "flapper"
+	item_state = "flapper_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/purplecheer
+	name = "purple cheerleader dress"
+	desc = ""
+	icon_state = "purple_cheer"
+	item_color = "purple_cheer"
+	item_state = "purple_cheer_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/yellowcheer
+	name = "yellow cheerleader dress"
+	desc = ""
+	icon_state = "yellow_cheer"
+	item_color = "yellow_cheer"
+	item_state = "yellow_cheer_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/whitecheer
+	name = "white cheerleader dress"
+	desc = ""
+	icon_state = "white_cheer"
+	item_color = "white_cheer"
+	item_state = "white_cheer_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/schoolgirlblack
+	name = "black schoolgirl"
+	desc = ""
+	icon_state = "schoolgirl_black"
+	item_color = "schoolgirl_black"
+	item_state = "schoolgirl_black_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/maximusarmor
+	name = "maximus armor"
+	desc = ""
+	icon_state = "maximus_armor"
+	item_color = "maximus_armor"
+	item_state = "maximus_armor_s"
+	can_adjust = 0
+/*
+/obj/item/clothing/under/ronald
+	name = "ronald"
+	desc = ""
+	icon_state = "ronald"
+	item_color = "ronald"
+	item_state = "ronald_s"
+	can_adjust = 0
+*/
+
+/obj/item/clothing/under/sasha
+	name = "sasha"
+	desc = ""
+	icon_state = "sasha"
+	item_color = "sasha"
+	item_state = "sasha_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/cuttopred
+	name = "cuttop red"
+	desc = ""
+	icon_state = "cuttop_red"
+	item_color = "cuttop_red"
+	item_state = "cuttop_red_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/croptop
+	name = "croptop"
+	desc = ""
+	icon_state = "croptop"
+	item_color = "croptop"
+	item_state = "croptop_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/hoodieskirt
+	name = "hoodie skirt"
+	desc = ""
+	icon_state = "hoodieskirt"
+	item_color = "hoodieskirt"
+	item_state = "hoodieskirt_s"
+	can_adjust = 0
+
+

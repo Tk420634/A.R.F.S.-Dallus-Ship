@@ -43,3 +43,13 @@
 	response_disarm = "gently pushes aside"
 	response_harm   = "stomps"
 	gold_core_spawnable = 0
+
+/mob/living/simple_animal/crab/snow
+	name = "snow crab"
+	response_help  = "pets"
+	response_disarm = "gently pushes aside"
+	icon_state = "snowcrab"
+	icon_living = "snowcrab"
+	icon_dead = "snowcrab_dead"
+	response_harm   = "stomps"
+	gold_core_spawnable = 0

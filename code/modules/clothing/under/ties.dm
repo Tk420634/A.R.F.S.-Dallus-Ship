@@ -438,3 +438,9 @@
 	desc = "a heavy steel collar"
 	icon_state = "collar_steel"
 	item_color = "collar_steel"
+
+/obj/item/clothing/tie/necklace/spikedmant
+	name = "spiked collar mantlet"
+	desc = "a black mantlet with spided collar accesory"
+	icon_state = "spikedmant"
+	item_color = "spikedmant"

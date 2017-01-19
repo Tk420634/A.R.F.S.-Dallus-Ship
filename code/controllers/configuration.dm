@@ -37,6 +37,8 @@
 	var/allow_vote_mode = 0				// allow votes to change mode
 	var/vote_delay = 10				// minimum time between voting sessions (deciseconds, 10 minute default)
 	var/vote_period = 600				// length of voting period (deciseconds, default 1 minute)
+	var/vote_autotransfer_initial = 108000 // Length of time before the first autotransfer vote is called
+	var/vote_autotransfer_interval = 36000 // length of time before next sequential autotransfer vote
 	var/vote_no_default = 0				// vote does not default to nochange/norestart (tbi)
 	var/vote_no_dead = 0				// dead people can't vote (tbi)
 	var/del_new_on_log = 1				// del's new players if they log before they spawn in
@@ -50,7 +52,7 @@
 	var/hostedby = null
 	var/respawn = 1
 	var/guest_jobban = 1
-	var/usewhitelist = 0
+	var/usewhitelist = 1
 	var/kick_inactive = 0				//force disconnect for inactive players
 	var/load_jobs_from_txt = 0
 	var/automute_on = 0					//enables automuting/spam prevention
@@ -389,6 +391,11 @@
 					protected_config.autoadmin = 1
 					if(value)
 						protected_config.autoadmin_rank = ckeyEx(value)
+				if ("vote_autotransfer_initial")
+					config.vote_autotransfer_initial = text2num(value)
+				if ("vote_autotransfer_interval")
+					config.vote_autotransfer_interval = text2num(value)
+
 				else
 					diary << "Unknown setting in configuration: '[name]'"
 

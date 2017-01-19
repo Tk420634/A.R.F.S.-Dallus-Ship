@@ -119,6 +119,14 @@
 	flag = "bomb"
 	range = 3
 
+/obj/item/projectile/kinetic/super
+	damage = 15
+	range = 6
+
+/obj/item/projectile/kinetic/hyper
+	damage = 20
+	range = 9
+
 obj/item/projectile/kinetic/New()
 	var/turf/proj_turf = get_turf(src)
 	if(!istype(proj_turf, /turf))

@@ -1447,3 +1447,211 @@
 	name = "Warden action figure"
 	icon_state = "warden"
 	toysay = "Seventeen minutes for coughing at an officer!"
+
+/obj/item/toy/plushie
+	name = "plushie"
+	desc = "An adorable, soft, and cuddly plushie."
+	icon = 'icons/obj/toy.dmi'
+	var/poof_sound = 'sound/weapons/thudswoosh.ogg'
+	attack_verb = list("poofed", "bopped", "whapped","cuddled","fluffed")
+
+/obj/item/toy/plushie/attack_self(mob/user as mob)
+	var/cuddle_verb = pick("hugs","cuddles","snugs")
+	user.visible_message("<span class='notice'>[user] [cuddle_verb] the [src].</span>")
+
+/obj/random/plushie
+	name = "Random Plushie"
+	desc = "This is a random plushie"
+	icon = 'icons/obj/toy.dmi'
+	icon_state = "redfox"
+
+/obj/item/toy/plushie/corgi
+	name = "corgi plushie"
+	icon_state = "corgi"
+
+/obj/item/toy/plushie/girly_corgi
+	name = "corgi plushie"
+	icon_state = "girlycorgi"
+
+/obj/item/toy/plushie/robo_corgi
+	name = "borgi plushie"
+	icon_state = "robotcorgi"
+
+/obj/item/toy/plushie/octopus
+	name = "octopus plushie"
+	icon_state = "loveable"
+
+/obj/item/toy/plushie/face_hugger
+	name = "facehugger plushie"
+	icon_state = "huggable"
+
+//foxes are basically the best
+
+/obj/item/toy/plushie/red_fox
+	name = "red fox plushie"
+	icon_state = "redfox"
+
+/obj/item/toy/plushie/black_fox
+	name = "black fox plushie"
+	icon_state = "blackfox"
+
+/obj/item/toy/plushie/marble_fox
+	name = "marble fox plushie"
+	icon_state = "marblefox"
+
+/obj/item/toy/plushie/blue_fox
+	name = "blue fox plushie"
+	icon_state = "bluefox"
+
+/obj/item/toy/plushie/orange_fox
+	name = "orange fox plushie"
+	icon_state = "orangefox"
+
+/obj/item/toy/plushie/coffee_fox
+	name = "coffee fox plushie"
+	icon_state = "coffeefox"
+
+/obj/item/toy/plushie/pink_fox
+	name = "pink fox plushie"
+	icon_state = "pinkfox"
+
+/obj/item/toy/plushie/purple_fox
+	name = "purple fox plushie"
+	icon_state = "purplefox"
+
+/obj/item/toy/plushie/crimson_fox
+	name = "crimson fox plushie"
+	icon_state = "crimsonfox"
+
+/obj/item/toy/plushie/deer
+	name = "deer plushie"
+	icon_state = "deer"
+
+/obj/item/toy/plushie/black_cat
+	name = "black cat plushie"
+	icon_state = "blackcat"
+
+/obj/item/toy/plushie/grey_cat
+	name = "grey cat plushie"
+	icon_state = "greycat"
+
+/obj/item/toy/plushie/white_cat
+	name = "white cat plushie"
+	icon_state = "whitecat"
+
+/obj/item/toy/plushie/orange_cat
+	name = "orange cat plushie"
+	icon_state = "orangecat"
+
+/obj/item/toy/plushie/siamese_cat
+	name = "siamese cat plushie"
+	icon_state = "siamesecat"
+
+/obj/item/toy/plushie/tabby_cat
+	name = "tabby cat plushie"
+	icon_state = "tabbycat"
+
+/obj/item/toy/plushie/tuxedo_cat
+	name = "tuxedo cat plushie"
+	icon_state = "tuxedocat"
+
+obj/random/carp_plushie
+	name = "Random Carp Plushie"
+	desc = "This is a random plushie"
+	icon = 'icons/obj/toy.dmi'
+	icon_state = "carpplushie"
+
+/obj/item/toy/carpplushie/ice
+	icon_state = "icecarp"
+
+/obj/item/toy/carpplushie/silent
+	icon_state = "silentcarp"
+
+/obj/item/toy/carpplushie/electric
+	icon_state = "electriccarp"
+
+/obj/item/toy/carpplushie/gold
+	icon_state = "goldcarp"
+
+/obj/item/toy/carpplushie/toxin
+	icon_state = "toxincarp"
+
+/obj/item/toy/carpplushie/dragon
+	icon_state = "dragoncarp"
+
+/obj/item/toy/carpplushie/pink
+	icon_state = "pinkcarp"
+
+/obj/item/toy/carpplushie/candy
+	icon_state = "candycarp"
+
+/obj/item/toy/carpplushie/nebula
+	icon_state = "nebulacarp"
+
+/obj/item/toy/carpplushie/void
+	icon_state = "voidcarp"
+
+
+//Magic 8-Ball / Conch
+
+/obj/item/toy/eight_ball
+	name = "Magic 8-Ball"
+	desc = "Mystical! Magical! Ages 8+!"
+	icon = 'icons/obj/toy.dmi'
+	icon_state = "eight-ball"
+	var/use_action = "shakes the ball"
+	var/cooldown = 0
+	var/list/possible_answers = list("Definitely", "All signs point to yes.", "Most likely.", "Yes.", "Ask again later.", "Better not tell you now.", "Future Unclear.", "Maybe.", "Doubtful.", "No.", "Don't count on it.", "Never.")
+
+/obj/item/toy/eight_ball/conch
+	name = "Magic Conch Shell"
+	desc = "All hail the Magic Conch!"
+	icon_state = "conch"
+	use_action = "pulls the string"
+	possible_answers = list("Yes.", "No.", "Try asking again.", "Nothing.", "I don't think so.", "Neither.", "Maybe someday.")
+/obj/item/toy/character
+	icon = 'icons/obj/toy.dmi'
+	w_class = 2
+	pixel_z = 5
+
+/obj/item/toy/character/alien
+	name = "Xenomorph Miniature"
+	desc = "A miniature xenomorph. Scary!"
+	icon_state = "aliencharacter"
+/obj/item/toy/character/cleric
+	name = "Cleric Miniature"
+	desc = "A wee little cleric, with his wee little staff."
+	icon_state = "clericcharacter"
+/obj/item/toy/character/warrior
+	name = "Warrior Miniature"
+	desc = "That sword would make a decent toothpick."
+	icon_state = "warriorcharacter"
+/obj/item/toy/character/thief
+	name = "Thief Miniature"
+	desc = "Hey, where did my wallet go!?"
+	icon_state = "thiefcharacter"
+/obj/item/toy/character/wizard
+	name = "Wizard Miniature"
+	desc = "MAGIC!"
+	icon_state = "wizardcharacter"
+/obj/item/toy/character/cthulhu
+	name = "Cthulhu Miniature"
+	desc = "The dark lord has risen!"
+	icon_state = "darkmastercharacter"
+/obj/item/toy/character/lich
+	name = "Lich Miniature"
+	desc = "Murderboner extraordinaire."
+	icon_state = "lichcharacter"
+/obj/item/weapon/storage/box/characters
+	name = "Box of Miniatures"
+	desc = "The nerd's best friends."
+	icon_state = "box"
+/obj/item/weapon/storage/box/characters/New()
+	..()
+	new /obj/item/toy/character/alien(src)
+	new /obj/item/toy/character/cleric(src)
+	new /obj/item/toy/character/warrior(src)
+	new /obj/item/toy/character/thief(src)
+	new /obj/item/toy/character/wizard(src)
+	new /obj/item/toy/character/cthulhu(src)
+	new /obj/item/toy/character/lich(src)

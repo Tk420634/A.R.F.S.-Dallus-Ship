@@ -20,7 +20,7 @@
 /obj/item/weapon/gun/energy/laser/retro
 	name ="retro laser gun"
 	icon_state = "retro"
-	desc = "An older model of the basic lasergun, no longer used by Nanotrasen's private security or military forces. Nevertheless, it is still quite deadly and easy to maintain, making it a favorite amongst pirates and other outlaws."
+	desc = "An older model of the basic lasergun, no longer used by A.R.F.'s private security or military forces. Nevertheless, it is still quite deadly and easy to maintain, making it a favorite amongst pirates and other outlaws."
 	ammo_x_offset = 3
 
 
@@ -34,7 +34,7 @@
 	var/charge_tick = 0
 	ammo_x_offset = 3
 	pin = /obj/item/device/firing_pin/implant/loyalty
-	
+
 /obj/item/weapon/gun/energy/laser/captain/New()
 	..()
 	SSobj.processing |= src

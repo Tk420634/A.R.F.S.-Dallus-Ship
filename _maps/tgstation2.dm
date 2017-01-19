@@ -15,16 +15,16 @@ z7 = empty space
 
 #if !defined(MAP_FILE)
 
-        #include "map_files\TgStation\tgstation.C1.dmm"
-        #include "map_files\generic\z2.dmm"
-        #include "map_files\generic\z3.dmm"
-        #include "map_files\generic\z4sh.dmm"
-        #include "map_files\generic\z5new.dmm"
-        #include "map_files\generic\z6.dmm"
-        #include "map_files\generic\z7.dmm"
+        #include "map_files\_ARFS\ARFS.dmm"
+        #include "map_files\ARFS\z02.dmm"
+        #include "map_files\ARFS\z03.dmm"
+        #include "map_files\ARFS\z04.dmm"
+        #include "map_files\ARFS\z05.dmm"
+        #include "map_files\ARFS\z06.dmm"
+        #include "map_files\ARFS\z07.dmm"
 
-        #define MAP_FILE "tgstation.C1.dmm"
-        #define MAP_NAME "Box Station"
+        #define MAP_FILE "ARFS.dmm"
+        #define MAP_NAME "Dallus Ship"
 
         #define MAP_TRANSITION_CONFIG	list(MAIN_STATION = CROSSLINKED, CENTCOMM = SELFLOOPING, ABANDONED_SATELLITE = CROSSLINKED, DERELICT = CROSSLINKED, MINING = CROSSLINKED, EMPTY_AREA_1 = CROSSLINKED, EMPTY_AREA_2 = CROSSLINKED)
 

@@ -52,7 +52,7 @@ var/datum/subsystem/events/SSevent
 //decides which world.time we should select another random event at.
 /datum/subsystem/events/proc/reschedule()
 	scheduled = world.time + rand(frequency_lower, max(frequency_lower,frequency_upper))
-
+/* JONATHANHYBRID OVER WRITING THIS    ROUND END
 	if(world.time > 108000) //3:00
 		frequency_lower=1000
 		frequency_upper=1500
@@ -63,7 +63,7 @@ var/datum/subsystem/events/SSevent
 			SSshuttle.emergency.request(null, 1.5)
 			log_game("Round time limit reached. Shift Shuttle has been auto-called.")
 			message_admins("Round time limit reached. Shuttle called.")
-
+*/
 //selects a random event based on whether it can occur and it's 'weight'(probability)
 /datum/subsystem/events/proc/spawnEvent()
 	if(!config.allow_random_events)

@@ -23,7 +23,7 @@
 /obj/item/projectile/beam/heavylaser
 	name = "heavy laser"
 	icon_state = "heavylaser"
-	damage = 40
+	damage = 30
 
 /obj/item/projectile/beam/xray
 	name = "xray beam"

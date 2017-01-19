@@ -17,7 +17,7 @@
 	density = 0
 	interact_offline = 1
 	var/mode = null
-	var/obj/item/device/radio/headset/radio
+
 	//Used for logging people entering cryosleep and important items they are carrying.
 	var/list/frozen_crew = list()
 	var/list/frozen_items = list()
@@ -223,8 +223,7 @@
 
 	var/time_till_despawn = 599  // Down to 1 minute to reflect Vorestation respawn times.
 	var/time_entered = 0          // Used to keep track of the safe period.
-	var/obj/item/device/radio/intercom/announce //
-
+	var/obj/item/device/radio/headset/radio
 	var/obj/machinery/computer/cryopod/control_computer
 	var/last_no_computer_message = 0
 	var/applies_stasis = 1
@@ -240,7 +239,7 @@
 		/obj/item/weapon/pinpointer,
 		/obj/item/clothing/suit,
 		/obj/item/clothing/shoes/magboots,
-	//	/obj/item/blueprints,
+		/obj/item/areaeditor/blueprints,
 		/obj/item/clothing/head/helmet/space,
 		/obj/item/weapon/storage/internal
 	)
@@ -308,7 +307,7 @@
 	time_till_despawn = 60 //1 second, because gateway.
 
 /obj/machinery/cryopod/New()
-	announce = new /obj/item/device/radio/intercom(src)
+	radio = new /obj/item/device/radio/headset/ai(src)
 	..()
 
 /obj/machinery/cryopod/Destroy()
@@ -400,7 +399,7 @@
 	//Delete all items not on the preservation list.
 	var/list/items = contents.Copy()
 	items -= occupant // Don't delete the occupant
-	items -= announce // or the autosay radio.
+	items -= radio // or the autosay radio.
 
 	for(var/obj/item/W in items)
 
@@ -473,9 +472,10 @@
 	//Make an announcement and log the person entering storage.
 	control_computer.frozen_crew += "[occupant.real_name], [occupant.mind.assigned_role]] - [worldtime2text()]"
 	control_computer._admin_logs += "[key_name(occupant)] ([occupant.mind.assigned_role]) at [worldtime2text()]"
+	announce("[occupant.real_name] has entered cryostorage.")
 	log_admin("[key_name(occupant)] ([occupant.mind.assigned_role]) entered cryostorage.")
+	message_admins("[key_name(occupant)] ([occupant.mind.assigned_role]) entered cryostorage.")
 
-	announce.talk_into("[occupant.real_name], [occupant.mind.assigned_role], [on_store_message]", "[on_store_name]")
 	//visible_message("<span class='notice'>\The [initial(name)] hums and hisses as it moves [occupant.real_name] into storage.</span>", 3)
 	visible_message("<span class='notice'>\The [initial(name)] [on_store_visible_message_1] [occupant.real_name] [on_store_visible_message_2].</span>", 3)
 
@@ -486,6 +486,12 @@
 	qdel(occupant)
 	set_occupant(null)
 	icon_state = base_icon_state
+
+
+/obj/machinery/cryopod/proc/announce(message)
+	radio.talk_into(src, message, null, list(SPAN_ROBOT))
+
+
 
 
 /obj/machinery/cryopod/attackby(var/obj/item/weapon/G as obj, var/mob/user as mob)
@@ -556,7 +562,7 @@
 	//Eject any items that aren't meant to be in the pod.
 	var/list/items = contents
 	if(occupant) items -= occupant
-	if(announce) items -= announce
+	if(radio) items -= radio
 
 	for(var/obj/item/W in items)
 		W.forceMove(get_turf(src))
@@ -587,7 +593,6 @@
 	visible_message("[usr] [on_enter_visible_message] [src].", 3)
 
 	if(do_after(usr, 20))
-
 		if(!usr || !usr.client)
 			return
 
@@ -613,6 +618,8 @@
 
 		add_fingerprint(usr)
 
+	log_admin("[key_name_admin(usr)] has entered a stasis pod.")
+	message_admins("<span class='notice'>[key_name_admin(usr)] has entered a stasis pod.</span>")
 	return
 
 /obj/machinery/cryopod/robot/door/gateway/move_inside()

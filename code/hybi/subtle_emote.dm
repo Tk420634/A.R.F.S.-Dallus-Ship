@@ -1,4 +1,4 @@
-/mob/living/carbon/human/sme(emote as text)
+/mob/living/carbon/human/sme(emote as text, mob/user = usr)
 	var/critical = InCritical()
 
 	// so no subtle emotes while down.
@@ -11,35 +11,36 @@
 	if(stat == DEAD)
 		return
 
-	//listing the "hearers", it's a proc which detects mobs who i can see.
-	var/list/e_watching  = hearers(1, src.loc)
+	//preparing to clean the emote and make sure no html is applied
+	var/rendered_emote = emote
+	// doing what i said above
+	rendered_emote = trim(copytext(sanitize(rendered_emote), 1, MAX_MESSAGE_LEN))
 
-	//Lising another set of hearers but removing the ones who are next to me.
-	var/list/e_nearby = get_hearers_in_view(2, src.loc)
-	e_nearby -= e_watching
+	var/spans = list(SPAN_ITALICS) //ITALIC TEXT
 
-	//Putting the emote into an emote.
-	emote = "<b>[src.name]</b> quietly [emote]"
+	// For every mob in view 1 tile around the player, show the emote message for "eyes" to see.
+	// that's why "1" on the end of show_message, because it handles the rest for me.
+	for(var/mob/M in view(1,usr.loc))
+		M.show_message("<b>[attach_spans(usr, spans)]</b> [attach_spans(rendered_emote, spans)]",1)
 
-	// for every person who is right next to me, play the message
-	for(var/mob/M in e_watching)
-		M.show_message(emote, 2)
 
-/*  //This can be toggled back on later, if need be.  It allows ghosts to see subtle emotes from a distance.  With it off, it lets people ERP without worrying that every ghost will see them.
-	var/list/listening_dead = list()
-	for(var/mob/M in player_list)
-		if(M.stat == DEAD && M.client && ((M.client.prefs.chat_toggles & CHAT_GHOSTWHISPER) || (get_dist(M, src) <= 7)))
-			listening_dead |= M
-*/
+	/* future work
+	var/list/e_nearby
+	var/list/e_distant
 
-	// for everyone who is close by to me, play this message instead.
-	for(var/mob/M in e_nearby)
-		M.show_message("You can notice <b>[src.name]</b> do something, but you can't quite see what they're up to.", 3)
+	for(var/mob/M in view(1,usr.loc))
+		e_nearby += M
 
+	for(var/mob/M in view(6,usr.loc))
+		e_distant += M
+
+	for(var/list/e_distant/M in e_nearby)
+		M -= e_nearby
+
+	*/
 
 
 //this is to define the proc for anyone to access while being a mob.
-
 /mob/verb/sme(emote as text)
 	set name = "sme"
 	set category = "IC"

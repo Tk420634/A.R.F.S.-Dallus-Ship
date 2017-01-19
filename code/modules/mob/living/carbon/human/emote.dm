@@ -261,6 +261,9 @@
 			m_type = 1
 
 		if ("scream","screams")
+			if(oxyloss > 50)
+				src << "You're out of breath!"
+				return
 			if (miming)
 				message = "<B>[src]</B> acts out a scream!"
 			else
@@ -516,14 +519,29 @@
 						if("ursine")
 							playsound(src.loc, 'sound/misc/bear1.ogg', 50, 1, 5)
 
+						if("stitch")
+							playsound(src.loc, 'sound/misc/bear1.ogg', 50, 1, 5)
+
 						if("vulture")
 							playsound(src.loc, 'sound/misc/vulture1.ogg', 50, 1, 5)
 
 						if("wolf")
 							playsound(src.loc, 'sound/misc/wolf1.ogg', 50, 1, 5)
 
-						if("zig")
+						if("zigzagoon")
 							playsound(src.loc, 'sound/misc/zig1.ogg', 50, 1, 5)
+
+						if("grovyle")
+							playsound(src.loc, 'sound/misc/Grov1.ogg', 50, 1, 5)
+
+						if("glaceons")
+							playsound(src.loc, 'sound/misc/Glaceon1.ogg', 50, 1, 5)
+
+						if("glaceon")
+							playsound(src.loc, 'sound/misc/Glaceon1.ogg', 50, 1, 5)
+
+						if("flareon")
+							playsound(src.loc, 'sound/misc/Flareon1.ogg', 50, 1, 5)
 
 
 						else
@@ -553,7 +571,7 @@
 
 			message = "<B>[src]</B> screams!"
 			m_type = 2
-			src.adjustOxyLoss(15)
+			src.adjustOxyLoss(5)
 
 
 
@@ -622,6 +640,46 @@
 				endTailWag()
 			else
 				src << "<span class='notice'>Unusable emote '[act]'. Say *help for a list.</span>"
+
+		if ("fart")
+			var/obj/item/organ/internal/butt/B = getorgan(/obj/item/organ/internal/butt)
+			if(!B)
+				src << "<span class='danger'>You don't have a butt!</span>"
+				return
+			var/lose_butt = prob(6)
+			if(!message)
+				message = "<B>[src]</B> [pick(
+					"rears up and lets loose a fart of tremendous magnitude!",
+					"farts!",
+					"toots.",
+					"harvests methane from uranus at mach 3!",
+					"assists global warming!",
+					"farts and waves their hand dismissively.",
+					"farts and pretends nothing happened.",
+					"is a <b>farting</b> motherfucker!",
+					"<B><font color='red'>f</font><font color='blue'>a</font><font color='red'>r</font><font color='blue'>t</font><font color='red'>s</font></B>")]"
+				playsound(src, 'sound/effects/fart.ogg', 50, 1, 5)
+			spawn(0)
+
+				var/obj/item/weapon/storage/book/bible/Y = locate() in get_turf(src)
+				if(Y)
+					var/image/img = image(icon = 'icons/effects/224x224.dmi', icon_state = "lightning")
+					img.pixel_x = -world.icon_size*3
+					img.pixel_y = -world.icon_size
+					flick_overlay_static(img, Y, 10)
+					playsound(Y,'sound/effects/thunder.ogg', 90, 1)
+					spawn(10)
+					gib()
+
+			if(lose_butt)
+				B.loc = get_turf(src)
+				B.Remove(src)
+				new /obj/effect/decal/cleanable/blood(get_turf(src))
+				nutrition -= rand(15, 30)
+				visible_message("\red <b>[src]</b> blows their ass off!", "\red Holy butt, your butt flies off in an arc!")
+			else
+				nutrition -= rand(5, 25)
+
 
 		if ("help") //This can stay at the bottom.
 			src << "Help for human emotes. You can use these emotes with say \"*emote\":\n\naflap, airguitar, blink, blink_r, blush, bow-(none)/mob, burp, choke, chuckle, clap, collapse, cough, cry, custom, dance, dap, deathgasp, drool, eyebrow, faint, flap, frown, gasp, giggle, glare-(none)/mob, grin, groan, grumble, handshake, hug-(none)/mob, jump, laugh, look-(none)/mob, me, moan, mumble, nod, pale, point-(atom), raise, salute, scream, shake, shiver, shrug, sigh, signal-#1-10, sit, smile, sneeze, sniff, snore, stare-(none)/mob, sulk, sway, stopwag, tremble, twitch, twitch_s, wave, whimper, wink, wag, yawn"

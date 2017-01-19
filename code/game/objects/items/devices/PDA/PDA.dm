@@ -179,6 +179,12 @@ var/global/list/obj/item/device/pda/PDAs = list()
 	desc = "A portable microcomputer by Thinktronic Systems, LTD. This is model is a special edition with a transparent case."
 	note = "Congratulations, you have chosen the Thinktronic 5230 Personal Data Assistant Deluxe Special Max Turbo Limited Edition!"
 
+/obj/item/device/pda/neko
+	icon_state = "pda-neko"
+	desc = "Meow!~"
+	note = "^w^"
+
+
 /obj/item/device/pda/cook
 	icon_state = "pda-cook"
 
