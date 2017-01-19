@@ -873,10 +873,10 @@
 /mob/living/simple_animal/parrot/Ron
 	name = "Ron"
 	desc = "Ron the Parrot. An expert on quantum cracker theory."
-	speak = list(";Bitches love sticks!", ":c Ben is a hoe",":e Wire the solars, you lazy bums!",":e WHO TOOK THE DAMN HARDSUITS?","LEMME SMASH!")
+	speak = list(";Bitches love sticks!", ":e Ben is a hoe",":e Wire the solars, you lazy bums!",":e WHO TOOK THE DAMN HARDSUITS?","LEMME SMASH!")
 	gold_core_spawnable = 0
 
 /mob/living/simple_animal/parrot/Ron/New()
 	ears = new /obj/item/device/radio/headset/headset_eng(src)
-	available_channels = list(":e", ";",":c",":s")
+	available_channels = list(":e",)
 	..()
