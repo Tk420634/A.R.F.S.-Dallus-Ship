@@ -2,7 +2,7 @@
 //Eyeball migration
 /datum/round_event_control/carp_migration/meatbats
 	name = "Meatbat Migration"
-	typepath = /datum/round_event/carp_migration/eyeballs
+	typepath = /datum/round_event/carp_migration/meatbats
 	holidayID = VALENTINES
 	weight = 25
 	earliest_start = 0

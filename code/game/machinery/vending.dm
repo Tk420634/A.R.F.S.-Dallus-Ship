@@ -908,7 +908,10 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/suit/jacket/puffer = 4,
 	/obj/item/clothing/suit/jacket/puffer/vest = 4, /obj/item/clothing/suit/jacket/miljacket = 4,
 	/obj/item/clothing/suit/hooded/wintercoat = 4,/obj/item/clothing/suit/hunterscoat = 4,
-	/obj/item/clothing/suit/overcoat = 2,/obj/item/clothing/suit/cec_dress = 2)
+	/obj/item/clothing/suit/overcoat = 2,/obj/item/clothing/suit/cec_dress = 2,
+	/obj/item/clothing/under/dolan = 2, /obj/item/clothing/under/yay = 2,
+	/obj/item/clothing/under/utena = 2, /obj/item/clothing/under/kilt2 = 2,
+	/obj/item/clothing/under/bane = 2, /obj/item/clothing/under/maximusarmor =2)
 	refill_canister = /obj/item/weapon/vending_refill/autodrobe
 
 /obj/machinery/vending/dinnerware
@@ -1041,7 +1044,14 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/tie/stripedredscarf = 4, /obj/item/clothing/tie/stripedgreenscarf = 4,
 	/obj/item/clothing/tie/stripedbluescarf = 4, /obj/item/clothing/tie/mantelet = 4,
 	/obj/item/clothing/tie/mantelet/white = 4, /obj/item/clothing/tie/mantelet/cc = 4,
-	/obj/item/clothing/gloves/weddingring = 6, /obj/item/clothing/gloves/weddingring/silver = 6)
+	/obj/item/clothing/gloves/weddingring = 6, /obj/item/clothing/gloves/weddingring/silver = 6,
+	/obj/item/clothing/under/shizunewinter = 4, /obj/item/clothing/under/shizunenormal = 4,
+	/obj/item/clothing/under/keyholesweater = 4, /obj/item/clothing/under/hoodiejeans = 4,
+	/obj/item/clothing/under/hoodieskirt = 4, /obj/item/clothing/under/castiledress = 2,
+	/obj/item/clothing/under/flapperdress = 2, /obj/item/clothing/under/purplecheer = 2,
+	/obj/item/clothing/under/yellowcheer = 2, /obj/item/clothing/under/whitecheer = 2,
+	/obj/item/clothing/under/schoolgirlblack = 2, /obj/item/clothing/under/sasha = 2,
+	/obj/item/clothing/under/cuttopred = 2, /obj/item/clothing/under/croptop = 2)
 
 
 	refill_canister = /obj/item/weapon/vending_refill/clothing
@@ -1100,7 +1110,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/shoes/brownflats = 4, /obj/item/clothing/shoes/purpleflats = 4,
 	/obj/item/clothing/shoes/sandal = 4, /obj/item/clothing/shoes/jackboots = 4,
 	/obj/item/clothing/shoes/winterboots = 4, /obj/item/clothing/shoes/workboots = 4,
-	/obj/item/clothing/shoes/laceup = 4)
+	/obj/item/clothing/shoes/laceup = 4, /obj/item/clothing/shoes/kneesock = 4,
+	/obj/item/clothing/shoes/aviatorboots = 4)
 
 /obj/machinery/vending/hats
 	name = "Hat Vendor"
@@ -1122,7 +1133,10 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/head/bowler = 4, /obj/item/clothing/head/fedora = 4,
 	/obj/item/clothing/head/sombrero = 4, /obj/item/clothing/head/sombrero/green = 4,
 	/obj/item/clothing/head/hunter = 4, /obj/item/clothing/glasses/regular = 4,
-	/obj/item/clothing/glasses/regular/hipster = 4, /obj/item/clothing/glasses/sunglasses = 2)
+	/obj/item/clothing/glasses/regular/hipster = 4, /obj/item/clothing/glasses/sunglasses = 2,
+	/obj/item/clothing/head/bmhead = 4, /obj/item/clothing/head/maidhat = 4,
+	/obj/item/clothing/head/pajamahatblue = 4, /obj/item/clothing/head/pajamahatred = 4,
+	/obj/item/clothing/head/enhead = 4, /obj/item/clothing/head/polarbearpelt = 4)
 
 /*
 /obj/machinery/vending/suits
