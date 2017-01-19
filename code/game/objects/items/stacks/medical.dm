@@ -56,6 +56,8 @@
 				else if(src.heal_brute < 1)
 					user << "<span class='notice'> [src] won't help [M] at all.</span>"
 					return
+			user.visible_message("<span class='notice'>[user] starts to apply [src] on [M].</span>", "<span class='notice'>You begin applying [src] on [M].</span>")
+			if(!do_mob(user, M, self_delay))	return
 			user.visible_message("<span class='green'>[user] applies [src] on [M].</span>", "<span class='green'>You apply [src] on [M].</span>")
 		else
 			var/t_himself = "itself"

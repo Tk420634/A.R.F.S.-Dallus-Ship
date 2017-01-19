@@ -78,7 +78,16 @@
 	if(foundrecord)
 		foundrecord.fields["rank"] = assignment
 
+/datum/datacore/proc/manifest_delete(name, assignment)
+	var/datum/data/record/foundrecord = find_record("name", name, data_core.general)
+	if(foundrecord)
+		qdel(foundrecord)
+
+var/global/list/PDA_Manifest = list()
+
 /datum/datacore/proc/get_manifest(monochrome, OOC)
+	if(PDA_Manifest.len)
+		return
 	var/list/heads = list()
 	var/list/sec = list()
 	var/list/eng = list()
@@ -184,6 +193,18 @@
 	dat = replacetext(dat, "\n", "")
 	dat = replacetext(dat, "\t", "")
 	return dat
+
+	PDA_Manifest = list(\
+		"heads" = heads,\
+		"sec" = sec,\
+		"eng" = eng,\
+		"med" = med,\
+		"sci" = sci,\
+		"civ" = civ,\
+		"bot" = bot,\
+		"misc" = misc\
+		)
+	return
 
 
 var/record_id_num = 1001

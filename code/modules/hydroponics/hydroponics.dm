@@ -815,6 +815,7 @@
 			qdel(myseed)
 			myseed = null
 		weedlevel = 0 //Has a side effect of cleaning up those nasty weeds
+		planted = 0 // ??? Why wasnt this added in? - Hybi
 		update_icon()
 
 

@@ -83,6 +83,6 @@
 		user.setClickCooldown(50)
 		user.nutrition -= burn
 		user.staminaloss += pain
-		user.dir = src.dir
+		user.dir = 4
 		flick("fitnesslifter2",src)
 		return
