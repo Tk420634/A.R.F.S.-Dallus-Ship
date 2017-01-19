@@ -14,3 +14,27 @@
 	faction = list("creature")
 	speak_emote = list("screams")
 	gold_core_spawnable = 1
+
+/mob/living/simple_animal/hostile/creature/skrite
+	name = "skrite"
+	desc = "A highly predatory being with two dripping claws."
+	icon_state = "skrite"
+	icon_living = "skrite"
+	icon_dead = "skrite_dead"
+	icon_gib = "skrite_dead"
+	speak = list("SKREEEEEEEE!","SKRAAAAAAAAW!","KREEEEEEEEE!")
+	speak_emote = list("screams", "shrieks")
+	emote_hear = list("snarls")
+	emote_see = list("lets out a scream", "rubs its claws together")
+	speak_chance = 20
+	turns_per_move = 5
+	see_in_dark = 6
+	maxHealth = 150
+	health = 150
+	melee_damage_lower = 10
+	melee_damage_upper = 30
+	attack_sound = 'sound/weapons/bite.ogg'
+	attacktext = "uses its blades to stab"
+	projectilesound = 'sound/weapons/pierce.ogg'
+	ranged = 1
+	move_to_delay = 7

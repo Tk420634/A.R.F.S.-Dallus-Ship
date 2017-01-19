@@ -665,3 +665,33 @@
 	aggro_vision_range = 9
 	idle_vision_range = 5
 	faction = list("mining")
+
+/mob/living/simple_animal/hostile/asteroid/walrusman
+	name = "Walrus Man"
+	desc = "Evil Walrus Man. Beware."
+	icon_state = "walrusman"
+	icon_living = "walrusman"
+	icon_dead = "walrusman_d"
+	speak_chance = 0
+	turns_per_move = 5
+	response_help = "pets"
+	response_disarm = "gently pushes aside"
+	response_harm = "hits"
+	emote_taunt = list("waggles its flippers at")
+	taunt_chance = 30
+	speed = 0
+	maxHealth = 200
+	health = 200
+	harm_intent_damage = 5
+	melee_damage_lower = 15
+	melee_damage_upper = 15
+	attacktext = "bites"
+	attack_sound = 'sound/weapons/zoid.ogg'
+	speak_emote = list("flipper slaps")
+	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0)
+	minbodytemp = 0
+	maxbodytemp = 1500
+	speed = 2
+	aggro_vision_range = 9
+	idle_vision_range = 5
+	faction = list("mining")

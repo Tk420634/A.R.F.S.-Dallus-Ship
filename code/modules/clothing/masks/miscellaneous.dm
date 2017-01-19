@@ -192,3 +192,8 @@
 	name = "skull bandana"
 	desc = "A fine black bandana with nanotech lining and a skull emblem."
 	icon_state = "bandskull"
+/*
+/obj/item/clothing/mask/ronald
+	name = "ronald mask"
+	icon_state = "ronald"
+*/

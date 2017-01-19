@@ -508,3 +508,49 @@
 
 /obj/item/clothing/head/winterhood/miner
 	icon_state = "winterhood_miner"
+
+/obj/item/clothing/suit/draculacoat
+	name = "dracula coat"
+	icon_state = "draculacoat"
+	item_state = "draculacoat"
+
+/obj/item/clothing/suit/magiciansuit
+	name = "magician suit"
+	icon_state = "magiciansuit"
+	item_state = "magiciansuit"
+
+/obj/item/clothing/suit/goodblanket
+	name = "good blanket"
+	icon_state = "goodblanket"
+	item_state = "goodblanket"
+
+/obj/item/clothing/suit/shittyuglyawfulBADblanket
+	name = "shitty uglyawful BAD blanket"
+	icon_state = "shittyuglyawfulBADblanket"
+	item_state = "shittyuglyawfulBADblanket"
+/*
+/obj/item/clothing/suit/snowman
+	name = "snowman body"
+	icon_state = "snowman"
+	item_state = "snowman"
+
+/obj/item/clothing/suit/bonearmor
+	name = "bone armor"
+	icon_state = "bonearmor"
+	item_state = "bonearmor"
+
+/obj/item/clothing/suit/pathcloak
+	name = "path cloak"
+	icon_state = "pathcloak"
+	item_state = "pathcloak"
+
+/obj/item/clothing/suit/beeoznie
+	name = "bee onzie"
+	icon_state = "beesuit"
+	item_state = "beesuit"
+
+/obj/item/clothing/suit/ensuit
+	name = "en suit"
+	icon_state = "ensuit"
+	item_state = "ensuit"
+*/
