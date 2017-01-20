@@ -12,6 +12,8 @@
 	response_disarm = "gently pushes aside"
 	response_harm = "hits"
 	emote_taunt = list("gnashes")
+	childtype = /mob/living/simple_animal/hostile/babycarp
+	species = /mob/living/simple_animal/hostile/carp
 	taunt_chance = 30
 	speed = 0
 	maxHealth = 25
