@@ -862,7 +862,8 @@
 /mob/living/simple_animal/parrot/Poly
 	name = "Ron"
 	desc = "Ron the Parrot. An expert on quantum cracker theory."
-	speak = list("Poly wanna cracker!", ":e Check the singlo, you chucklefucks!",":e Wire the solars, you lazy bums!",":e WHO TOOK THE DAMN HARDSUITS?",":e OH GOD ITS FREE CALL THE SHUTTLE")
+//	speak = list("Poly wanna cracker!", ":e Check the singlo, you chucklefucks!",":e Wire the solars, you lazy bums!",":e WHO TOOK THE DAMN HARDSUITS?",":e OH GOD ITS FREE CALL THE SHUTTLE")
+	speak = list("Bitches love sticks!", ":e Ben is a hoe",":e Wire the solars, you lazy bums!",":e WHO TOOK THE DAMN HARDSUITS?","LEMME SMASH!")
 	gold_core_spawnable = 0
 
 /mob/living/simple_animal/parrot/Poly/New()
