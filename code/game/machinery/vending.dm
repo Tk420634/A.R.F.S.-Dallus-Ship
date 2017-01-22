@@ -881,7 +881,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/mask/cluwne = 4, /obj/item/clothing/mask/pig = 4,
 	/obj/item/clothing/mask/horsehead = 4, /obj/item/clothing/under/cluwne = 4,
 	/obj/item/clothing/under/catholic = 4, /obj/item/clothing/under/rabbi = 4,
-	/obj/item/clothing/under/muslim = 4, /obj/item/clothing/under/buddhist = 4,
+	/obj/item/clothing/under/muslim = 4, /obj/item/clothing/under/arroganza = 2,
+	/obj/item/clothing/under/buddhist = 4,
 	/obj/item/clothing/under/siropa = 4, /obj/item/clothing/under/fancyclown = 4,
 	/obj/item/clothing/under/patriotsuit = 4, /obj/item/clothing/under/sl_suit = 4,
 	/obj/item/clothing/under/roman = 4, /obj/item/clothing/under/rank/mailman = 4,
@@ -905,7 +906,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/suit/poncho/red = 4, /obj/item/clothing/suit/whitedress = 4,
 	/obj/item/clothing/suit/ianshirt = 4, /obj/item/clothing/suit/nerdshirt = 4,
 	/obj/item/clothing/suit/jacket = 4, /obj/item/clothing/suit/jacket/leather = 4,
-	/obj/item/clothing/suit/jacket/puffer = 4,
+	/obj/item/clothing/suit/jacket/puffer = 4, /obj/item/clothing/suit/scorpianjacket = 4,
 	/obj/item/clothing/suit/jacket/puffer/vest = 4, /obj/item/clothing/suit/jacket/miljacket = 4,
 	/obj/item/clothing/suit/hooded/wintercoat = 4,/obj/item/clothing/suit/hunterscoat = 4,
 	/obj/item/clothing/suit/overcoat = 2,/obj/item/clothing/suit/cec_dress = 2)
