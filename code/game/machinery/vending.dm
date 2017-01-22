@@ -1052,7 +1052,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/under/flapperdress = 2, /obj/item/clothing/under/purplecheer = 2,
 	/obj/item/clothing/under/yellowcheer = 2, /obj/item/clothing/under/whitecheer = 2,
 	/obj/item/clothing/under/schoolgirlblack = 2, /obj/item/clothing/under/sasha = 2,
-	/obj/item/clothing/under/cuttopred = 2, /obj/item/clothing/under/croptop = 2)
+	/obj/item/clothing/under/cuttopred = 2, /obj/item/clothing/under/croptop = 2,
+	/obj/item/clothing/under/bowlingoutfit = 2)
 
 
 	refill_canister = /obj/item/weapon/vending_refill/clothing
