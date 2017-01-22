@@ -45,7 +45,7 @@
 	desc = "Looking at it hurts your head."
 	icon_state = "unknown"
 	icon_living = "unknown"
-	icon_dead = "uknown_d"
+	icon_dead = "unknown_d"
 	speak_chance = 0
 	turns_per_move = 5
 	response_help = "claws at gently"

@@ -51,12 +51,12 @@
 /mob/living/simple_animal/hostile/bear/Process_Spacemove(movement_dir = 0)
 	return 1	//No drifting in space for space bears!
 
-/mob/living/simple_animal/hostile/bear/panda
+/mob/living/simple_animal/hostile/panda
 	name = "space panda"
 	desc = "You don't need to be faster than a space panda, you just need to outrun your crewmates."
 	icon_state = "panda"
 	icon_living = "panda"
-	icon_dead = "panda"
+	icon_dead = "panda_dead"
 	speak = list("RAWR!","Rawr!","GRR!","Growl!")
 	speak_emote = list("growls", "roars")
 	emote_hear = list("rawrs.","grumbles.","grawls.")
@@ -78,7 +78,7 @@
 	attack_sound = 'sound/weapons/bladeslice.ogg'
 	friendly = "bear hugs"
 
-/mob/living/simple_animal/hostile/bear/polar
+/mob/living/simple_animal/hostile/polar
 	name = "space polar bear"
 	desc = "You don't need to be faster than a space panda, you just need to outrun your crewmates."
 	icon_state = "polarbear"
