@@ -12,6 +12,8 @@
 	response_disarm = "gently pushes aside"
 	response_harm = "hits"
 	emote_taunt = list("gnashes")
+	childtype = /mob/living/simple_animal/hostile/babycarp
+	species = /mob/living/simple_animal/hostile/carp
 	taunt_chance = 30
 	speed = 0
 	maxHealth = 25
@@ -69,3 +71,45 @@
 
 	melee_damage_lower = 20
 	melee_damage_upper = 20
+
+/mob/living/simple_animal/hostile/babycarp
+	name = "baby space carp"
+	desc = "A baby version of the space carp. Aw..how cut- oh god its eating my face!"
+	icon_state = "babycarp"
+	icon_living = "babycarp"
+	icon_dead = "babycarp_dead"
+	speak_chance = 0
+	turns_per_move = 5
+	butcher_results = list(/obj/item/weapon/reagent_containers/food/snacks/carpmeat = 2)
+	response_help = "pets"
+	response_disarm = "gently pushes aside"
+	response_harm = "hits"
+	emote_taunt = list("gnashes")
+	harm_intent_damage = 3
+	melee_damage_lower = 1
+	melee_damage_upper = 2
+	taunt_chance = 30
+	speed = 0
+	maxHealth = 10
+	health = 10
+
+/mob/living/simple_animal/hostile/tacticalcarp
+	name = "tactical carp"
+	desc = "A carp with a armored sweater on."
+	icon_state = "tactical_carp"
+	icon_living = "tactical_carp"
+	icon_dead = "tactical_carp_dead"
+	speak_chance = 0
+	turns_per_move = 5
+	butcher_results = list(/obj/item/weapon/reagent_containers/food/snacks/carpmeat = 2)
+	response_help = "pets"
+	response_disarm = "gently pushes aside"
+	response_harm = "hits"
+	emote_taunt = list("gnashes")
+	harm_intent_damage = 5
+	melee_damage_lower = 15
+	melee_damage_upper = 15
+	taunt_chance = 30
+	speed = 0
+	maxHealth = 60
+	health = 60

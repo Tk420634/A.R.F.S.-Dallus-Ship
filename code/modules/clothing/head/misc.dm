@@ -408,3 +408,89 @@
 	desc = "A fashionable wide-brimmed hat. Blood sticks to it easily."
 	icon_state = "hunter"
 	item_state = "hunter"
+
+/obj/item/clothing/head/bmhead
+	name = "bat man head"
+	icon_state = "bmhead"
+	item_state = "bmhead"
+
+/obj/item/clothing/head/butt
+	name = "butt"
+	icon_state = "butt"
+	item_state = "butt"
+
+/obj/item/clothing/head/surgcap_blue
+	name = "surgcap blue"
+	icon_state = "surgcap_blue"
+	item_state = "surgcap_blue"
+
+/obj/item/clothing/head/surgcap_green
+	name = "surgcap green"
+	icon_state = "surgcap_green"
+	item_state = "surgcap_green"
+
+/obj/item/clothing/head/surgcap_purple
+	name = "surgcap green"
+	icon_state = "surgcap_purple"
+	item_state = "surgcap_purple"
+
+/obj/item/clothing/head/maidhat
+	name = "maid hat"
+	icon_state = "maidhat"
+	item_state = "maidhat"
+
+/obj/item/clothing/head/bomberman
+	name = "bomber man"
+	icon_state = "bomberman"
+	item_state = "bomberman"
+
+/obj/item/clothing/head/pajamahatblue
+	name = "pajamahat blue"
+	icon_state = "pajamahat_blue"
+	item_state = "pajamahat_blue"
+
+/obj/item/clothing/head/pajamahatred
+	name = "pajamahat red"
+	icon_state = "pajamahat_red"
+	item_state = "pajamahat_red"
+/*
+/obj/item/clothing/head/snowman
+	name = "snowman head"
+	icon_state = "snowman_h"
+	item_state = "snowman_h"
+
+/obj/item/clothing/head/dragon
+	name = "dragon head"
+	icon_state = "dragon"
+	item_state = "dragon"
+
+/obj/item/clothing/head/bigcrown
+	name = "bigcrown"
+	icon_state = "bigcrown"
+	item_state = "bigcrown"
+
+/obj/item/clothing/head/pathhead
+	name = "path head"
+	icon_state = "pathhead"
+	item_state = "pathhead"
+
+/obj/item/clothing/head/flowerpower
+	name = "flower power"
+	icon_state = "flowerpower"
+	item_state = "flowerpower"
+
+/obj/item/clothing/head/beesuit_hat
+	name = "beesuit hat"
+	icon_state = "beesuit_hat"
+	item_state = "beesuit_hat"
+*/
+
+/obj/item/clothing/head/enhead
+	name = "en head"
+	icon_state = "enhead"
+	item_state = "enhead"
+
+/obj/item/clothing/head/polarbearpelt
+	name = "polar bear pelt"
+	icon_state = "polarbearpelt"
+	item_state = "polarbearpelt"

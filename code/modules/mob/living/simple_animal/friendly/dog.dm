@@ -558,3 +558,18 @@
 		else
 			if(M && stat != DEAD) // Same check here, even though emote checks it as well (poor form to check it only in the help case)
 				emote("me", 1, "growls!")
+
+/mob/living/simple_animal/pet/dog/doby
+	response_help  = "pets"
+	response_disarm = "bops"
+	response_harm   = "kicks"
+	icon_state = "doby"
+	icon_living = "doby"
+	icon_dead = "doby_dead"
+	speak = list("YAP", "Woof!", "Bark!", "AUUUUUU")
+	speak_emote = list("barks", "woofs")
+	emote_hear = list("barks!", "woofs!", "yaps.","pants.")
+	emote_see = list("shakes its head.", "chases its tail.","shivers.")
+	see_in_dark = 5
+	speak_chance = 1
+	turns_per_move = 10
