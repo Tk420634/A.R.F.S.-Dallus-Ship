@@ -88,6 +88,7 @@
 	harm_intent_damage = 3
 	melee_damage_lower = 1
 	melee_damage_upper = 2
+	faction = list("carp")
 	taunt_chance = 30
 	speed = 0
 	maxHealth = 10
@@ -113,3 +114,4 @@
 	speed = 0
 	maxHealth = 60
 	health = 60
+	faction = list("carp")

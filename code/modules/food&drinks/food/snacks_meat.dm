@@ -11,13 +11,13 @@
 	bonus_reagents = list("nutriment" = 1, "vitamin" = 4)
 	bitesize = 3
 	filling_color = "#CD853F"
-	list_reagents = list("nutriment" = 6, "capsaicin" = 1)
+	list_reagents = list("nutriment" = 6)
 
 /obj/item/weapon/reagent_containers/food/snacks/carpmeat
 	name = "carp fillet"
 	desc = "A fillet of spess carp meat."
 	icon_state = "fishfillet"
-	list_reagents = list("nutriment" = 3, "carpotoxin" = 2, "vitamin" = 2)
+	list_reagents = list("nutriment" = 3,"vitamin" = 2)
 	bitesize = 6
 	filling_color = "#FA8072"
 
@@ -77,7 +77,7 @@
 	icon_state = "bearsteak"
 	trash = /obj/item/trash/plate
 	bonus_reagents = list("nutriment" = 2, "vitamin" = 6)
-	list_reagents = list("nutriment" = 2, "vitamin" = 5, "manlydorf" = 5)
+	list_reagents = list("nutriment" = 2, "vitamin" = 5)
 
 /obj/item/weapon/reagent_containers/food/snacks/faggot
 	name = "faggot"
@@ -212,8 +212,8 @@
 	name = "carp sashimi"
 	desc = "Celebrate surviving attack from hostile alien lifeforms by hospitalising yourself."
 	icon_state = "sashimi"
-	bonus_reagents = list("nutriment" = 1, "capsaicin" = 4, "vitamin" = 4)
-	list_reagents = list("nutriment" = 6, "capsaicin" = 5)
+	bonus_reagents = list("nutriment" = 1,"vitamin" = 4)
+	list_reagents = list("nutriment" = 6)
 	filling_color = "#FA8072"
 
 /obj/item/weapon/reagent_containers/food/snacks/taco
