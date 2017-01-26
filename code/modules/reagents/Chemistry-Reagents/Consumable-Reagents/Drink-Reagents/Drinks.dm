@@ -81,6 +81,12 @@
 	description = "Delicious juice made from watermelon."
 	color = "#863333" // rgb: 134, 51, 51
 
+/datum/reagent/consumable/applejuice
+	name = "Apple Juice"
+	id = "applejuice"
+	description = "Delicious juice made from apples."
+	color = "#6A028"
+
 /datum/reagent/consumable/lemonjuice
 	name = "Lemon Juice"
 	id = "lemonjuice"

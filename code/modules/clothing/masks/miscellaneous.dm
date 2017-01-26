@@ -192,8 +192,58 @@
 	name = "skull bandana"
 	desc = "A fine black bandana with nanotech lining and a skull emblem."
 	icon_state = "bandskull"
-/*
-/obj/item/clothing/mask/ronald
-	name = "ronald mask"
-	icon_state = "ronald"
-*/
+
+/obj/item/clothing/mask/rat
+	name = "rat mask"
+	desc = "A mask made of soft vinyl and latex, representing the head of a rat."
+	icon_state = "rat"
+	item_state = "rat"
+	flags_inv = HIDEFACE
+	flags_cover = MASKCOVERSMOUTH
+
+/obj/item/clothing/mask/rat/fox
+	name = "fox mask"
+	desc = "A mask made of soft vinyl and latex, representing the head of a fox."
+	icon_state = "fox"
+	item_state = "fox"
+
+/obj/item/clothing/mask/rat/bee
+	name = "bee mask"
+	desc = "A mask made of soft vinyl and latex, representing the head of a bee."
+	icon_state = "bee"
+	item_state = "bee"
+
+/obj/item/clothing/mask/rat/bear
+	name = "bear mask"
+	desc = "A mask made of soft vinyl and latex, representing the head of a bear."
+	icon_state = "bear"
+	item_state = "bear"
+
+/obj/item/clothing/mask/rat/bat
+	name = "bat mask"
+	desc = "A mask made of soft vinyl and latex, representing the head of a bat."
+	icon_state = "bat"
+	item_state = "bat"
+
+/obj/item/clothing/mask/rat/raven
+	name = "raven mask"
+	desc = "A mask made of soft vinyl and latex, representing the head of a raven."
+	icon_state = "raven"
+	item_state = "raven"
+
+/obj/item/clothing/mask/rat/jackal
+	name = "jackal mask"
+	desc = "A mask made of soft vinyl and latex, representing the head of a jackal."
+	icon_state = "jackal"
+	item_state = "jackal"
+
+/obj/item/clothing/mask/rat/tribal
+	name = "tribal mask"
+	desc = "A mask carved out of wood, detailed carefully by hand."
+	icon_state = "bumba"
+	item_state = "bumba"
+
+/obj/item/clothing/mask/joy
+	name = "joy mask"
+	desc = "Express your happiness or hide your sorrows with this laughing face with crying tears of joy cutout."
+	icon_state = "joy"

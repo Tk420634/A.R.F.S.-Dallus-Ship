@@ -939,7 +939,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/hopdressg
-	name = "Lts dress"
+	name = "Lieutenant dress"
 	desc = "a pretty blue dress for female Lts"
 	icon_state = "dress_hop"
 	item_color = "dress_hop"
@@ -947,7 +947,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/rddress
-	name = "RD's dress"
+	name = "Research Director dress"
 	desc = "a brownish dress for female RDs"
 	icon_state = "dress_rd"
 	item_color = "dress_rd"
@@ -1115,7 +1115,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/captaindreddress
-	name = "red captaind dress"
+	name = "red captain dress"
 	desc = ""
 	icon_state = "captain-dress-red"
 	item_color = "captain-dres-red"
@@ -1131,7 +1131,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/hopdress
-	name = "green lt dress"
+	name = "green Lieutenant dress"
 	desc = ""
 	icon_state = "lt_dress"
 	item_color = "lt_dress"
@@ -1139,7 +1139,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/fancyhop
-	name = "lt fancy"
+	name = "Lieutenant fancy"
 	desc = ""
 	icon_state = "hop-fancy"
 	item_color = "hop-fancy"
@@ -1147,7 +1147,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/redhos
-	name = "red hos"
+	name = "Head of Security outfit"
 	desc = ""
 	icon_state = "hosr"
 	item_color = "hosr"
@@ -1155,7 +1155,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/hosfancy
-	name = "hos fancy"
+	name = "Head of Security fancy"
 	desc = ""
 	icon_state = "hos-fancy"
 	item_color = "hos-fancy"
@@ -1163,7 +1163,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/cealt
-	name = "ce alt wear"
+	name = "Chief Engineer alt wear"
 	desc = ""
 	icon_state = "chief-alt"
 	item_color = "chief-alt"
@@ -1171,7 +1171,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/chiefdress
-	name = "CE dress"
+	name = "Chief Engineer dress"
 	desc = ""
 	icon_state = "chief-dress"
 	item_color = "chief-dress"
@@ -1179,7 +1179,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/chiefdressalt
-	name = "alt wear CE dress"
+	name = "alt wear Chief Engineer dress"
 	desc = ""
 	icon_state = "chief-dress-alt"
 	item_color = "chief-dress-alt"
@@ -1187,7 +1187,7 @@
 	can_adjust = 0
 
 /obj/item/clothing/under/cefancy
-	name = "CE fancy"
+	name = "Chief Engineer fancy"
 	desc = ""
 	icon_state = "chief-fancy"
 	item_color = "chief-fancy"
@@ -1466,5 +1466,47 @@
 	item_color = "hoodieskirt"
 	item_state = "hoodieskirt_s"
 	can_adjust = 0
+
+/obj/item/clothing/under/birthdaysuit
+	name = "birthday jumpsuit"
+	desc = "A jumpsuit you can wear to be nude and still wear  your PDA, and a collar. However, if security sees you 'nude' they can still arrest you for public nudiity."
+	icon_state = "birthdaysuit"
+	item_color = "birthdaysuit"
+	item_state = "birthdaysuit_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/purpleskirt
+	name = "purple skirt"
+	desc = ""
+	icon_state = "purpleskirt"
+	item_color = "purpleskirt"
+	item_state = "purpleskirt_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/geisha
+	name = "geisha"
+	desc = ""
+	icon_state = "geisha"
+	item_color = "geisha"
+	item_state = "geisha_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/ysing
+	name = "ysing"
+	desc = ""
+	icon_state = "ysing"
+	item_color = "ysing"
+	item_state = "ysing_s"
+	can_adjust = 0
+
+/obj/item/clothing/under/bsing
+	name = "bsing"
+	desc = ""
+	icon_state = "bsing"
+	item_color = "bsing"
+	item_state = "bsing_s"
+	can_adjust = 0
+
+
 
 

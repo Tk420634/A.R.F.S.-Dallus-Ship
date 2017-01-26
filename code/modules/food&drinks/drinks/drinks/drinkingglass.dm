@@ -595,6 +595,9 @@
 				icon_state = "shotglasspink"
 				name = "shot of aphrodisiac"
 				desc = "You'll be shooting after this, that's for sure."
+			if("strongcider")
+				icon_state = "strongcider"
+				name = "A glass of strong apple cider."
 			if("milk")
 				icon_state = "shotglasswhite"
 				name = "shot of milk"
