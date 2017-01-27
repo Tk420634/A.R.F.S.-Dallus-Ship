@@ -41,7 +41,7 @@
 
 /*
  * Cakehat
- */
+
 /obj/item/clothing/head/cakehat
 	name = "cake-hat"
 	desc = "It's tasty looking!"
@@ -82,6 +82,7 @@
 		src.damtype = "brute"
 		src.icon_state = "cake0"
 	return
+*/
 
 
 /*
@@ -143,6 +144,22 @@
 	if(istype(user))
 		color = "#[user.hair_color]"
 
+//Mouse Ears
+
+/obj/item/clothing/head/mouse
+	name = "mouse ears"
+	desc = "A pair of mouse ears. Squeak!"
+	icon_state = "kitty"
+	color = "#999"
+
+/obj/item/clothing/head/mouse/equipped(mob/user, slot)
+	if(user && slot == slot_head)
+		update_icon(user)
+	..()
+
+/obj/item/clothing/head/mouse/update_icon(mob/living/carbon/human/user)
+	if(istype(user))
+		color = "#[user.hair_color]"
 
 /obj/item/clothing/head/hardhat/reindeer
 	name = "novelty reindeer hat"

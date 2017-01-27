@@ -79,31 +79,43 @@
 	name = "skeleton"
 	icon_state = "skeleton"
 	item_state = "skeleton"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/predator
 	name = "predator"
 	icon_state = "predator"
 	item_state = "predator"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/tardbaby
 	name = "tard baby"
 	icon_state = "tardbaby"
 	item_state = "tardbaby"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/werewolf
 	name = "werewolf"
 	icon_state = "werewolf"
 	item_state = "werewolf"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/roach
 	name = "roach"
 	icon_state = "roach"
 	item_state = "roach"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/neckstump
 	name = "neck stump"
 	icon_state = "neck_stump"
 	item_state = "neck_stump"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/blackmage
 	name = "black mage"
@@ -453,37 +465,30 @@
 	name = "pajamahat red"
 	icon_state = "pajamahat_red"
 	item_state = "pajamahat_red"
-/*
+
 /obj/item/clothing/head/snowman
-	name = "snowman head"
-	icon_state = "snowman_h"
-	item_state = "snowman_h"
+	name = "Snowman Head"
+	desc = "A ball of white styrofoam. So festive."
+	icon_state = "snowman"
+	item_state = "snowman"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/dragon
 	name = "dragon head"
 	icon_state = "dragon"
 	item_state = "dragon"
 
-/obj/item/clothing/head/bigcrown
-	name = "bigcrown"
-	icon_state = "bigcrown"
-	item_state = "bigcrown"
+/obj/item/clothing/head/bigfancycrown
+	name = "fancycrown"
+	icon_state = "bigfancycrown"
+	desc = "A crown worn by only the highest emperors of the land."
+	item_state = "bigfancycrown"
 
-/obj/item/clothing/head/pathhead
-	name = "path head"
-	icon_state = "pathhead"
-	item_state = "pathhead"
-
-/obj/item/clothing/head/flowerpower
-	name = "flower power"
-	icon_state = "flowerpower"
-	item_state = "flowerpower"
-
-/obj/item/clothing/head/beesuit_hat
+/obj/item/clothing/head/beesuithat
 	name = "beesuit hat"
-	icon_state = "beesuit_hat"
-	item_state = "beesuit_hat"
-*/
+	icon_state = "bee"
+	item_state = "bee"
 
 /obj/item/clothing/head/enhead
 	name = "en head"
@@ -494,3 +499,28 @@
 	name = "polar bear pelt"
 	icon_state = "polarbearpelt"
 	item_state = "polarbearpelt"
+
+/obj/item/clothing/head/witchhunterhat
+	name = "Witch Hunter Hat"
+	icon_state = "witchhunterhat"
+	item_state = "witchhunterhat"
+
+/obj/item/clothing/head/huntinghat
+	name = "hunting hat"
+	icon_state = "huntinghat"
+	item_state = "huntinghat"
+
+/obj/item/clothing/head/tvhead
+	name = "tv head"
+	icon_state = "tvhead"
+	item_state = "tvhead"
+	flags = BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
+
+//The new cake hat. Sorry powergaming scum.
+
+/obj/item/clothing/head/cakehat
+	name = "cake-hat"
+	desc = "It's tasty looking!"
+	icon_state = "cake1"
+	flags_cover = HEADCOVERSEYES

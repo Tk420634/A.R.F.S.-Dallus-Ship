@@ -409,6 +409,7 @@
 		reagents.maximum_volume = 20
 		reagents.add_reagent("nutriment", 1 + round((potency / 10), 1))
 		reagents.add_reagent("vitamin", 1 + round((potency / 25), 1))
+		reagents.add_reagent("applejuice",1 = round((potency/25), 1))
 		bitesize = reagents.maximum_volume // Always eat the apple in one
 
 
