@@ -320,7 +320,7 @@ var/global/list/rockTurfEdgeCache
 
 /turf/simulated/floor/plating/asteroid/airless/cave
 	var/length = 100
-	var/mob_spawn_list = list("Goldgrub" = 1, "Goliath" = 5, "Basilisk" = 4, "Hivelord" = 3)
+	var/mob_spawn_list = list("Goldgrub" = 1, "Goliath" = 5, "Basilisk" = 4, "Hivelord" = 3, "Walrus Man" = 3, "Crab Monster" = 3)
 	var/sanity = 1
 
 /turf/simulated/floor/plating/asteroid/airless/cave/New(loc, var/length, var/go_backwards = 1, var/exclude_dir = -1)
@@ -412,6 +412,10 @@ var/global/list/rockTurfEdgeCache
 				new /mob/living/simple_animal/hostile/asteroid/basilisk(T)
 			if("Hivelord")
 				new /mob/living/simple_animal/hostile/asteroid/hivelord(T)
+			if("Walrus Man")
+				new /mob/living/simple_animal/hostile/asteroid/walrusman(T)
+			if("Crab Monster")
+				new /mob/living/simple_animal/hostile/asteroid/crabmonster(T)
 	return
 
 /turf/simulated/mineral/attackby(obj/item/weapon/pickaxe/P, mob/user, params)

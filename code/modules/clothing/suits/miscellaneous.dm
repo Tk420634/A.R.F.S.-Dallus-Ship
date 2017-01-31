@@ -541,8 +541,8 @@
 
 /obj/item/clothing/suit/bee
 	name = "bee suit"
-	icon_state = "bee"
-	item_state = "bee"
+	icon_state = "bee1"
+	item_state = "bee1"
 
 /obj/item/clothing/suit/witchhunter
 	name = "witch hunter"
