@@ -434,7 +434,7 @@ obj/item/weapon/fleshlight
 
 /obj/item/weapon/killbowstaff
 	name = "staff of arroganaza"
-	desc = "A red glare is in its eyes, it seems to be a staff made in the shape of a cobra It almost looks living."
+	desc = "A red glare is in its eyes, it seems to be a staff made in the shape of a cobra and it looks alive."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "killbow_staff"
 	attack_verb = list("mesmerizes")
