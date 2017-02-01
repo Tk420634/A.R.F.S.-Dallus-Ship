@@ -255,7 +255,7 @@
 "eU" = (/obj/effect/particle_effect/steam,/obj/machinery/shower{icon_state = "shower"; dir = 8},/turf/simulated/floor/plasteel/freezer,/area/centcom/holding)
 "eV" = (/obj/effect/particle_effect/steam,/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/floor/plasteel/freezer,/area/centcom/holding)
 "eW" = (/obj/effect/particle_effect/steam,/obj/machinery/shower{tag = "icon-shower (NORTH)"; icon_state = "shower"; dir = 1},/turf/simulated/floor/plasteel/freezer,/area/centcom/holding)
-"eX" = (/turf/simulated/wall/shuttle{icon_state = "swall_s6"; dir = 2},/area/centcom/evac)
+"eX" = (/turf/simulated/wall/shuttle{color = "#4E4541"; dir = 2; icon_state = "swall_s6"},/area/centcom/evac)
 "eY" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion_r"; dir = 1},/turf/simulated/floor/plating/airless,/area/centcom/evac)
 "eZ" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 1},/turf/simulated/floor/plating/airless,/area/centcom/evac)
 "fa" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion_l"; dir = 1},/turf/simulated/floor/plating/airless,/area/centcom/evac)

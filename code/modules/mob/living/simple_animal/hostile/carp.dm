@@ -12,8 +12,6 @@
 	response_disarm = "gently pushes aside"
 	response_harm = "hits"
 	emote_taunt = list("gnashes")
-	childtype = /mob/living/simple_animal/hostile/babycarp
-	species = /mob/living/simple_animal/hostile/carp
 	taunt_chance = 30
 	speed = 0
 	maxHealth = 25
@@ -72,7 +70,7 @@
 	melee_damage_lower = 20
 	melee_damage_upper = 20
 
-/mob/living/simple_animal/hostile/babycarp
+/mob/living/simple_animal/hostile/carp/baby
 	name = "baby space carp"
 	desc = "A baby version of the space carp. Aw..how cut- oh god its eating my face!"
 	icon_state = "babycarp"

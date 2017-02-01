@@ -149,7 +149,7 @@
 /obj/item/clothing/head/mouse
 	name = "mouse ears"
 	desc = "A pair of mouse ears. Squeak!"
-	icon_state = "kitty"
+	icon_state = "mousey"
 	color = "#999"
 
 /obj/item/clothing/head/mouse/equipped(mob/user, slot)

@@ -431,3 +431,10 @@ obj/item/weapon/fleshlight
 	icon_state = "floppydick"
 	item_state = "floppydick"
 	attack_verb = list("fucked", "probed", "violated", "teased", "prodded")
+
+/obj/item/weapon/killbowstaff
+	name = "staff of arroganaza"
+	desc = "A red glare is in its eyes, it seems to be a staff made in the shape of a cobra and it looks alive."
+	icon = 'icons/obj/weapons.dmi'
+	icon_state = "killbow_staff"
+	attack_verb = list("mesmerizes")
