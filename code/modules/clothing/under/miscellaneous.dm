@@ -1507,15 +1507,5 @@
 	item_state = "bsing_s"
 	can_adjust = 0
 
-/obj/item/clothing/under/arroganza
-	name = "arroganza"
-	desc = ""
-	icon_state = "arroganza"
-	item_color = "arroganza"
-	item_state = "arroganza_s"
-	can_adjust = 0
-
-
-
 
 
