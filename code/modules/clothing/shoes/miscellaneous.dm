@@ -155,7 +155,7 @@
 	item_color = "clown"
 	var/footstep = 1	//used for squeeks whilst walking
 
-/obj/item/clothing/shoes/clown_shoes/step_action()
+/obj/item/clothing/shoes/cluwne/step_action()
 	if(footstep > 1)
 		playsound(src, "clownstep", 50, 1)
 		footstep = 0
@@ -166,7 +166,7 @@
 
 /obj/item/clothing/shoes/jackboots
 	name = "jackboots"
-	desc = "Nanotrasen-issue Security combat boots for combat scenarios or combat situations. All combat, all the time."
+	desc = "A.R.F.-issue Security combat boots for combat scenarios or combat situations. All combat, all the time."
 	icon_state = "jackboots"
 	item_state = "jackboots"
 	item_color = "hosred"
