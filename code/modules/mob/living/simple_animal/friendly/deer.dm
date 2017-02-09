@@ -1,6 +1,6 @@
 /mob/living/simple_animal/deer
 	name = "deer"
-	desc = "A strong, brave deer."
+	desc = "Do, a deer. A female deer.."
 	icon_state = "deer"
 	icon_living = "deer"
 	icon_dead = "deer_dead"
