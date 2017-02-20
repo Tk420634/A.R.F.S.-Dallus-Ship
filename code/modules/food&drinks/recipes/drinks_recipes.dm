@@ -8,6 +8,13 @@
 	required_reagents = list("vodka" = 10, "gold" = 1)
 	result_amount = 10
 
+/datum/chemical_reaction/strongcider
+	name = "strong apple cider"
+	id = "strongcider"
+	result = "strongcider"
+	required_reagents = list("applejuice" = 10, "water" = 10, "sugar" = 10)
+	result_amount = 30
+
 /datum/chemical_reaction/patron
 	name = "Patron"
 	id = "patron"

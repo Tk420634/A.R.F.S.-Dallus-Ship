@@ -18,7 +18,7 @@ var/list/announcement_systems = list()
 	idle_power_usage = 20
 	active_power_usage = 50
 
-	var/arrival = "%PERSON has signed up as %RANK"
+	var/arrival = "%PERSON, %RANK has arrived from cryogenic storage."
 	var/arrivalToggle = 1
 	var/newhead = "%PERSON, %RANK, is the department head."
 	var/newheadToggle = 1

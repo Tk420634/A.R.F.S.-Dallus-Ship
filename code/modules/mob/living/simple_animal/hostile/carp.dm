@@ -70,7 +70,7 @@
 	melee_damage_lower = 20
 	melee_damage_upper = 20
 
-/mob/living/simple_animal/hostile/babycarp
+/mob/living/simple_animal/hostile/carp/baby
 	name = "baby space carp"
 	desc = "A baby version of the space carp. Aw..how cut- oh god its eating my face!"
 	icon_state = "babycarp"
@@ -86,6 +86,7 @@
 	harm_intent_damage = 3
 	melee_damage_lower = 1
 	melee_damage_upper = 2
+	faction = list("carp")
 	taunt_chance = 30
 	speed = 0
 	maxHealth = 10
@@ -111,3 +112,4 @@
 	speed = 0
 	maxHealth = 60
 	health = 60
+	faction = list("carp")

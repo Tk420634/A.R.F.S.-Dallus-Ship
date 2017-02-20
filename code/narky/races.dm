@@ -220,7 +220,6 @@ datum
 			generic="burny"
 			adjective="burny"
 			attack_verb = "tackle"
-			restricted = "Alex123890"
 			tail=1
 		fennec
 			name="fennec"
@@ -229,16 +228,6 @@ datum
 			generic="vulpine"
 			adjective="foxy"
 			tail=1
-		flareon
-			name="flareon"
-			say_mod = "roars"
-			id="flareon"
-			generic="burny"
-			adjective="burny"
-			attack_verb = "tackle"
-			restricted = "Alex123890"
-			tail=1
-
 		fox
 			name="fox"
 			id="fox"
@@ -263,7 +252,6 @@ datum
 			adjective="glowing"
 			attack_verb = "tackles"
 			say_mod = "chimes"
-			restricted = "Alex123890"
 			tail=1
 		grovyle
 			name="grovyle"

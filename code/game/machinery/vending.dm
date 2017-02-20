@@ -874,14 +874,10 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/head/griffin  = 4, /obj/item/clothing/head/bearpelt = 4,
 	/obj/item/clothing/head/xenos = 4, /obj/item/clothing/head/xenom_q = 4, /obj/item/clothing/head/cone  = 4,
 	/obj/item/clothing/head/santa = 4, /obj/item/clothing/head/jester  = 4,
-	/obj/item/clothing/head/rice_hat = 4, /obj/item/clothing/mask/fakemoustache = 4,
-	/obj/item/clothing/mask/tikieyebrow = 4, /obj/item/clothing/mask/tikihappy = 4,
-	/obj/item/clothing/mask/tikiconfused = 4, /obj/item/clothing/mask/tikiangry = 4,
-	/obj/item/clothing/mask/rainbowmask = 4, /obj/item/clothing/mask/scarecrowmask = 4,
-	/obj/item/clothing/mask/cluwne = 4, /obj/item/clothing/mask/pig = 4,
-	/obj/item/clothing/mask/horsehead = 4, /obj/item/clothing/under/cluwne = 4,
+	/obj/item/clothing/head/rice_hat = 4,  /obj/item/clothing/under/cluwne = 4,
 	/obj/item/clothing/under/catholic = 4, /obj/item/clothing/under/rabbi = 4,
-	/obj/item/clothing/under/muslim = 4, /obj/item/clothing/under/buddhist = 4,
+	/obj/item/clothing/under/muslim = 4, /obj/item/clothing/under/arroganza = 2,
+	/obj/item/clothing/under/buddhist = 4,
 	/obj/item/clothing/under/siropa = 4, /obj/item/clothing/under/fancyclown = 4,
 	/obj/item/clothing/under/patriotsuit = 4, /obj/item/clothing/under/sl_suit = 4,
 	/obj/item/clothing/under/roman = 4, /obj/item/clothing/under/rank/mailman = 4,
@@ -905,13 +901,17 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/suit/poncho/red = 4, /obj/item/clothing/suit/whitedress = 4,
 	/obj/item/clothing/suit/ianshirt = 4, /obj/item/clothing/suit/nerdshirt = 4,
 	/obj/item/clothing/suit/jacket = 4, /obj/item/clothing/suit/jacket/leather = 4,
-	/obj/item/clothing/suit/jacket/puffer = 4,
+	/obj/item/clothing/suit/jacket/puffer = 4, /obj/item/clothing/suit/scorpianjacket = 4,
 	/obj/item/clothing/suit/jacket/puffer/vest = 4, /obj/item/clothing/suit/jacket/miljacket = 4,
 	/obj/item/clothing/suit/hooded/wintercoat = 4,/obj/item/clothing/suit/hunterscoat = 4,
 	/obj/item/clothing/suit/overcoat = 2,/obj/item/clothing/suit/cec_dress = 2,
 	/obj/item/clothing/under/dolan = 2, /obj/item/clothing/under/yay = 2,
 	/obj/item/clothing/under/utena = 2, /obj/item/clothing/under/kilt2 = 2,
-	/obj/item/clothing/under/bane = 2, /obj/item/clothing/under/maximusarmor =2)
+	/obj/item/clothing/under/bane = 2, /obj/item/clothing/under/maximusarmor =2,
+	/obj/item/clothing/suit/draculacoat = 2, /obj/item/clothing/suit/magiciansuit = 2,
+	/obj/item/clothing/suit/goodblanket = 2, /obj/item/clothing/suit/shittyuglyawfulBADblanket = 2,
+	/obj/item/clothing/suit/snowman = 2, /obj/item/clothing/suit/bonearmor = 2,
+	/obj/item/clothing/suit/bee = 2, /obj/item/clothing/suit/witchhunter = 2)
 	refill_canister = /obj/item/weapon/vending_refill/autodrobe
 
 /obj/machinery/vending/dinnerware
@@ -1051,7 +1051,10 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/under/flapperdress = 2, /obj/item/clothing/under/purplecheer = 2,
 	/obj/item/clothing/under/yellowcheer = 2, /obj/item/clothing/under/whitecheer = 2,
 	/obj/item/clothing/under/schoolgirlblack = 2, /obj/item/clothing/under/sasha = 2,
-	/obj/item/clothing/under/cuttopred = 2, /obj/item/clothing/under/croptop = 2)
+	/obj/item/clothing/under/cuttopred = 2, /obj/item/clothing/under/croptop = 2,
+	/obj/item/clothing/under/bowlingoutfit = 2, /obj/item/clothing/under/purpleskirt = 2,
+	/obj/item/clothing/under/geisha = 2, /obj/item/clothing/under/ysing = 2,
+	/obj/item/clothing/under/bsing = 2, /obj/item/clothing/under/arroganza = 2)
 
 
 	refill_canister = /obj/item/weapon/vending_refill/clothing
@@ -1069,7 +1072,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/mask/muzzle=2,/obj/item/weapon/dildo=10,/obj/item/weapon/dildos/canine=4,
 	/obj/item/weapon/dildos/purpledong=4,/obj/item/weapon/dildos/bigblackdick=4,
 	/obj/item/weapon/dildos/floppydick=4,/obj/item/weapon/bulletvibe=4,
-	/obj/item/weapon/fleshlight=2)
+	/obj/item/weapon/fleshlight=2, /obj/item/clothing/under/birthdaysuit = 4)
 	contraband = list()
 	premium = list(/obj/item/clothing/under/latexmaid=3,/obj/item/weapon/dildo/psych=2,/obj/item/weapon/restraints/handcuffs/kink=2,
 	/obj/item/clothing/head/wizard/fake=1,/obj/item/clothing/suit/wizrobe/fake=1)
@@ -1136,7 +1139,39 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/glasses/regular/hipster = 4, /obj/item/clothing/glasses/sunglasses = 2,
 	/obj/item/clothing/head/bmhead = 4, /obj/item/clothing/head/maidhat = 4,
 	/obj/item/clothing/head/pajamahatblue = 4, /obj/item/clothing/head/pajamahatred = 4,
-	/obj/item/clothing/head/enhead = 4, /obj/item/clothing/head/polarbearpelt = 4)
+	/obj/item/clothing/head/enhead = 4, /obj/item/clothing/head/polarbearpelt = 4,
+	/obj/item/clothing/head/witchhunterhat = 4, /obj/item/clothing/head/tvhead = 4,
+	/obj/item/clothing/head/beanie  = 4, /obj/item/clothing/head/beanie/striped = 4,
+	/obj/item/clothing/head/beanie/stripedred = 4, /obj/item/clothing/head/beanie/stripedblue = 4,
+	/obj/item/clothing/head/beanie/stripedgreen = 4, /obj/item/clothing/head/mouse = 4,
+	/obj/item/clothing/head/cakehat = 4, /obj/item/clothing/head/kitty = 4,
+	/obj/item/clothing/head/huntinghat = 4, /obj/item/clothing/head/beesuithat = 4,
+	/obj/item/clothing/head/bigfancycrown = 4, /obj/item/clothing/head/dragon = 4,
+	/obj/item/clothing/head/snowman = 4)
+
+/obj/machinery/vending/masks
+	name = "Mask Vendor"
+	desc = "A place for all your face needs!"
+	product_ads = "Cover your face in style!"
+	icon_state = "masks"
+	vend_reply = "Stay frosty!"
+	products = list(/obj/item/clothing/mask/gas/plaguedoctor = 4, /obj/item/clothing/mask/gas/clown_hat = 4,
+	/obj/item/clothing/mask/gas/sexyclown = 4, /obj/item/clothing/mask/gas/mime = 4,
+	/obj/item/clothing/mask/gas/sexymime = 4, /obj/item/clothing/mask/gas/monkeymask = 4,
+	/obj/item/clothing/mask/gas/owl_mask = 4, /obj/item/clothing/mask/gas/carp = 4,
+	/obj/item/clothing/mask/joy = 2, /obj/item/clothing/mask/rat/tribal = 2,
+	/obj/item/clothing/mask/rat/jackal = 2, /obj/item/clothing/mask/rat/raven = 2,
+	/obj/item/clothing/mask/rat/bat = 2, /obj/item/clothing/mask/rat/bear = 2,
+	/obj/item/clothing/mask/rat/bee = 2, /obj/item/clothing/mask/rat/fox = 2,
+	/obj/item/clothing/mask/rat = 2, /obj/item/clothing/mask/fakemoustache = 4,
+	/obj/item/clothing/mask/tikieyebrow = 4, /obj/item/clothing/mask/tikihappy = 4,
+	/obj/item/clothing/mask/tikiconfused = 4, /obj/item/clothing/mask/tikiangry = 4,
+	/obj/item/clothing/mask/rainbowmask = 4, /obj/item/clothing/mask/scarecrowmask = 4,
+	/obj/item/clothing/mask/cluwne = 4, /obj/item/clothing/mask/pig = 4,
+	/obj/item/clothing/mask/horsehead = 4, /obj/item/clothing/mask/bandana/red = 4,
+	/obj/item/clothing/mask/bandana/blue = 4, /obj/item/clothing/mask/bandana/green = 4,
+	/obj/item/clothing/mask/bandana/gold = 4, /obj/item/clothing/mask/bandana/black = 4,
+	/obj/item/clothing/mask/bandana/skull = 4)
 
 /*
 /obj/machinery/vending/suits

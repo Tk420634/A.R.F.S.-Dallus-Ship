@@ -39,7 +39,7 @@
 
 /mob/living/simple_animal/hostile/megafauna/colossus/OpenFire()
 	anger_modifier = Clamp(((maxHealth - health)/50),0,20)
-	ranged_cooldown = world.time + 30
+	ranged_cooldown = world.time + 10
 
 	if(prob(20+anger_modifier)) //Major attack
 		telegraph()

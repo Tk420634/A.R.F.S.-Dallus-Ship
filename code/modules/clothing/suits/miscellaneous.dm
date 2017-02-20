@@ -528,9 +528,9 @@
 	name = "shitty uglyawful BAD blanket"
 	icon_state = "shittyuglyawfulBADblanket"
 	item_state = "shittyuglyawfulBADblanket"
-/*
+
 /obj/item/clothing/suit/snowman
-	name = "snowman body"
+	name = "snowman suit"
 	icon_state = "snowman"
 	item_state = "snowman"
 
@@ -539,18 +539,12 @@
 	icon_state = "bonearmor"
 	item_state = "bonearmor"
 
-/obj/item/clothing/suit/pathcloak
-	name = "path cloak"
-	icon_state = "pathcloak"
-	item_state = "pathcloak"
+/obj/item/clothing/suit/bee
+	name = "bee suit"
+	icon_state = "bee1"
+	item_state = "bee1"
 
-/obj/item/clothing/suit/beeoznie
-	name = "bee onzie"
-	icon_state = "beesuit"
-	item_state = "beesuit"
-
-/obj/item/clothing/suit/ensuit
-	name = "en suit"
-	icon_state = "ensuit"
-	item_state = "ensuit"
-*/
+/obj/item/clothing/suit/witchhunter
+	name = "witch hunter"
+	icon_state = "witchhunter"
+	item_state = "witchhunter"

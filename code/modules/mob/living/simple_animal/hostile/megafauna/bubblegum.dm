@@ -39,12 +39,12 @@
 	gpstag = "Bloody Signal"
 	desc = "You're not quite sure how a signal can be bloody."
 	invisibility = 100
-
+/*
 /mob/living/simple_animal/hostile/megafauna/bubblegum/AttackingTarget()
 	..()
 	if(isliving(target))
 
-/*
+
 /mob/living/simple_animal/hostile/megafauna/bubblegum/Life()
 	..()
 	move_to_delay = Clamp(round((health/maxHealth) * 10), 5, 10)
@@ -107,7 +107,7 @@
 	sleep(5)
 	throw_at(T, 7, 1, src, 0)
 	charging = 0
-*/
+
 
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/Bump(atom/A)
@@ -145,7 +145,7 @@
 			visible_message("<span class='danger'>And springs back out!</span>")
 			break
 
-/*
+
 /mob/living/simple_animal/hostile/megafauna/bubblegum/proc/blood_spray()
 	visible_message("<span class='danger'>[src] sprays a stream of gore!</span>")
 	spawn(0)
@@ -157,7 +157,7 @@
 			new /obj/effect/decal/cleanable/blood
 			range--
 			sleep(1)
-*/
+
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/proc/slaughterlings()
 	visible_message("<span class='danger'>[src] summons a shoal of slaughterlings!</span>")
@@ -169,4 +169,4 @@
 	name = "slaughterling"
 	desc = "Though not yet strong enough to create a true physical form, it's nonetheless determined to murder you."
 	faction = list("mining")
-
+*/
