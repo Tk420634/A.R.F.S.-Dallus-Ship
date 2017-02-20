@@ -2,7 +2,6 @@
 
 #Ignore everything in datafolder and subdirectories
 /data/**/*
-/config/Init/**/*
 
 #Ignore compiled files and other files generated during compilation.
 *.dmb
