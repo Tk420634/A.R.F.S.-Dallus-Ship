@@ -1394,7 +1394,7 @@
 "aAP" = (/obj/machinery/door/airlock/glass_security{name = "Holding Area"; req_access_txt = "2"},/turf/simulated/floor/plasteel{tag = "icon-vault (SOUTHEAST)"; icon_state = "vault"; dir = 6},/area/hallway/primary/central)
 "aAQ" = (/obj/structure/grille,/obj/structure/sign/securearea{desc = "A warning sign which reads 'KEEP CLEAR OF DOCKING AREA'."; name = "KEEP CLEAR: DOCKING AREA"; pixel_y = 0},/obj/structure/window/reinforced/fulltile,/turf/simulated/floor/plating,/area/hallway/secondary/exit)
 "aAR" = (/turf/simulated/wall/shuttle{color = "#4E4541"; dir = 2; icon_state = "swall7"},/area/shuttle/escape)
-"aAS" = (/obj/machinery/door/airlock/glass_security,/turf/simulated/floor/plasteel/blue,/area/shuttle/escape)
+"aAS" = (/obj/machinery/door/airlock/glass_security{req_one_access_txt = "63"},/turf/simulated/floor/plasteel/blue,/area/shuttle/escape)
 "aAT" = (/obj/machinery/vending/hats,/turf/simulated/floor/plasteel/shuttle,/area/shuttle/arrival)
 "aAU" = (/obj/machinery/vending/shoes,/turf/simulated/floor/plasteel/shuttle,/area/shuttle/arrival)
 "aAV" = (/obj/machinery/vending/clothing,/turf/simulated/floor/plasteel/shuttle,/area/shuttle/arrival)
