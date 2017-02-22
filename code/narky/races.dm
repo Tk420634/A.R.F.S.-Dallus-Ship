@@ -6,16 +6,19 @@ datum
 		var/restricted=0 //Set to 1 to not allow anyone to choose it, 2 to hide it from the DNA scanner, and text to restrict it to one person
 		var/tail=0
 		var/taur=0
+		var/baseicon = 'icons/mob/races/human.dmi'
 		human
 			generic="human"
 			adjective="ordinary"
 			taur="horse"
+			baseicon = 'icons/mob/races/human.dmi'
 		abductor
 			//name="abductor"
 			id="abductor"
 			generic="abductor"
 			adjective="spooky"
 			restricted=2
+			baseicon = 'icons/mob/races/abductor.dmi'
 		absol
 			name="absol"
 			say_mod = "growls"
@@ -26,6 +29,7 @@ datum
 			attack_sound = 'sound/effects/bang.ogg'
 			restricted = "Chokin and Tokin"
 			tail=1
+			baseicon = 'icons/mob/races/absol.dmi'
 		ailurus
 			name="red panda"
 			id="ailurus"
@@ -33,6 +37,7 @@ datum
 			generic="ailurus"
 			adjective="cuddly"
 			tail=1
+			baseicon = 'icons/mob/races/ailurus.dmi'
 		alien
 			name="alien"
 			id="alien"
@@ -40,6 +45,7 @@ datum
 			generic="xeno"
 			adjective="phallic"
 			tail=1
+			baseicon = 'icons/mob/races/alien.dmi'
 		/* armadillo
 			name="armadillo"
 			id="armadillo"
@@ -58,6 +64,7 @@ datum
 			generic="jackal" // mmm...jackal or canine? i'll leave it for now
 			adjective="cold"
 			attack_verb = "claw"
+			baseicon = 'icons/mob/races/anubis.dmi'
 		bat
 			name="bat"
 			id="bat"
@@ -65,6 +72,7 @@ datum
 			adjective="squeaky"
 			tail=1
 			say_mod = "sonars"
+			baseicon = 'icons/mob/races/bat.dmi'
 		bee
 			name="bee"
 			id="bee"
@@ -72,6 +80,7 @@ datum
 			generic="insect"
 			adjective="stingy"
 			eyes="motheyes"
+			baseicon = 'icons/mob/races/bee.dmi'
 		beaver
 			name="beaver"
 			id="beaver"
@@ -81,7 +90,8 @@ datum
 			tail=1
 			attack_verb = "tailslap"
 			attack_sound = 'sound/items/dodgeball.ogg'
-/*
+			baseicon = 'icons/mob/races/beaver.dmi'
+
 		beholder
 			name="beholder"
 			id="beholder"
@@ -91,6 +101,7 @@ datum
 			tail=0
 			attack_verb = "visually assault"
 			attack_sound = 'sound/magic/MM_Hit.ogg' // MAGIC MISSILE! MAGIC MISSILE!
+			baseicon = 'icons/mob/races/beholder.dmi'
 		boar
 			name="boar"
 			id="boar"
@@ -98,13 +109,14 @@ datum
 			generic="pig"
 			adjective="wild and curly"
 			tail=1
-*/
+			baseicon = 'icons/mob/races/boar.dmi'
 		capra
 			name="caprine"
 			id="capra"
 			generic="goat"
 			adjective="irritable"
 			say_mod = "bleats"
+			baseicon = 'icons/mob/races/capra.dmi'
 		carp
 			name="carp"
 			id="carp"
@@ -115,7 +127,8 @@ datum
 			eyes = "carpeyes"
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
-/*
+			baseicon = 'icons/mob/races/carp.dmi'
+
 		chicken
 			name="chicken"
 			id="chicken"
@@ -124,7 +137,7 @@ datum
 			adjective="coward"
 			tail=1
 			attack_verb = "whack"
-*/
+			baseicon = 'icons/mob/races/chicken.dmi'
 		corgi
 			name="corgi"
 			id="corgi"
@@ -132,6 +145,7 @@ datum
 			generic="canine"
 			adjective="corgalicious"
 			tail=1
+			baseicon = 'icons/mob/races/corgi.dmi'
 		corvid
 			name="corvid"
 			id="corvid"
@@ -140,6 +154,7 @@ datum
 			adjective="mask-piercing"
 			tail=1
 			attack_verb = "whack"
+			baseicon = 'icons/mob/races/corvid.dmi'
 		cow
 			name="cow"
 			id="cow"
@@ -148,6 +163,7 @@ datum
 			adjective="wise"
 			tail=1
 			taur=1
+			baseicon = 'icons/mob/races/cow.dmi'
 		coyote
 			name="coyote"
 			id="coyote"
@@ -155,6 +171,7 @@ datum
 			generic="canine"
 			adjective="mangy"
 			tail=1
+			baseicon = 'icons/mob/races/coyote.dmi'
 		crocodile
 			name="crocodile"
 			say_mod = "growls"
@@ -162,6 +179,7 @@ datum
 			generic="water reptile"
 			adjective="scaled"
 			tail=1
+			baseicon = 'icons/mob/races/crocodile.dmi'
 		dalmatian
 			name="dalmatian"
 			id="dalmatian"
@@ -169,6 +187,7 @@ datum
 			generic="canine"
 			adjective="spotty"
 			tail=1
+			baseicon = 'icons/mob/races/dalmatian.dmi'
 		datashark
 			name="datashark"
 			id="datashark"
@@ -178,6 +197,7 @@ datum
 			attack_sound = 'sound/weapons/bite.ogg'
 			restricted = "Ruby Flamewing"
 			tail=1
+			baseicon = 'icons/mob/races/datashark.dmi'
 		deer
 			name="deer"
 			id="deer"
@@ -187,6 +207,7 @@ datum
 			tail=1 // that's better
 			attack_verb = "gore"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
+			baseicon = 'icons/mob/races/deer.dmi'
 		drake
 			name="drake"
 			id="drake"
@@ -195,6 +216,7 @@ datum
 			adjective = "frilly"
 			tail=1 // i'd use lizard tails but drakes have frills included on the icons
 			taur=1
+			baseicon = 'icons/mob/races/drake.dmi'
 		drider
 			name="drider"
 			id="drider"
@@ -204,6 +226,7 @@ datum
 			taur=1
 			tail=1
 			eyes="spidereyes"
+			baseicon = 'icons/mob/races/drider.dmi'
 		eevee
 			name="eevee"
 			say_mod = "yaps"
@@ -213,6 +236,7 @@ datum
 			attack_verb = "tailwhip"
 			restricted = "ThingPony"
 			tail=1
+			baseicon = 'icons/mob/races/eevee.dmi'
 		flareon
 			name="flareon"
 			say_mod = "roars"
@@ -221,6 +245,7 @@ datum
 			adjective="burny"
 			attack_verb = "tackle"
 			tail=1
+			baseicon = 'icons/mob/races/flareon.dmi'
 		fennec
 			name="fennec"
 			say_mod = "yips"
@@ -228,6 +253,7 @@ datum
 			generic="vulpine"
 			adjective="foxy"
 			tail=1
+			baseicon = 'icons/mob/races/fennec.dmi'
 		fox
 			name="fox"
 			id="fox"
@@ -236,6 +262,7 @@ datum
 			adjective="foxy" // open and shut with this one, huh
 			tail=1
 			taur=1
+			baseicon = 'icons/mob/races/fox.dmi'
 		glaceons
 			name="shiny glaceon"
 			id="glaceons"
@@ -245,6 +272,7 @@ datum
 			say_mod = "chimes"
 			restricted = "Alex123890"
 			tail=1
+			baseicon = 'icons/mob/races/glaceons.dmi'
 		glaceon
 			name="glaceon"
 			id="glaceon"
@@ -253,6 +281,7 @@ datum
 			attack_verb = "tackles"
 			say_mod = "chimes"
 			tail=1
+			baseicon = 'icons/mob/races/glaceon.dmi'
 		grovyle
 			name="grovyle"
 			id="grovyle"
@@ -262,12 +291,14 @@ datum
 			say_mod = "growls"
 			restricted = "KriegsmarineOffizier"
 			tail=1
+			baseicon = 'icons/mob/races/grovyle.dmi'
 		glowfen
 			name="glowfen"
 			id="glowfen"
 			generic="vulpine"
 			adjective="glowing"
 			tail=1
+			baseicon = 'icons/mob/races/glowfen.dmi'
 
 		gremlin
 			name="gremlin"
@@ -275,6 +306,7 @@ datum
 			generic="creature"
 			tail=1
 			attack_verb = "thwack"
+			baseicon = 'icons/mob/races/gremlin.dmi'
 
 		gria
 			name="gria"
@@ -284,6 +316,7 @@ datum
 			tail=1
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
+			baseicon = 'icons/mob/races/gria.dmi'
 		hawk
 			name="hawk"
 			id="hawk"
@@ -292,6 +325,7 @@ datum
 			adjective="feathery"
 			tail=1
 			attack_verb = "whack"
+			baseicon = 'icons/mob/races/hawk.dmi'
 /*
 		hippo
 			name="hippo"
@@ -308,6 +342,7 @@ datum
 			adjective="fluttery"
 			tail=0
 			say_mod = "hums"
+			baseicon = 'icons/mob/races/hummingbird.dmi'
 */
 		husky
 			name="husky"
@@ -317,6 +352,7 @@ datum
 			adjective="derpy"
 			tail=1
 			taur=1
+			baseicon = 'icons/mob/races/husky.dmi'
 		hyena
 			name="hyena"
 			id="hyena"
@@ -326,7 +362,8 @@ datum
 			tail=1
 			attack_verb = "chomp"
 			attack_sound = 'sound/weapons/bite.ogg'
-		/*
+			baseicon = 'icons/mob/races/hyena.dmi'
+
 		jackalope
 			name="jackalope"
 			id="jackalope"
@@ -335,13 +372,15 @@ datum
 			adjective="hoppy and horny" //hue
 			attack_verb = "kick"
 			tail=1
-		*/
+			baseicon = 'icons/mob/races/jackalope.dmi'
+
 		jelly
 			name="jelly"
 			id="jelly"
 			generic="jelly"
 			adjective="jelly"
 			say_mod = "jiggles"
+			baseicon = 'icons/mob/races/jelly.dmi'
 		kangaroo
 			name="kangaroo"
 			id="kangaroo"
@@ -350,6 +389,7 @@ datum
 			adjective="bouncy"
 			tail=1
 			attack_verb = "kick"
+			baseicon = 'icons/mob/races/kangaroo.dmi'
 		kitsune
 			name="kitsune"
 			id="kitsune"
@@ -357,6 +397,7 @@ datum
 			generic="vulpine"
 			adjective="weaboo" // open and shut with this one, huh
 			tail=1
+			baseicon = 'icons/mob/races/kitsune.dmi'
 		lab
 			name="lab"
 			id="lab"
@@ -365,6 +406,8 @@ datum
 			adjective="sleek"
 			tail=1
 			taur=1
+			baseicon = 'icons/mob/races/lab.dmi'
+
 		leporid
 			name="leporid"
 			id="leporid"
@@ -373,6 +416,7 @@ datum
 			adjective="hoppy"
 			tail=1
 			attack_verb = "kick"
+			baseicon = 'icons/mob/races/leporid.dmi'
 		lizard
 			name="lizard"
 			id="lizard"
@@ -381,6 +425,7 @@ datum
 			adjective="scaled"
 			taur="naga"
 			tail=1
+			baseicon = 'icons/mob/races/lizard.dmi'
 		murid // these are rodents like mice and rats, iska is dumb. c: ~Tk
 			name="murid"
 			id="murid"
@@ -388,6 +433,7 @@ datum
 			generic="rodent"
 			adjective="squeaky"
 			tail=1
+			baseicon = 'icons/mob/races/murid.dmi'
 		ming
 			name="ming"
 			say_mod = "sultrily growls"
@@ -397,6 +443,7 @@ datum
 			attack_verb = "claw"
 			restricted = "Tk420634"
 			tail=1
+			baseicon = 'icons/mob/races/ming.dmi'
 		moth
 			name="moth"
 			id="moth"
@@ -404,6 +451,7 @@ datum
 			generic="insect"
 			adjective="fluttery"
 			eyes="motheyes" // this SHOULD work after i've updated human_face.dmi -- iska
+			baseicon = 'icons/mob/races/moth.dmi'
 /*
 		mushman
 			name="mushroom"
@@ -420,6 +468,7 @@ datum
 			adjective="jungle furry"
 			say_mod = "chimpers"
 			tail=0
+			baseicon = 'icons/mob/races/monkey.dmi'
 		naga
 			name="naga"
 			id="naga"
@@ -427,6 +476,7 @@ datum
 			adjective="noodly"
 			taur=1
 			tail=1
+			baseicon = 'icons/mob/races/naga.dmi'
 		otter
 			name="otter"
 			id="otter"
@@ -434,6 +484,7 @@ datum
 			generic="mustelid"
 			adjective="slim"
 			tail=1
+			baseicon = 'icons/mob/races/otter.dmi'
 		otusian
 			name="otusian"
 			id="otie"
@@ -442,6 +493,7 @@ datum
 			adjective="chunky" // ??? are otusians fat????
 			tail=1
 			taur=1
+			baseicon = 'icons/mob/races/otie.dmi'
 		panda
 			name="panda"
 			id="panda"
@@ -449,6 +501,7 @@ datum
 			generic="fuzzy"
 			adjective="blacknwhite"
 			tail=1
+			baseicon = 'icons/mob/races/panda.dmi'
 		panther
 			name="panther"
 			id="panther"
@@ -459,6 +512,7 @@ datum
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
 			say_mod = "growls"
+			baseicon = 'icons/mob/races/panther.dmi'
 		pig
 			name="pig"
 			id="pig"
@@ -466,11 +520,11 @@ datum
 			adjective="curly"
 			tail=1
 			say_mod = "oinks"
+			baseicon = 'icons/mob/races/pig.dmi'
 		plant
 			generic="plant"
 			adjective="leafy"
-		plant/pod
-			restricted=1
+			baseicon = 'icons/mob/races/plant.dmi'
 		porcupine
 			name="porcupine"
 			id="porcupine"
@@ -480,6 +534,7 @@ datum
 			tail=1
 			attack_verb = "quill-whack"
 			attack_sound = 'sound/weapons/slash.ogg'
+			baseicon = 'icons/mob/races/porcupine.dmi'
 		possum
 			name="possum"
 			id="possum"
@@ -489,7 +544,8 @@ datum
 			tail=1
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
-/*
+			baseicon = 'icons/mob/races/possum.dmi'
+
 		pug
 			name="pug"
 			id="pug"
@@ -497,7 +553,7 @@ datum
 			adjective="Adorable"
 			say_mod = "borks"
 			tail=0
-*/
+			baseicon = 'icons/mob/races/pug.dmi'
 		penguin
 			name="penguin"
 			id="penguin"
@@ -505,6 +561,7 @@ datum
 			adjective="waddly"
 			say_mod = "chirps"
 			tail=0
+			baseicon = 'icons/mob/races/penguin.dmi'
 		raccoon
 			name="raccoon"
 			id="raccoon"
@@ -512,6 +569,7 @@ datum
 			generic="procyonid" // Family Procyonidae
 			adjective="stripy"
 			tail=1
+			baseicon = 'icons/mob/races/raccoon.dmi'
 		renamon
 			name="renamon"
 			id="renamon"
@@ -521,6 +579,7 @@ datum
 			tail=1
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/slash.ogg'
+			baseicon = 'icons/mob/races/renamon.dmi'
 		roorat
 			name="kangaroo rat"
 			id="roorat"
@@ -529,6 +588,7 @@ datum
 			tail=1
 			attack_verb = "kick"
 			say_mod = "squeak"
+			baseicon = 'icons/mob/races/roorat.dmi'
 /*
 		runac //Working on this for Runac
 			name="runac"
@@ -536,8 +596,8 @@ datum
 			generic="vulpine"
 			adjective="glowing"
 			tail=1
-*/
-/*
+			baseicon = 'icons/mob/races/runac.dmi'
+
 		saltman
 			name="salt"
 			id="salt"
@@ -545,7 +605,7 @@ datum
 			adjective="salty"
 			restricted=2
 			say_mod = "bitches"
-
+*/
 		seaslug
 			name="sea slug"
 			id="seaslug"
@@ -554,7 +614,8 @@ datum
 			tail=1
 			attack_verb = "smack"
 			say_mod = "cucumbers"
-*/
+			baseicon = 'icons/mob/races/seaslug.dmi'
+
 		sergal
 			name="sergal"
 			id="sergal"
@@ -562,12 +623,14 @@ datum
 			generic="alienmonster"
 			adjective="lewd"
 			tail=1
+			baseicon = 'icons/mob/races/sergal.dmi'
 		shark
 			name="shark"
 			id="shark"
 			generic="selachimorph" // Superorder Selachimorpha
 			adjective="fishy"
 			tail=1
+			baseicon = 'icons/mob/races/shark.dmi'
 		shepherd
 			name="shepherd"
 			id="shepherd"
@@ -576,6 +639,7 @@ datum
 			adjective="happy"
 			tail=1
 			taur=1
+			baseicon = 'icons/mob/races/shepherd.dmi'
 		skunk
 			name="skunk"
 			id="skunk"
@@ -583,12 +647,14 @@ datum
 			generic="mephit"
 			adjective="stinky"
 			tail=1
+			baseicon = 'icons/mob/races/skunk.dmi'
 		slime
 			name="slime"
 			id="slime"
 			say_mod = "blurbles"
 			generic="slime"
 			adjective="slimy"
+			baseicon = 'icons/mob/races/slime.dmi'
 		smilodon
 			name="smilodon"
 			id="smilodon"
@@ -596,6 +662,7 @@ datum
 			generic="smilodon"
 			adjective="toothy"
 			tail=1
+			baseicon = 'icons/mob/races/smilodon.dmi'
 		stitch
 			name = "stitch"
 			id = "stitch"
@@ -605,7 +672,8 @@ datum
 			tail =1
 			attack_verb = "scratch"
 			attack_sound = 'sound/weapons/slash.ogg'
-/*
+			baseicon = 'icons/mob/races/stitch.dmi'
+
 		snarby
 			name="snarby"
 			id="snarby"
@@ -616,7 +684,8 @@ datum
 			attack_verb = "chomp"
 			attack_sound = 'sound/weapons/bite.ogg'
 			eyes = "snarbyeyes"
-*/
+			baseicon = 'icons/mob/races/snarby.dmi'
+
 		squirrel
 			name="squirrel"
 			id="squirrel"
@@ -624,6 +693,7 @@ datum
 			generic="rodent"
 			adjective="nutty"
 			tail=1
+			baseicon = 'icons/mob/races/squirrel.dmi'
 		tajaran
 			name="tajaran"
 			id="tajaran"
@@ -634,6 +704,7 @@ datum
 			taur=1
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
+			baseicon = 'icons/mob/races/tajaran.dmi'
 		turtle
 			name="turtle"
 			id="turtle"
@@ -641,6 +712,7 @@ datum
 			generic="reptile"
 			adjective="hard-shelled"
 			tail=1
+			baseicon = 'icons/mob/races/turtle.dmi'
 		ursine
 			name="bear"
 			id="ursine"
@@ -650,12 +722,14 @@ datum
 			tail=1
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
+			baseicon = 'icons/mob/races/ursine.dmi'
 		vulture
 			name="vulture"
 			id="vulture"
 			generic="evil"
 			adjective="rotten"
 			tail=1
+			baseicon = 'icons/mob/races/vulture.dmi'
 		wolf
 			name="wolf"
 			id="wolf"
@@ -664,6 +738,7 @@ datum
 			adjective="shaggy"
 			tail=1
 			taur=1
+			baseicon = 'icons/mob/races/wolf.dmi'
 		zigzagoon
 			name="zigzagoon"
 			id="zigzagoon"
@@ -671,6 +746,7 @@ datum
 			generic="pokémon"
 			adjective="curious"
 			tail=1
+			baseicon = 'icons/mob/races/zigzagoon.dmi'
 		narky
 			name="narwhal kitty"
 			id="narky"
@@ -681,72 +757,78 @@ datum
 			tail=1
 			taur=1
 			attack_verb = "nipplewhack"
+			baseicon = 'icons/mob/races/narky.dmi'
 
-/*
-		//husky/jordy  // obsolete with the addition of overlay sprites
-			//name="husky"
-			//id="jordy"
-			//generic="canine"
-			//adjective="hyper"
-			//tail=1
-			//restricted=1
-*/
+
 		fly
 			//name="fly"
 			generic="insect"
 			adjective="buzzy"
 			restricted=1
+			baseicon = 'icons/mob/races/fly.dmi'
+
 		skeleton
 			//name="skeleton"
 			generic="human"
 			adjective="very boney"
 			restricted=2
 			attack_verb = "bone"
+			baseicon = 'icons/mob/races/human.dmi'
 		cosmetic_skeleton
 			//name="skeleton"
 			generic="skeleton"
 			adjective="boney"
 			restricted=2
 			attack_verb = "bone"
+			baseicon = 'icons/mob/races/human.dmi'
 		shadow
 			//name="shadow"
 			generic="darkness"
 			adjective="shady" // Jokes
 			restricted=2
+			baseicon = 'icons/mob/races/human.dmi'
 		golem
 			//name="golem"
 			generic="golem"
 			adjective="rocky"
 			restricted=2
+			baseicon = 'icons/mob/races/human.dmi'
 		golem/adamantine
 			//name="adamantine"
 			generic="golem"
 			adjective="rocky"
 			restricted=2
+			baseicon = 'icons/mob/races/human.dmi'
 		zombie
 			//name="zombie"
 			id="zombie"
 			generic="undead"
 			adjective="rotten"
 			restricted=2
+			baseicon = 'icons/mob/races/human.dmi'
 		cosmetic_zombie // considering renaming to zombie/cosmetic
 			//name="zombie"
 			id="zombie"
 			generic="undead"
 			adjective="particularly rotten"
 			restricted=2
+			baseicon = 'icons/mob/races/human.dmi'
 		plasmaman
 			//name="Plasmabone"
 			id="plasmaman"
 			generic="plasmaman"
 			adjective="toxic"
 			restricted=2 // don't comment these out if you don't want the world to burn
+			baseicon = 'icons/mob/races/human.dmi'
 		plasmaman/skin
 			//name="Skinbone"
 			id="plasmaman"
 			generic="plasmaman"
 			adjective="toxic"
 			restricted=2 // but if you do want the world to burn then please, by all means
+			baseicon = 'icons/mob/races/human.dmi'
+
+	// I WANT DIS SPRITE SHEET SO I CAN ADD IT IN - Jonathan
 	/*
 		pepsiman
 			//name="PEPSI MAAAAAN"
@@ -754,7 +836,10 @@ datum
 			generic="beverage"
 			adjective="refreshing"
 			restricted=2 // don't want half the station to be running around with soda cans on their heads
-			*/
+	*/
+
+
+
 		cutebold
 			name="cutebold"
 			id="cutebold"
@@ -764,6 +849,7 @@ datum
 			tail=1
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
+			baseicon = 'icons/mob/races/cutebold.dmi'
 		pony // of the "my little" variety
 			name="pony"
 			id="pony"
@@ -771,6 +857,7 @@ datum
 			adjective="little"
 			tail=1
 			attack_verb= "kick"
+			baseicon = 'icons/mob/races/pony.dmi'
 		hylotl
 			name="hylotl"
 			id="hylotl"
@@ -779,6 +866,7 @@ datum
 			adjective="fishy"
 			tail=0
 			eyes="jelleyes"
+			baseicon = 'icons/mob/races/hylotl.dmi'
 /*var/list/kpcode_race_list
 
 proc/kpcode_race_genlist()

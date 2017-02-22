@@ -298,7 +298,7 @@ Gunshots/explosions/opening doors/less rare audio (done)
 			if(3)//Corgi
 				A = image('icons/mob/pets.dmi',H,"corgi")
 			if(4)//Skeletons
-				A = image('icons/mob/human.dmi',H,"skeleton_s")
+				A = image('icons/mob/races/human.dmi',H,"skeleton_s")
 		A.override = 1
 		if(target.client)
 			delusions |= A
@@ -709,13 +709,13 @@ var/list/non_fakeattack_weapons = list(/obj/item/weapon/gun/projectile, /obj/ite
 					var/turf/simulated/floor/target = pick(possible_points)
 					switch(rand(1,4))
 						if(1)
-							var/image/body = image('icons/mob/human.dmi',target,"husk_s",TURF_LAYER)
+							var/image/body = image('icons/mob/races/human.dmi',target,"husk_s",TURF_LAYER)
 							var/matrix/M = matrix()
 							M.Turn(90)
 							body.transform = M
 							halbody = body
 						if(2,3)
-							halbody = image('icons/mob/human.dmi',target,"husk_s",TURF_LAYER)
+							halbody = image('icons/mob/races/human.dmi',target,"husk_s",TURF_LAYER)
 						if(4)
 							halbody = image('icons/mob/alien.dmi',target,"alienother",TURF_LAYER)
 
