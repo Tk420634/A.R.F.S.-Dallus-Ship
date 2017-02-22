@@ -290,24 +290,24 @@ var/record_id_num = 1001
 	var/icon/photo = null
 	var/g = (H.gender == FEMALE) ? "f" : "m"
 	if(!config.mutant_races || H.dna.species.use_skintones)
-		photo = icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[H.skin_tone]_[g]_s")
+		photo = icon("icon" = H.dna.species.baseicon, "icon_state" = "[H.skin_tone]_[g]_s")
 	else
-		photo = icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[H.dna.species.id]_[g]_s")
+		photo = icon("icon" = H.dna.species.baseicon, "icon_state" = "[H.dna.species.id]_[g]_s")
 		var/color1 = H.dna.special_color[1]
 		var/color2 = H.dna.special_color[2]
 		var/color3 = H.dna.special_color[3]
-		var/icon/chk=new/icon('icons/mob/human.dmi')
+		var/icon/chk=new/icon(H.dna.species.baseicon)
 		var/list/available_states=chk.IconStates()
 		if(color1 != null && available_states.Find("[H.dna.species.id]_[g]_s_1"))
-			var/icon/sp_one = new/icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[H.dna.species.id]_[g]_s_1")
+			var/icon/sp_one = new/icon("icon" = H.dna.species.baseicon, "icon_state" = "[H.dna.species.id]_[g]_s_1")
 			sp_one.Blend("#[color1]", ICON_MULTIPLY)
 			photo.Blend(sp_one, ICON_OVERLAY)
 		if(color2 != null && available_states.Find("[H.dna.species.id]_[g]_s_2"))
-			var/icon/sp_two = new/icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[H.dna.species.id]_[g]_s_2")
+			var/icon/sp_two = new/icon("icon" = H.dna.species.baseicon, "icon_state" = "[H.dna.species.id]_[g]_s_2")
 			sp_two.Blend("#[color2]", ICON_MULTIPLY)
 			photo.Blend(sp_two, ICON_OVERLAY)
 		if(color3 != null && available_states.Find("[H.dna.species.id]_[g]_s_3"))
-			var/icon/sp_thr = new/icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[H.dna.species.id]_[g]_s_3")
+			var/icon/sp_thr = new/icon("icon" = H.dna.species.baseicon, "icon_state" = "[H.dna.species.id]_[g]_s_3")
 			sp_thr.Blend("#[color3]", ICON_MULTIPLY)
 			photo.Blend(sp_thr, ICON_OVERLAY)
 
