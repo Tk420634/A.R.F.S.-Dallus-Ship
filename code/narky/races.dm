@@ -334,7 +334,7 @@ datum
 			generic="hippo"
 			adjective="buoyant"
 			tail=1
-*/
+
 		hummingbird
 			name="hummingbird"
 			id="hummingbird"
@@ -343,7 +343,7 @@ datum
 			tail=0
 			say_mod = "hums"
 			baseicon = 'icons/mob/races/hummingbird.dmi'
-
+*/
 		husky
 			name="husky"
 			id="husky"
@@ -525,9 +525,6 @@ datum
 			generic="plant"
 			adjective="leafy"
 			baseicon = 'icons/mob/races/plant.dmi'
-		plant/pod
-			restricted=1
-			baseicon = 'icons/mob/races/pod.dmi'
 		porcupine
 			name="porcupine"
 			id="porcupine"

@@ -359,6 +359,10 @@
 				// Display a warning if the user mocks up
 				src << "<span class='warning'>You feel your [pocket_side] pocket being fumbled with!</span>"
 
+		if (href_list["lookitem"])
+			var/obj/item/I = locate(href_list["lookitem"])
+			if(I)
+				src.examinate(I)
 	..()
 
 
