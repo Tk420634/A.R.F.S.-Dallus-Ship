@@ -1,7 +1,6 @@
 /mob/living/simple_animal/hostile/zombie
 	name = "zombie"
 	desc = "When Observe is full, the dead shall walk the station."
-	icon = 'icons/mob/races/human.dmi'
 	icon_state = "zombie_s"
 	icon_living = "zombie_s"
 	icon_dead = "zombie_dead"

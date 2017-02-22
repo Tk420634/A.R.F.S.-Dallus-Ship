@@ -65,6 +65,15 @@ datum
 			adjective="cold"
 			attack_verb = "claw"
 			baseicon = 'icons/mob/races/anubis.dmi'
+		avali
+			name="avali"
+			id="avali"
+			generic="feathery rat thing"
+			adjective="weird"
+			tail=1
+			say_mod = "squaks"
+			baseicon = 'icons/mob/races/avali.dmi'
+			attack_verb = "scratch"
 		bat
 			name="bat"
 			id="bat"
@@ -237,6 +246,15 @@ datum
 			restricted = "ThingPony"
 			tail=1
 			baseicon = 'icons/mob/races/eevee.dmi'
+		elephant
+			name="elephant"
+			say_mod = "trumpets"
+			id="elephant"
+			generic="fat"
+			adjective="big"
+			attack_verb = "trunk slap"
+			tail=1
+			baseicon = 'icons/mob/races/elephant.dmi'
 		flareon
 			name="flareon"
 			say_mod = "roars"
@@ -485,6 +503,14 @@ datum
 			adjective="slim"
 			tail=1
 			baseicon = 'icons/mob/races/otter.dmi'
+		orca
+			name="orca"
+			id="orca"
+			say_mod = "bubbles"
+			generic="fat"
+			adjective="not a whale"
+			tail=1
+			baseicon = 'icons/mob/races/orca.dmi'
 		otusian
 			name="otusian"
 			id="otie"
@@ -580,6 +606,16 @@ datum
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/slash.ogg'
 			baseicon = 'icons/mob/races/renamon.dmi'
+		robot
+			name="robot"
+			id="robot"
+			say_mod = "beeps"
+			generic = "metal"
+			adjective = "creaky"
+			tail=1
+			attack_verb = "borg"
+			attack_sound = "sound/weaons/robot_attack_noise.ogg"
+			baseicon = 'icons/mob/races/robot.dmi'
 		roorat
 			name="kangaroo rat"
 			id="roorat"
@@ -663,8 +699,16 @@ datum
 			adjective="toothy"
 			tail=1
 			baseicon = 'icons/mob/races/smilodon.dmi'
+		shihtzu
+			name="shihtzu"
+			id="shihtzu"
+			say_mod = "barks"
+			generic="fluffy"
+			adjective="best pooch"
+			tail=1
+			baseicon = 'icons/mob/races/shihtzu.dmi'
 		stitch
-			name = "stitch"
+			name ="stitch"
 			id = "stitch"
 			say_mod = "barks"
 			generic = "space alien"
@@ -705,6 +749,16 @@ datum
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
 			baseicon = 'icons/mob/races/tajaran.dmi'
+		tiger
+			name="tiger"
+			id="tiger"
+			generic="feline"
+			say_mod = "growls"
+			adjective="furry"
+			tail=1
+			attack_verb = "claw"
+			attack_sound = 'sound/weapons/bladeslice.ogg'
+			baseicon = 'icons/mob/races/tiger.dmi'
 		turtle
 			name="turtle"
 			id="turtle"
@@ -1011,6 +1065,7 @@ var/list/mutant_tails = list(
 	"succubus" = "succubus",
 	"deathclaw" = "deathclaw",
 	"doublefoxtail" = "doublefoxtail",
+	"elephant" = "elephant"
 	)
 
 var/list/mutant_wings = list(
@@ -1025,6 +1080,8 @@ var/list/mutant_wings = list(
 	"bee" = "bee",
 	"angel" = "angel",
 	"smallfairy" = "smallfairy",
+	"monarch" = "monarch",
+	"swallowtail" = "swallowtail"
 	)
 
 var/list/cock_list = list(

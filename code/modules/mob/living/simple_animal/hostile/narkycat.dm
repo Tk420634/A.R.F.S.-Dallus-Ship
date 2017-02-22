@@ -6,7 +6,7 @@
 	icon_dead = "narky_d"
 	speak_chance = 0
 	turns_per_move = 5
-	butcher_results = list(/obj/item/weapon/reagent_containers/food/snacks/candy/candybar/toffee = 3, /obj/effect/decal/cleanable/sex/semen = 1)
+	butcher_results = list(/obj/item/weapon/reagent_containers/food/snacks/candybar/toffee = 3, /obj/effect/decal/cleanable/sex/semen = 1)
 	response_help = "pets"
 	response_disarm = "pushes it away"
 	response_harm = "hits"
