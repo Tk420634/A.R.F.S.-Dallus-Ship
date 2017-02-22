@@ -24,6 +24,7 @@
 	aggro_vision_range = 18
 	idle_vision_range = 5
 	var/charging = 0
+	ranged_message = "shakes its beefy arms at"
 
 /mob/living/simple_animal/hostile/megafauna/bubblegum/death()
 	..(1)

@@ -655,16 +655,18 @@
 	harm_intent_damage = 5
 	melee_damage_lower = 15
 	melee_damage_upper = 15
-	attacktext = "bites"
+	attacktext = "pinches"
 	attack_sound = 'sound/weapons/zoid.ogg'
-	speak_emote = list("pinchs")
+	speak_emote = list("bubbles")
 	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0)
 	minbodytemp = 0
 	maxbodytemp = 1500
-	speed = 2
+	speed = 3
 	aggro_vision_range = 9
 	idle_vision_range = 5
 	faction = list("mining")
+	ranged_message = "glares"
+	move_to_delay = 15
 
 /mob/living/simple_animal/hostile/asteroid/walrusman
 	name = "Walrus Man"
@@ -685,13 +687,16 @@
 	harm_intent_damage = 5
 	melee_damage_lower = 15
 	melee_damage_upper = 15
-	attacktext = "bites"
+	attacktext = "flipper slaps"
 	attack_sound = 'sound/weapons/zoid.ogg'
-	speak_emote = list("flipper slaps")
+	speak_emote = list("gurbles")
 	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0)
 	minbodytemp = 0
 	maxbodytemp = 1500
-	speed = 2
+	speed = 3
 	aggro_vision_range = 9
 	idle_vision_range = 5
 	faction = list("mining")
+	ranged_message = "glares"
+	move_to_delay = 15
+	butcher_results = list(/obj/item/asteroid/goliath_hide = 1)
