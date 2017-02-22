@@ -45,23 +45,23 @@
 
 	var/mutant_race=pref_species.id
 	if(pref_species.id == "human" || !config.mutant_races)
-		preview_icon = new /icon('icons/mob/human.dmi', "[skin_tone]_[g]_s")
+		preview_icon = new /icon('icons/mob/races/human.dmi', "[skin_tone]_[g]_s")
 	else
 		/*preview_icon = new /icon('icons/mob/human.dmi', "[pref_species.id]_[g]_s")
 		preview_icon.Blend("#[mutant_color]", ICON_MULTIPLY)*/
-		preview_icon = new /icon('icons/mob/human.dmi', "[mutant_race]_[g]_s")
-		var/icon/chk=new/icon('icons/mob/human.dmi')
+		preview_icon = new /icon(pref_species.baseicon, "[mutant_race]_[g]_s")
+		var/icon/chk=new/icon(pref_species.baseicon)
 		var/list/available_states=chk.IconStates()
 		if(special_color[1]&&available_states.Find("[mutant_race]_[g]_s_1"))
-			var/icon/sp_one = new/icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[mutant_race]_[g]_s_1")
+			var/icon/sp_one = new/icon("icon" = pref_species.baseicon, "icon_state" = "[mutant_race]_[g]_s_1")
 			sp_one.Blend("#[special_color[1]]", ICON_MULTIPLY)
 			preview_icon.Blend(sp_one, ICON_OVERLAY)
 		if(special_color[2]&&available_states.Find("[mutant_race]_[g]_s_2"))
-			var/icon/sp_two = new/icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[mutant_race]_[g]_s_2")
+			var/icon/sp_two = new/icon("icon" = pref_species.baseicon, "icon_state" = "[mutant_race]_[g]_s_2")
 			sp_two.Blend("#[special_color[2]]", ICON_MULTIPLY)
 			preview_icon.Blend(sp_two, ICON_OVERLAY)
 		if(special_color[3]&&available_states.Find("[mutant_race]_[g]_s_3"))
-			var/icon/sp_thr = new/icon("icon" = 'icons/mob/human.dmi', "icon_state" = "[mutant_race]_[g]_s_3")
+			var/icon/sp_thr = new/icon("icon" = pref_species.baseicon, "icon_state" = "[mutant_race]_[g]_s_3")
 			sp_thr.Blend("#[special_color[3]]", ICON_MULTIPLY)
 			preview_icon.Blend(sp_thr, ICON_OVERLAY)
 

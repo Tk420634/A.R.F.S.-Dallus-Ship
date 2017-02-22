@@ -2,7 +2,7 @@
 	name = "Unknown"
 	real_name = "Unknown"
 	voice_name = "Unknown"
-	icon = 'icons/mob/human.dmi'
+	icon = 'icons/mob/races/human.dmi'
 	icon_state = "caucasian1_m_s"
 	var/footstep = 1
 
@@ -21,6 +21,7 @@
 	create_dna(src)
 	randomize_human(src)
 	dna.initialize_dna()
+
 
 	//initialise organs
 	organs = newlist(/obj/item/organ/limb/chest, /obj/item/organ/limb/head, /obj/item/organ/limb/l_arm,

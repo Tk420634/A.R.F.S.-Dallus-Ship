@@ -102,6 +102,8 @@ Please contact me on #coderbus IRC. ~Carnie x
 	update_base_icon_state()
 	dna.species.handle_body(src)
 
+	src.icon = src.dna.species.baseicon
+
 	//Tail code
 	remove_overlay(TAIL_LAYER)
 	var/list/t_standing	= list()
