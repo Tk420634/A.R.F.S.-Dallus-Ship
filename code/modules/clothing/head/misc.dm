@@ -27,6 +27,12 @@
 	icon_state = "cat3"
 	item_state = "cat3"
 
+/obj/item/clothing/head/radarhat
+	name = "MAGA hat"
+	desc = "A red hat with white letters. It reads something about making america great again. Weird."
+	icon_state = "MAGA"
+	item_state = "MAGA"
+
 /obj/item/clothing/head/mousewhite
 	name = "white mouse hat"
 	icon_state = "mouse_white"

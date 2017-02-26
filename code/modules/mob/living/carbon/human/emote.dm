@@ -373,6 +373,13 @@
 						if("eevee")
 							playsound(src.loc, 'sound/misc/eevee1.ogg', 50, 1, 5)
 
+						if("ceratotaur")
+							playsound(src.loc, 'sound/misc/theropod_1.ogg', 50, 1, 5)
+
+						if("carno")
+							playsound(src.loc, 'sound/misc/theropod_1.ogg', 50, 1, 5)
+
+
 						if("fennec")
 							if(prob(50))
 								playsound(src.loc, 'sound/misc/fennic1.ogg', 50, 1, 5)
