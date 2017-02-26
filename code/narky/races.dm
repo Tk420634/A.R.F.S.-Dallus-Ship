@@ -551,6 +551,13 @@ datum
 			generic="plant"
 			adjective="leafy"
 			baseicon = 'icons/mob/races/plant.dmi'
+			id="plant"
+
+		pod
+			id="pod"
+			name="pod"
+			generic="pod"
+			baseicon = 'icons/mob/races/pod.dmi'
 		porcupine
 			name="porcupine"
 			id="porcupine"
