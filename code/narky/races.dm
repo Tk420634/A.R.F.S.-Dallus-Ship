@@ -344,7 +344,7 @@ datum
 			tail=1
 			attack_verb = "whack"
 			baseicon = 'icons/mob/races/hawk.dmi'
-/*
+
 		hippo
 			name="hippo"
 			id="hippo"
@@ -352,7 +352,7 @@ datum
 			generic="hippo"
 			adjective="buoyant"
 			tail=1
-
+/*
 		hummingbird
 			name="hummingbird"
 			id="hummingbird"
@@ -425,7 +425,15 @@ datum
 			tail=1
 			taur=1
 			baseicon = 'icons/mob/races/lab.dmi'
-
+		lugia
+			name="lugia"
+			id="lugia"
+			say_mod = "chrips"
+			generic="leg poke"
+			attack_verb = "areoblast"
+			adjective="fancy"
+			tail=1
+			baseicon = 'icons/mob/races/lugia.dmi'
 		leporid
 			name="leporid"
 			id="leporid"
@@ -470,15 +478,16 @@ datum
 			adjective="fluttery"
 			eyes="motheyes" // this SHOULD work after i've updated human_face.dmi -- iska
 			baseicon = 'icons/mob/races/moth.dmi'
-/*
+
 		mushman
 			name="mushroom"
 			id="fung"
 			generic="fungi"
 			adjective="sporey"
 			say_mod = "mushes"
+			baseicon = 'icons/mob/races/fung.dmi'
 			tail=0
-*/
+
 		monkey
 			name="monkey"
 			id="monkey"
@@ -548,9 +557,11 @@ datum
 			say_mod = "oinks"
 			baseicon = 'icons/mob/races/pig.dmi'
 		plant
+			name="plant"
+			id="pod"
 			generic="plant"
 			adjective="leafy"
-			baseicon = 'icons/mob/races/plant.dmi'
+			baseicon = 'icons/mob/races/pod.dmi'
 		porcupine
 			name="porcupine"
 			id="porcupine"
@@ -729,6 +740,16 @@ datum
 			attack_sound = 'sound/weapons/bite.ogg'
 			eyes = "snarbyeyes"
 			baseicon = 'icons/mob/races/snarby.dmi'
+
+		stego
+			name="stego"
+			id="stego"
+			say_mod = "grunts"
+			generic="platey"
+			adjective="dead dino"
+			tail=1
+			attack_verb = "tail spike"
+			baseicon = 'icons/mob/races/stego.dmi'
 
 		squirrel
 			name="squirrel"
