@@ -126,6 +126,16 @@ datum
 			adjective="irritable"
 			say_mod = "bleats"
 			baseicon = 'icons/mob/races/capra.dmi'
+
+		carno
+			name="carno"
+			id="carno"
+			generic="red dino"
+			adjective="irritable"
+			say_mod = "roar"
+			attack_verb = "bites"
+			attack_sound = 'sound/weapons/bite.ogg'
+			baseicon = 'icons/mob/races/carno.dmi'
 		carp
 			name="carp"
 			id="carp"
@@ -137,6 +147,17 @@ datum
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
 			baseicon = 'icons/mob/races/carp.dmi'
+
+		ceratotaur
+			name="ceratotaur"
+			id="ceratotaur"
+			generic="yellow bannana dino"
+			adjective="angry"
+			say_mod = "roars"
+			attack_verb = "bite"
+			attack_sound = 'sound/weapons/bite.ogg'
+			tail=1
+			baseicon = 'icons/mob/races/ceratotaur.dmi'
 
 		chicken
 			name="chicken"
