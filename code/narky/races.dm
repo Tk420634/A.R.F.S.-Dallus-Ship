@@ -134,6 +134,7 @@ datum
 			adjective="irritable"
 			say_mod = "roar"
 			attack_verb = "bites"
+			tail = 1
 			attack_sound = 'sound/weapons/bite.ogg'
 			baseicon = 'icons/mob/races/carno.dmi'
 		carp
