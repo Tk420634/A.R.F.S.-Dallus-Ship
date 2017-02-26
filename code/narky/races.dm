@@ -561,6 +561,14 @@ datum
 			id="pod"
 			generic="plant"
 			adjective="leafy"
+			baseicon = 'icons/mob/races/plant.dmi'
+			id="plant"
+
+		pod
+			id="pod"
+			name="pod"
+			generic="pod"
+
 			baseicon = 'icons/mob/races/pod.dmi'
 		porcupine
 			name="porcupine"
@@ -818,7 +826,7 @@ datum
 			name="zigzagoon"
 			id="zigzagoon"
 			say_mod = "zigs"
-			generic="pokémon"
+			generic="pokÃ©mon"
 			adjective="curious"
 			tail=1
 			baseicon = 'icons/mob/races/zigzagoon.dmi'
