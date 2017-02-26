@@ -364,6 +364,18 @@
 	icon_living = "tentacruel"
 	icon_dead = "tentacruel_d"
 
+/mob/living/simple_animal/pokemon/ninetails
+	name = "ninetails"
+	icon_state = "ninetails"
+	icon_living = "ninetails"
+	icon_dead = "ninetails_d"
+
+/mob/living/simple_animal/pokemon/ponyta
+	name = "ponyta"
+	icon_state = "ponyta"
+	icon_living = "ponyta"
+	icon_dead = "ponyta_d"
+
 /mob/living/simple_animal/pokemon/zubat
 	name = "zubat"
 	icon_state = "zubat"
