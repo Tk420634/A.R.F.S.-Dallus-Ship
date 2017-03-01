@@ -244,3 +244,10 @@
 	new /obj/item/weapon/reagent_containers/pill/stimulant(src)
 	new /obj/item/weapon/reagent_containers/pill/stimulant(src)
 	new /obj/item/weapon/reagent_containers/pill/stimulant(src)
+//Rune's donation item
+/obj/item/weapon/storage/firstaid/runelunch
+	name = "Rune's lunch box"
+	desc = "A cute pink lunch box with red hearts."
+	icon_state = "runelunch"
+	item_state = "runelunch"
+	can_hold = list(/obj/item/weapon/reagent_containers/food)
