@@ -1072,7 +1072,8 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/mask/muzzle=2,/obj/item/weapon/dildo=10,/obj/item/weapon/dildos/canine=4,
 	/obj/item/weapon/dildos/purpledong=4,/obj/item/weapon/dildos/bigblackdick=4,
 	/obj/item/weapon/dildos/floppydick=4,/obj/item/weapon/bulletvibe=4,
-	/obj/item/weapon/fleshlight=2, /obj/item/clothing/under/birthdaysuit = 4)
+	/obj/item/weapon/fleshlight=2, /obj/item/clothing/under/birthdaysuit = 4,
+	/obj/item/weapon/dildos/analbeads=2)
 	contraband = list()
 	premium = list(/obj/item/clothing/under/latexmaid=3,/obj/item/weapon/dildo/psych=2,/obj/item/weapon/restraints/handcuffs/kink=2,
 	/obj/item/clothing/head/wizard/fake=1,/obj/item/clothing/suit/wizrobe/fake=1)

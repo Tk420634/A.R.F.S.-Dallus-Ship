@@ -583,14 +583,6 @@ datum
 			id="pod"
 			generic="plant"
 			adjective="leafy"
-			baseicon = 'icons/mob/races/plant.dmi'
-			id="plant"
-
-		pod
-			id="pod"
-			name="pod"
-			generic="pod"
-
 			baseicon = 'icons/mob/races/pod.dmi'
 		porcupine
 			name="porcupine"
@@ -724,6 +716,7 @@ datum
 			generic="mephit"
 			adjective="stinky"
 			tail=1
+			taur=1
 			baseicon = 'icons/mob/races/skunk.dmi'
 		slime
 			name="slime"
@@ -848,7 +841,7 @@ datum
 			name="zigzagoon"
 			id="zigzagoon"
 			say_mod = "zigs"
-			generic="pokÃ©mon"
+			generic="pokémon"
 			adjective="curious"
 			tail=1
 			baseicon = 'icons/mob/races/zigzagoon.dmi'
@@ -1140,7 +1133,8 @@ var/list/cock_list = list(
 	"canine",
 	"feline",
 	"reptilian",
-	"equine")
+	"equine",
+	"mega")
 
 
 proc/kpcode_hastail(var/S)
