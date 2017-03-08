@@ -477,6 +477,16 @@
 									playsound(src.loc, 'sound/misc/lab1.ogg', 35, 1, 5)
 									..(act)
 
+						if("lopunny")
+							if(prob(50))
+								playsound(src.loc, 'sound/misc/Lopunny1.ogg', 50, 1, 5)
+							else
+								if(prob(5))
+									playsound(src.loc, 'sound/misc/Lopunny1.ogg', 50, 1, 5)
+								else
+									playsound(src.loc, 'sound/misc/Lopunny2.ogg', 35, 1, 5)
+									..(act)
+
 
 						if("lucky")
 							playsound(src.loc, 'sound/misc/nyuu.ogg', 50, 1, 5)
