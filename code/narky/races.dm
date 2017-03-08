@@ -456,6 +456,26 @@ datum
 			adjective="fancy"
 			tail=1
 			baseicon = 'icons/mob/races/lugia.dmi'
+		lucky
+			name="lucky"
+			id="lucky"
+			say_mod = "hums"
+			generic="fancy kitsune"
+			attack_verb = "claw"
+			adjective="fancy tails"
+			tail=1
+			baseicon = 'icons/mob/races/lucky.dmi'
+			restricted = "LuckyKoryo"
+		lopunny
+			name="lopunny"
+			id="lopunny"
+			say_mod = "squeaks"
+			generic="pokemon bunny"
+			attack_verb = "kick"
+			adjective="cute"
+			tail=1
+			baseicon = 'icons/mob/races/lopunny.dmi'
+			restricted = "KillBow"
 		leporid
 			name="leporid"
 			id="leporid"
@@ -841,7 +861,7 @@ datum
 			name="zigzagoon"
 			id="zigzagoon"
 			say_mod = "zigs"
-			generic="pokémon"
+			generic="pokÃ©mon"
 			adjective="curious"
 			tail=1
 			baseicon = 'icons/mob/races/zigzagoon.dmi'
