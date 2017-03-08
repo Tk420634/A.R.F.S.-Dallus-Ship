@@ -477,6 +477,11 @@
 									playsound(src.loc, 'sound/misc/lab1.ogg', 35, 1, 5)
 									..(act)
 
+
+						if("lucky")
+							playsound(src.loc, 'sound/misc/nyuu.ogg', 50, 1, 5)
+
+
 						if("leporid")
 							playsound(src.loc, 'sound/misc/rabbit1.ogg', 50, 1, 5)
 
