@@ -471,7 +471,7 @@ datum
 			id="lopunny"
 			say_mod = "squeaks"
 			generic="pokemon bunny"
-			attack_verb = "charms"
+			attack_verb = "kick"
 			adjective="cute"
 			tail=1
 			baseicon = 'icons/mob/races/lopunny.dmi'
@@ -861,7 +861,7 @@ datum
 			name="zigzagoon"
 			id="zigzagoon"
 			say_mod = "zigs"
-			generic="pokémon"
+			generic="pokÃ©mon"
 			adjective="curious"
 			tail=1
 			baseicon = 'icons/mob/races/zigzagoon.dmi'
