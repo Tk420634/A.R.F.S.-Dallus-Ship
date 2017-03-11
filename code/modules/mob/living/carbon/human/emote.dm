@@ -489,7 +489,7 @@
 
 
 						if("lucky")
-							playsound(src.loc, 'sound/misc/nyuu.ogg', 50, 1, 5)
+							playsound(src.loc, 'sound/misc/kitsune1.ogg', 50, 1, 5)
 
 
 						if("leporid")
