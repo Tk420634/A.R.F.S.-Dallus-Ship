@@ -25,6 +25,7 @@
 	aggro_vision_range = 30
 	idle_vision_range = 20
 	incorporeal_move = 1
+	ranged_message = "stares into the soul of"
 
 /obj/item/device/gps/internal/horror
 	icon_state = null

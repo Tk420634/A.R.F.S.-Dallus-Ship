@@ -101,7 +101,7 @@
 	if(prefs.toggles & SOUND_PRAYERS)
 		src << "You will now hear prayer sounds."
 	else
-		src << "You will no longer prayer sounds."
+		src << "You will no longer hear prayer sounds."
 	feedback_add_details("admin_verb", "PSounds")
 
 /client/verb/togglemidroundantag()

@@ -373,6 +373,13 @@
 						if("eevee")
 							playsound(src.loc, 'sound/misc/eevee1.ogg', 50, 1, 5)
 
+						if("ceratotaur")
+							playsound(src.loc, 'sound/misc/theropod_1.ogg', 50, 1, 5)
+
+						if("carno")
+							playsound(src.loc, 'sound/misc/theropod_1.ogg', 50, 1, 5)
+
+
 						if("fennec")
 							if(prob(50))
 								playsound(src.loc, 'sound/misc/fennic1.ogg', 50, 1, 5)
@@ -432,8 +439,27 @@
 									playsound(src.loc, 'sound/misc/husky1.ogg', 35, 1, 5)
 									..(act)
 
+						if("robot")
+							if(prob(50))
+								playsound(src.loc, 'sound/misc/robot_1.ogg', 50, 1, 5)
+							else
+								if(prob(25))
+									playsound(src.loc, 'sound/misc/robot_6.ogg', 50, 1, 5)
+								else
+									playsound(src.loc, 'sound/misc/robot_2.ogg', 35, 1, 5)
+									..(act)
+
 						if("hyena")
 							playsound(src.loc, 'sound/misc/hyena1.ogg', 50, 1, 5)
+
+						if("elephant")
+							playsound(src.loc, 'sound/misc/elephant_1.ogg', 50, 1, 5)
+
+						if("shihtzu")
+							playsound(src.loc, 'sound/misc/shihtzu_1.ogg', 50, 1, 5)
+
+						if("orca")
+							playsound(src.loc, 'sound/misc/orca_1.ogg', 50, 1, 5)
 
 						if("jackalope")
 							playsound(src.loc, 'sound/misc/rabbit1.ogg', 50, 1, 5)
@@ -450,6 +476,21 @@
 								else
 									playsound(src.loc, 'sound/misc/lab1.ogg', 35, 1, 5)
 									..(act)
+
+						if("lopunny")
+							if(prob(50))
+								playsound(src.loc, 'sound/misc/Lopunny1.ogg', 50, 1, 5)
+							else
+								if(prob(5))
+									playsound(src.loc, 'sound/misc/Lopunny1.ogg', 50, 1, 5)
+								else
+									playsound(src.loc, 'sound/misc/Lopunny2.ogg', 35, 1, 5)
+									..(act)
+
+
+						if("lucky")
+							playsound(src.loc, 'sound/misc/kitsune1.ogg', 50, 1, 5)
+
 
 						if("leporid")
 							playsound(src.loc, 'sound/misc/rabbit1.ogg', 50, 1, 5)
@@ -514,6 +555,9 @@
 							playsound(src.loc, 'sound/misc/squirrel1.ogg', 50, 1, 5)
 
 						if("tajaran")
+							playsound(src.loc, 'sound/misc/tiger1.ogg', 50, 1, 5)
+
+						if("tiger")
 							playsound(src.loc, 'sound/misc/tiger1.ogg', 50, 1, 5)
 
 						if("ursine")

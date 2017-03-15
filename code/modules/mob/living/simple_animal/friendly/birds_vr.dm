@@ -142,7 +142,7 @@
 	desc = "It's a bird!"
 	icon_state = null
 
-/mob/living/simple_animal/pet/cat/bird/Life()
+/mob/living/simple_animal/pet/cat/bird/fluff/Life()
 	//MICE!
 	if((src.loc) && isturf(src.loc))
 		if(!stat && !resting && !buckled)

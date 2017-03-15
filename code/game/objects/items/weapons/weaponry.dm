@@ -438,3 +438,11 @@ obj/item/weapon/fleshlight
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "killbow_staff"
 	attack_verb = list("mesmerizes")
+
+/obj/item/weapon/dildos/analbeads
+	name = "Anal Beads"
+	desc = "A set up pink beads on a small, light pink string. It seems perfect for all your anal bead needs!"
+	icon = 'icons/obj/weapons.dmi'
+	icon_state = "anal_beads"
+	item_state = "anal_beads"
+	attack_verb = list("beadwhips", "beads")

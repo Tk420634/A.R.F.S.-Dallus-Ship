@@ -65,6 +65,15 @@ datum
 			adjective="cold"
 			attack_verb = "claw"
 			baseicon = 'icons/mob/races/anubis.dmi'
+		avali
+			name="avali"
+			id="avali"
+			generic="feathery rat thing"
+			adjective="weird"
+			tail=1
+			say_mod = "squaks"
+			baseicon = 'icons/mob/races/avali.dmi'
+			attack_verb = "scratch"
 		bat
 			name="bat"
 			id="bat"
@@ -117,6 +126,17 @@ datum
 			adjective="irritable"
 			say_mod = "bleats"
 			baseicon = 'icons/mob/races/capra.dmi'
+
+		carno
+			name="carno"
+			id="carno"
+			generic="red dino"
+			adjective="irritable"
+			say_mod = "roar"
+			attack_verb = "bites"
+			tail = 1
+			attack_sound = 'sound/weapons/bite.ogg'
+			baseicon = 'icons/mob/races/carno.dmi'
 		carp
 			name="carp"
 			id="carp"
@@ -128,6 +148,17 @@ datum
 			attack_verb = "nom"
 			attack_sound = 'sound/weapons/bite.ogg'
 			baseicon = 'icons/mob/races/carp.dmi'
+
+		ceratotaur
+			name="ceratotaur"
+			id="ceratotaur"
+			generic="yellow bannana dino"
+			adjective="angry"
+			say_mod = "roars"
+			attack_verb = "bite"
+			attack_sound = 'sound/weapons/bite.ogg'
+			tail=1
+			baseicon = 'icons/mob/races/ceratotaur.dmi'
 
 		chicken
 			name="chicken"
@@ -237,6 +268,15 @@ datum
 			restricted = "ThingPony"
 			tail=1
 			baseicon = 'icons/mob/races/eevee.dmi'
+		elephant
+			name="elephant"
+			say_mod = "trumpets"
+			id="elephant"
+			generic="fat"
+			adjective="big"
+			attack_verb = "trunk slap"
+			tail=1
+			baseicon = 'icons/mob/races/elephant.dmi'
 		flareon
 			name="flareon"
 			say_mod = "roars"
@@ -326,7 +366,7 @@ datum
 			tail=1
 			attack_verb = "whack"
 			baseicon = 'icons/mob/races/hawk.dmi'
-/*
+
 		hippo
 			name="hippo"
 			id="hippo"
@@ -334,7 +374,7 @@ datum
 			generic="hippo"
 			adjective="buoyant"
 			tail=1
-
+/*
 		hummingbird
 			name="hummingbird"
 			id="hummingbird"
@@ -407,7 +447,35 @@ datum
 			tail=1
 			taur=1
 			baseicon = 'icons/mob/races/lab.dmi'
-
+		lugia
+			name="lugia"
+			id="lugia"
+			say_mod = "chrips"
+			generic="leg poke"
+			attack_verb = "areoblast"
+			adjective="fancy"
+			tail=1
+			baseicon = 'icons/mob/races/lugia.dmi'
+		lucky
+			name="lucky"
+			id="lucky"
+			say_mod = "hums"
+			generic="fancy kitsune"
+			attack_verb = "claw"
+			adjective="fancy tails"
+			tail=1
+			baseicon = 'icons/mob/races/lucky.dmi'
+			restricted = "LuckyKoryo"
+		lopunny
+			name="lopunny"
+			id="lopunny"
+			say_mod = "squeaks"
+			generic="pokemon bunny"
+			attack_verb = "kick"
+			adjective="cute"
+			tail=1
+			baseicon = 'icons/mob/races/lopunny.dmi'
+			restricted = "KillBow"
 		leporid
 			name="leporid"
 			id="leporid"
@@ -452,15 +520,16 @@ datum
 			adjective="fluttery"
 			eyes="motheyes" // this SHOULD work after i've updated human_face.dmi -- iska
 			baseicon = 'icons/mob/races/moth.dmi'
-/*
+
 		mushman
 			name="mushroom"
 			id="fung"
 			generic="fungi"
 			adjective="sporey"
 			say_mod = "mushes"
+			baseicon = 'icons/mob/races/fung.dmi'
 			tail=0
-*/
+
 		monkey
 			name="monkey"
 			id="monkey"
@@ -485,6 +554,14 @@ datum
 			adjective="slim"
 			tail=1
 			baseicon = 'icons/mob/races/otter.dmi'
+		orca
+			name="orca"
+			id="orca"
+			say_mod = "bubbles"
+			generic="fat"
+			adjective="not a whale"
+			tail=1
+			baseicon = 'icons/mob/races/orca.dmi'
 		otusian
 			name="otusian"
 			id="otie"
@@ -522,9 +599,11 @@ datum
 			say_mod = "oinks"
 			baseicon = 'icons/mob/races/pig.dmi'
 		plant
+			name="plant"
+			id="pod"
 			generic="plant"
 			adjective="leafy"
-			baseicon = 'icons/mob/races/plant.dmi'
+			baseicon = 'icons/mob/races/pod.dmi'
 		porcupine
 			name="porcupine"
 			id="porcupine"
@@ -580,6 +659,16 @@ datum
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/slash.ogg'
 			baseicon = 'icons/mob/races/renamon.dmi'
+		robot
+			name="robot"
+			id="robot"
+			say_mod = "beeps"
+			generic = "metal"
+			adjective = "creaky"
+			tail=1
+			attack_verb = "borg"
+			attack_sound = "sound/weaons/robot_attack_noise.ogg"
+			baseicon = 'icons/mob/races/robot.dmi'
 		roorat
 			name="kangaroo rat"
 			id="roorat"
@@ -647,6 +736,7 @@ datum
 			generic="mephit"
 			adjective="stinky"
 			tail=1
+			taur=1
 			baseicon = 'icons/mob/races/skunk.dmi'
 		slime
 			name="slime"
@@ -663,8 +753,16 @@ datum
 			adjective="toothy"
 			tail=1
 			baseicon = 'icons/mob/races/smilodon.dmi'
+		shihtzu
+			name="shihtzu"
+			id="shihtzu"
+			say_mod = "barks"
+			generic="fluffy"
+			adjective="best pooch"
+			tail=1
+			baseicon = 'icons/mob/races/shihtzu.dmi'
 		stitch
-			name = "stitch"
+			name ="stitch"
 			id = "stitch"
 			say_mod = "barks"
 			generic = "space alien"
@@ -686,6 +784,16 @@ datum
 			eyes = "snarbyeyes"
 			baseicon = 'icons/mob/races/snarby.dmi'
 
+		stego
+			name="stego"
+			id="stego"
+			say_mod = "grunts"
+			generic="platey"
+			adjective="dead dino"
+			tail=1
+			attack_verb = "tail spike"
+			baseicon = 'icons/mob/races/stego.dmi'
+
 		squirrel
 			name="squirrel"
 			id="squirrel"
@@ -705,6 +813,16 @@ datum
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
 			baseicon = 'icons/mob/races/tajaran.dmi'
+		tiger
+			name="tiger"
+			id="tiger"
+			generic="feline"
+			say_mod = "growls"
+			adjective="furry"
+			tail=1
+			attack_verb = "claw"
+			attack_sound = 'sound/weapons/bladeslice.ogg'
+			baseicon = 'icons/mob/races/tiger.dmi'
 		turtle
 			name="turtle"
 			id="turtle"
@@ -743,7 +861,7 @@ datum
 			name="zigzagoon"
 			id="zigzagoon"
 			say_mod = "zigs"
-			generic="pokémon"
+			generic="pokÃ©mon"
 			adjective="curious"
 			tail=1
 			baseicon = 'icons/mob/races/zigzagoon.dmi'
@@ -1011,6 +1129,7 @@ var/list/mutant_tails = list(
 	"succubus" = "succubus",
 	"deathclaw" = "deathclaw",
 	"doublefoxtail" = "doublefoxtail",
+	"elephant" = "elephant"
 	)
 
 var/list/mutant_wings = list(
@@ -1025,6 +1144,8 @@ var/list/mutant_wings = list(
 	"bee" = "bee",
 	"angel" = "angel",
 	"smallfairy" = "smallfairy",
+	"monarch" = "monarch",
+	"swallowtail" = "swallowtail"
 	)
 
 var/list/cock_list = list(
@@ -1032,7 +1153,8 @@ var/list/cock_list = list(
 	"canine",
 	"feline",
 	"reptilian",
-	"equine")
+	"equine",
+	"mega")
 
 
 proc/kpcode_hastail(var/S)

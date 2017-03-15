@@ -247,7 +247,7 @@
 	/obj/item/weapon/reagent_containers/food/snacks/chocolatebar = 2,
 	/obj/item/weapon/reagent_containers/food/snacks/grown/rice = 2,
 	/datum/reagent/consumable/sugar = 10)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/candybar/rice
+	result = /obj/item/weapon/reagent_containers/food/snacks/candybar/rice
 	category = CAT_FOOD
 
 /datum/table_recipe/candycane
@@ -255,35 +255,35 @@
 	reqs = list(
 	/datum/reagent/water = 5,
 	/datum/reagent/consumable/sugar = 5)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/candycane
+	result = /obj/item/weapon/reagent_containers/food/snacks/candycane
 	category = CAT_FOOD
 
 /datum/table_recipe/cottencandy
 	name = "Cotten Candy"
 	reqs = list(
 	/datum/reagent/consumable/sugar = 10)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/cotton
+	result = /obj/item/weapon/reagent_containers/food/snacks/cotton
 	category = CAT_FOOD
 
 /datum/table_recipe/gummybear
 	name ="Gummy Bear"
 	reqs = list(
 	/datum/reagent/consumable/sugar = 10)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/gummybear
+	result = /obj/item/weapon/reagent_containers/food/snacks/gummybear
 	category = CAT_FOOD
 
 /datum/table_recipe/jellybean
 	name ="Jelly Bean"
 	reqs = list(
 	/datum/reagent/consumable/sugar = 10)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/jellybean
+	result = /obj/item/weapon/reagent_containers/food/snacks/jellybean
 	category = CAT_FOOD
 
 /datum/table_recipe/sucker
 	name ="Gummy Bear"
 	reqs = list(
 	/datum/reagent/consumable/sugar = 10)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/sucker
+	result = /obj/item/weapon/reagent_containers/food/snacks/sucker
 	category = CAT_FOOD
 
 /datum/table_recipe/turtlefudge
@@ -291,7 +291,7 @@
 	reqs = list(
 	/datum/reagent/consumable/sugar = 10,
 	/obj/item/weapon/reagent_containers/food/snacks/chocolatebar = 5)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/fudge/turtle
+	result = /obj/item/weapon/reagent_containers/food/snacks/fudge/turtle
 	category = CAT_FOOD
 
 /datum/table_recipe/cookiesncream
@@ -301,7 +301,7 @@
 	/obj/item/weapon/reagent_containers/food/snacks/chocolatebar = 5,
 	/obj/item/weapon/reagent_containers/food/snacks/cookie = 2,
 	/datum/reagent/consumable/cream = 5)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/fudge/cookies_n_cream
+	result = /obj/item/weapon/reagent_containers/food/snacks/fudge/cookies_n_cream
 	category = CAT_FOOD
 
 /datum/table_recipe/cherryfudge
@@ -310,7 +310,7 @@
 	/datum/reagent/consumable/sugar = 10,
 	/obj/item/weapon/reagent_containers/food/snacks/chocolatebar = 5,
 	/obj/item/weapon/reagent_containers/food/snacks/grown/cherries = 2)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/fudge/cherry
+	result = /obj/item/weapon/reagent_containers/food/snacks/fudge/cherry
 	category = CAT_FOOD
 
 /datum/table_recipe/peanutfudge
@@ -318,7 +318,7 @@
 	reqs = list(
 	/datum/reagent/consumable/sugar = 10,
 	/obj/item/weapon/reagent_containers/food/snacks/chocolatebar = 5)
-	result = /obj/item/weapon/reagent_containers/food/snacks/candy/fudge/peanut
+	result = /obj/item/weapon/reagent_containers/food/snacks//fudge/peanut
 
 
 

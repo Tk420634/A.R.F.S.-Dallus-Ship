@@ -1118,7 +1118,7 @@
 	name = "red captain dress"
 	desc = ""
 	icon_state = "captain-dress-red"
-	item_color = "captain-dres-red"
+	item_color = "captain-dress-red"
 	item_state = "captain-dress-red_s"
 	can_adjust = 0
 
