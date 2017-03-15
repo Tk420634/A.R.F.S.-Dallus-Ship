@@ -855,6 +855,7 @@
 #include "code\game\verbs\ooc.dm"
 #include "code\game\verbs\suicide.dm"
 #include "code\game\verbs\who.dm"
+#include "code\gozulio\game\objects\items\weapons\melee\cane.dm"
 #include "code\hybi\autocrew call.dm"
 #include "code\hybi\bola.dm"
 #include "code\hybi\chewchems.dm"
