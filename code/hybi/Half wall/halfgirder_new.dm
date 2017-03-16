@@ -40,33 +40,33 @@
 		return 0
 	return 1
 
-/obj/structure/girder/attackby(obj/item/W, mob/user, params)
+/obj/structure/halfgirder/attackby(obj/item/W, mob/user, params)
 	add_fingerprint(user)
 	if(istype(W, /obj/item/weapon/screwdriver))
-		if(state == GIRDER_DISPLACED)
+		if(state == HALF_GIRDER_DISPLACED)
 			playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 			user.visible_message("<span class='warning'>[user] disassembles the girder.</span>", \
 								"<span class='notice'>You start to disassemble the girder...</span>", "You hear clanking and banging noises.")
 			if(do_after(user, 40, target = src))
-				if(state != GIRDER_DISPLACED)
+				if(state != HALF_GIRDER_DISPLACED)
 					return
-				state = GIRDER_DISASSEMBLED
+				state = HALF_GIRDER_DISASSEMBLED
 				user << "<span class='notice'>You disassemble the girder.</span>"
 				var/obj/item/stack/sheet/metal/M = new (loc, 2)
 				M.add_fingerprint(user)
 				qdel(src)
-		else if(state == GIRDER_REINF)
+		else if(state == HALF_GIRDER_REINF)
 			playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 			user << "<span class='notice'>You start unsecuring support struts...</span>"
 			if(do_after(user, 40, target = src))
-				if(state != GIRDER_REINF)
+				if(state != HALF_GIRDER_REINF)
 					return
 				user << "<span class='notice'>You unsecure the support struts.</span>"
-				state = GIRDER_REINF_STRUTS
+				state = HALF_GIRDER_REINF_STRUTS
 
 	else if(istype(W, /obj/item/weapon/wrench))
-		if(state == GIRDER_DISPLACED)
-			if(!istype(loc, /turf/simulated/floor))
+		if(state == HALF_GIRDER_DISPLACED)
+			if(!istype(loc, /turf/simulated/floor)) // add rotation check heeere
 				user << "<span class='warning'>A floor must be present to secure the girder!</span>"
 				return
 			playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
@@ -76,7 +76,7 @@
 				var/obj/structure/girder/G = new (loc)
 				transfer_fingerprints_to(G)
 				qdel(src)
-		else if(state == GIRDER_NORMAL)
+		else if(state == HALF_GIRDER_NORMAL)
 			playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
 			user << "<span class='notice'>You start unsecuring the girder...</span>"
 			if(do_after(user, 40, target = src))
@@ -101,13 +101,13 @@
 		D.playDigSound()
 		qdel(src)
 
-	else if(istype(W, /obj/item/weapon/wirecutters) && state == GIRDER_REINF_STRUTS)
+	else if(istype(W, /obj/item/weapon/wirecutters) && state == HALF_GIRDER_REINF_STRUTS)
 		playsound(src.loc, 'sound/items/Wirecutter.ogg', 100, 1)
 		user << "<span class='notice'>You start removing support struts...</span>"
 		if(do_after(user, 40, target = src))
 			user << "<span class='notice'>You remove the support struts.</span>"
 			new /obj/item/stack/sheet/plasteel(get_turf(src))
-			var/obj/structure/girder/G = new (loc)
+			var/obj/structure/half_girder/G = new (loc)
 			transfer_fingerprints_to(G)
 			qdel(src)
 
@@ -124,7 +124,7 @@
 
 		if(istype(W,/obj/item/stack/rods))
 			var/obj/item/stack/rods/S = W
-			if(state == GIRDER_DISPLACED)
+			if(state == HALF_GIRDER_DISPLACED)
 				if(S.amount < 2)
 					user << "<span class='warning'>You need at least two rods to create a false wall!</span>"
 					return
@@ -160,7 +160,7 @@
 		switch(S.type)
 
 			if(/obj/item/stack/sheet/metal, /obj/item/stack/sheet/metal/cyborg)
-				if(state == GIRDER_DISPLACED)
+				if(state == HALF_GIRDER_DISPLACED)
 					if(S.get_amount() < 2)
 						user << "<span class='warning'>You need two sheets of metal to create a false wall!</span>"
 						return
@@ -190,7 +190,7 @@
 					return
 
 			if(/obj/item/stack/sheet/plasteel)
-				if(state == GIRDER_DISPLACED)
+				if(state == HALF_GIRDER_DISPLACED)
 					if(S.amount < 2)
 						user << "<span class='warning'>You need at least two sheets to create a false wall!</span>"
 						return
@@ -204,7 +204,7 @@
 						transfer_fingerprints_to(FW)
 						qdel(src)
 				else
-					if(state == GIRDER_REINF)
+					if(state == HALF_GIRDER_REINF)
 						if(S.amount < 1)
 							return
 						user << "<span class='notice'>You start finalizing the reinforced wall...</span>"
@@ -234,7 +234,7 @@
 
 		if(S.sheettype)
 			var/M = S.sheettype
-			if(state == GIRDER_DISPLACED)
+			if(state == HALF_GIRDER_DISPLACED)
 				if(S.amount < 2)
 					user << "<span class='warning'>You need at least two sheets to create a false wall!</span>"
 					return
