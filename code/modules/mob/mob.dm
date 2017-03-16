@@ -711,20 +711,21 @@ var/list/slot_equipment_priority = list( \
 			stat(null, "Next Map: [nextmap.friendlyname]")
 		stat(null, "Server Time: [time2text(world.realtime, "YYYY-MM-DD hh:mm")]")
 		var/ETA
-		switch(SSshuttle.emergency.mode)
-			if(SHUTTLE_RECALL)
-				ETA = "RCL"
-			if(SHUTTLE_CALL)
-				ETA = "ETA"
-			if(SHUTTLE_DOCKED)
-				ETA = "ETD"
-			if(SHUTTLE_ESCAPE)
-				ETA = "ESC"
-			if(SHUTTLE_STRANDED)
-				ETA = "ERR"
-		if(ETA)
-			var/timeleft = SSshuttle.emergency.timeLeft()
-			stat(null, "[ETA]-[(timeleft / 60) % 60]:[add_zero(num2text(timeleft % 60), 2)]")
+		if(SSshuttle.emergency)//runtime suppression for maps without shuttles
+			switch(SSshuttle.emergency.mode)
+				if(SHUTTLE_RECALL)
+					ETA = "RCL"
+				if(SHUTTLE_CALL)
+					ETA = "ETA"
+				if(SHUTTLE_DOCKED)
+					ETA = "ETD"
+				if(SHUTTLE_ESCAPE)
+					ETA = "ESC"
+				if(SHUTTLE_STRANDED)
+					ETA = "ERR"
+			if(ETA)
+				var/timeleft = SSshuttle.emergency.timeLeft()
+				stat(null, "[ETA]-[(timeleft / 60) % 60]:[add_zero(num2text(timeleft % 60), 2)]")
 
 
 	if(client && client.holder)

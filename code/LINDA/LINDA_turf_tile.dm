@@ -53,6 +53,9 @@
 
 	var/atmos_overlay_type = "" //current active overlay
 
+	var/initial_gas_mix
+	var/planetary_atmos = FALSE //air will revert to initial_gas_mix over time
+
 /turf/simulated/New()
 	..()
 	levelupdate()
@@ -60,12 +63,15 @@
 		smooth_icon(src)
 	visibilityChanged()
 	if(!blocks_air)
-		air = new
-		air.oxygen = oxygen
-		air.carbon_dioxide = carbon_dioxide
-		air.nitrogen = nitrogen
-		air.toxins = toxins
-		air.temperature = temperature
+		if(initial_gas_mix)
+			air = new initial_gas_mix
+		else
+			air = new
+			air.oxygen = oxygen
+			air.carbon_dioxide = carbon_dioxide
+			air.nitrogen = nitrogen
+			air.toxins = toxins
+			air.temperature = temperature
 
 /turf/simulated/Destroy()
 	visibilityChanged()
@@ -206,6 +212,13 @@
 				remove = 0
 				if(excited_group)
 					last_share_check()
+
+	if (planetary_atmos) //share our air with the "atmosphere" "above" the turf
+		var/datum/gas_mixture/G = new initial_gas_mix
+		if(!air.compare(G))
+			copy_air(G)
+		else
+			air.share(G, atmos_adjacent_turfs_amount)
 
 	air.react()
 
