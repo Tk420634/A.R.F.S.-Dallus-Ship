@@ -6,6 +6,7 @@ mask// TO DO:
 // COOL GUM
 // FUCK EVERYTHING GUM
 // FLIP GUM
+//This guy is a fucking nerd. ~Tk
 
 /obj/item/clothing/mask/chewies
 	name = "chewing gum"
