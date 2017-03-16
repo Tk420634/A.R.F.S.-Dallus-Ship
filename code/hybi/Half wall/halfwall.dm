@@ -4,6 +4,7 @@
 /obj/structure/halfwall
 	name = "halfwall"
 	desc = "A halfwall."
+	icon = 'code/hybi/icons/halfwall.dmi'
 	icon_state = "halfwall"
 	density = 1
 	layer = 3.2//Just above doors
