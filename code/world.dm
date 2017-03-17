@@ -1,7 +1,7 @@
 /world
 	mob = /mob/new_player
-	turf = /turf/space
-	area = /area/space
+	turf = /turf/simulated/floor/plating/planet/ullr
+	area = /area/planet/ullr
 	view = "15x15"
 	cache_lifespan = 7
 
