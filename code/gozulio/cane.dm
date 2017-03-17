@@ -1,5 +1,7 @@
 //Gozulios white cane. There are two entries here using the telescopic baton code.
 //White Cane for head of staff use
+
+// never - jon
 /obj/item/weapon/melee/classic_baton/telescopic/goz/whitecane
 	name = "white cane"
 	desc = "A telescoping white cane. They are commonly used by the blind or visually impaired as a mobility tool or as a courtesy to others."
