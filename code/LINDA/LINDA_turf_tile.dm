@@ -217,8 +217,6 @@
 		var/datum/gas_mixture/G = new initial_gas_mix
 		if(!air.compare(G))
 			copy_air(G)
-		else
-			air.share(G, atmos_adjacent_turfs_amount)
 
 	air.react()
 
