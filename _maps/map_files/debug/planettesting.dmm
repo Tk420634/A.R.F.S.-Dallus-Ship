@@ -1,7 +1,7 @@
-"a" = (/turf/simulated/floor/plating/planet/ullr,/area/space)
-"b" = (/obj/machinery/meter/turf,/turf/simulated/floor/plating/planet/ullr,/area/space)
-"c" = (/obj/item/device/analyzer,/turf/simulated/floor/plating/planet/ullr,/area/space)
-"d" = (/obj/item/drone_shell,/turf/simulated/floor/plating/planet/ullr,/area/space)
+"a" = (/turf/simulated/floor/plating/planet/ullr,/area/planet/ullr)
+"b" = (/obj/machinery/meter/turf,/turf/simulated/floor/plating/planet/ullr,/area/planet/ullr)
+"c" = (/obj/item/device/analyzer,/turf/simulated/floor/plating/planet/ullr,/area/planet/ullr)
+"d" = (/obj/item/drone_shell,/turf/simulated/floor/plating/planet/ullr,/area/planet/ullr)
 "e" = (/turf/simulated/wall,/area/start)
 "f" = (/obj/machinery/door/airlock,/turf/simulated/floor/plasteel/floorgrime,/area/start)
 "g" = (/obj/structure/grille,/obj/structure/window/fulltile,/turf/simulated/floor/plating,/area/start)
@@ -11,8 +11,8 @@
 "k" = (/obj/item/device/analyzer,/turf/simulated/floor/plasteel/floorgrime,/area/start)
 "l" = (/obj/effect/landmark/start,/turf/simulated/floor/plasteel/floorgrime,/area/start)
 "m" = (/obj/effect/landmark/latejoin,/obj/item/drone_shell,/turf/simulated/floor/plasteel/floorgrime,/area/start)
-"n" = (/turf/simulated/wall,/area/space)
-"o" = (/obj/machinery/meter/turf,/turf/simulated/floor/plasteel/floorgrime,/area/space)
+"n" = (/turf/simulated/wall,/area/planet/ullr)
+"o" = (/obj/machinery/meter/turf,/turf/simulated/floor/plasteel/floorgrime,/area/planet/ullr)
 
 (1,1,1) = {"
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

@@ -18,4 +18,4 @@
 	carbon_dioxide = 0
 	nitrogen = 13
 	toxins = 0
-	temperature = 248.15
+	temperature = 223.15
