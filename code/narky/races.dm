@@ -119,6 +119,14 @@ datum
 			adjective="wild and curly"
 			tail=1
 			baseicon = 'icons/mob/races/boar.dmi'
+		butterfly
+			name="butterfly"
+			id="butterfly"
+			say_mod = "clicks"
+			generic="fluffy"
+			adjective="fluffy and cute"
+			attack_verb = "fluff"
+			baseicon = 'icons/mob/races/butterfly.dmi'
 		capra
 			name="caprine"
 			id="capra"
@@ -239,6 +247,13 @@ datum
 			attack_verb = "gore"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
 			baseicon = 'icons/mob/races/deer.dmi'
+		diona
+			name="diona"
+			id="diona"
+			say_mod = "creaks"
+			generic="woody"
+			adjective="Some weird plant thing"
+			baseicon = 'icons/mob/races/diona.dmi'
 		drake
 			name="drake"
 			id="drake"
@@ -277,6 +292,13 @@ datum
 			attack_verb = "trunk slap"
 			tail=1
 			baseicon = 'icons/mob/races/elephant.dmi'
+		elf
+			name="elf"
+			id="elf"
+			generic="pointy"
+			adjective="Just a human with penis ears"
+			tail=1
+			baseicon = 'icons/mob/races/elf.dmi'
 		flareon
 			name="flareon"
 			say_mod = "roars"
@@ -494,6 +516,15 @@ datum
 			taur="naga"
 			tail=1
 			baseicon = 'icons/mob/races/lizard.dmi'
+		lynx
+			name="lynx"
+			id="lynx"
+			say_mod = "growls"
+			generic="small kitty"
+			adjective="grr grr growl"
+			tail=1
+			attack_verb = "claw"
+			baseicon = 'icons/mob/races/lynx.dmi'
 		murid // these are rodents like mice and rats, iska is dumb. c: ~Tk
 			name="murid"
 			id="murid"
@@ -745,6 +776,14 @@ datum
 			generic="slime"
 			adjective="slimy"
 			baseicon = 'icons/mob/races/slime.dmi'
+		siamese
+			name="siamese cat"
+			id="siamese"
+			say_mod = "mews"
+			generic="adorable"
+			adjective= "scratches"
+			tail=1
+			baseicon = 'icons/mob/races/siamese.dmi'
 		smilodon
 			name="smilodon"
 			id="smilodon"
@@ -793,6 +832,14 @@ datum
 			tail=1
 			attack_verb = "tail spike"
 			baseicon = 'icons/mob/races/stego.dmi'
+		pudding
+			name="pudding"
+			id="pudd"
+			say_mod = "blurps"
+			generic="tottaly not a slime"
+			adjective="not a human"
+			taur=1
+			baseicon = 'icons/mob/races/pudding.dmi'
 
 		squirrel
 			name="squirrel"
@@ -1129,7 +1176,9 @@ var/list/mutant_tails = list(
 	"succubus" = "succubus",
 	"deathclaw" = "deathclaw",
 	"doublefoxtail" = "doublefoxtail",
-	"elephant" = "elephant"
+	"elephant" = "elephant",
+	"barioth" = "barioth",
+	"gigginox" = "gigginox"
 	)
 
 var/list/mutant_wings = list(
