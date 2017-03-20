@@ -767,7 +767,6 @@ datum
 			generic="mephit"
 			adjective="stinky"
 			tail=1
-			taur=1
 			baseicon = 'icons/mob/races/skunk.dmi'
 		slime
 			name="slime"
@@ -838,7 +837,6 @@ datum
 			say_mod = "blurps"
 			generic="tottaly not a slime"
 			adjective="not a human"
-			taur=1
 			baseicon = 'icons/mob/races/pudding.dmi'
 
 		squirrel
