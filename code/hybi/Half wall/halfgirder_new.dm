@@ -18,6 +18,8 @@
 	var/girderpasschance = 20 // percentage chance that a projectile passes through the girder.
 	can_be_unanchored = 1
 
+// PART 1 DONE
+
 /obj/structure/halfgirder/CanPass(atom/movable/mover, turf/target, height=0)
 	if(istype(mover) && mover.checkpass(PASSGRILLE))
 		return 1
@@ -33,12 +35,16 @@
 	else
 		return 0
 
+// PART 2 DONE
+
 /obj/structure/halfgirder/CheckExit(atom/movable/O as mob|obj, target)
 	if(istype(O) && O.checkpass(PASSGRILLE))
 		return 1
 	if(get_dir(O.loc, target) == dir)
 		return 0
 	return 1
+
+// PART 3, DONE
 
 /obj/structure/halfgirder/attackby(obj/item/W, mob/user, params)
 	add_fingerprint(user)
@@ -47,50 +53,53 @@
 			playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 			user.visible_message("<span class='warning'>[user] disassembles the girder.</span>", \
 								"<span class='notice'>You start to disassemble the girder...</span>", "You hear clanking and banging noises.")
-			if(do_after(user, 40, target = src))
+			if(do_after(user, 20, target = src))
 				if(state != HALF_GIRDER_DISPLACED)
 					return
 				state = HALF_GIRDER_DISASSEMBLED
 				user << "<span class='notice'>You disassemble the girder.</span>"
-				var/obj/item/stack/sheet/metal/M = new (loc, 2)
+				var/obj/item/stack/sheet/metal/M = new (loc, 1)
 				M.add_fingerprint(user)
 				qdel(src)
+// PART 4, DONE
 		else if(state == HALF_GIRDER_REINF)
 			playsound(src.loc, 'sound/items/Screwdriver.ogg', 100, 1)
 			user << "<span class='notice'>You start unsecuring support struts...</span>"
-			if(do_after(user, 40, target = src))
+			if(do_after(user, 20, target = src))
 				if(state != HALF_GIRDER_REINF)
 					return
 				user << "<span class='notice'>You unsecure the support struts.</span>"
 				state = HALF_GIRDER_REINF_STRUTS
-
+// PART 5, NOT DONE --------------------------------------------------------------------------------------
+/*
 	else if(istype(W, /obj/item/weapon/wrench))
 		if(state == HALF_GIRDER_DISPLACED)
 			if(!istype(loc, /turf/simulated/floor)) // add rotation check heeere
 				user << "<span class='warning'>A floor must be present to secure the girder!</span>"
 				return
+			if(!istype(loc,
 			playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
 			user << "<span class='notice'>You start securing the girder...</span>"
-			if(do_after(user, 40, target = src))
+			if(do_after(user, 20, target = src))
 				user << "<span class='notice'>You secure the girder.</span>"
-				var/obj/structure/girder/G = new (loc)
+				var/obj/structure/halfgirder/G = new (loc)
 				transfer_fingerprints_to(G)
 				qdel(src)
 		else if(state == HALF_GIRDER_NORMAL)
 			playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
 			user << "<span class='notice'>You start unsecuring the girder...</span>"
-			if(do_after(user, 40, target = src))
+			if(do_after(user, 20, target = src))
 				user << "<span class='notice'>You unsecure the girder.</span>"
-				var/obj/structure/girder/displaced/D = new (loc)
+				var/obj/structure/halfgirder/displaced/D = new (loc)
 				transfer_fingerprints_to(D)
 				qdel(src)
-
+ ------------------------------------------------------------------------------------------------------- */
 	else if(istype(W, /obj/item/weapon/gun/energy/plasmacutter))
 		user << "<span class='notice'>You start slicing apart the girder...</span>"
 		playsound(src, 'sound/items/Welder.ogg', 100, 1)
-		if(do_after(user, 30, target = src))
+		if(do_after(user, 15, target = src))
 			user << "<span class='notice'>You slice apart the girder.</span>"
-			var/obj/item/stack/sheet/metal/M = new (loc, 2)
+			var/obj/item/stack/sheet/metal/M = new (loc, 1)
 			M.add_fingerprint(user)
 			qdel(src)
 
@@ -104,14 +113,20 @@
 	else if(istype(W, /obj/item/weapon/wirecutters) && state == HALF_GIRDER_REINF_STRUTS)
 		playsound(src.loc, 'sound/items/Wirecutter.ogg', 100, 1)
 		user << "<span class='notice'>You start removing support struts...</span>"
-		if(do_after(user, 40, target = src))
+		if(do_after(user, 20, target = src))
 			user << "<span class='notice'>You remove the support struts.</span>"
 			new /obj/item/stack/sheet/plasteel(get_turf(src))
 			var/obj/structure/half_girder/G = new (loc)
 			transfer_fingerprints_to(G)
 			qdel(src)
 
+
 	else if(istype(W, /obj/item/stack))
+		if (istype(src.loc, /obj/structure/halfwall))
+			var/obj/structure/halfwall/HW
+			if (HW.dir == src.dir)
+				user << "<span class='warning'>There is already a wall present!</span>"
+				return
 		if (istype(src.loc, /turf/simulated/wall))
 			user << "<span class='warning'>There is already a wall present!</span>"
 			return
@@ -152,13 +167,13 @@
 					transfer_fingerprints_to(T)
 					qdel(src)
 				return
-
+// PART 13
 		if(!istype(W,/obj/item/stack/sheet))
 			return
 
 		var/obj/item/stack/sheet/S = W
 		switch(S.type)
-
+// PART 14
 			if(/obj/item/stack/sheet/metal, /obj/item/stack/sheet/metal/cyborg)
 				if(state == HALF_GIRDER_DISPLACED)
 					if(S.get_amount() < 2)
@@ -188,7 +203,7 @@
 						transfer_fingerprints_to(T)
 						qdel(src)
 					return
-
+// PART 15
 			if(/obj/item/stack/sheet/plasteel)
 				if(state == HALF_GIRDER_DISPLACED)
 					if(S.amount < 2)
@@ -203,6 +218,7 @@
 						var/obj/structure/falsewall/reinforced/FW = new (loc)
 						transfer_fingerprints_to(FW)
 						qdel(src)
+// PART 16
 				else
 					if(state == HALF_GIRDER_REINF)
 						if(S.amount < 1)
@@ -218,6 +234,7 @@
 							transfer_fingerprints_to(T)
 							qdel(src)
 						return
+// PART 17
 					else
 						if(S.amount < 1)
 							return
@@ -231,7 +248,7 @@
 							transfer_fingerprints_to(R)
 							qdel(src)
 						return
-
+// PART 18
 		if(S.sheettype)
 			var/M = S.sheettype
 			if(state == HALF_GIRDER_DISPLACED)
@@ -259,7 +276,7 @@
 					transfer_fingerprints_to(T)
 					qdel(src)
 				return
-
+// PART 19
 		add_hiddenprint(user)
 
 	else if(istype(W, /obj/item/pipe))
