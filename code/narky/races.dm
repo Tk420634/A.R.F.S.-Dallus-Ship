@@ -767,7 +767,6 @@ datum
 			generic="mephit"
 			adjective="stinky"
 			tail=1
-			taur=1
 			baseicon = 'icons/mob/races/skunk.dmi'
 		slime
 			name="slime"
@@ -838,7 +837,6 @@ datum
 			say_mod = "blurps"
 			generic="tottaly not a slime"
 			adjective="not a human"
-			taur=1
 			baseicon = 'icons/mob/races/pudding.dmi'
 
 		squirrel
@@ -952,6 +950,14 @@ datum
 			adjective="shady" // Jokes
 			restricted=2
 			baseicon = 'icons/mob/races/human.dmi'
+
+		zebra
+			name="zebra"
+			generic="striped horsy"
+			adjective="black with white stripes. Or..white with black"
+			say_mod="brays"
+			attack_verb="kicks"
+			baseicon = 'icons/mob/races/zebra.dmi'
 		golem
 			//name="golem"
 			generic="golem"

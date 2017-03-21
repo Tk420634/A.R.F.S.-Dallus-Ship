@@ -324,3 +324,10 @@ obj/item/device/flashlight/lamp/bananalamp
 	else
 		user << "<span class='warning'>\The [src] needs time to recharge!</span>"
 	return
+
+//Lucky's Donation item
+/obj/item/device/flashlight/luckyball
+	name = "Lucky Koryo's Starball"
+	icon_state = "luckyball"
+	desc = "This is Lucky's Starball, Often seen in Lucky's possession the ball fits snugly in the palm of your hand, it looks to be transparent if only in the slightest, with a diamond marking as the same on the Kitsune's forhead. They would be VERY grateful if you were to return it to them..."
+	brightness_on = 6
