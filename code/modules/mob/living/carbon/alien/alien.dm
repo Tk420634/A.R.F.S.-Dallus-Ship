@@ -19,6 +19,7 @@
 	var/has_fine_manipulation = 0
 	var/move_delay_add = 0 // movement delay to add
 	var/deathNotified = 0
+	var/hulk = 0
 	status_flags = CANPARALYSE|CANPUSH
 
 	var/heat_protection = 0.5
