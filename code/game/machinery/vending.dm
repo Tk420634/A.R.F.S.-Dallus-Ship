@@ -1046,7 +1046,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 	/obj/item/clothing/tie/mantelet/white = 4, /obj/item/clothing/tie/mantelet/cc = 4,
 	/obj/item/clothing/gloves/weddingring = 6, /obj/item/clothing/gloves/weddingring/silver = 6,
 	/obj/item/clothing/under/shizunewinter = 4, /obj/item/clothing/under/shizunenormal = 4,
-	/obj/item/clothing/under/keyholesweater = 4, /obj/item/clothing/under/hoodiejeans = 4,
+	/obj/item/clothing/under/bb/keyholesweater = 4, /obj/item/clothing/under/hoodiejeans = 4,
 	/obj/item/clothing/under/hoodieskirt = 4, /obj/item/clothing/under/castiledress = 2,
 	/obj/item/clothing/under/flapperdress = 2, /obj/item/clothing/under/purplecheer = 2,
 	/obj/item/clothing/under/yellowcheer = 2, /obj/item/clothing/under/whitecheer = 2,
