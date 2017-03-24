@@ -767,6 +767,7 @@
 	item_color = "barebutt"
 	body_parts_covered = CHEST|ARMS //fuck you jon
 	can_adjust = 1
+
 /obj/item/clothing/under/bb/sweater
 	name = "black sweater"
 	icon_state = "bb_turtleblk"
@@ -796,6 +797,13 @@
 	icon_state = "bb_turtleblu"
 	item_state = "b_suit"
 	item_color = "bb_turtleblu"
+
+/obj/item/clothing/under/bb/keyholesweater
+	name = "keyhole sweater"
+	desc = "a lilac sweater with a cutout section to show off some clevage"
+	icon_state = "keyholesweater"
+	item_color = "keyholesweater"
+	item_state = "keyholesweater_s"
 
 //END OF BARE BUTT PYJAMA AND SWEATERS
 

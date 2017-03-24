@@ -862,7 +862,6 @@
 #include "code\hybi\chewys.dm"
 #include "code\hybi\cryopod.dm"
 #include "code\hybi\give.dm"
-#include "code\hybi\halfwall.dm"
 #include "code\hybi\inflatable.dm"
 #include "code\hybi\items.dm"
 #include "code\hybi\mats.dm"
