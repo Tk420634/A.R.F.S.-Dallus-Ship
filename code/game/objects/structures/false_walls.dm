@@ -106,8 +106,9 @@
 
 /
 
-/obj/structure/falsewall/proc/dismantle(mob/user)
-	user.visible_message("<span class='notice'>[user] dismantles the false wall.</span>", "<span class='notice'>You dismantle the false wall.</span>")
+/obj/structure/falsewall/proc/dismantle(mob/user, message = 1)
+	if(message)
+		user.visible_message("<span class='notice'>[user] dismantles the false wall.</span>", "<span class='notice'>You dismantle the false wall.</span>")
 	new /obj/structure/girder/displaced(loc)
 	if(mineral == "metal")
 		if(istype(src, /obj/structure/falsewall/reinforced))

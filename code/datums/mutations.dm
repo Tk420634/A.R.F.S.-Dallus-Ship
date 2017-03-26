@@ -107,12 +107,12 @@
 
 /datum/mutation/human/proc/get_spans()
 	return list()
-/*
+
 /datum/mutation/human/hulk
 
 	name = "Hulk"
 	quality = POSITIVE
-	get_chance = 15
+	get_chance = 0
 	lowest_value = 256 * 12
 	text_gain_indication = "<span class='notice'>Your muscles hurt!</span>"
 	species_allowed = list("human") //no skeleton/lizard hulk
@@ -157,7 +157,7 @@
 
 	name = "Telekinesis"
 	quality = POSITIVE
-	get_chance = 20
+	get_chance = 0
 	lowest_value = 256 * 12
 	text_gain_indication = "<span class='notice'>You feel smarter!</span>"
 
@@ -175,7 +175,7 @@
 
 	name = "Cold Resistance"
 	quality = POSITIVE
-	get_chance = 25
+	get_chance = 0
 	lowest_value = 256 * 12
 	text_gain_indication = "<span class='notice'>Your body feels warm!</span>"
 	time_coeff = 5
@@ -196,7 +196,7 @@
 
 	name = "X Ray Vision"
 	quality = POSITIVE
-	get_chance = 25
+	get_chance = 0
 	lowest_value = 256 * 12
 	text_gain_indication = "<span class='notice'>The walls suddenly disappear!</span>"
 	time_coeff = 2
@@ -217,7 +217,7 @@
 		return
 	owner.see_in_dark = initial(owner.see_in_dark)
 	owner.sight = initial(owner.sight)
-*/
+
 
 /datum/mutation/human/nearsight
 

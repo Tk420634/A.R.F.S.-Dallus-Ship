@@ -1,39 +1,35 @@
-/mob/living/carbon/alien/humanoid/ravager
-	name = "alien ravager"
-	caste = "rav"
-	maxHealth = 250
-	health = 250
+/mob/living/carbon/alien/humanoid/ravager/hulk
+	name = "hulking alien"
+	caste = "hulk"
+	maxHealth = 175
+	health = 175
 	icon = 'icons/mob/alienqueen.dmi'
-	icon_state = "alienrav"
-	heat_protection = 2 //the only fire resistant caste
+	icon_state = "alienhulk"
+	heat_protection = 2
 	ventcrawler = 0
 	pixel_x = -16
 	mob_size = MOB_SIZE_LARGE
-	butcher_results = list(/obj/item/weapon/xeno_skull/r = 1,
+	butcher_results = list(/*/obj/item/weapon/xeno_skull/r = 1,*/
 	/obj/item/weapon/reagent_containers/food/snacks/meat/slab/xeno = 5,
 	/obj/item/stack/sheet/animalhide/xeno = 3,
 	/obj/item/weapon/xenos_tail = 1,
 	/obj/item/weapon/xenos_claw = 2)
 	pressure_resistance = 200
 	layer = 6
-	unique_name = 0
-	var/alt_inhands_file = 'icons/mob/alienqueen.dmi'
-	var/charging = 0
-/mob/living/carbon/alien/humanoid/ravager/movement_delay()
-	. = ..()
+	unique_name = 1
+	hulk = 1
 
-/mob/living/carbon/alien/humanoid/ravager/New()
-	real_name = name
-	internal_organs += new /obj/item/organ/internal/alien/plasmavessel/ravager
+
+/mob/living/carbon/alien/humanoid/ravager/hulk/New()
 	..()
 
-/mob/living/carbon/alien/humanoid/ravager/handle_hud_icons_health()
+/mob/living/carbon/alien/humanoid/ravager/hulk/handle_hud_icons_health()
 	if (healths)
 		if(stat != DEAD)
 			switch(health)
-				if(250 to INFINITY)
+				if(175 to INFINITY)
 					healths.icon_state = "health0"
-				if(200 to 250)
+				if(200 to 175)
 					healths.icon_state = "health1"
 				if(150 to 200)
 					healths.icon_state = "health2"
@@ -48,8 +44,8 @@
 		else
 			healths.icon_state = "health7"
 
-/mob/living/carbon/alien/humanoid/ravager/proc/charge_at(atom/A)
-	var/plasma_cost = 45
+/mob/living/carbon/alien/humanoid/ravager/hulk/charge_at(atom/A)
+	var/plasma_cost = 25
 	if(charge_cooldown)
 		src << "<span class='alertalien'>You are too fatigued to charge right now!</span>"
 		return
@@ -76,7 +72,7 @@
 			src << "<span class='noticealien'>You're ready to charge again.</span>"
 			charge_cooldown = !charge_cooldown
 
-/mob/living/carbon/alien/humanoid/ravager/throw_impact(atom/A, params)
+/mob/living/carbon/alien/humanoid/ravager/hulk/throw_impact(atom/A, params)
 	if(!charging)
 		return ..()
 	if(A)
@@ -121,6 +117,6 @@
 			charging = 0
 			update_icons()
 			update_canmove()
-/mob/living/carbon/alien/humanoid/ravager/MiddleClickOn(atom/A, params,)
+/mob/living/carbon/alien/humanoid/ravager/hulk/MiddleClickOn(atom/A, params,)
 	face_atom(A)
 	charge_at(A)
