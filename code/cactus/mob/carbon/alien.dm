@@ -51,7 +51,7 @@
 	user.changeNext_move(CLICK_CD_MELEE)
 	if(isalienadult(user))
 		if(density)
-			visible_message(
+			user.visible_message(
 				"<span class='notice'>[user] begins prying open [src].</span>", \
 				"<span class='notice'>You begin prying open [src].</span>", \
 				"<span class='italics'>You hear prying...</span>")
@@ -63,33 +63,43 @@
 
 /turf/simulated/wall/attack_alien(mob/user) //FLUFF
 	if(isalienadult(user))
+		var/mob/living/carbon/alien/humanoid/H = user
 		user.do_attack_animation(src)
-		visible_message("<span class='notice'>[user] smashes against [src]!</span>")
+		user.visible_message("<span class='notice'>[user] smashes against [src]!</span>")
 		playsound(src, pick('sound/alien/Effects/bang1.ogg', 'sound/alien/Effects/bang2.ogg', 'sound/alien/Effects/bang3.ogg', 'sound/alien/Effects/bang4.ogg', 'sound/alien/Effects/bang5.ogg', 'sound/alien/Effects/bang6.ogg', 'sound/alien/Effects/bang7.ogg', 'sound/alien/Effects/bang8.ogg'), 100, 0, 0)
 		user.changeNext_move(CLICK_CD_MELEE)
-		return
-	else
-		return
+		if(H.hulk && prob(33))
+			dismantle_wall(0)
+			return 1
+		return 0
 
 /obj/structure/falsewall/attack_alien(mob/user) //FLUFF
 	if(isalienadult(user))
-		user.do_attack_animation(src)
-		visible_message("<span class='notice'>[user] smashes against [src]!</span>")
+		var/mob/living/carbon/alien/humanoid/H = user
+		H.do_attack_animation(src)
+		H.visible_message("<span class='notice'>[H] smashes against [src]!</span>")
 		playsound(src, pick('sound/alien/Effects/bang1.ogg', 'sound/alien/Effects/bang2.ogg', 'sound/alien/Effects/bang3.ogg', 'sound/alien/Effects/bang4.ogg', 'sound/alien/Effects/bang5.ogg', 'sound/alien/Effects/bang6.ogg', 'sound/alien/Effects/bang7.ogg', 'sound/alien/Effects/bang8.ogg'), 100, 0, 0)
 		user.changeNext_move(CLICK_CD_MELEE)
-		return
-	else
-		return
+		if(prob(33))
+			visible_message("<span class='danger'>[src] is smashed apart!</span>")
+			dismantle(user, 0)
 
 /obj/structure/girder/attack_alien(mob/user) //FLUFF
 	if(isalienadult(user))
-		user.do_attack_animation(src)
-		visible_message("<span class='notice'>[user] smashes against [src]!</span>")
+		var/mob/living/carbon/alien/humanoid/H = user
+		H.do_attack_animation(src)
+		H.visible_message("<span class='notice'>[user] smashes against [src]!</span>")
 		playsound(src, pick('sound/alien/Effects/bang1.ogg', 'sound/alien/Effects/bang2.ogg', 'sound/alien/Effects/bang3.ogg', 'sound/alien/Effects/bang4.ogg', 'sound/alien/Effects/bang5.ogg', 'sound/alien/Effects/bang6.ogg', 'sound/alien/Effects/bang7.ogg', 'sound/alien/Effects/bang8.ogg'), 100, 0, 0)
-		user.changeNext_move(CLICK_CD_MELEE)
-		return
-	else
-		return
+		H.changeNext_move(CLICK_CD_MELEE)
+		if(prob(33))
+			var/remains = /obj/item/stack/rods,/obj/item/stack/sheet/metal
+			if(type == /obj/structure/girder/reinforced && !H.hulk && prob(50))//much harder
+				return 0
+			visible_message("<span class='danger'>[src] is smashed apart!</span>")
+			new remains(loc)
+			qdel(src)
+			return 1
+		return 0
 /*
 /obj/structure/closet/attack_alien(mob/user)
 	if(isalienadult(user))

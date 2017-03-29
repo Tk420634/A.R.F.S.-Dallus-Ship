@@ -12,8 +12,13 @@
 	var/amount_grown = 0
 	var/max_grown = 100
 	var/time_of_birth
+	var/hulk_max_grown = 200 //how much you need to grow to evolve as a hulked larva
+	var/grown_to_hulk = 0//if the resize and ventcrawling changes have been made yet
 
 	rotate_on_lying = 0
+
+/mob/living/carbon/alien/larva/hulk
+	hulk = 1
 
 //This is fine right now, if we're adding organ specific damage this needs to be updated
 /mob/living/carbon/alien/larva/New()
@@ -28,7 +33,7 @@
 /mob/living/carbon/alien/larva/Stat()
 	..()
 	if(statpanel("Status"))
-		stat(null, "Progress: [amount_grown]/[max_grown]")
+		stat(null, "Progress: [amount_grown]/[hulk ? hulk_max_grown : max_grown]")
 
 /mob/living/carbon/alien/larva/adjustPlasma(amount)
 	if(stat != DEAD && amount > 0)
