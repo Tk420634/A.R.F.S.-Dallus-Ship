@@ -611,6 +611,14 @@ var/list/teleportlocs = list()
 	name = "Engineering"
 	icon_state = "engine"
 
+/area/engine/engine_foyer
+	name = "Engineering Foyer"
+	icon_state = "engine"
+
+/area/engine/engine_room
+	name = "Engine Room"
+	icon_state = "engine"
+
 /area/engine/break_room
 	name = "Engineering Foyer"
 	icon_state = "engine"

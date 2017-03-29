@@ -530,7 +530,9 @@ var/list/slot_equipment_priority = list( \
 	set name = "Respawn"
 	set category = "OOC"
 
-	if (!( abandon_allowed ) && !is_whitelisted(ckey))
+	if(!(abandon_allowed))
+		return
+	if (!is_whitelisted(ckey))
 		return
 	if ((stat != 2 || !( ticker )))
 		usr << "<span class='boldnotice'>You must be dead to use this!</span>"

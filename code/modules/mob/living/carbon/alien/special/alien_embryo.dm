@@ -88,7 +88,7 @@ var/const/ALIEN_AFK_BRACKET = 450 // 45 seconds
 
 	var/atom/xeno_loc = get_turf(owner)
 	var/mob/living/carbon/alien/larva/new_xeno = new(xeno_loc)
-	for(var/m in ownder.dna.mutations)
+	for(var/m in owner.dna.mutations)
 		if(m == /datum/mutation/human/hulk)
 			new_xeno.hulk = 1
 	new_xeno.key = C.key
