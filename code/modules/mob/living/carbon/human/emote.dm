@@ -551,6 +551,9 @@
 						if("panther")
 							playsound(src.loc, 'sound/misc/cougar1.ogg', 50, 1, 5)
 
+						if("siamese")
+							playsound(src.loc, 'sound/misc/siamese1.ogg', 50, 1, 5)
+
 						if("squirrel")
 							playsound(src.loc, 'sound/misc/squirrel1.ogg', 50, 1, 5)
 
@@ -563,6 +566,9 @@
 						if("ursine")
 							playsound(src.loc, 'sound/misc/bear1.ogg', 50, 1, 5)
 
+						if("lynx")
+							playsound(src.loc, 'sound/misc/lynx1.ogg', 50, 1, 5)
+
 						if("stitch")
 							playsound(src.loc, 'sound/misc/bear1.ogg', 50, 1, 5)
 
@@ -574,6 +580,9 @@
 
 						if("zigzagoon")
 							playsound(src.loc, 'sound/misc/zig1.ogg', 50, 1, 5)
+
+						if("zebra")
+							playsound(src.loc, 'sound/misc/zebra1.ogg', 50, 1, 5)
 
 						if("grovyle")
 							playsound(src.loc, 'sound/misc/Grov1.ogg', 50, 1, 5)
