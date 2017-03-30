@@ -899,6 +899,7 @@ datum
 			baseicon = 'icons/mob/races/ursine.dmi'
 		zebra
 			name="zebra"
+			id="zebra"
 			generic="striped horsy"
 			adjective="black with white stripes. Or..white with black"
 			say_mod="brays"
