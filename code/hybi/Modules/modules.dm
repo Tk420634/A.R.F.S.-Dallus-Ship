@@ -42,3 +42,69 @@
 	playsound(src,'sound/effects/thunder.ogg', 90, 1)
 	spawn(10)
 	gib()
+
+//copied from vorestation, so useful.
+/proc/hear(var/range, var/atom/source)
+
+	var/lum = source.luminosity
+	source.luminosity = 6
+
+	var/list/heard = view(range, source)
+	source.luminosity = lum
+
+	return heard
+
+
+/proc/recursive_content_check(var/atom/O,  var/list/L = list(), var/recursion_limit = 3, var/client_check = 1, var/sight_check = 1, var/include_mobs = 1, var/include_objects = 1, var/ignore_show_messages = 0)
+
+	if(!recursion_limit)
+		return L
+
+	for(var/I in O.contents)
+
+		if(ismob(I))
+			if(!sight_check || isInSight(I, O))
+				L |= recursive_content_check(I, L, recursion_limit - 1, client_check, sight_check, include_mobs, include_objects)
+				if(include_mobs)
+					if(client_check)
+						var/mob/M = I
+						if(M.client)
+							L |= M
+					else
+						L |= I
+
+/*		else if(istype(I,/obj/))
+			var/obj/check_obj = I
+			if(ignore_show_messages || check_obj.show_messages)
+				if(!sight_check || isInSight(I, O))
+					L |= recursive_content_check(I, L, recursion_limit - 1, client_check, sight_check, include_mobs, include_objects)
+					if(include_objects)
+						L |= I*/
+
+	return L
+
+
+/proc/get_mobs_or_objects_in_view(var/R, var/atom/source, var/include_mobs = 1, var/include_objects = 1)
+
+	var/turf/T = get_turf(source)
+	var/list/hear = list()
+
+	if(!T)
+		return hear
+
+	var/list/range = hear(R, T)
+
+	for(var/I in range)
+		if(ismob(I))
+			hear |= recursive_content_check(I, hear, 3, 1, 0, include_mobs, include_objects)
+			if(include_mobs)
+				var/mob/M = I
+				if(M.client)
+					hear += M
+	//	else if(istype(I,/obj/))
+//			hear |= recursive_content_check(I, hear, 3, 1, 0, include_mobs, include_objects)
+//			var/obj/O = I
+//			if(O.show_messages && include_objects)
+//				hear += I
+
+	return hear
