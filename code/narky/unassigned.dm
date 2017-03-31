@@ -315,7 +315,7 @@ var/const/VORE_SIZEDIFF_ANY=5
 		if(istype(addit,/mob/living))
 			M=addit
 		if(M)
-			vore_admins("[owner.real_name]'s [type] has added [M.real_name].[digestion_factor ? " Digestion at [digestion_factor]." : ""][tf_factor ? " Transformation is on." : ""][healing_factor ? " Healing is on." : ""]",owner,M)
+			vore_admins("[key_name(owner)]'s [type] has added [key_name(M)].[digestion_factor ? " Digestion at [digestion_factor]." : ""][tf_factor ? " Transformation is on." : ""][healing_factor ? " Healing is on." : ""]",owner,M)
 		addit.loc = owner
 		owner.stomach_contents.Add(addit)
 		contents.Add(addit)
@@ -1039,11 +1039,11 @@ var/const/VORE_SIZEDIFF_ANY=5
 		qdel(G)
 
 	if(helper==src)
-		vore_admins("[src] has eaten [prey]. via [method].",src,prey)
+		vore_admins("[key_name(src)] has eaten [key_name(prey)]. via [method].",src,prey)
 	else if(helper==prey)
-		vore_admins("[prey] has fed themself to [src]. via [method].",src,prey)
+		vore_admins("[key_name(prey)] has fed themself to [key_name(src)]. via [method].",src,prey)
 	else
-		vore_admins("[helper] has fed [prey] to [src]. via [method].",src,prey)
+		vore_admins("[key_name(helper)] has fed [key_name(prey)] to [key_name(src)]. via [method].",src,prey)
 
 	var/datum/vore_organ/destination=vore_organ_for_method(method)
 	destination.add(prey)
@@ -1841,7 +1841,7 @@ var/list/traitor_test_list = null
 	selection = alert("Give them a nice, eggy package?","Vore","Egg!","No.")
 	VO.tf_egg = selection=="Egg!" ? 1 : 0
 	if(VO.has_people()&&!VO.tf_factor)
-		vore_admins("[VO.owner]'s [VO.type] set to transform.",VO.owner)
+		vore_admins("[key_name(VO.owner)]'s [VO.type] set to transform.",VO.owner)
 	VO.tf_factor=VORE_TRANSFORM_SPEED_FAST
 	VO.digestion_factor=VORE_DIGESTION_SPEED_NONE
 	VO.healing_factor=0

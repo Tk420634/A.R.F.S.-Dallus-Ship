@@ -122,8 +122,6 @@ obj/vore_preferences
 			dat += "<a href='?src=\ref[src];preference=tab;tab=2' [current_tab == 2 ? "class='linkOn'" : ""]>\[Ability\]</a> "
 			dat += "<a href='?src=\ref[src];preference=tab;tab=3' [current_tab == 3 ? "class='linkOn'" : ""]>\[Bans\]</a> "
 			dat += "<a href='?src=\ref[src];preference=tab;tab=8' [current_tab == 8 ? "class='linkOn'" : ""]>\[Other\]</a>"
-			if(target.ckey=="jayehh")
-				dat += " <a href='?src=\ref[src];preference=tab;tab=4' [current_tab == 4 ? "class='linkOn'" : ""]>\[Debug\]</a>"
 
 		dat += "</center>"
 
@@ -411,7 +409,7 @@ obj/vore_preferences
 				dat += "By donating you can prevent this issue and allow it to continue running. As well as helping out the server, your name will be added to the donator list and you will be priority in having suggestions, ideas, and <b>certain</b> cosmetics added for personal use."
 				dat += "<BR>"
 				dat += {"
-				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+				<form action"https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 				<input type="hidden" name="cmd" value="_s-xclick">
 				<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
 ">
@@ -485,7 +483,7 @@ obj/vore_preferences
 			VD.healing_factor = 0
 			VD.tf_factor = 0
 			if(VD.has_people())
-				vore_admins("[VD.owner]'s [VD.type] digestion changed to [VD.digestion_factor].",VD.owner)
+				vore_admins("[key_name(VD.owner)]'s [VD.type] digestion changed to [VD.digestion_factor].",VD.owner)
 
 		if(href_list["preference"] == "digest_h")
 			if(target.reagents)
@@ -497,7 +495,7 @@ obj/vore_preferences
 			VD.healing_factor = 1
 			VD.tf_factor = 0
 			if(VD.has_people())
-				vore_admins("[VD.owner]'s [VD.type] set to heal.",VD.owner)
+				vore_admins("[key_name(VD.owner)]'s [VD.type] set to heal.",VD.owner)
 
 		if(href_list["preference"] == "release")
 			var/datum/vore_organ/VD=GetOrgan(href_list["organ"])
@@ -527,7 +525,7 @@ obj/vore_preferences
 
 		if(href_list["preference"] == "transform")
 			target.set_vore_transform(GetOrgan(href_list["organ"]))
-			//vore_admins("[VD.owner]'s [VD.type] set to transform.",VD.owner)
+			//vore_admins("[key_name(VD.owner)]'s [VD.type] set to transform.",VD.owner)
 
 		if(href_list["preference"] == "cock")
 			var/datum/preferences/PD=target
