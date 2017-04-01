@@ -593,6 +593,15 @@ datum
 			adjective="not a whale"
 			tail=1
 			baseicon = 'icons/mob/races/orca.dmi'
+		ork
+			name="ork"
+			id="ork"
+			say_mod = "grunts"
+			generic="weird green thing"
+			attack_verb="wallop"
+			adjective="not tasty"
+			tail=1
+			baseicon = 'icons/mob/races/ork.dmi'
 		otusian
 			name="otusian"
 			id="otie"
@@ -707,7 +716,7 @@ datum
 			adjective="bouncy"
 			tail=1
 			attack_verb = "kick"
-			say_mod = "squeak"
+			say_mod = "squeaks"
 			baseicon = 'icons/mob/races/roorat.dmi'
 /*
 		runac //Working on this for Runac
@@ -775,14 +784,34 @@ datum
 			generic="slime"
 			adjective="slimy"
 			baseicon = 'icons/mob/races/slime.dmi'
+
+		rune
+			name="rune"
+			id="slime"
+			say_mod = "vibrates"
+			generic="slime"
+			adjective="slimy"
+			baseicon = 'icons/mob/races/rune.dmi'
+			restricted = "Runeguden"
 		siamese
 			name="siamese cat"
 			id="siamese"
 			say_mod = "mews"
 			generic="adorable"
-			adjective= "scratches"
+			adjective= "cute"
+			attack_verb= "scratch"
 			tail=1
 			baseicon = 'icons/mob/races/siamese.dmi'
+		snail
+			name="snail"
+			id="snail"
+			say_mod = "squooshs"
+			attack_verb = "eye-stalk smack"
+			generic="slow"
+			adjective="sticky trail goo"
+			tail=1
+			eyes="snaileyes"
+			baseicon = 'icons/mob/races/snail.dmi'
 		smilodon
 			name="smilodon"
 			id="smilodon"
@@ -886,6 +915,14 @@ datum
 			attack_verb = "claw"
 			attack_sound = 'sound/weapons/bladeslice.ogg'
 			baseicon = 'icons/mob/races/ursine.dmi'
+		zebra
+			name="zebra"
+			id="zebra"
+			generic="striped horsy"
+			adjective="black with white stripes. Or..white with black"
+			say_mod="brays"
+			attack_verb="kicks"
+			baseicon = 'icons/mob/races/zebra.dmi'
 		vulture
 			name="vulture"
 			id="vulture"
@@ -951,13 +988,6 @@ datum
 			restricted=2
 			baseicon = 'icons/mob/races/human.dmi'
 
-		zebra
-			name="zebra"
-			generic="striped horsy"
-			adjective="black with white stripes. Or..white with black"
-			say_mod="brays"
-			attack_verb="kicks"
-			baseicon = 'icons/mob/races/zebra.dmi'
 		golem
 			//name="golem"
 			generic="golem"
@@ -999,17 +1029,14 @@ datum
 			restricted=2 // but if you do want the world to burn then please, by all means
 			baseicon = 'icons/mob/races/human.dmi'
 
-	// I WANT DIS SPRITE SHEET SO I CAN ADD IT IN - Jonathan
-	/*
 		pepsiman
-			//name="PEPSI MAAAAAN"
+			name="PEPSI MAAAAAN"
 			id="PEPSIMAAAN"
 			generic="beverage"
 			adjective="refreshing"
+			baseicon = 'icons/mob/races/pepsiman.dmi'
+
 			restricted=2 // don't want half the station to be running around with soda cans on their heads
-	*/
-
-
 
 		cutebold
 			name="cutebold"

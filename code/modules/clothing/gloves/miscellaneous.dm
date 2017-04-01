@@ -57,4 +57,10 @@
 	icon_state = "wedring_s"
 	item_state = "wedring_s"
 
+/obj/item/clothing/gloves/weddingring/diamond
+	name = "diamond wedding ring"
+	icon_state = "diamondring"
+	desc = "a gold banned ring with a beautiful cut diamond on it. It seems to shine in the light."
+	item_state = "diamondring"
+
 //Maybe some other wedding ring types? Like, a plasma one, or a ring pop.
