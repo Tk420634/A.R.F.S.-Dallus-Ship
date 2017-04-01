@@ -788,7 +788,7 @@ datum
 		rune
 			name="rune"
 			id="slime"
-			say_mod = "blurbles"
+			say_mod = "vibrates"
 			generic="slime"
 			adjective="slimy"
 			baseicon = 'icons/mob/races/rune.dmi'
