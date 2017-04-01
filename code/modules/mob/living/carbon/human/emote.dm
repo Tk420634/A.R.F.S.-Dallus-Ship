@@ -553,10 +553,6 @@
 
 						if("panther")
 							playsound(src.loc, 'sound/misc/cougar1.ogg', 50, 1, 5)
-
-						if("ork")
-							playsound(src.loc, 'sound/misc/orc1.ogg', 50, 1, 5)
-
 						if("siamese")
 							playsound(src.loc, 'sound/misc/siamese1.ogg', 50, 1, 5)
 
