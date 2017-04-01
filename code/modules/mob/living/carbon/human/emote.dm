@@ -287,6 +287,9 @@
 						if("ailurus")
 							playsound(src.loc, 'sound/misc/redpanda1.ogg', 50, 1, 5)
 
+						if("rune")
+							playsound(src.loc, 'sound/misc/rune1.ogg', 50, 1, 5)
+
 						if("anubis")
 							playsound(src.loc, 'sound/misc/anubis1.ogg', 50, 1, 5)
 
@@ -550,6 +553,9 @@
 
 						if("panther")
 							playsound(src.loc, 'sound/misc/cougar1.ogg', 50, 1, 5)
+
+						if("orc")
+							playsound(src.loc, 'sound/misc/orc1.ogg', 50, 1, 5)
 
 						if("siamese")
 							playsound(src.loc, 'sound/misc/siamese1.ogg', 50, 1, 5)
