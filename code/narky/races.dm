@@ -784,6 +784,15 @@ datum
 			generic="slime"
 			adjective="slimy"
 			baseicon = 'icons/mob/races/slime.dmi'
+
+		rune
+			name="rune"
+			id="slime"
+			say_mod = "blurbles"
+			generic="slime"
+			adjective="slimy"
+			baseicon = 'icons/mob/races/rune.dmi'
+			restricted = "Runeguden"
 		siamese
 			name="siamese cat"
 			id="siamese"
