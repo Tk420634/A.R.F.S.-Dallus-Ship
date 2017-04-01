@@ -461,6 +461,8 @@
 						if("shihtzu")
 							playsound(src.loc, 'sound/misc/shihtzu_1.ogg', 50, 1, 5)
 
+						if("orc")
+							playsound(src.loc, 'sound/misc/orc1.ogg', 50, 1, 5)
 						if("orca")
 							playsound(src.loc, 'sound/misc/orca_1.ogg', 50, 1, 5)
 

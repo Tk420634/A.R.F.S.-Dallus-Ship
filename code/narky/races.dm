@@ -593,15 +593,15 @@ datum
 			adjective="not a whale"
 			tail=1
 			baseicon = 'icons/mob/races/orca.dmi'
-		ork
-			name="ork"
-			id="ork"
+		orc
+			name="orc"
+			id="orc"
 			say_mod = "grunts"
 			generic="weird green thing"
 			attack_verb="wallop"
 			adjective="not tasty"
 			tail=1
-			baseicon = 'icons/mob/races/ork.dmi'
+			baseicon = 'icons/mob/races/orc.dmi'
 		otusian
 			name="otusian"
 			id="otie"
