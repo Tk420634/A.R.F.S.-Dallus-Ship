@@ -593,6 +593,15 @@ datum
 			adjective="not a whale"
 			tail=1
 			baseicon = 'icons/mob/races/orca.dmi'
+		ork
+			name="ork"
+			id="ork"
+			say_mod = "grunts"
+			generic="weird green thing"
+			attack_verb="wallop"
+			adjective="not tasty"
+			tail=1
+			baseicon = 'icons/mob/races/ork.dmi'
 		otusian
 			name="otusian"
 			id="otie"
@@ -775,6 +784,15 @@ datum
 			generic="slime"
 			adjective="slimy"
 			baseicon = 'icons/mob/races/slime.dmi'
+
+		rune
+			name="rune"
+			id="slime"
+			say_mod = "blurbles"
+			generic="slime"
+			adjective="slimy"
+			baseicon = 'icons/mob/races/rune.dmi'
+			restricted = "Runeguden"
 		siamese
 			name="siamese cat"
 			id="siamese"
