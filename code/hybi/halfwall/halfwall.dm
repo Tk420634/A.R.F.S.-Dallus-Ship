@@ -34,14 +34,13 @@
 	return
 
 /obj/structure/halfwall/attackby(obj/item/weapon/W, mob/user, params)
-	user.changeNext_move(CLICK_CD_MELEE)
+	user.setClickCooldown(10)
+	if(!istype(user.loc, /turf))	return	//can't do this stuff whilst inside objects and such
 	if (!user.IsAdvancedToolUser())
 		user << "<span class='warning'>You don't have the dexterity to do this!</span>"
 		return
 	if(W)
-		try_decon(W)
-	//get the user's location
-	if( !istype(user.loc, /turf) )	return	//can't do this stuff whilst inside objects and such
+		try_decon(W, user)
 	add_fingerprint(user)
 	return
 
@@ -49,12 +48,17 @@
 
 /obj/structure/halfwall/proc/dismantle_wall(var/devastated = 0)
 	if(devastated)
-		devastate_wall()
 		playsound(src, 'sound/items/Welder.ogg', 100, 1)
+		var/obj/item/stack/sheet/metal/M = new (loc)
+		M.amount = 1
 	else
 		playsound(src, 'sound/items/Screwdriver.ogg', 100, 1)
-		var/newgirder = break_wall()
-		transfer_fingerprints_to(newgirder)
+		var/obj/item/stack/sheet/metal/M = new (loc)
+		M.amount = 1
+		var/obj/structure/halfgirder/G = new (loc)
+		G.dir = dir
+		transfer_fingerprints_to(G)
+		qdel()
 
 /obj/structure/halfwall/proc/devastate_wall()
 	var/obj/item/stack/sheet/metal/M
@@ -67,7 +71,10 @@
 	var/obj/item/stack/sheet/metal/M
 	M.amount = 1
 	M.loc = src
-	return (new /obj/structure/halfgirder(src))
+	var/obj/structure/halfgirder/G = new (loc)
+	G.dir = dir
+	transfer_fingerprints_to(G)
+	qdel(src)
 
 /obj/structure/halfwall/CanPass(atom/movable/mover, turf/target, height=0)
 	if(istype(mover) && checkpass(PASSGLASS))
@@ -106,15 +113,19 @@
 // NORMAL WALL DECONSTRUCTION
 
 /obj/structure/halfwall/proc/try_decon(obj/item/weapon/W, mob/user, turf/T)
-	if( istype(W, /obj/item/weapon/screwdriver) )
+	if(istype(W, /obj/item/weapon/screwdriver))
 		user << "<span class='notice'>You begin unscrewing the outer plating...</span>"
-		playsound(src, 'sound/items/Welder.ogg', 100, 1)
+		playsound(src, 'sound/items/Screwdriver.ogg', 100, 1)
 		if(do_after(user, 15, target = src))
 			if(!user || !W)
 				return 1
 			if( user.loc == T && user.get_active_hand() == W )
 				user << "<span class='notice'>You remove the outer plating.</span>"
-				dismantle_wall()
+				var/obj/item/stack/sheet/metal/M = new (loc)
+				M.amount = 1
+				var/obj/structure/halfgirder/G = new (loc)
+				G.dir = dir
+				transfer_fingerprints_to(G)
 				qdel()
 				return 1
 	else if( istype(W, /obj/item/weapon/gun/energy/plasmacutter) )
@@ -125,7 +136,9 @@
 				return 1
 			if( user.loc == T && user.get_active_hand() == W )
 				user << "<span class='notice'>You slice through the outer plating, destroying the girder along with it!</span>"
-				dismantle_wall(1)
+				playsound(src, 'sound/items/Welder.ogg', 100, 1)
+				var/obj/item/stack/sheet/metal/M = new (loc)
+				M.amount = 1
 				qdel()
 				visible_message("The wall was sliced apart by [user]!", "<span class='italics'>You hear metal being sliced apart.</span>")
 				return 1
@@ -145,7 +158,12 @@
 					return 1
 				if( user.loc == T && user.get_active_hand() == WT )
 					user << "<span class='notice'>You remove the outer plating.</span>"
-					dismantle_wall()
+					var/obj/item/stack/sheet/plasteel/M = new (loc)
+					M.amount = 1
+					var/obj/structure/halfgirder/reinforced/G = new (loc)
+					G.dir = dir
+					transfer_fingerprints_to(G)
+					qdel()
 					return 1
 	else if( istype(W, /obj/item/weapon/gun/energy/plasmacutter) )
 		user << "<span class='notice'>You begin slicing through the outer plating...</span>"
@@ -154,9 +172,13 @@
 			if(!user || !W || !T )
 				return 1
 			if( user.loc == T && user.get_active_hand() == W )
+				playsound(src, 'sound/items/Welder.ogg', 100, 1)
 				user << "<span class='notice'>You remove the outer plating.</span>"
-				dismantle_wall()
+				var/obj/structure/halfgirder/reinforced/G = new (loc)
+				G.dir = dir
+				transfer_fingerprints_to(G)
 				visible_message("The wall was sliced apart by [user]!", "<span class='italics'>You hear metal being sliced apart.</span>")
+				qdel()
 				return 1
 	return 0
 

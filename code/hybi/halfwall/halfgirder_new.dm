@@ -14,9 +14,16 @@
 	flags = ON_BORDER
 	density = 1
 	layer = 2
+	var/ini_dir = null
 	var/state = HALF_GIRDER_NORMAL
 	var/girderpasschance = 20 // percentage chance that a projectile passes through the girder.
 	can_be_unanchored = 1
+
+/obj/structure/halfgirder/New()
+	if(ini_dir)
+		dir = ini_dir
+	else
+		ini_dir = dir
 
 /obj/structure/halfgirder/displaced
 	name = "displaced half-girder"
@@ -25,6 +32,55 @@
 	state = HALF_GIRDER_DISPLACED
 	girderpasschance = 25
 	layer = 2.45
+
+/obj/structure/halfgirder/displaced/verb/rotate()
+	set name = "Rotate Girder Counter-Clockwise"
+	set category = "Object"
+	set src in oview(1)
+
+	if(usr.stat || !usr.canmove || usr.restrained())
+		return
+
+	if(anchored)
+		usr << "<span class='warning'>It is secured to the floor therefore you can't rotate it!</span>"
+		return 0
+
+	dir = turn(dir, 90)
+//	updateSilicate()
+	air_update_turf(1)
+	ini_dir = dir
+	add_fingerprint(usr)
+	return
+
+
+/obj/structure/halfgirder/displaced/verb/revrotate()
+	set name = "Rotate Girder Clockwise"
+	set category = "Object"
+	set src in oview(1)
+
+	if(usr.stat || !usr.canmove || usr.restrained())
+		return
+
+	if(anchored)
+		usr << "<span class='warning'>It is secured to the floor therefore you can't rotate it!</span>"
+		return 0
+
+	dir = turn(dir, 270)
+//	updateSilicate()
+	air_update_turf(1)
+	ini_dir = dir
+	add_fingerprint(usr)
+	return
+
+/obj/structure/halfgirder/displaced/AltClick(mob/user)
+	..()
+	if(user.incapacitated())
+		user << "<span class='warning'>You can't do that right now!</span>"
+		return
+	if(!in_range(src, user))
+		return
+	else
+		revrotate()
 
 /obj/structure/halfgirder/reinforced
 	name = "reinforced half-girder"
@@ -100,7 +156,10 @@
 				if(state != HALF_GIRDER_REINF)
 					return
 				user << "<span class='notice'>You unsecure the support struts.</span>"
-				state = HALF_GIRDER_REINF_STRUTS
+				var/obj/structure/halfgirder/reinforced/RG = new (loc)
+				transfer_fingerprints_to(RG)
+				RG.dir = dir
+				qdel(src)
 // PART 5, NOT DONE --------------------------------------------------------------------------------------
 
 	else if(istype(W, /obj/item/weapon/wrench))
@@ -118,6 +177,7 @@
 				user << "<span class='notice'>You secure the girder.</span>"
 				var/obj/structure/halfgirder/G = new (loc)
 				transfer_fingerprints_to(G)
+				G.dir = dir
 				qdel(src)
 		else if(state == HALF_GIRDER_NORMAL)
 			playsound(src.loc, 'sound/items/Ratchet.ogg', 100, 1)
@@ -126,6 +186,7 @@
 				user << "<span class='notice'>You unsecure the girder.</span>"
 				var/obj/structure/halfgirder/displaced/D = new (loc)
 				transfer_fingerprints_to(D)
+				D.dir = dir
 				qdel(src)
 
 	else if(istype(W, /obj/item/weapon/gun/energy/plasmacutter))
@@ -152,6 +213,7 @@
 			new /obj/item/stack/sheet/plasteel(get_turf(src))
 			var/obj/structure/halfgirder/G = new (loc)
 			transfer_fingerprints_to(G)
+			G.dir = dir
 			qdel(src)
 
 
@@ -198,12 +260,12 @@
 						F.dir = src.dir
 						qdel(src)
 				else*/
-				if(S.get_amount() < 2)
-					user << "<span class='warning'>You need two sheets of metal to finish a wall!</span>"
+				if(S.get_amount() < 1)
+					user << "<span class='warning'>You need a sheet of metal to finish the wall!</span>"
 					return
 				user << "<span class='notice'>You start adding plating...</span>"
 				if (do_after(user, 40, target = src))
-					if(loc == null || S.get_amount() < 2)
+					if(loc == null || S.get_amount() < 1)
 						return
 					S.use(2)
 					user << "<span class='notice'>You add the plating.</span>"
@@ -254,6 +316,7 @@
 							user << "<span class='notice'>You reinforce the girder.</span>"
 							var/obj/structure/halfgirder/reinforced/R = new (loc)
 							transfer_fingerprints_to(R)
+							R.dir = dir
 							qdel(src)
 						return
 	else

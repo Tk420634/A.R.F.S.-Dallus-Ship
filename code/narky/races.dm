@@ -784,14 +784,13 @@ datum
 			generic="slime"
 			adjective="slimy"
 			baseicon = 'icons/mob/races/slime.dmi'
-
 		rune
-			name="rune"
-			id="slime"
+			name="subterranean slime"
+			id="subterranean slime"
 			say_mod = "vibrates"
 			generic="slime"
 			adjective="slimy"
-			baseicon = 'icons/mob/races/rune.dmi'
+			baseicon = 'icons/mob/races/slime.dmi'
 			restricted = "Runeguden"
 		siamese
 			name="siamese cat"
