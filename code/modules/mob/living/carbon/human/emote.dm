@@ -287,7 +287,7 @@
 						if("ailurus")
 							playsound(src.loc, 'sound/misc/redpanda1.ogg', 50, 1, 5)
 
-						if("rune")
+						if("subterranean slime")
 							playsound(src.loc, 'sound/misc/rune1.ogg', 50, 1, 5)
 
 						if("anubis")
