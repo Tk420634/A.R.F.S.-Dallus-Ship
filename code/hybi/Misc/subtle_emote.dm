@@ -1,4 +1,5 @@
 //OBJECT SUPPORT COMING SOON.
+//Don't show up on the ship tomorrow, I like some of you guys.
 /mob/proc/subtle_emote(var/m_type=1,var/message = null)
 	if(stat)
 		return
