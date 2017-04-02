@@ -101,6 +101,12 @@
 	needs_permit = 0
 	force = 0
 	on = 0
+// For when you extend it.
+	var/on_force = 10
+	var/on_attack_verb = list("smacked", "struck", "cracked", "beaten")
+	var/on_w_class = 4
+	var/on_item_state = "nullrod"
+	var/on_icon_state = "telebaton_1"
 
 /obj/item/weapon/melee/classic_baton/telescopic/suicide_act(mob/user)
 	var/mob/living/carbon/human/H = user
@@ -124,20 +130,20 @@
 /obj/item/weapon/melee/classic_baton/telescopic/attack_self(mob/user)
 	on = !on
 	if(on)
-		user << "<span class ='warning'>You extend the baton.</span>"
-		icon_state = "telebaton_1"
-		item_state = "nullrod"
-		w_class = 4 //doesnt fit in backpack when its on for balance
-		force = 10 //stunbaton damage
-		attack_verb = list("smacked", "struck", "cracked", "beaten")
+		user << "<span class ='warning'>You extend the [src].</span>"
+		icon_state = on_icon_state
+		item_state = on_item_state
+		w_class = on_w_class //doesnt fit in backpack when its on for balance
+		force = on_force //stunbaton damage
+		attack_verb = on_attack_verb
 	else
-		user << "<span class ='notice'>You collapse the baton.</span>"
-		icon_state = "telebaton_0"
-		item_state = null //no sprite for concealment even when in hand
+		user << "<span class ='notice'>You collapse the [src].</span>"
+		icon_state = initial(icon_state)
+		item_state = initial(item_state) //no sprite for concealment even when in hand
 		slot_flags = SLOT_BELT
-		w_class = 2
-		force = 0 //not so robust now
-		attack_verb = list("hit", "poked")
+		w_class = initial(w_class)
+		force = initial(force)
+		attack_verb = initial(attack_verb)
 
 	playsound(src.loc, 'sound/weapons/batonextend.ogg', 50, 1)
 	add_fingerprint(user)

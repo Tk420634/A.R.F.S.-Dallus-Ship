@@ -15,32 +15,10 @@ var/global/list/datum/stack_recipe/metal_recipes = list ( \
 	new/datum/stack_recipe("stool", /obj/structure/bed/stool, one_per_turf = 1, on_floor = 1), \
 	new/datum/stack_recipe("bar stool", /obj/structure/bed/stool/bar, one_per_turf = 1, on_floor = 1), \
 	new/datum/stack_recipe("chair", /obj/structure/bed/chair, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("blue chair", /obj/structure/bed/chair/blue, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("yellow chair", /obj/structure/bed/chair/yellow, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("red chair", /obj/structure/bed/chair/red, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("green chair", /obj/structure/bed/chair/green, one_per_turf = 1, on_floor = 1), \
 	new/datum/stack_recipe("swivel chair", /obj/structure/bed/chair/office/dark, 5, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("white swivel chair", /obj/structure/bed/chair/office/light, 5, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("red swivel chair", /obj/structure/bed/chair/office/red, 5, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("green swivel chair", /obj/structure/bed/chair/office/green, 5, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("yellow swivel chair", /obj/structure/bed/chair/office/yellow, 5, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("purple swivel chair", /obj/structure/bed/chair/office/purple, 5, one_per_turf = 1, on_floor = 1), \
 	new/datum/stack_recipe("comfy chair", /obj/structure/bed/chair/comfy/beige, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("brown comfy chair", /obj/structure/bed/chair/comfy/brown, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("teal comfy chair", /obj/structure/bed/chair/comfy/teal, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("black comfy chair", /obj/structure/bed/chair/comfy/black, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("lime comfy chair", /obj/structure/bed/chair/comfy/lime, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("red comfy chair", /obj/structure/bed/chair/comfy/red, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("purple comfy chair", /obj/structure/bed/chair/comfy/purple, 2, one_per_turf = 1, on_floor = 1), \
 	new/datum/stack_recipe("shuttle chair", /obj/structure/bed/chair/comfy/shuttlechair, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("red shuttle chair", /obj/structure/bed/chair/comfy/shuttlechairred, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("brown shuttle chair", /obj/structure/bed/chair/comfy/shuttlechairbrown, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("green shuttle chair", /obj/structure/bed/chair/comfy/shuttlechairgreen, 2, one_per_turf = 1, on_floor = 1), \
 	new/datum/stack_recipe("bed", /obj/structure/bed, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("left sofa", /obj/structure/stool/bed/chair/sofa/left, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("right sofa", /obj/structure/stool/bed/chair/sofa/right, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("corner sofa", /obj/structure/stool/bed/chair/sofa/corner, 2, one_per_turf = 1, on_floor = 1), \
-	new/datum/stack_recipe("sofa", /obj/structure/stool/bed/chair/sofa, 2, one_per_turf = 1, on_floor = 1), \
 	null, \
 	new/datum/stack_recipe("rack parts", /obj/item/weapon/rack_parts), \
 	new/datum/stack_recipe("closet", /obj/structure/closet, 2, time = 15, one_per_turf = 1, on_floor = 1), \

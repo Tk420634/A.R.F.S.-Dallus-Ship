@@ -7,9 +7,19 @@
 	if (notransform)
 		return
 	if(..())
-		// GROW!
-		if(amount_grown < max_grown)
-			amount_grown++
+		switch(hulk)
+			if(0)
+				if(amount_grown < max_grown)
+					amount_grown++
+			if(1)
+				if(amount_grown < hulk_max_grown)
+					amount_grown++
+					if(amount_grown >= 150 && !grown_to_hulk && !stat)
+						grown_to_hulk = 1
+						resize = 1.5
+						ventcrawler = 0
+						maxHealth = (maxHealth+15)
+						health = (health+15)
 
 	//some kind of bug in canmove() isn't properly calling update_icons, so this is here as a placeholder
 	update_icons()
@@ -19,9 +29,9 @@
 	if (healths)
 		if (stat != 2)
 			switch(health)
-				if(25 to INFINITY)
+				if(maxHealth to INFINITY)
 					healths.icon_state = "health0"
-				if(20 to 25)
+				if(20 to maxHealth)
 					healths.icon_state = "health1"
 				if(15 to 20)
 					healths.icon_state = "health2"

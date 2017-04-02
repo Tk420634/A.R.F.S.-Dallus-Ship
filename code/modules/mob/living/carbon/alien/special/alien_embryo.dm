@@ -5,7 +5,7 @@ var/const/ALIEN_AFK_BRACKET = 450 // 45 seconds
 /obj/item/organ/internal/body_egg/alien_embryo
 	name = "alien embryo"
 	icon = 'icons/mob/alien.dmi'
-	icon_state = "larva0_dead"
+	icon_state = "embryo"
 	var/stage = 0
 
 /obj/item/organ/internal/body_egg/alien_embryo/on_find(mob/living/finder)
@@ -88,6 +88,9 @@ var/const/ALIEN_AFK_BRACKET = 450 // 45 seconds
 
 	var/atom/xeno_loc = get_turf(owner)
 	var/mob/living/carbon/alien/larva/new_xeno = new(xeno_loc)
+	for(var/m in owner.dna.mutations)
+		if(m == /datum/mutation/human/hulk)
+			new_xeno.hulk = 1
 	new_xeno.key = C.key
 //	new_xeno << sound('sound/voice/hiss5.ogg',0,0,0,100)	//To get the player's attention
 	playsound(owner.loc, 'sound/alien/Effects/burst.ogg', 200, 0, 5)

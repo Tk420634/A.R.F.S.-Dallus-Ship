@@ -242,7 +242,7 @@
 
 /obj/item/clothing/under/waiter
 	name = "waiter's outfit"
-	desc = "It's a very smart uniform with a special pocket for tip."
+	desc = "It's a very smart uniform with a special pocket for tips."
 	icon_state = "waiter"
 	item_state = "waiter"
 	item_color = "waiter"
@@ -352,12 +352,13 @@
 	item_color = "griffin"
 	can_adjust = 0
 
-/obj/item/clothing/under/cloud
-	name = "cloud"
-	desc = "cloud"
-	icon_state = "cloud"
-	item_color = "cloud"
-	can_adjust = 0
+//obj/item/clothing/under/cloud
+//	name = "cloud"
+//	desc = "cloud"
+//	icon_state = "cloud"
+//	item_color = "cloud"
+//	can_adjust = 0
+// commented out due to lack of sprite. This MAY break everything. --Cebu
 
 /obj/item/clothing/under/gimmick/rank/captain/suit
 	name = "captain's suit"
@@ -472,6 +473,8 @@
 	item_color = "redskirt"
 	item_state = "r_suit"
 
+//SCHOOLGIRL UNIFORMS
+
 /obj/item/clothing/under/schoolgirl
 	name = "blue schoolgirl uniform"
 	desc = "It's just like one of my Japanese animes!"
@@ -499,6 +502,8 @@
 	icon_state = "schoolgirlorange"
 	item_state = "schoolgirlorange"
 	item_color = "schoolgirlorange"
+
+//END OF SCHOOLGIRL UNIFORMS
 
 /obj/item/clothing/under/overalls
 	name = "laborer's overalls"
@@ -753,14 +758,16 @@
 	desc = "A compressed water pack used to refill plasma-man jumpsuit auto-extinguishers."
 	icon_state = "multitool"
 
+// BARE BUTT PYJAMA AND SWEATERS
 /obj/item/clothing/under/bb
 	name = "bare butt pajamas"
 	desc = "Why trade style for comfort? Now you can go commando down south and still be cozy up north."
 	icon_state = "barebutt"
 	item_state = "w_suit"
 	item_color = "barebutt"
-	body_parts_covered = CHEST|ARMS|GROIN
+	body_parts_covered = CHEST|ARMS //fuck you jon
 	can_adjust = 1
+
 /obj/item/clothing/under/bb/sweater
 	name = "black sweater"
 	icon_state = "bb_turtleblk"
@@ -790,6 +797,15 @@
 	icon_state = "bb_turtleblu"
 	item_state = "b_suit"
 	item_color = "bb_turtleblu"
+
+/obj/item/clothing/under/bb/keyholesweater
+	name = "keyhole sweater"
+	desc = "a lilac sweater with a cutout section to show off some clevage"
+	icon_state = "keyholesweater"
+	item_color = "keyholesweater"
+	item_state = "keyholesweater_s"
+
+//END OF BARE BUTT PYJAMA AND SWEATERS
 
 /obj/item/clothing/under/toga
 	name = "bedsheet toga"
@@ -873,6 +889,10 @@
 	can_adjust = 0
 	armor = list(melee = 10, bullet = 5, laser = 0,energy = 0, bomb = 0, bio = 0, rad = 0)
 // Added Diamond dogs BDU at long last.
+//Why do we have duplicate descriptions for similar things. who wrote this --Cebu
+
+
+//SWIMSUITS SHOULD ONLY COVER GROIN AND CHEST
 
 /obj/item/clothing/under/blackswimsuit
 	name = "black swim-suit"
@@ -924,7 +944,7 @@
 
 /obj/item/clothing/under/flycaptain
 	name = "captains fly uniform"
-	desc = "a rather swaggy uniform for the captain to wear."
+	desc = "a rather swaggy uniform for the Captain to wear."
 	icon_state = "captain_fly"
 	item_color = "captain_fly"
 	item_state = "captain_fly_s"
@@ -932,7 +952,7 @@
 
 /obj/item/clothing/under/captaindress
 	name = "captains dress"
-	desc = "a pretty blue dress for female captains"
+	desc = "a pretty blue dress for female Captains"
 	icon_state = "dress_cap"
 	item_color = "dress_cap"
 	item_state = "dress_cap_s"
@@ -940,7 +960,7 @@
 
 /obj/item/clothing/under/hopdressg
 	name = "Lieutenant dress"
-	desc = "a pretty blue dress for female Lts"
+	desc = "a pretty blue dress for female Lietenants"
 	icon_state = "dress_hop"
 	item_color = "dress_hop"
 	item_state = "dress_hop_s"
@@ -948,7 +968,7 @@
 
 /obj/item/clothing/under/rddress
 	name = "Research Director dress"
-	desc = "a brownish dress for female RDs"
+	desc = "a brownish dress for female Research Directors"
 	icon_state = "dress_rd"
 	item_color = "dress_rd"
 	item_state = "dress_rd"
@@ -988,15 +1008,15 @@
 
 /obj/item/clothing/under/fancywarden
 	name = "fancy wardens outfit"
-	desc = ""
+	desc = "a stylish, formal outfit for wardens to wear"
 	icon_state = "wardenf"
 	item_color = "wardenf"
 	item_state = "wardenf_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/whitedress2
-	name = "a white dress"
-	desc = ""
+	name = "white dress"
+	desc = "a long white dress"
 	icon_state = "whitedress2"
 	item_color = "whitedress2"
 	item_state = "whitedress2_s"
@@ -1004,7 +1024,7 @@
 
 /obj/item/clothing/under/whitedress
 	name = "fancy white dress"
-	desc = ""
+	desc = "a short white dress"
 	icon_state = "whitedress1"
 	item_color = "whitedress1"
 	item_state = "whitedress1_s"
@@ -1012,7 +1032,7 @@
 
 /obj/item/clothing/under/tiandress
 	name = "tian dress"
-	desc = ""
+	desc = "a purple dress"
 	icon_state = "tian_dress"
 	item_color = "tian_dress"
 	item_state = "tian_dress_s"
@@ -1020,55 +1040,55 @@
 
 /obj/item/clothing/under/cluwne
 	name = "cluwne outfit"
-	desc = ""
+	desc = "HENK"
 	icon_state = "cluwne"
 	item_color = "cluwne"
 	item_state = "cluwen_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/souschef
-	name = "souschef"
-	desc = ""
+	name = "souschef uniform"
+	desc = "a fancy uniform for the second best chef around"
 	icon_state = "souschef"
 	item_color = "souschef"
 	item_state = "souschef_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/hydro
-	name = "green hydro"
-	desc = ""
+	name = "brown hyrdoponics unoform"
+	desc = "a uniform for hydroponics, coloured like dirt and grass"
 	icon_state = "hydro"
 	item_color = "hydro"
 	item_state = "hydro_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/catholic
-	name = "catholic"
-	desc = ""
+	name = "catholic dress"
+	desc = "a nice dress modeled after the uniforms of the catholic church"
 	icon_state = "catholic"
 	item_color = "catholic"
 	item_state = "catholic_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/rabbi
-	name = "rabbi"
-	desc = ""
+	name = "rabbi outfit"
+	desc = "a simple outfit that makes you look like a rabbi"
 	icon_state = "rabbi"
 	item_color = "rabbi"
 	item_state = "rabbi_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/muslim
-	name = "muslim"
-	desc = ""
+	name = "muslim robes"
+	desc = "simple black and green robes"
 	icon_state = "muslim"
 	item_color = "muslim"
 	item_state = "muslim_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/buddhist
-	name = "buddhist"
-	desc = ""
+	name = "buddhist robes"
+	desc = "some tranquil orange robes"
 	icon_state = "buddhist"
 	item_color = "buddhist"
 	item_state = "buddhist_s"
@@ -1076,7 +1096,7 @@
 
 /obj/item/clothing/under/siropa
 	name = "siropa"
-	desc = ""
+	desc = "a persian siropa"
 	icon_state = "siropa"
 	item_color = "siropa"
 	item_state = "siropa_s"
@@ -1084,7 +1104,7 @@
 
 /obj/item/clothing/under/fancyclown
 	name = "fancy clown"
-	desc = ""
+	desc = "I do say, honk, my good sir"
 	icon_state = "clown-fancy"
 	item_color = "clown-fancy"
 	item_state = "clown-fancy_s"
@@ -1092,7 +1112,7 @@
 
 /obj/item/clothing/under/hawaiian
 	name = "hawaiian shirt"
-	desc = ""
+	desc = "a tacky shirt with a hawaiin floral pattern"
 	icon_state = "hawaiian"
 	item_color = "hawaiian"
 	item_state = "hawaiian_s"
@@ -1100,7 +1120,7 @@
 
 /obj/item/clothing/under/captaingreen
 	name = "green captain outfit"
-	desc = ""
+	desc = "a jumpsuit for the captain, but in green! Now you can pretend to be a centcom official!"
 	icon_state = "captaing"
 	item_color = "captaing"
 	item_state = "captaing_s"
@@ -1108,23 +1128,24 @@
 
 /obj/item/clothing/under/captainred
 	name = "red captain outfit"
-	desc = ""
+	desc = "for when the captain needs to make it clear how evil he is"
 	icon_state = "captain-red"
 	item_color = "captain-red"
 	item_state = "captain-red_s"
 	can_adjust = 0
 
+// Ah, yes. The captaind red dress. SOMEONE WHO KNOWS HOW TO FIX THIS FIX IT. --Cebu
 /obj/item/clothing/under/captaindreddress
 	name = "red captain dress"
-	desc = ""
+	desc = "for when the evil dictator needs more ventilation"
 	icon_state = "captain-dress-red"
 	item_color = "captain-dress-red"
 	item_state = "captain-dress-red_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/fancycaptain
-	name = "fancy captain"
-	desc = ""
+	name = "fancy captain uniform"
+	desc = "a pink and green uniform that helps disguise bloodstains"
 	icon_state = "captain-fancy"
 	item_color = "captain-fancy"
 	item_state = "captain-fancy_s"
@@ -1132,15 +1153,15 @@
 
 /obj/item/clothing/under/hopdress
 	name = "green Lieutenant dress"
-	desc = ""
+	desc = "Captain-Lite, Sea Foam Green Edition"
 	icon_state = "lt_dress"
 	item_color = "lt_dress"
 	item_state = "lt_dress_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/fancyhop
-	name = "Lieutenant fancy"
-	desc = ""
+	name = "fancy Lieutenant uniform"
+	desc = "for when you need to out-style the captain"
 	icon_state = "hop-fancy"
 	item_color = "hop-fancy"
 	item_state = "hop-fancy_s"
@@ -1148,23 +1169,23 @@
 
 /obj/item/clothing/under/redhos
 	name = "Head of Security outfit"
-	desc = ""
+	desc = "a menacing red outfit for the station's finest"
 	icon_state = "hosr"
 	item_color = "hosr"
 	item_state = "hosr_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/hosfancy
-	name = "Head of Security fancy"
-	desc = ""
+	name = "Head of Security fancy uniform"
+	desc = "suited for the negotiations table"
 	icon_state = "hos-fancy"
 	item_color = "hos-fancy"
 	item_state = "hos-fancy_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/cealt
-	name = "Chief Engineer alt wear"
-	desc = ""
+	name = "Chief Engineer alternate jumpsuit"
+	desc = "a purple and green version of the Chief Engineer's jumpsuit, for when he needs to pretend to be Research"
 	icon_state = "chief-alt"
 	item_color = "chief-alt"
 	item_state = "chief-alt_s"
@@ -1172,199 +1193,200 @@
 
 /obj/item/clothing/under/chiefdress
 	name = "Chief Engineer dress"
-	desc = ""
+	desc = "a dress for the Chief Engineer. Probably doesn't meet space OSHA standards"
 	icon_state = "chief-dress"
 	item_color = "chief-dress"
 	item_state = "chief-dress_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/chiefdressalt
-	name = "alt wear Chief Engineer dress"
-	desc = ""
+	name = "alternate Chief Engineer dress"
+	desc = "a purple and green version of the Chief Engineer's dress"
 	icon_state = "chief-dress-alt"
 	item_color = "chief-dress-alt"
 	item_state = "chief-dress-alt_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/cefancy
-	name = "Chief Engineer fancy"
-	desc = ""
+	name = "Chief Engineer fancy uniform"
+	desc = "for when you need to explain to your boss why there is a hole where engineering should be"
 	icon_state = "chief-fancy"
 	item_color = "chief-fancy"
 	item_state = "chief-fancy_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/director
-	name = "director"
-	desc = ""
+	name = "Research Director's suit"
+	desc = "a brown suit for directing research"
 	icon_state = "director"
 	item_color = "director"
 	item_state = "director_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directordress
-	name = "directors dress"
-	desc = ""
+	name = "Research Director's dress"
+	desc = "a brown dress for directing research"
 	icon_state = "director-dress"
 	item_color = "director-dress"
 	item_state = "director-dress_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directoralt
-	name = "director alt wear"
-	desc = ""
+	name = "alternate Research Director's suit"
+	desc = "a grey suit for directing research"
 	icon_state = "director-alt"
 	item_color = "director-alt"
 	item_state = "director-alt_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directordressalt
-	name = "director dress alt wear"
-	desc = ""
+	name = "Research Director's dress"
+	desc = "a grey dress for directing research"
 	icon_state = "director-dress-alt"
 	item_color = "director-dress-alt"
 	item_state = "director-dress-alt_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directorfancy
-	name = "fancy director"
-	desc = ""
+	name = "fancy Research Director's uniform"
+	desc = "a beautiful golden uniform that shines in the light of science"
 	icon_state = "director-fancy"
 	item_color = "director-fancy"
 	item_state = "director-fancy_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directormed
-	name = "director med"
-	desc = ""
+	name = "Chief Medical Officer's suit"
+	desc = "a black and red suit that inspires excellence"
 	icon_state = "med_director"
 	item_color = "med_director"
 	item_state = "med_director_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directormedress
-	name = "director med dress"
-	desc = ""
+	name = "Chief Medical Officer's dress"
+	desc = "a black and red dress that inspires excellence"
 	icon_state = "med_director-dress"
 	item_color = "med_director-dress"
 	item_state = "med_director-dress_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directormedalt
-	name = "director med alt"
-	desc = ""
+	name = "alternate Chief Medical Officer's suit"
+	desc = "a black suit with soothing blue accents"
 	icon_state = "med_director-alt"
 	item_color = "med_director-alt"
 	item_state = "med_director-alt_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directormedaltdress
-	name = "director med dress alt"
-	desc = ""
+	name = "alternate Chief Medical Officer's dress"
+	desc = "a little black dress with soothing blue accents"
 	icon_state = "med_director-dress-alt"
 	item_color = "med_director-dress-alt"
 	item_state = "med_director-dress-alt_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/directormedfancy
-	name = "director med fancy"
-	desc = ""
+	name = "fancy Chief Medical Officer uniform"
+	desc = "The title of Chief Medical Officer is one of high esteem. The holder of it can cure disease, mend bones, and lead any doctor to fight back against death itself."
 	icon_state = "med_director-fancy"
 	item_color = "med_director-fancy"
 	item_state = "med_director-fancy_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/hydroalt
-	name = "hydro alt wear"
-	desc = ""
+	name = "red hydroponics jumpsuit"
+	desc = "a red alternative to the green jumpsuits of botony. There's some sap stuck on the zipper"
 	icon_state = "hydro-alt"
 	item_color = "hydro-alt"
 	item_state = "hydro-alt_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/shizunewinter
-	name = "shizune winter"
-	desc = ""
+	name = "yellow jacket"
+	desc = "a comfortable yellow jacket for cold weather"
 	icon_state = "shizunewinter"
 	item_color = "shizunewinter"
 	item_state = "shizunewinter_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/shizunenormal
-	name = "shizune normal"
-	desc = ""
+	name = "green plaid blouse"
+	desc = "a comfortable green blouse with a plaid pattern"
 	icon_state = "shizunenormal"
 	item_color = "shizunenormal"
 	item_state = "shizunenormal_s"
 	can_adjust = 0
 
+//Can we put this with the rest of the sweaters? (obj/item/clothing/under/bb) --Cebu
 /obj/item/clothing/under/keyholesweater
 	name = "keyhole sweater"
-	desc = ""
+	desc = "a lilac sweater with a cutout section to show off some clevage"
 	icon_state = "keyholesweater"
 	item_color = "keyholesweater"
 	item_state = "keyholesweater_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/hoodiejeans
-	name = "hoodie jeans"
-	desc = ""
+	name = "hoodie with jeans"
+	desc = "a bright red hoodie with green dreans"
 	icon_state = "hoodiejeans"
 	item_color = "hoodiejeans"
 	item_state = "hoodiejeans_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/blessedclown
-	name = "blessed clown"
-	desc = ""
+	name = "blessed clown suit"
+	desc = "Honkmother, Honkmother, send your child unto me, for the slips of the unworthy must be baptized in lube and bananas"
 	icon_state = "blessedclown"
 	item_color = "blessedclown"
 	item_state = "blessedclown_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/dolan
-	name = "dolan"
-	desc = ""
+	name = "sailor's jacket"
+	desc = "a nice blue jacket with black pants and a red tie"
 	icon_state = "dolan"
 	item_color = "dolan"
 	item_state = "dolan_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/merchant
-	name = "merchant"
-	desc = ""
+	name = "merchant outfit"
+	desc = "a silky black shirt with smooth red pants, and a charming gold belt"
 	icon_state = "merchant"
 	item_color = "merchant"
 	item_state = "merchant_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/yay
-	name = "yay"
-	desc = ""
+	name = "smile shirt"
+	desc = "yay"
 	icon_state = "yay"
 	item_color = "yay"
 	item_state = "yay_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/utena
-	name = "utena"
-	desc = ""
+	name = "dark coat"
+	desc = "a dark coat with red accents"
 	icon_state = "utena"
 	item_color = "utena"
 	item_state = "utena_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/kilt2
-	name = "kilt"
-	desc = ""
+	name = "dark kilt"
+	desc = "FER SCOTLAAAAAND!"
 	icon_state = "kilt2"
 	item_color = "kilt2"
 	item_state = "kilt2_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/bane
-	name = "bane"
-	desc = ""
+	name = "combat vest"
+	desc = "let's not stand on ceremony"
 	icon_state = "bane"
 	item_color = "bane"
 	item_state = "bane_s"
@@ -1372,7 +1394,7 @@
 
 /obj/item/clothing/under/castiledress
 	name = "Castile Dress"
-	desc = ""
+	desc = "a white dress with a red skirt"
 	icon_state = "castile_dress"
 	item_color = "castile_dress"
 	item_state = "castile_dress_s"
@@ -1380,7 +1402,7 @@
 
 /obj/item/clothing/under/flapperdress
 	name = "flapper dress"
-	desc = ""
+	desc = "perfect to take to the speakeasy"
 	icon_state = "flapper"
 	item_color = "flapper"
 	item_state = "flapper_s"
@@ -1388,7 +1410,7 @@
 
 /obj/item/clothing/under/purplecheer
 	name = "purple cheerleader dress"
-	desc = ""
+	desc = "a skimpy purple dress. Gimme an A!"
 	icon_state = "purple_cheer"
 	item_color = "purple_cheer"
 	item_state = "purple_cheer_s"
@@ -1396,7 +1418,7 @@
 
 /obj/item/clothing/under/yellowcheer
 	name = "yellow cheerleader dress"
-	desc = ""
+	desc = "a skimpy yellow dress. Gimme an R!"
 	icon_state = "yellow_cheer"
 	item_color = "yellow_cheer"
 	item_state = "yellow_cheer_s"
@@ -1404,15 +1426,15 @@
 
 /obj/item/clothing/under/whitecheer
 	name = "white cheerleader dress"
-	desc = ""
+	desc = "a skimpy white dress. Gimme an F!"
 	icon_state = "white_cheer"
 	item_color = "white_cheer"
 	item_state = "white_cheer_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/schoolgirlblack
-	name = "black schoolgirl"
-	desc = ""
+	name = "black schoolgirl dress"
+	desc = "a dark coloured dress, just like in those Japanese Animes"
 	icon_state = "schoolgirl_black"
 	item_color = "schoolgirl_black"
 	item_state = "schoolgirl_black_s"
@@ -1420,7 +1442,7 @@
 
 /obj/item/clothing/under/maximusarmor
 	name = "maximus armor"
-	desc = ""
+	desc = "Are you not entertained?"
 	icon_state = "maximus_armor"
 	item_color = "maximus_armor"
 	item_state = "maximus_armor_s"
@@ -1436,16 +1458,16 @@
 */
 
 /obj/item/clothing/under/sasha
-	name = "sasha"
-	desc = ""
+	name = "sasha dress"
+	desc = "a blue dress"
 	icon_state = "sasha"
 	item_color = "sasha"
 	item_state = "sasha_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/cuttopred
-	name = "cuttop red"
-	desc = ""
+	name = "red cuttop"
+	desc = "a short red shirt with short black shorts"
 	icon_state = "cuttop_red"
 	item_color = "cuttop_red"
 	item_state = "cuttop_red_s"
@@ -1453,15 +1475,15 @@
 
 /obj/item/clothing/under/croptop
 	name = "croptop"
-	desc = ""
+	desc = "a stylish black crop top displaying NanoTrasen pride. Wait a minute...."
 	icon_state = "croptop"
 	item_color = "croptop"
 	item_state = "croptop_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/hoodieskirt
-	name = "hoodie skirt"
-	desc = ""
+	name = "hoodie with skirt"
+	desc = "a soft blue hoodie with a tan skirt"
 	icon_state = "hoodieskirt"
 	item_color = "hoodieskirt"
 	item_state = "hoodieskirt_s"
@@ -1477,36 +1499,37 @@
 
 /obj/item/clothing/under/purpleskirt
 	name = "purple skirt"
-	desc = ""
+	desc = "a purple shirt with a black skirt"
 	icon_state = "purpleskirt"
 	item_color = "purpleskirt"
 	item_state = "purpleskirt_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/geisha
-	name = "geisha"
-	desc = ""
+	name = "geisha outfit"
+	desc = "a kimono-like dress worn by geisha's, or japanese hostesses"
 	icon_state = "geisha"
 	item_color = "geisha"
 	item_state = "geisha_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/ysing
-	name = "ysing"
-	desc = ""
+	name = "yellow singer's outfit"
+	desc = "robotic voice not included"
 	icon_state = "ysing"
 	item_color = "ysing"
 	item_state = "ysing_s"
 	can_adjust = 0
 
 /obj/item/clothing/under/bsing
-	name = "bsing"
-	desc = ""
+	name = "blue singer's outfit"
+	desc = "robotic voice not included"
 	icon_state = "bsing"
 	item_color = "bsing"
 	item_state = "bsing_s"
 	can_adjust = 0
 
+//APPARENTLY THIS ONE IS KILLBOW'S. I DON'T KNOW. --Cebu
 /obj/item/clothing/under/arroganza
 	name = "arroganza"
 	desc = ""

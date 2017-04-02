@@ -1,12 +1,13 @@
 //Gozulios white cane. There are two entries here using the telescopic baton code.
 //White Cane for head of staff use
+
+// never - jon
 /obj/item/weapon/melee/classic_baton/telescopic/goz/whitecane
 	name = "white cane"
 	desc = "A telescoping white cane. They are commonly used by the blind or visually impaired as a mobility tool or as a courtesy to others. This on appears to be heavily reinforced."
 	slot_flags = SLOT_BELT
 	icon_state = "goz_whitecane_0"
 	item_state = null
-	..()
 
 /obj/item/weapon/melee/classic_baton/telescopic/goz/whitecane/suicide_act(mob/user)
 	var/mob/living/carbon/human/H = user
@@ -48,7 +49,7 @@
 	playsound(src.loc, 'sound/weapons/batonextend.ogg', 50, 1)
 	add_fingerprint(user)
 
-//Same code from th classib baton just attack text changed
+//Same code from the classic baton just attack text changed
 /obj/item/weapon/melee/classic_baton/telescopic/goz/whitecane/attack(mob/target, mob/living/user)
 	if(on)
 		add_fingerprint(user)

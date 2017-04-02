@@ -172,75 +172,74 @@
 	item_state = "classicponcho"
 
 /obj/item/clothing/suit/hosbluejacket
-	name = "blue hos jacket"
-	desc = ""
+	name = "blue head of security jacket"
+	desc = "A robust jacket for the Head of Security. Now in blue!"
 	icon_state = "bluehosjacket"
 	item_state = "bluehosjacket"
 
 /obj/item/clothing/suit/wardenjacket
-	name = "warden jacket blue"
-	desc = ""
+	name = "blue warden jacket"
+	desc = "A stylish jacket for the warden to lord over the prisoners with"
 	icon_state = "wardenjacketblue"
 	item_state = "wardenjacketblue"
 
 /obj/item/clothing/suit/hostanjacket
-	name = "tan hos jacket"
-	desc = ""
+	name = "tan head of security jacket"
+	desc = "Perfect for desert ops"
 	icon_state = "hostanjacket"
 	item_state = "hostanjacket"
 
 /obj/item/clothing/suit/officerbluejacket
 	name = "blue officer jacket"
-	desc = ""
+	desc = "A stylish blue jacket for the officer on the move"
 	icon_state = "officerbluejacket"
 	item_state = "officerbluejacket"
 
 /obj/item/clothing/suit/tanofficerjacket
 	name = "tan officer jacket"
-	desc = ""
+	desc = "Not made of human skin"
 	icon_state = "wardentanjacket"
 	item_state = "wardentanjacket"
 
 
 /obj/item/clothing/suit/banecoat
-	name = "bane coat"
-	desc = ""
+	name = "leather coat"
+	desc = "it doesn't matter who we are, what matters is out plan "
 	icon_state = "banecoat"
 	item_state = "banecoat"
 
 /obj/item/clothing/suit/bluesweater
-	name = "blue sweater"
-	desc = ""
+	name = "festive blue sweater"
+	desc = "a nice blue wool sweater, for the most wonderful time of the year"
 	icon_state = "sweater_blue"
 	item_state = "sweater_blue"
 
 /obj/item/clothing/suit/redsweater
-	name = "red sweater"
-	desc = ""
+	name = "festive red sweater"
+	desc = "A snuggle red wool sweater"
 	icon_state = "sweater_red"
 	item_state = "sweater_red"
 
 /obj/item/clothing/suit/greensweater
-	name = "green sweater"
-	desc = ""
+	name = "festive green sweater"
+	desc = "a wool sweater that almost makes you look like a tree"
 	icon_state = "sweater_green"
 	item_state = "sweater_green"
 
 /obj/item/clothing/suit/beesuit
-	name = "a bee suit"
-	desc = ""
+	name = "it's hip"
 	icon_state = "bee"
 	item_state = "bee"
 
 /obj/item/clothing/suit/sneakman
 	name = "a sneaky suit"
-	desc = ""
+	desc = "<b>!</b>"
 	icon_state = "sneakmans"
 	item_state = "sneakmans"
 
 /obj/item/clothing/suit/wardentanjacket
 	name = "tan warden jacket"
-	desc = ""
+	desc = "a stylish tan jacket for the warden"
 	icon_state = "officertanjacket"
 	item_state = "officertanjacket"
 
@@ -401,6 +400,7 @@
 
 
 // WINTER COATS
+// I didn't change any of the armor values, I just added descriptions to match --Cebu
 
 /obj/item/clothing/suit/hooded/wintercoat
 	name = "winter coat"
@@ -427,6 +427,7 @@
 /obj/item/clothing/suit/hooded/wintercoat/captain
 	name = "captain's winter coat"
 	icon_state = "coatcaptain"
+	desc = "A heavy jacket made from 'synthetic' animal furs. Technology similar to that used in the Captain's carapace allows it to be much more armored than the average coat without sacrificing mobility or snuggliness"
 	armor = list(melee = 25, bullet = 30, laser = 30, energy = 10, bomb = 25, bio = 0, rad = 0)
 	allowed = list(/obj/item/weapon/gun/energy,/obj/item/weapon/reagent_containers/spray/pepper,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing,/obj/item/weapon/melee/baton,/obj/item/weapon/restraints/handcuffs,/obj/item/device/flashlight/seclite,/obj/item/weapon/melee/classic_baton/telescopic)
 	hoodtype = /obj/item/clothing/head/winterhood/captain
@@ -437,6 +438,7 @@
 /obj/item/clothing/suit/hooded/wintercoat/security
 	name = "security winter coat"
 	icon_state = "coatsecurity"
+	desc = "A heavy armoured jacket made from 'synthetic' animal furs."
 	armor = list(melee = 25, bullet = 15, laser = 30, energy = 10, bomb = 25, bio = 0, rad = 0)
 	allowed = list(/obj/item/weapon/gun/energy,/obj/item/weapon/reagent_containers/spray/pepper,/obj/item/weapon/gun/projectile,/obj/item/ammo_box,/obj/item/ammo_casing,/obj/item/weapon/melee/baton,/obj/item/weapon/restraints/handcuffs,/obj/item/device/flashlight/seclite,/obj/item/weapon/melee/classic_baton/telescopic)
 	hoodtype = /obj/item/clothing/head/winterhood/security
@@ -447,6 +449,7 @@
 /obj/item/clothing/suit/hooded/wintercoat/medical
 	name = "medical winter coat"
 	icon_state = "coatmedical"
+	desc = "A heavy jacket made from 'synthetic' animal furs. It smells like disinfectant."
 	allowed = list(/obj/item/device/analyzer,/obj/item/stack/medical,/obj/item/weapon/dnainjector,/obj/item/weapon/reagent_containers/dropper,/obj/item/weapon/reagent_containers/syringe,/obj/item/weapon/reagent_containers/hypospray,/obj/item/device/healthanalyzer,/obj/item/device/flashlight/pen,/obj/item/weapon/reagent_containers/glass/bottle,/obj/item/weapon/reagent_containers/glass/beaker,/obj/item/weapon/reagent_containers/pill,/obj/item/weapon/storage/pill_bottle,/obj/item/weapon/paper,/obj/item/weapon/melee/classic_baton/telescopic)
 	armor = list(melee = 0, bullet = 0, laser = 0,energy = 0, bomb = 0, bio = 50, rad = 0)
 	hoodtype = /obj/item/clothing/head/winterhood/medical
@@ -457,6 +460,7 @@
 /obj/item/clothing/suit/hooded/wintercoat/science
 	name = "science winter coat"
 	icon_state = "coatscience"
+	desc= "A heavy jacket made from 'synthetic' animal furs. It has additional padding to protect the wearer from shockwaves"
 	allowed = list(/obj/item/device/analyzer,/obj/item/stack/medical,/obj/item/weapon/dnainjector,/obj/item/weapon/reagent_containers/dropper,/obj/item/weapon/reagent_containers/syringe,/obj/item/weapon/reagent_containers/hypospray,/obj/item/device/healthanalyzer,/obj/item/device/flashlight/pen,/obj/item/weapon/reagent_containers/glass/bottle,/obj/item/weapon/reagent_containers/glass/beaker,/obj/item/weapon/reagent_containers/pill,/obj/item/weapon/storage/pill_bottle,/obj/item/weapon/paper,/obj/item/weapon/melee/classic_baton/telescopic)
 	armor = list(melee = 0, bullet = 0, laser = 0,energy = 0, bomb = 10, bio = 0, rad = 0)
 	hoodtype = /obj/item/clothing/head/winterhood/science
@@ -468,6 +472,7 @@
 	name = "engineering winter coat"
 	icon_state = "coatengineer"
 	armor = list(melee = 0, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 0, rad = 20)
+	desc = "A heavy jacket made from 'synthetic' animal furs. Has slight radiation protection."
 	allowed = list(/obj/item/device/flashlight,/obj/item/weapon/tank/internals/emergency_oxygen,/obj/item/device/t_scanner, /obj/item/weapon/rcd)
 	hoodtype = /obj/item/clothing/head/winterhood/engineering
 
@@ -502,6 +507,7 @@
 /obj/item/clothing/suit/hooded/wintercoat/miner
 	name = "mining winter coat"
 	icon_state = "coatminer"
+	desc = "A heavy jacket made from 'synthetic' animal furs. Integrated goliath scales make it slightly sturdier, but you can't wear it in vacuum"
 	allowed = list(/obj/item/weapon/pickaxe,/obj/item/device/flashlight,/obj/item/weapon/tank/internals/emergency_oxygen,/obj/item/toy,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/weapon/lighter)
 	armor = list(melee = 10, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 0, rad = 0)
 	hoodtype = /obj/item/clothing/head/winterhood/miner
@@ -511,40 +517,48 @@
 
 /obj/item/clothing/suit/draculacoat
 	name = "dracula coat"
+	desc = "A long black and red cape/cloak combo that makes you want to count"
 	icon_state = "draculacoat"
 	item_state = "draculacoat"
 
 /obj/item/clothing/suit/magiciansuit
 	name = "magician suit"
+	desc = "A very fancy suit. Now you see me, now you don't!"
 	icon_state = "magiciansuit"
 	item_state = "magiciansuit"
 
 /obj/item/clothing/suit/goodblanket
 	name = "good blanket"
+	desc = "A very nice and warm blanket to snuggle in"
 	icon_state = "goodblanket"
 	item_state = "goodblanket"
 
 /obj/item/clothing/suit/shittyuglyawfulBADblanket
 	name = "shitty uglyawful BAD blanket"
+	desc = "Just looking at this makes you want to vomit a little"
 	icon_state = "shittyuglyawfulBADblanket"
 	item_state = "shittyuglyawfulBADblanket"
 
 /obj/item/clothing/suit/snowman
 	name = "snowman suit"
+	desc = "Hey, that's not where the carrot goes..."
 	icon_state = "snowman"
 	item_state = "snowman"
 
 /obj/item/clothing/suit/bonearmor
-	name = "bone armor"
+	name = "replica bone armor"
+	desc = "A badass looking chestpiece made of replica bones of some unknown creature. Smells of brimstone"
 	icon_state = "bonearmor"
 	item_state = "bonearmor"
 
 /obj/item/clothing/suit/bee
 	name = "bee suit"
+	desc = "Buzzzzzzzzz"
 	icon_state = "bee1"
 	item_state = "bee1"
 
 /obj/item/clothing/suit/witchhunter
-	name = "witch hunter"
+	name = "witch hunter suit"
+	desc = " Mysticism means taking a step back. accepting that the very laws of reason and logic you abide by are merely one option of many."
 	icon_state = "witchhunter"
 	item_state = "witchhunter"
