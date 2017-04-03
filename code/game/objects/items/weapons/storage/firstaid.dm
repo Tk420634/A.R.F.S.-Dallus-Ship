@@ -251,3 +251,15 @@
 	icon_state = "runelunch"
 	item_state = "runelunch"
 	can_hold = list(/obj/item/weapon/reagent_containers/food)
+
+/obj/item/weapon/storage/firstaid/runelunch/New()
+	..()
+	if(empty) return
+	new /obj/item/weapon/reagent_containers/food/snacks/fudge/cookies_n_cream(src)
+	new /obj/item/weapon/reagent_containers/food/snacks/fudge/cookies_n_cream(src)
+	new /obj/item/weapon/reagent_containers/food/snacks/cotton/pink(src)
+	new /obj/item/weapon/reagent_containers/food/snacks/cookie(src)
+	new /obj/item/weapon/reagent_containers/food/snacks/cookie(src)
+	new /obj/item/weapon/reagent_containers/food/snacks/cookie(src)
+	new /obj/item/weapon/reagent_containers/food/snacks/cookie(src)
+	return
