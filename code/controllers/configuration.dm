@@ -66,7 +66,9 @@
 	var/wikiurl = "http://www.tgstation13.org/wiki" // Default wiki link.
 	var/forumurl = "arfsdallusstation.createaforum.com/index.php" //default forums
 	var/rulesurl = "arfsdallusstation.createaforum.com/rules/" // default rules
-	var/githuburl = "" //default github
+	var/githuburl = "https://github.com/Tk420634/A.R.F.S.-Dallus-Ship" //default github
+	var/discordurl = "https://discord.gg/RRdBYvK" //default discordurl
+
 
 	var/forbid_singulo_possession = 0
 	var/useircbot = 0
@@ -308,6 +310,8 @@
 					config.rulesurl = value
 				if("githuburl")
 					config.githuburl = value
+				if("discordurl")
+					config.discordurl = value
 				if("guest_jobban")
 					config.guest_jobban = 1
 				if("usewhitelist")

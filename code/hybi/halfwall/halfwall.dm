@@ -1,6 +1,7 @@
 // My attempt at a half wall - Jonathan
 // Copy pasta'd window procs cause I'm lazy.
-
+// TO DO- STOP GIRDERS FROM DUPLICATING METAL
+// STOP AIRFLOW
 /obj/structure/halfwall
 	name = "halfwall"
 	desc = "A halfwall."
@@ -51,6 +52,7 @@
 		playsound(src, 'sound/items/Welder.ogg', 100, 1)
 		var/obj/item/stack/sheet/metal/M = new (loc)
 		M.amount = 1
+		qdel(src)
 	else
 		playsound(src, 'sound/items/Screwdriver.ogg', 100, 1)
 		var/obj/item/stack/sheet/metal/M = new (loc)
@@ -58,7 +60,7 @@
 		var/obj/structure/halfgirder/G = new (loc)
 		G.dir = dir
 		transfer_fingerprints_to(G)
-		qdel()
+		qdel(src)
 
 /obj/structure/halfwall/proc/devastate_wall()
 	var/obj/item/stack/sheet/metal/M
@@ -116,17 +118,15 @@
 	if(istype(W, /obj/item/weapon/screwdriver))
 		user << "<span class='notice'>You begin unscrewing the outer plating...</span>"
 		playsound(src, 'sound/items/Screwdriver.ogg', 100, 1)
+		visible_message("Debug: do_after start")
 		if(do_after(user, 15, target = src))
 			if(!user || !W)
+				visible_message("Debug: no user or weapon")
 				return 1
-			if( user.loc == T && user.get_active_hand() == W )
+			if(user.get_active_hand() == W)
+				visible_message("Debug: dismantle wall called")
 				user << "<span class='notice'>You remove the outer plating.</span>"
-				var/obj/item/stack/sheet/metal/M = new (loc)
-				M.amount = 1
-				var/obj/structure/halfgirder/G = new (loc)
-				G.dir = dir
-				transfer_fingerprints_to(G)
-				qdel()
+				dismantle_wall()
 				return 1
 	else if( istype(W, /obj/item/weapon/gun/energy/plasmacutter) )
 		user << "<span class='notice'>You begin cutting through the outer plating...</span>"
@@ -134,13 +134,13 @@
 		if(do_after(user, 7, target = src))  // plasma cutter is faster than welding tool
 			if(!user || !W || !T )
 				return 1
-			if( user.loc == T && user.get_active_hand() == W )
+			if(user.get_active_hand() == W )
 				user << "<span class='notice'>You slice through the outer plating, destroying the girder along with it!</span>"
 				playsound(src, 'sound/items/Welder.ogg', 100, 1)
 				var/obj/item/stack/sheet/metal/M = new (loc)
 				M.amount = 1
-				qdel()
 				visible_message("The wall was sliced apart by [user]!", "<span class='italics'>You hear metal being sliced apart.</span>")
+				qdel()
 				return 1
 	return 0
 
