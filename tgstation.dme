@@ -855,7 +855,7 @@
 #include "code\game\verbs\ooc.dm"
 #include "code\game\verbs\suicide.dm"
 #include "code\game\verbs\who.dm"
-#include "code\gozulio\cane.dm"
+#include "code\gozulio\objects\items\cane.dm"
 #include "code\gozulio\objects\structures\closet.dm"
 #include "code\hybi\bots\buttbot.dm"
 #include "code\hybi\chewies\chewchems.dm"
