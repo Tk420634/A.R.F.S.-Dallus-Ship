@@ -4,7 +4,8 @@
 // never - jon
 /obj/item/weapon/melee/classic_baton/telescopic/goz/whitecane
 	name = "white cane"
-	desc = "A telescoping white cane. They are commonly used by the blind or visually impaired as a mobility tool or as a courtesy to others."
+	desc = "A telescoping white cane. They are commonly used by the blind or visually impaired as a mobility tool or as a courtesy to others. This on appears to be heavily reinforced."
+	slot_flags = SLOT_BELT
 	icon_state = "goz_whitecane_0"
 	item_state = null
 
@@ -40,8 +41,8 @@
 		user << "<span class ='notice'>You collapse the white cane.</span>"
 		icon_state = "goz_whitecane_0"
 		item_state = null //no sprite for concealment even when in hand
-		slot_flags = SLOT_BELT
 		w_class = 2
+		slot_flags = SLOT_BELT
 		force = 0 //not so robust now
 		attack_verb = list("hit", "poked")
 
@@ -92,14 +93,7 @@
 /obj/item/weapon/melee/classic_baton/telescopic/goz/whitecane/safe
 	name = "white cane"
 	desc = "A telescoping white cane. They are commonly used by the blind or visually impaired as a mobility tool or as a courtesy to others."
-	icon = 'icons/obj/weapons.dmi'
-	icon_state = "goz_whitecane_0"
-	item_state = null
-	slot_flags = SLOT_BELT
-	w_class = 2
-	needs_permit = 0
-	force = 0
-	on = 0
+	..()
 
 /obj/item/weapon/melee/classic_baton/telescopic/goz/whitecane/safe/suicide_act(mob/user)
 	var/mob/living/carbon/human/H = user
