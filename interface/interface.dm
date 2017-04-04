@@ -47,6 +47,18 @@
 		src << "<span class='danger'>The Github URL is not set in the server configuration.</span>"
 	return
 
+/client/verb/discord()
+	set name = "Discord"
+	set desc = "Join Discord"
+	set hidden = 1
+	if(config.discordurl)
+		if(alert("This will open the discord instant invite link in your browser. Are you sure?",,"Yes","No")=="No")
+			return
+		src << link(config.discordurl)
+	else
+		src << "<span class='danger'>The Discord link is not set in the server configuration.</span>"
+	return
+
 /client/verb/reportissue()
 	set name = "Report issue"
 	set desc = "Report an issue"
