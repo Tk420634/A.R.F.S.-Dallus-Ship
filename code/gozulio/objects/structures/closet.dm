@@ -1,7 +1,7 @@
 //Weapons and equipment lockers for aft security checkpoint
 /obj/structure/closet/secure_closet/armory4
-	name = "Security Checkpoint Armour Locker"
-	req_access = list(access_armory)
+	name = "Security Checkpoint Arms Locker"
+	req_access = list(access_security)
 	icon_state = "armory"
 
 /obj/structure/closet/secure_closet/armory4/New()
@@ -10,6 +10,9 @@
 	new /obj/item/clothing/suit/armor/riot(src)
 	new /obj/item/clothing/head/helmet/riot(src)
 	new /obj/item/clothing/head/helmet/riot(src)
+	new /obj/item/weapon/gun/energy/gun(src)
+	new /obj/item/weapon/gun/energy/gun(src)
+	new /obj/item/weapon/gun/energy/gun(src)
 	return
 
 /obj/structure/closet/secure_closet/armory5
