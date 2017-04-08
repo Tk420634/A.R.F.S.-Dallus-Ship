@@ -1838,8 +1838,6 @@ var/list/traitor_test_list = null
 		if("Male") VO.tf_gender=MALE
 		if("Female") VO.tf_gender=FEMALE
 		else VO.tf_gender=NEUTER
-	selection = alert("Give them a nice, eggy package?","Vore","Egg!","No.")
-	VO.tf_egg = selection=="Egg!" ? 1 : 0
 	if(VO.has_people()&&!VO.tf_factor)
 		vore_admins("[key_name(VO.owner)]'s [VO.type] set to transform.",VO.owner)
 	VO.tf_factor=VORE_TRANSFORM_SPEED_FAST
