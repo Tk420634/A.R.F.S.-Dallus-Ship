@@ -67,7 +67,7 @@
 	var/forumurl = "arfsdallusstation.createaforum.com/index.php" //default forums
 	var/rulesurl = "arfsdallusstation.createaforum.com/rules/" // default rules
 	var/githuburl = "https://github.com/Tk420634/A.R.F.S.-Dallus-Ship" //default github
-	var/discordurl = "https://discord.gg/RRdBYvK" //default discordurl
+	var/discordurl = "https://discord.gg/RRdBYo" //default discordurl
 
 
 	var/forbid_singulo_possession = 0

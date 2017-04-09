@@ -336,7 +336,7 @@ update_flag
 		if (href_list["remove_tank"])
 			if(holding)
 				if (valve_open)
-					investigate_log("[key_name(usr)] removed the [holding], leaving the valve open and transfering into the <span class='boldannounce'>air</span><br>", "atmos")
+					valve_open = 0
 				holding.loc = loc
 				holding = null
 
