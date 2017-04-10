@@ -350,3 +350,37 @@
 	name = "Statue of an assistant"
 	desc = "A cheap statue of sandstone for a greyshirt."
 	icon_state = "assist"
+
+///////////////////supermater fake//////////////////////////////////////
+/obj/structure/statue/shard
+	hardness = 3
+	mineralType = "bananium"
+	desc = "A strangely translucent and iridescent crystal that looks like it used to be part of a larger structure. This one is fastened to the floor. You get headaches just from looking at it.."
+	var/spam_flag = 0
+
+/obj/structure/statue/shard/fake
+	name = "The supermatter crystal"
+	icon_state = "shard"
+
+/obj/structure/statue/shard/Bumped(atom/user)
+	honk()
+	..()
+
+/obj/structure/statue/shard/attackby(obj/item/weapon/W, mob/user, params)
+	honk()
+	..()
+
+/obj/structure/statue/shard/attack_hand(mob/user)
+	honk()
+	..()
+
+/obj/structure/statue/shard/attack_paw(mob/user)
+	honk()
+	..()
+
+/obj/structure/statue/shard/proc/honk()
+	if(!spam_flag)
+		spam_flag = 1
+		playsound(src.loc, 'sound/items/bikehorn.ogg', 50, 1)
+		spawn(20)
+			spam_flag = 0
