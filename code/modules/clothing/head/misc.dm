@@ -89,7 +89,7 @@
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/predator
-	name = "predator"
+	name = "predator mask"
 	icon_state = "predator"
 	item_state = "predator"
 	flags = BLOCKHAIR
