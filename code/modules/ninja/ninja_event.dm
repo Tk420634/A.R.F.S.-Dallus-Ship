@@ -138,7 +138,7 @@ Contents:
 	//add some RP-fluff
 	Mind.store_memory("I am an elite mercenary assassin of the mighty Spider Clan. A <font color='red'><B>SPACE NINJA</B></font>!")
 	Mind.store_memory("Suprise is my weapon. Shadows are my armor. Without them, I am nothing. (//initialize your suit by right clicking on it, to use abilities like stealth)!")
-	Mind.store_memory("Officially, [helping_station?"Nanotrasen":"The Syndicate"] are my employer.")
+	Mind.store_memory("Officially, [helping_station?"ARF":"The Syndicate"] are my employer.")
 
 	//spawn the ninja and assign the candidate
 	Ninja = create_space_ninja(spawn_loc)
