@@ -1,7 +1,7 @@
 /datum/round_event_control/spontaneous_appendicitis
 	name = "Spontaneous Appendicitis"
 	typepath = /datum/round_event/spontaneous_appendicitis
-	weight = 20
+	weight = 5
 	max_occurrences = 4
 	earliest_start = 6000
 
