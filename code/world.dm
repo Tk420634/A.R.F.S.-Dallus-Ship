@@ -70,7 +70,6 @@ var/global/list/map_transition_config = MAP_TRANSITION_CONFIG
 	map_name = "Unknown"
 	#endif
 
-
 	return
 
 

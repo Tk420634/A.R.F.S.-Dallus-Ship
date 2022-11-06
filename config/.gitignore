@@ -10,6 +10,4 @@
 *.int
 *.backup
 *.int
-*.txt
-/names
 /Init
