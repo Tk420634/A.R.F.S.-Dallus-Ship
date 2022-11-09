@@ -4342,7 +4342,7 @@
 "bFz" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/structure/extinguisher_cabinet{pixel_x = -27; pixel_y = 0},/turf/simulated/floor/plasteel{dir = 8; icon_state = "neutralcorner"},/area/hallway/primary/central)
 "bFA" = (/obj/machinery/disposal/bin,/obj/structure/disposalpipe/trunk{dir = 1},/turf/simulated/floor/wood,/area/crew_quarters/heads)
 "bFB" = (/obj/item/weapon/hand_labeler,/obj/item/stack/packageWrap,/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/structure/table/wood,/turf/simulated/floor/wood,/area/crew_quarters/heads)
-"bFC" = (/turf/simulated/floor/wood,/area/crew_quarters/heads)
+"bFC" = (/obj/structure/closet/secure_closet/hop,/turf/simulated/floor/wood,/area/crew_quarters/heads)
 "bFD" = (/obj/machinery/camera{c_tag = "Head of Personnel's Office"; dir = 1; network = list("SS13")},/obj/structure/table/wood,/obj/item/weapon/storage/box/PDAs{pixel_x = 4; pixel_y = 4},/obj/item/weapon/storage/box/silver_ids,/obj/item/weapon/storage/box/ids,/obj/machinery/light,/turf/simulated/floor/wood,/area/crew_quarters/heads)
 "bFE" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/computer/secure_data,/turf/simulated/floor/wood,/area/crew_quarters/heads)
 "bFF" = (/obj/machinery/computer/card,/turf/simulated/floor/wood,/area/crew_quarters/heads)
